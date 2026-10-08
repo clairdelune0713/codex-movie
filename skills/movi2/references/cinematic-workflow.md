@@ -24,6 +24,8 @@ Keep `high_level_idea` consistent across chapters. Include all explicitly listed
 
 ## Default chapter prompt
 
+For Seedance generation, the user's `prompt-library/` is the golden writing standard. Read [seedance-prompts.md](seedance-prompts.md), then its template and relevant examples. The generic structure below remains useful for planning; adapt it to the library's explicit reference roles, blocking and performance grammar before submission.
+
 Use labeled prose with these sections; keep body text in the user's language:
 
 ```text
