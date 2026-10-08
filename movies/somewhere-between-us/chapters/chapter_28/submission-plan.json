@@ -1,0 +1,66 @@
+{
+  "id": "chapter_28_take01",
+  "take_id": "chapter_28_take01",
+  "chapter_id": "chapter_28",
+  "take_number": 1,
+  "status": "pending",
+  "submission_state": "not_submitted",
+  "created_at": "2026-10-08T10:07:59.034443+00:00",
+  "source_revision": 13,
+  "dependency_fingerprint": "0865ae244ec2877af94b97e4311a99fb21832eaea5ee80b62682f00036ed4109",
+  "prompt": "SCENE CONTEXT\n幼犬走向不同訓練道路，随后match cut回成年香港。\n本章是600秒電影中的第28段，電影絕對時間540-560秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@BabyTart：Tart 幼年：同一米金毛色、耳、鼻、眼身份，幼犬短腿圓頭；無橙背心、無導盲鞍、沒有成人工作裝備。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@BabyTine：Tine 幼年：同一焦糖棕毛色、右後臀淡色心形斑、耳鼻眼身份；幼犬短腿圓頭；無背心、無成人工作裝備。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@farm：澳洲Victoria犬舍草原：晨曦從左側、露水草葉、低木籬笆、遠處淺色木犬舍、柔弧山丘。開場和回憶同一幾何；沒有幼犬在空場參考圖中。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@farm：草原前景左與右，中間留空；晨光左側。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：犬舍草地，@BabyTart 跟隨左側遠處照顧者向左，@BabyTine 隨右側照顧者向右。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 犬舍草地，@BabyTart 跟隨左側遠處照顧者向左，@BabyTine 隨右側照顧者向右。\n鏡頭：35mm 正面低位寬景。聲音：草風、温柔脚步。結束：犬舍草地，@BabyTart 跟隨左側遠處照顧者向左，@BabyTine 隨右側照顧者向右。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 二犬各自回望一次，隨后继续前行，不暗示被遗弃或恐惧。\n鏡頭：65mm 两个明确反打以hard cut连接。聲音：鋼琴旋律分成兩個聲部。結束：二犬各自回望一次，隨后继续前行，不暗示被遗弃或恐惧。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): Match cut 到夜間海旁：@Tart 從左走來，@Tine 從右走來，方向由離開變相聚。\n鏡頭：35mm 正面宽景，成年身份和夜色在剪切时改变。聲音：幼犬脚步转成年爪步，海风接回。結束：Match cut 到夜間海旁：@Tart 從左走來，@Tine 從右走來，方向由離開變相聚。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+  "submitted_prompt": "SCENE CONTEXT\n幼犬走向不同訓練道路，随后match cut回成年香港。\n本章是600秒電影中的第28段，電影絕對時間540-560秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：Tart 幼年：同一米金毛色、耳、鼻、眼身份，幼犬短腿圓頭；無橙背心、無導盲鞍、沒有成人工作裝備。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image4：Tine 幼年：同一焦糖棕毛色、右後臀淡色心形斑、耳鼻眼身份；幼犬短腿圓頭；無背心、無成人工作裝備。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image5：澳洲Victoria犬舍草原：晨曦從左側、露水草葉、低木籬笆、遠處淺色木犬舍、柔弧山丘。開場和回憶同一幾何；沒有幼犬在空場參考圖中。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image5：草原前景左與右，中間留空；晨光左側。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：犬舍草地，@Image3 跟隨左側遠處照顧者向左，@Image4 隨右側照顧者向右。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 犬舍草地，@Image3 跟隨左側遠處照顧者向左，@Image4 隨右側照顧者向右。\n鏡頭：35mm 正面低位寬景。聲音：草風、温柔脚步。結束：犬舍草地，@Image3 跟隨左側遠處照顧者向左，@Image4 隨右側照顧者向右。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 二犬各自回望一次，隨后继续前行，不暗示被遗弃或恐惧。\n鏡頭：65mm 两个明确反打以hard cut连接。聲音：鋼琴旋律分成兩個聲部。結束：二犬各自回望一次，隨后继续前行，不暗示被遗弃或恐惧。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): Match cut 到夜間海旁：@Image1 從左走來，@Image2 從右走來，方向由離開變相聚。\n鏡頭：35mm 正面宽景，成年身份和夜色在剪切时改变。聲音：幼犬脚步转成年爪步，海风接回。結束：Match cut 到夜間海旁：@Image1 從左走來，@Image2 從右走來，方向由離開變相聚。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+  "bindings": [
+    {
+      "tag": "@Tart",
+      "reference_token": "@Image1",
+      "path": "assets/asset_tart/adult-reference.png",
+      "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+      "role": "reference_image"
+    },
+    {
+      "tag": "@Tine",
+      "reference_token": "@Image2",
+      "path": "assets/asset_tine/adult-reference.png",
+      "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+      "role": "reference_image"
+    },
+    {
+      "tag": "@BabyTart",
+      "reference_token": "@Image3",
+      "path": "assets/asset_babytart/babytart_c01.png",
+      "sha256": "f0c76e0d2070b9ac40209f3c99844e82990a397f132385212b2e1bd9a5baff24",
+      "role": "reference_image"
+    },
+    {
+      "tag": "@BabyTine",
+      "reference_token": "@Image4",
+      "path": "assets/asset_babytine/babytine_c01.png",
+      "sha256": "fefe6a788652e7b2b8d06cb87db7330c9f5790831c360290d695bba93beb86f3",
+      "role": "reference_image"
+    },
+    {
+      "tag": "@farm",
+      "reference_token": "@Image5",
+      "path": "assets/asset_farm/farm_c01.png",
+      "sha256": "e5f4e8a708e3fc5811e7819598c8ebacd2a6f46c8eb792fb2b74f12e0adcb6fb",
+      "role": "reference_image"
+    }
+  ],
+  "duration": 20,
+  "resolution": "720p",
+  "aspect_ratio": "21:9",
+  "model": "Seedance 2.5",
+  "settings": {
+    "duration": 20,
+    "ratio": "21:9",
+    "resolution": "720p",
+    "generate_audio": true,
+    "watermark": false,
+    "return_last_frame": true,
+    "output_format": "mp4",
+    "omni_reference_task_type": "reference",
+    "seed": 814128
+  },
+  "request_bytes": 14089646
+}

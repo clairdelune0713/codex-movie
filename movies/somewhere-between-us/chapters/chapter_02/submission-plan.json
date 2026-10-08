@@ -1,0 +1,38 @@
+{
+  "id": "chapter_02_take01",
+  "take_id": "chapter_02_take01",
+  "chapter_id": "chapter_02",
+  "take_number": 1,
+  "status": "pending",
+  "submission_state": "not_submitted",
+  "created_at": "2026-10-08T10:07:54.992613+00:00",
+  "source_revision": 13,
+  "dependency_fingerprint": "16d1a4c195ef2a8e1eb82b1141aa1367e136ec8831b197fea9032919437af8e9",
+  "prompt": "SCENE CONTEXT\n維多利亞港晨曦；同名兩地的旅程開始。\n本章是600秒電影中的第2段，電影絕對時間20-40秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@harbour：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@harbour：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：晨光照亮維港，天星小輪从右向左驶過。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 晨光照亮維港，天星小輪从右向左驶過。\n鏡頭：24mm 海面橫向遠景。聲音：海浪、渡輪低鳴。結束：晨光照亮維港，天星小輪从右向左驶過。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 小輪留下的波紋延伸至尖沙咀海旁，城市漸漸甦醒。\n鏡頭：35mm 緩慢平移。聲音：鋼琴主題加柔弦。結束：小輪留下的波紋延伸至尖沙咀海旁，城市漸漸甦醒。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 鏡頭在海旁步道停住，留下日後重逢的空間。\n鏡頭：35mm 地面高度遠景。聲音：海鳥、低聲城市環境。結束：鏡頭在海旁步道停住，留下日後重逢的空間。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+  "submitted_prompt": "SCENE CONTEXT\n維多利亞港晨曦；同名兩地的旅程開始。\n本章是600秒電影中的第2段，電影絕對時間20-40秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image1：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：晨光照亮維港，天星小輪从右向左驶過。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 晨光照亮維港，天星小輪从右向左驶過。\n鏡頭：24mm 海面橫向遠景。聲音：海浪、渡輪低鳴。結束：晨光照亮維港，天星小輪从右向左驶過。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 小輪留下的波紋延伸至尖沙咀海旁，城市漸漸甦醒。\n鏡頭：35mm 緩慢平移。聲音：鋼琴主題加柔弦。結束：小輪留下的波紋延伸至尖沙咀海旁，城市漸漸甦醒。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 鏡頭在海旁步道停住，留下日後重逢的空間。\n鏡頭：35mm 地面高度遠景。聲音：海鳥、低聲城市環境。結束：鏡頭在海旁步道停住，留下日後重逢的空間。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+  "bindings": [
+    {
+      "tag": "@harbour",
+      "reference_token": "@Image1",
+      "path": "assets/asset_harbour/harbour_c01.png",
+      "sha256": "5a5c8ce97f9bdd86d8eb948dc973d21326e5b547fdd22796129906b8aceef5f6",
+      "role": "reference_image"
+    }
+  ],
+  "duration": 20,
+  "resolution": "720p",
+  "aspect_ratio": "21:9",
+  "model": "Seedance 2.5",
+  "settings": {
+    "duration": 20,
+    "ratio": "21:9",
+    "resolution": "720p",
+    "generate_audio": true,
+    "watermark": false,
+    "return_last_frame": true,
+    "output_format": "mp4",
+    "omni_reference_task_type": "reference",
+    "seed": 814102
+  },
+  "request_bytes": 3471731
+}

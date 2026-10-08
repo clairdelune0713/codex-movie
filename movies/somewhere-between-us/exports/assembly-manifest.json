@@ -1,0 +1,215 @@
+{
+  "inputs": [
+    {
+      "chapter_id": "chapter_01",
+      "take_id": "chapter_01_take01",
+      "movie_start": 0,
+      "movie_end": 20
+    },
+    {
+      "chapter_id": "chapter_02",
+      "take_id": "chapter_02_take01",
+      "movie_start": 20,
+      "movie_end": 40
+    },
+    {
+      "chapter_id": "chapter_03",
+      "take_id": "chapter_03_take01",
+      "movie_start": 40,
+      "movie_end": 60
+    },
+    {
+      "chapter_id": "chapter_04",
+      "take_id": "chapter_04_take01",
+      "movie_start": 60,
+      "movie_end": 80
+    },
+    {
+      "chapter_id": "chapter_05",
+      "take_id": "chapter_05_take01",
+      "movie_start": 80,
+      "movie_end": 100
+    },
+    {
+      "chapter_id": "chapter_06",
+      "take_id": "chapter_06_take02",
+      "movie_start": 100,
+      "movie_end": 120
+    },
+    {
+      "chapter_id": "chapter_07",
+      "take_id": "chapter_07_take01",
+      "movie_start": 120,
+      "movie_end": 140
+    },
+    {
+      "chapter_id": "chapter_08",
+      "take_id": "chapter_08_take01",
+      "movie_start": 140,
+      "movie_end": 160
+    },
+    {
+      "chapter_id": "chapter_09",
+      "take_id": "chapter_09_take01",
+      "movie_start": 160,
+      "movie_end": 180
+    },
+    {
+      "chapter_id": "chapter_10",
+      "take_id": "chapter_10_take02",
+      "movie_start": 180,
+      "movie_end": 200
+    },
+    {
+      "chapter_id": "chapter_11",
+      "take_id": "chapter_11_take01",
+      "movie_start": 200,
+      "movie_end": 220
+    },
+    {
+      "chapter_id": "chapter_12",
+      "take_id": "chapter_12_take01",
+      "movie_start": 220,
+      "movie_end": 240
+    },
+    {
+      "chapter_id": "chapter_13",
+      "take_id": "chapter_13_take02",
+      "movie_start": 240,
+      "movie_end": 260
+    },
+    {
+      "chapter_id": "chapter_14",
+      "take_id": "chapter_14_take01",
+      "movie_start": 260,
+      "movie_end": 280
+    },
+    {
+      "chapter_id": "chapter_15",
+      "take_id": "chapter_15_take01",
+      "movie_start": 280,
+      "movie_end": 300
+    },
+    {
+      "chapter_id": "chapter_16",
+      "take_id": "chapter_16_take01",
+      "movie_start": 300,
+      "movie_end": 320
+    },
+    {
+      "chapter_id": "chapter_17",
+      "take_id": "chapter_17_take02",
+      "movie_start": 320,
+      "movie_end": 340
+    },
+    {
+      "chapter_id": "chapter_18",
+      "take_id": "chapter_18_take01",
+      "movie_start": 340,
+      "movie_end": 360
+    },
+    {
+      "chapter_id": "chapter_19",
+      "take_id": "chapter_19_take01",
+      "movie_start": 360,
+      "movie_end": 380
+    },
+    {
+      "chapter_id": "chapter_20",
+      "take_id": "chapter_20_take01",
+      "movie_start": 380,
+      "movie_end": 400
+    },
+    {
+      "chapter_id": "chapter_21",
+      "take_id": "chapter_21_take02",
+      "movie_start": 400,
+      "movie_end": 420
+    },
+    {
+      "chapter_id": "chapter_22",
+      "take_id": "chapter_22_take01",
+      "movie_start": 420,
+      "movie_end": 440
+    },
+    {
+      "chapter_id": "chapter_23",
+      "take_id": "chapter_23_take01",
+      "movie_start": 440,
+      "movie_end": 460
+    },
+    {
+      "chapter_id": "chapter_24",
+      "take_id": "chapter_24_take01",
+      "movie_start": 460,
+      "movie_end": 480
+    },
+    {
+      "chapter_id": "chapter_25",
+      "take_id": "chapter_25_take01",
+      "movie_start": 480,
+      "movie_end": 500
+    },
+    {
+      "chapter_id": "chapter_26",
+      "take_id": "chapter_26_take01",
+      "movie_start": 500,
+      "movie_end": 520
+    },
+    {
+      "chapter_id": "chapter_27",
+      "take_id": "chapter_27_take01",
+      "movie_start": 520,
+      "movie_end": 540
+    },
+    {
+      "chapter_id": "chapter_28",
+      "take_id": "chapter_28_take01",
+      "movie_start": 540,
+      "movie_end": 560
+    },
+    {
+      "chapter_id": "chapter_29",
+      "take_id": "chapter_29_take01",
+      "movie_start": 560,
+      "movie_end": 580
+    },
+    {
+      "chapter_id": "chapter_30",
+      "take_id": "chapter_30_take01",
+      "movie_start": 580,
+      "movie_end": 600
+    }
+  ],
+  "runtime_goal": 600,
+  "output": "exports/somewhere-between-us-10min-720p-21x9.mp4",
+  "title_timing": {
+    "opening": [
+      23,
+      28
+    ],
+    "origin": [
+      493,
+      498
+    ],
+    "closing": [
+      593,
+      600
+    ]
+  },
+  "audio": "Native generated audio preserved, stereo48kHz with 40ms edge fades and final integrated loudness target -23 LUFS / true peak -1.5dB",
+  "cuts": "Hard cuts; no crossfade-induced runtime changes",
+  "resizing": false,
+  "author_name_on_screen": false,
+  "closing_footer_cover": {
+    "movie_start": 593,
+    "movie_end": 600,
+    "rectangle": [
+      0,
+      563,
+      1470,
+      67
+    ],
+    "purpose": "Cover unsolicited generated footer lettering; preserve native frame dimensions"
+  }
+}

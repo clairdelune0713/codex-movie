@@ -1,0 +1,1702 @@
+{
+  "project_id": "b2ff45b943a04b1985983dcfe9cb8ef6",
+  "revision": 13,
+  "status": "prepared_payload_plan",
+  "takes": [
+    {
+      "id": "chapter_01_take01",
+      "take_id": "chapter_01_take01",
+      "chapter_id": "chapter_01",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:54.944215+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "92ebcf44b0e4b759626e6dbaa45efbfe965bd1e09ebe194121ffb9f6c412ab6c",
+      "prompt": "SCENE CONTEXT\n清晨草原，幼犬聲只在遠處，暫不揭示兩犬共同身世。\n本章是600秒電影中的第1段，電影絕對時間0-20秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@farm：澳洲Victoria犬舍草原：晨曦從左側、露水草葉、低木籬笆、遠處淺色木犬舍、柔弧山丘。開場和回憶同一幾何；沒有幼犬在空場參考圖中。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@farm：草原前景左與右，中間留空；晨光左側。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：露水草葉沿左至右被風吹動；低鏡頭緩緩前進。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 露水草葉沿左至右被風吹動；低鏡頭緩緩前進。\n鏡頭：24mm 草地微距轉遠景。聲音：風、遠處幼犬叫聲。結束：露水草葉沿左至右被風吹動；低鏡頭緩緩前進。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 澳洲 Victoria 的草原在日出中展開，遠處犬舍仍朦朧。\n鏡頭：35mm 固定大全景。聲音：獨奏鋼琴兩音主題。結束：澳洲 Victoria 的草原在日出中展開，遠處犬舍仍朦朧。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 草浪的節奏接上維港水面的波紋；最後一秒穩定海面。\n鏡頭：50mm 草浪特寫，明確 match cut 至海浪。聲音：草風轉海風，幼犬声淡出。結束：草浪的節奏接上維港水面的波紋；最後一秒穩定海面。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n清晨草原，幼犬聲只在遠處，暫不揭示兩犬共同身世。\n本章是600秒電影中的第1段，電影絕對時間0-20秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：澳洲Victoria犬舍草原：晨曦從左側、露水草葉、低木籬笆、遠處淺色木犬舍、柔弧山丘。開場和回憶同一幾何；沒有幼犬在空場參考圖中。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image1：草原前景左與右，中間留空；晨光左側。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：露水草葉沿左至右被風吹動；低鏡頭緩緩前進。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 露水草葉沿左至右被風吹動；低鏡頭緩緩前進。\n鏡頭：24mm 草地微距轉遠景。聲音：風、遠處幼犬叫聲。結束：露水草葉沿左至右被風吹動；低鏡頭緩緩前進。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 澳洲 Victoria 的草原在日出中展開，遠處犬舍仍朦朧。\n鏡頭：35mm 固定大全景。聲音：獨奏鋼琴兩音主題。結束：澳洲 Victoria 的草原在日出中展開，遠處犬舍仍朦朧。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 草浪的節奏接上維港水面的波紋；最後一秒穩定海面。\n鏡頭：50mm 草浪特寫，明確 match cut 至海浪。聲音：草風轉海風，幼犬声淡出。結束：草浪的節奏接上維港水面的波紋；最後一秒穩定海面。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@farm",
+          "reference_token": "@Image1",
+          "path": "assets/asset_farm/farm_c01.png",
+          "sha256": "e5f4e8a708e3fc5811e7819598c8ebacd2a6f46c8eb792fb2b74f12e0adcb6fb",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814101
+      },
+      "request_bytes": 3998572
+    },
+    {
+      "id": "chapter_02_take01",
+      "take_id": "chapter_02_take01",
+      "chapter_id": "chapter_02",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:54.992613+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "16d1a4c195ef2a8e1eb82b1141aa1367e136ec8831b197fea9032919437af8e9",
+      "prompt": "SCENE CONTEXT\n維多利亞港晨曦；同名兩地的旅程開始。\n本章是600秒電影中的第2段，電影絕對時間20-40秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@harbour：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@harbour：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：晨光照亮維港，天星小輪从右向左驶過。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 晨光照亮維港，天星小輪从右向左驶過。\n鏡頭：24mm 海面橫向遠景。聲音：海浪、渡輪低鳴。結束：晨光照亮維港，天星小輪从右向左驶過。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 小輪留下的波紋延伸至尖沙咀海旁，城市漸漸甦醒。\n鏡頭：35mm 緩慢平移。聲音：鋼琴主題加柔弦。結束：小輪留下的波紋延伸至尖沙咀海旁，城市漸漸甦醒。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 鏡頭在海旁步道停住，留下日後重逢的空間。\n鏡頭：35mm 地面高度遠景。聲音：海鳥、低聲城市環境。結束：鏡頭在海旁步道停住，留下日後重逢的空間。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n維多利亞港晨曦；同名兩地的旅程開始。\n本章是600秒電影中的第2段，電影絕對時間20-40秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image1：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：晨光照亮維港，天星小輪从右向左驶過。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 晨光照亮維港，天星小輪从右向左驶過。\n鏡頭：24mm 海面橫向遠景。聲音：海浪、渡輪低鳴。結束：晨光照亮維港，天星小輪从右向左驶過。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 小輪留下的波紋延伸至尖沙咀海旁，城市漸漸甦醒。\n鏡頭：35mm 緩慢平移。聲音：鋼琴主題加柔弦。結束：小輪留下的波紋延伸至尖沙咀海旁，城市漸漸甦醒。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 鏡頭在海旁步道停住，留下日後重逢的空間。\n鏡頭：35mm 地面高度遠景。聲音：海鳥、低聲城市環境。結束：鏡頭在海旁步道停住，留下日後重逢的空間。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@harbour",
+          "reference_token": "@Image1",
+          "path": "assets/asset_harbour/harbour_c01.png",
+          "sha256": "5a5c8ce97f9bdd86d8eb948dc973d21326e5b547fdd22796129906b8aceef5f6",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814102
+      },
+      "request_bytes": 3471731
+    },
+    {
+      "id": "chapter_03_take01",
+      "take_id": "chapter_03_take01",
+      "chapter_id": "chapter_03",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:55.115121+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "93e6bab4395f3efb6a7fedaea7c673b81a94dbf6e8db5e769c076585a62e20ce",
+      "prompt": "SCENE CONTEXT\n@Owner 為 @Tart 裝上導盲鞍；專注由扣合聲開始。\n本章是600秒電影中的第3段，電影絕對時間40-60秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@street：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@street：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：早晨住宅門口，@Tart 坐在 @Owner 左腳側，橙背心保持附圖設計。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 早晨住宅門口，@Tart 坐在 @Owner 左腳側，橙背心保持附圖設計。\n鏡頭：50mm 中景。聲音：日常室內環境。結束：早晨住宅門口，@Tart 坐在 @Owner 左腳側，橙背心保持附圖設計。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Owner 在橙背心外扣上簡潔黑色導盲鞍，握起硬柄；@Tart 耳朵前傾。\n鏡頭：65mm 手與肩部特寫。聲音：清晰一聲 Click。結束：@Owner 在橙背心外扣上簡潔黑色導盲鞍，握起硬柄；@Tart 耳朵前傾。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Tart 穩定站起，帶 @Owner 朝右踏出門外；主人跟上步伐。\n鏡頭：35mm 低位跟拍。聲音：爪步、衣物摩擦；鋼琴節奏規整。結束：@Tart 穩定站起，帶 @Owner 朝右踏出門外；主人跟上步伐。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n@Image2 為 @Image1 裝上導盲鞍；專注由扣合聲開始。\n本章是600秒電影中的第3段，電影絕對時間40-60秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：早晨住宅門口，@Image1 坐在 @Image2 左腳側，橙背心保持附圖設計。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 早晨住宅門口，@Image1 坐在 @Image2 左腳側，橙背心保持附圖設計。\n鏡頭：50mm 中景。聲音：日常室內環境。結束：早晨住宅門口，@Image1 坐在 @Image2 左腳側，橙背心保持附圖設計。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image2 在橙背心外扣上簡潔黑色導盲鞍，握起硬柄；@Image1 耳朵前傾。\n鏡頭：65mm 手與肩部特寫。聲音：清晰一聲 Click。結束：@Image2 在橙背心外扣上簡潔黑色導盲鞍，握起硬柄；@Image1 耳朵前傾。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image1 穩定站起，帶 @Image2 朝右踏出門外；主人跟上步伐。\n鏡頭：35mm 低位跟拍。聲音：爪步、衣物摩擦；鋼琴節奏規整。結束：@Image1 穩定站起，帶 @Image2 朝右踏出門外；主人跟上步伐。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/adult-reference.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Owner",
+          "reference_token": "@Image2",
+          "path": "assets/asset_owner/owner_c02.png",
+          "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@street",
+          "reference_token": "@Image3",
+          "path": "assets/asset_street/street_c01.png",
+          "sha256": "ba069d05a07bb66b5c060041df64ab08c127450334bcf109b7800c37903b0cf8",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814103
+      },
+      "request_bytes": 8990636
+    },
+    {
+      "id": "chapter_04_take01",
+      "take_id": "chapter_04_take01",
+      "chapter_id": "chapter_04",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:55.259459+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "86e2f3d9cbe5826aa0b8d5d72b31ce6f0939a39c6abbb1a2767616f4bf1f224c",
+      "prompt": "SCENE CONTEXT\n@Tart 與 @Owner 穿過行人道，以清楚路線建立信任。\n本章是600秒電影中的第4段，電影絕對時間60-80秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@street：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@street：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Tart 在 @Owner 左側朝右走，避過路邊固定路障，兩者一直在人行道。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Tart 在 @Owner 左側朝右走，避過路邊固定路障，兩者一直在人行道。\n鏡頭：35mm 平行跟拍。聲音：腳步、爪步、街聲。結束：@Tart 在 @Owner 左側朝右走，避過路邊固定路障，兩者一直在人行道。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Tart 在樓梯前停下，@Owner 感受鞍柄提示，放慢腳步。\n鏡頭：50mm 低角度中景。聲音：節拍暫停、自然呼吸。結束：@Tart 在樓梯前停下，@Owner 感受鞍柄提示，放慢腳步。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 二者有節奏地踏上兩級樓梯，@Tart 到平台停住等待。\n鏡頭：35mm 側面完整動作。聲音：腳步有重量；短柔弦。結束：二者有節奏地踏上兩級樓梯，@Tart 到平台停住等待。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n@Image1 與 @Image2 穿過行人道，以清楚路線建立信任。\n本章是600秒電影中的第4段，電影絕對時間60-80秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image1 在 @Image2 左側朝右走，避過路邊固定路障，兩者一直在人行道。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image1 在 @Image2 左側朝右走，避過路邊固定路障，兩者一直在人行道。\n鏡頭：35mm 平行跟拍。聲音：腳步、爪步、街聲。結束：@Image1 在 @Image2 左側朝右走，避過路邊固定路障，兩者一直在人行道。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image1 在樓梯前停下，@Image2 感受鞍柄提示，放慢腳步。\n鏡頭：50mm 低角度中景。聲音：節拍暫停、自然呼吸。結束：@Image1 在樓梯前停下，@Image2 感受鞍柄提示，放慢腳步。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 二者有節奏地踏上兩級樓梯，@Image1 到平台停住等待。\n鏡頭：35mm 側面完整動作。聲音：腳步有重量；短柔弦。結束：二者有節奏地踏上兩級樓梯，@Image1 到平台停住等待。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/adult-reference.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Owner",
+          "reference_token": "@Image2",
+          "path": "assets/asset_owner/owner_c02.png",
+          "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@street",
+          "reference_token": "@Image3",
+          "path": "assets/asset_street/street_c01.png",
+          "sha256": "ba069d05a07bb66b5c060041df64ab08c127450334bcf109b7800c37903b0cf8",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814104
+      },
+      "request_bytes": 8990618
+    },
+    {
+      "id": "chapter_05_take01",
+      "take_id": "chapter_05_take01",
+      "chapter_id": "chapter_05",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:55.381990+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "29cd7e45899eb076c794f09bcc6feca435634af303b2aeae51d7f0c0c7c0f0a7",
+      "prompt": "SCENE CONTEXT\n掉落食物測試 @Tart 的專注；幽默藏在一次鼻尖動作。\n本章是600秒電影中的第5段，電影絕對時間80-100秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@cafe：香港茶餐廳：薄荷綠牆、左側窗、米色卡位、棕色桌面、棋盤地磚，窗光從左側。完整桌下空間可見，無人犬食物英雄道具。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@cafe：主人卡位左上，狗伏桌下下中，食物落在狗鼻前。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Owner 坐在茶餐廳卡位，@Tart 安静伏在桌下，導盲鞍仍在身。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Owner 坐在茶餐廳卡位，@Tart 安静伏在桌下，導盲鞍仍在身。\n鏡頭：35mm 桌下低位中景。聲音：杯碟、茶餐廳低聲人語。結束：@Owner 坐在茶餐廳卡位，@Tart 安静伏在桌下，導盲鞍仍在身。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 一小塊麵包從鄰桌掉在 @Tart 鼻前；牠鼻尖輕動，眼睛仍望向主人。\n鏡頭：65mm 鼻、麵包近景。聲音：麵包落地、一次輕嗅。結束：一小塊麵包從鄰桌掉在 @Tart 鼻前；牠鼻尖輕動，眼睛仍望向主人。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Tart 保持伏姿，不碰食物；@Owner 手輕放鞍柄，安然喝茶。\n鏡頭：50mm 人犬同框。聲音：幽默單音鋼琴，杯碰碟。結束：@Tart 保持伏姿，不碰食物；@Owner 手輕放鞍柄，安然喝茶。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n掉落食物測試 @Image1 的專注；幽默藏在一次鼻尖動作。\n本章是600秒電影中的第5段，電影絕對時間80-100秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：香港茶餐廳：薄荷綠牆、左側窗、米色卡位、棕色桌面、棋盤地磚，窗光從左側。完整桌下空間可見，無人犬食物英雄道具。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3：主人卡位左上，狗伏桌下下中，食物落在狗鼻前。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image2 坐在茶餐廳卡位，@Image1 安静伏在桌下，導盲鞍仍在身。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image2 坐在茶餐廳卡位，@Image1 安静伏在桌下，導盲鞍仍在身。\n鏡頭：35mm 桌下低位中景。聲音：杯碟、茶餐廳低聲人語。結束：@Image2 坐在茶餐廳卡位，@Image1 安静伏在桌下，導盲鞍仍在身。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 一小塊麵包從鄰桌掉在 @Image1 鼻前；牠鼻尖輕動，眼睛仍望向主人。\n鏡頭：65mm 鼻、麵包近景。聲音：麵包落地、一次輕嗅。結束：一小塊麵包從鄰桌掉在 @Image1 鼻前；牠鼻尖輕動，眼睛仍望向主人。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image1 保持伏姿，不碰食物；@Image2 手輕放鞍柄，安然喝茶。\n鏡頭：50mm 人犬同框。聲音：幽默單音鋼琴，杯碰碟。結束：@Image1 保持伏姿，不碰食物；@Image2 手輕放鞍柄，安然喝茶。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/adult-reference.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Owner",
+          "reference_token": "@Image2",
+          "path": "assets/asset_owner/owner_c02.png",
+          "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@cafe",
+          "reference_token": "@Image3",
+          "path": "assets/asset_cafe/cafe_c01.png",
+          "sha256": "b71b1abd59af0dcbd9b8e0155997b4f89ed5f8551c55f0ac17f91ffb57082286",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814105
+      },
+      "request_bytes": 7944017
+    },
+    {
+      "id": "chapter_06_take01",
+      "take_id": "chapter_06_take01",
+      "chapter_id": "chapter_06",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:55.515864+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "924e9b027885d08a01d4edc7012899eb6170eb14018586538c9a81beb144ed2c",
+      "prompt": "SCENE CONTEXT\n@Handler 與 @Tine 抵達社區中心；熱情是不同的節奏。\n本章是600秒電影中的第6段，電影絕對時間100-120秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\n圓潤有重量的原創3D動畫視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@centre：社區長者中心：米白牆、右側大窗與安靜角落椅、左侧入口、中間分散椅子、低書架，右側暖窗光；空場無人狗。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@centre：入口左、活動人群中、窗與老人椅右；犬靠近时留下可選擇距離。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Handler 牽 @Tine 從畫面左側進門，橙背心、心形斑位置跟附圖。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Handler 牽 @Tine 從畫面左側進門，橙背心、心形斑位置跟附圖。\n鏡頭：35mm 寬中景。聲音：門聲、歡迎人語。結束：@Handler 牽 @Tine 從畫面左側進門，橙背心、心形斑位置跟附圖。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 兩位老人與一位小朋友坐在房間另一側，向 @Tine 招手；不圍堵狗。\n鏡頭：50mm 中景反打。聲音：街坊笑：{阿華田！}。結束：兩位老人與一位小朋友坐在房間另一側，向 @Tine 招手；不圍堵狗。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Tine 等 @Handler 鬆開短牽繩再靠近，尾巴輕拍空椅邊。\n鏡頭：50mm 犬眼高度跟拍。聲音：椅邊輕拍、只有室內自然環境聲。結束：@Tine 等 @Handler 鬆開短牽繩再靠近，尾巴輕拍空椅邊。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。本章不生成任何音樂、配樂、旋律或有音高的節奏，只保留社區中心的自然環境、指定一句廣東話、人類輕笑與犬類Foley。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n@Image2 與 @Image1 抵達社區中心；熱情是不同的節奏。\n本章是600秒電影中的第6段，電影絕對時間100-120秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\n圓潤有重量的原創3D動畫視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：社區長者中心：米白牆、右側大窗與安靜角落椅、左侧入口、中間分散椅子、低書架，右側暖窗光；空場無人狗。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3：入口左、活動人群中、窗與老人椅右；犬靠近时留下可選擇距離。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image2 牽 @Image1 從畫面左側進門，橙背心、心形斑位置跟附圖。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image2 牽 @Image1 從畫面左側進門，橙背心、心形斑位置跟附圖。\n鏡頭：35mm 寬中景。聲音：門聲、歡迎人語。結束：@Image2 牽 @Image1 從畫面左側進門，橙背心、心形斑位置跟附圖。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 兩位老人與一位小朋友坐在房間另一側，向 @Image1 招手；不圍堵狗。\n鏡頭：50mm 中景反打。聲音：街坊笑：{阿華田！}。結束：兩位老人與一位小朋友坐在房間另一側，向 @Image1 招手；不圍堵狗。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image1 等 @Image2 鬆開短牽繩再靠近，尾巴輕拍空椅邊。\n鏡頭：50mm 犬眼高度跟拍。聲音：椅邊輕拍、只有室內自然環境聲。結束：@Image1 等 @Image2 鬆開短牽繩再靠近，尾巴輕拍空椅邊。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。本章不生成任何音樂、配樂、旋律或有音高的節奏，只保留社區中心的自然環境、指定一句廣東話、人類輕笑與犬類Foley。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image2",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@centre",
+          "reference_token": "@Image3",
+          "path": "assets/asset_centre/centre_c01.png",
+          "sha256": "189ea6ce55c3c6f26fa741d3d83fd2a125810c6867f15ec5f544f7f6f2a5438b",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814106
+      },
+      "request_bytes": 8490570
+    },
+    {
+      "id": "chapter_07_take01",
+      "take_id": "chapter_07_take01",
+      "chapter_id": "chapter_07",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:55.650129+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "65646794751e4c2d4b1e126a04fccb09623dbe977e9dafa33ecde5e0d2e65a73",
+      "prompt": "SCENE CONTEXT\n@Tine 對每個人作出不同反應，讓熱情有節制。\n本章是600秒電影中的第7段，電影絕對時間120-140秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@centre：社區長者中心：米白牆、右側大窗與安靜角落椅、左侧入口、中間分散椅子、低書架，右側暖窗光；空場無人狗。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@centre：入口左、活動人群中、窗與老人椅右；犬靠近时留下可選擇距離。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：一位老人伸出手；@Tine 慢慢嗅聞，再在他腳旁坐下，@Handler 在旁。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 一位老人伸出手；@Tine 慢慢嗅聞，再在他腳旁坐下，@Handler 在旁。\n鏡頭：50mm 雙主體中景。聲音：笑聲、鼻息。結束：一位老人伸出手；@Tine 慢慢嗅聞，再在他腳旁坐下，@Handler 在旁。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 一位小朋友躲在成人腿後，@Tine 停在一米外，耳朵放鬆。\n鏡頭：65mm 小朋友眼線及狗反打。聲音：室內環境，鋼琴放輕。結束：一位小朋友躲在成人腿後，@Tine 停在一米外，耳朵放鬆。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 小朋友伸手到成人手旁，@Tine 不追近，只眨眼等待。\n鏡頭：65mm 手與狗頭特寫。聲音：一次笑氣，溫柔弦樂。結束：小朋友伸手到成人手旁，@Tine 不追近，只眨眼等待。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n@Image1 對每個人作出不同反應，讓熱情有節制。\n本章是600秒電影中的第7段，電影絕對時間120-140秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：社區長者中心：米白牆、右側大窗與安靜角落椅、左侧入口、中間分散椅子、低書架，右側暖窗光；空場無人狗。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3：入口左、活動人群中、窗與老人椅右；犬靠近时留下可選擇距離。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：一位老人伸出手；@Image1 慢慢嗅聞，再在他腳旁坐下，@Image2 在旁。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 一位老人伸出手；@Image1 慢慢嗅聞，再在他腳旁坐下，@Image2 在旁。\n鏡頭：50mm 雙主體中景。聲音：笑聲、鼻息。結束：一位老人伸出手；@Image1 慢慢嗅聞，再在他腳旁坐下，@Image2 在旁。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 一位小朋友躲在成人腿後，@Image1 停在一米外，耳朵放鬆。\n鏡頭：65mm 小朋友眼線及狗反打。聲音：室內環境，鋼琴放輕。結束：一位小朋友躲在成人腿後，@Image1 停在一米外，耳朵放鬆。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 小朋友伸手到成人手旁，@Image1 不追近，只眨眼等待。\n鏡頭：65mm 手與狗頭特寫。聲音：一次笑氣，溫柔弦樂。結束：小朋友伸手到成人手旁，@Image1 不追近，只眨眼等待。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image2",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@centre",
+          "reference_token": "@Image3",
+          "path": "assets/asset_centre/centre_c01.png",
+          "sha256": "189ea6ce55c3c6f26fa741d3d83fd2a125810c6867f15ec5f544f7f6f2a5438b",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814107
+      },
+      "request_bytes": 8490478
+    },
+    {
+      "id": "chapter_08_take01",
+      "take_id": "chapter_08_take01",
+      "chapter_id": "chapter_08",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:55.816861+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "5cf927d4627ebd4765de0f04dd2c0f6b5e6d92fe9bf8a5bf612742769787fba2",
+      "prompt": "SCENE CONTEXT\n@Elder 留在窗邊角落，拒絕與熱鬧連結。\n本章是600秒電影中的第8段，電影絕對時間140-160秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Elder：78歲香港華裔老人；稀疏銀髮、銀細框眼鏡、灰藍開襟衫、米色有領襯衣、炭色長褲、深色鞋。從疏離到微小主動，沒有誇張奇蹟式表演。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@centre：社區長者中心：米白牆、右側大窗與安靜角落椅、左侧入口、中間分散椅子、低書架，右側暖窗光；空場無人狗。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@centre：入口左、活動人群中、窗與老人椅右；犬靠近时留下可選擇距離。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Elder 坐在畫面右側窗邊，其他訪客活動在模糊遠景左側。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Elder 坐在畫面右側窗邊，其他訪客活動在模糊遠景左側。\n鏡頭：65mm 老人近景。聲音：人語退遠，單音鋼琴。結束：@Elder 坐在畫面右側窗邊，其他訪客活動在模糊遠景左側。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Handler 禮貌問是否想見 @Tine，@Elder 目光仍向窗外。\n鏡頭：50mm 斜側雙人鏡頭。聲音：老人低聲：{我不喜歡狗。}。結束：@Handler 禮貌問是否想見 @Tine，@Elder 目光仍向窗外。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Tine 原本輕搖的尾巴停慢，望望老人後收住步伐。\n鏡頭：85mm 狗表情特寫。聲音：呼吸、室內風聲。結束：@Tine 原本輕搖的尾巴停慢，望望老人後收住步伐。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n@Image3 留在窗邊角落，拒絕與熱鬧連結。\n本章是600秒電影中的第8段，電影絕對時間140-160秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：78歲香港華裔老人；稀疏銀髮、銀細框眼鏡、灰藍開襟衫、米色有領襯衣、炭色長褲、深色鞋。從疏離到微小主動，沒有誇張奇蹟式表演。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image4：社區長者中心：米白牆、右側大窗與安靜角落椅、左侧入口、中間分散椅子、低書架，右側暖窗光；空場無人狗。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image4：入口左、活動人群中、窗與老人椅右；犬靠近时留下可選擇距離。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image3 坐在畫面右側窗邊，其他訪客活動在模糊遠景左側。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image3 坐在畫面右側窗邊，其他訪客活動在模糊遠景左側。\n鏡頭：65mm 老人近景。聲音：人語退遠，單音鋼琴。結束：@Image3 坐在畫面右側窗邊，其他訪客活動在模糊遠景左側。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image2 禮貌問是否想見 @Image1，@Image3 目光仍向窗外。\n鏡頭：50mm 斜側雙人鏡頭。聲音：老人低聲：{我不喜歡狗。}。結束：@Image2 禮貌問是否想見 @Image1，@Image3 目光仍向窗外。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image1 原本輕搖的尾巴停慢，望望老人後收住步伐。\n鏡頭：85mm 狗表情特寫。聲音：呼吸、室內風聲。結束：@Image1 原本輕搖的尾巴停慢，望望老人後收住步伐。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image2",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Elder",
+          "reference_token": "@Image3",
+          "path": "assets/asset_elder/elder_c02.png",
+          "sha256": "62c24558c9441266b0cdea4f5a6176a5db1cc56d780572243a639e5ca21da8fa",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@centre",
+          "reference_token": "@Image4",
+          "path": "assets/asset_centre/centre_c01.png",
+          "sha256": "189ea6ce55c3c6f26fa741d3d83fd2a125810c6867f15ec5f544f7f6f2a5438b",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814108
+      },
+      "request_bytes": 11624726
+    },
+    {
+      "id": "chapter_09_take01",
+      "take_id": "chapter_09_take01",
+      "chapter_id": "chapter_09",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:55.994110+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "5c0204b43300649ef86b2d2e069a5c6235d053b47dde3e16581d280d0b551a7a",
+      "prompt": "SCENE CONTEXT\n@Tine 不催促，讓 @Elder 自己選擇靠近。\n本章是600秒電影中的第9段，電影絕對時間160-180秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Elder：78歲香港華裔老人；稀疏銀髮、銀細框眼鏡、灰藍開襟衫、米色有領襯衣、炭色長褲、深色鞋。從疏離到微小主動，沒有誇張奇蹟式表演。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@centre：社區長者中心：米白牆、右側大窗與安靜角落椅、左侧入口、中間分散椅子、低書架，右側暖窗光；空場無人狗。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@centre：入口左、活動人群中、窗與老人椅右；犬靠近时留下可選擇距離。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Tine 在 @Elder 椅子前一米處緩緩伏下，@Handler 退到左側不打擾。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Tine 在 @Elder 椅子前一米處緩緩伏下，@Handler 退到左側不打擾。\n鏡頭：35mm 側面全景。聲音：只有室內環境和衣料聲。結束：@Tine 在 @Elder 椅子前一米處緩緩伏下，@Handler 退到左側不打擾。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Tine 下巴放前爪上，目光低而柔，老人手仍收在膝上。\n鏡頭：65mm 低位近景。聲音：呼吸；保持幾秒空白。結束：@Tine 下巴放前爪上，目光低而柔，老人手仍收在膝上。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Elder 側望 @Tine，肩膀稍放鬆，仍未觸碰牠。\n鏡頭：85mm 老人反應近景。聲音：鋼琴兩音主題轻轻返回。結束：@Elder 側望 @Tine，肩膀稍放鬆，仍未觸碰牠。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n@Image1 不催促，讓 @Image3 自己選擇靠近。\n本章是600秒電影中的第9段，電影絕對時間160-180秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：78歲香港華裔老人；稀疏銀髮、銀細框眼鏡、灰藍開襟衫、米色有領襯衣、炭色長褲、深色鞋。從疏離到微小主動，沒有誇張奇蹟式表演。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image4：社區長者中心：米白牆、右側大窗與安靜角落椅、左侧入口、中間分散椅子、低書架，右側暖窗光；空場無人狗。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image4：入口左、活動人群中、窗與老人椅右；犬靠近时留下可選擇距離。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image1 在 @Image3 椅子前一米處緩緩伏下，@Image2 退到左側不打擾。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image1 在 @Image3 椅子前一米處緩緩伏下，@Image2 退到左側不打擾。\n鏡頭：35mm 側面全景。聲音：只有室內環境和衣料聲。結束：@Image1 在 @Image3 椅子前一米處緩緩伏下，@Image2 退到左側不打擾。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image1 下巴放前爪上，目光低而柔，老人手仍收在膝上。\n鏡頭：65mm 低位近景。聲音：呼吸；保持幾秒空白。結束：@Image1 下巴放前爪上，目光低而柔，老人手仍收在膝上。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image3 側望 @Image1，肩膀稍放鬆，仍未觸碰牠。\n鏡頭：85mm 老人反應近景。聲音：鋼琴兩音主題轻轻返回。結束：@Image3 側望 @Image1，肩膀稍放鬆，仍未觸碰牠。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image2",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Elder",
+          "reference_token": "@Image3",
+          "path": "assets/asset_elder/elder_c02.png",
+          "sha256": "62c24558c9441266b0cdea4f5a6176a5db1cc56d780572243a639e5ca21da8fa",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@centre",
+          "reference_token": "@Image4",
+          "path": "assets/asset_centre/centre_c01.png",
+          "sha256": "189ea6ce55c3c6f26fa741d3d83fd2a125810c6867f15ec5f544f7f6f2a5438b",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814109
+      },
+      "request_bytes": 11624747
+    },
+    {
+      "id": "chapter_10_take01",
+      "take_id": "chapter_10_take01",
+      "chapter_id": "chapter_10",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:56.185490+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "989847cdcc6d803a56b1975298acf500de9733db634742995997be6137625ed0",
+      "prompt": "SCENE CONTEXT\n細小的身體接觸成為整段故事的第一個轉折。\n本章是600秒電影中的第10段，電影絕對時間180-200秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Elder：78歲香港華裔老人；稀疏銀髮、銀細框眼鏡、灰藍開襟衫、米色有領襯衣、炭色長褲、深色鞋。從疏離到微小主動，沒有誇張奇蹟式表演。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@centre：社區長者中心：米白牆、右側大窗與安靜角落椅、左侧入口、中間分散椅子、低書架，右側暖窗光；空場無人狗。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@centre：入口左、活動人群中、窗與老人椅右；犬靠近时留下可選擇距離。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Elder 的右手慢慢離開膝蓋；@Tine 仍然伏下、不主動伸頭。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Elder 的右手慢慢離開膝蓋；@Tine 仍然伏下、不主動伸頭。\n鏡頭：85mm 手部特寫。聲音：布料、呼吸。結束：@Elder 的右手慢慢離開膝蓋；@Tine 仍然伏下、不主動伸頭。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 老人手落在 @Tine 額頭，指尖轻轻撫過一次；狗的眼神放柔。\n鏡頭：65mm 手與頭同一平面。聲音：輕撫毛聲、兩音鋼琴。結束：老人手落在 @Tine 額頭，指尖轻轻撫過一次；狗的眼神放柔。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 人犬静静停留，@Handler 遠處微笑，不插話。\n鏡頭：50mm 側面雙主體。聲音：弦樂微暖，無額外台詞。結束：人犬静静停留，@Handler 遠處微笑，不插話。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n細小的身體接觸成為整段故事的第一個轉折。\n本章是600秒電影中的第10段，電影絕對時間180-200秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：78歲香港華裔老人；稀疏銀髮、銀細框眼鏡、灰藍開襟衫、米色有領襯衣、炭色長褲、深色鞋。從疏離到微小主動，沒有誇張奇蹟式表演。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image4：社區長者中心：米白牆、右側大窗與安靜角落椅、左侧入口、中間分散椅子、低書架，右側暖窗光；空場無人狗。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image4：入口左、活動人群中、窗與老人椅右；犬靠近时留下可選擇距離。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image3 的右手慢慢離開膝蓋；@Image1 仍然伏下、不主動伸頭。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image3 的右手慢慢離開膝蓋；@Image1 仍然伏下、不主動伸頭。\n鏡頭：85mm 手部特寫。聲音：布料、呼吸。結束：@Image3 的右手慢慢離開膝蓋；@Image1 仍然伏下、不主動伸頭。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 老人手落在 @Image1 額頭，指尖轻轻撫過一次；狗的眼神放柔。\n鏡頭：65mm 手與頭同一平面。聲音：輕撫毛聲、兩音鋼琴。結束：老人手落在 @Image1 額頭，指尖轻轻撫過一次；狗的眼神放柔。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 人犬静静停留，@Image2 遠處微笑，不插話。\n鏡頭：50mm 側面雙主體。聲音：弦樂微暖，無額外台詞。結束：人犬静静停留，@Image2 遠處微笑，不插話。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image2",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Elder",
+          "reference_token": "@Image3",
+          "path": "assets/asset_elder/elder_c02.png",
+          "sha256": "62c24558c9441266b0cdea4f5a6176a5db1cc56d780572243a639e5ca21da8fa",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@centre",
+          "reference_token": "@Image4",
+          "path": "assets/asset_centre/centre_c01.png",
+          "sha256": "189ea6ce55c3c6f26fa741d3d83fd2a125810c6867f15ec5f544f7f6f2a5438b",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814110
+      },
+      "request_bytes": 11624732
+    },
+    {
+      "id": "chapter_11_take01",
+      "take_id": "chapter_11_take01",
+      "chapter_id": "chapter_11",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:56.373986+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "77127786ab849f066666024cac904d6d840790794a8b390cd58086278a52ac0d",
+      "prompt": "SCENE CONTEXT\n@Tine 離開時，@Elder 第一次主動挽留。\n本章是600秒電影中的第11段，電影絕對時間200-220秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Elder：78歲香港華裔老人；稀疏銀髮、銀細框眼鏡、灰藍開襟衫、米色有領襯衣、炭色長褲、深色鞋。從疏離到微小主動，沒有誇張奇蹟式表演。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@centre：社區長者中心：米白牆、右側大窗與安靜角落椅、左侧入口、中間分散椅子、低書架，右側暖窗光；空場無人狗。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@centre：入口左、活動人群中、窗與老人椅右；犬靠近时留下可選擇距離。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Handler 蹲下接回牽繩，@Tine 緩緩起身，老人手回到膝上。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Handler 蹲下接回牽繩，@Tine 緩緩起身，老人手回到膝上。\n鏡頭：50mm 中景。聲音：牽繩扣聲。結束：@Handler 蹲下接回牽繩，@Tine 緩緩起身，老人手回到膝上。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Tine 走兩步再停下，@Elder 望著門口，開口不夸張。\n鏡頭：65mm 老人近景。聲音：老人：{這麼快就走了？}。結束：@Tine 走兩步再停下，@Elder 望著門口，開口不夸張。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Handler 點頭微笑，@Tine 轉頭輕搖尾巴；留下回訪的期待。\n鏡頭：50mm 門口反打。聲音：溫柔一聲犬鼻息、原創鋼琴。結束：@Handler 點頭微笑，@Tine 轉頭輕搖尾巴；留下回訪的期待。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n@Image1 離開時，@Image3 第一次主動挽留。\n本章是600秒電影中的第11段，電影絕對時間200-220秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：78歲香港華裔老人；稀疏銀髮、銀細框眼鏡、灰藍開襟衫、米色有領襯衣、炭色長褲、深色鞋。從疏離到微小主動，沒有誇張奇蹟式表演。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image4：社區長者中心：米白牆、右側大窗與安靜角落椅、左侧入口、中間分散椅子、低書架，右側暖窗光；空場無人狗。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image4：入口左、活動人群中、窗與老人椅右；犬靠近时留下可選擇距離。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image2 蹲下接回牽繩，@Image1 緩緩起身，老人手回到膝上。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image2 蹲下接回牽繩，@Image1 緩緩起身，老人手回到膝上。\n鏡頭：50mm 中景。聲音：牽繩扣聲。結束：@Image2 蹲下接回牽繩，@Image1 緩緩起身，老人手回到膝上。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image1 走兩步再停下，@Image3 望著門口，開口不夸張。\n鏡頭：65mm 老人近景。聲音：老人：{這麼快就走了？}。結束：@Image1 走兩步再停下，@Image3 望著門口，開口不夸張。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image2 點頭微笑，@Image1 轉頭輕搖尾巴；留下回訪的期待。\n鏡頭：50mm 門口反打。聲音：溫柔一聲犬鼻息、原創鋼琴。結束：@Image2 點頭微笑，@Image1 轉頭輕搖尾巴；留下回訪的期待。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image2",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Elder",
+          "reference_token": "@Image3",
+          "path": "assets/asset_elder/elder_c02.png",
+          "sha256": "62c24558c9441266b0cdea4f5a6176a5db1cc56d780572243a639e5ca21da8fa",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@centre",
+          "reference_token": "@Image4",
+          "path": "assets/asset_centre/centre_c01.png",
+          "sha256": "189ea6ce55c3c6f26fa741d3d83fd2a125810c6867f15ec5f544f7f6f2a5438b",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814111
+      },
+      "request_bytes": 11624723
+    },
+    {
+      "id": "chapter_12_take01",
+      "take_id": "chapter_12_take01",
+      "chapter_id": "chapter_12",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:56.589080+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "f7d71ff5617aa332f94abb864f778b505c85b9c37fcd0a78a97ed47ee099c111",
+      "prompt": "SCENE CONTEXT\n@Tart 與 @Tine 首次擦身而過，觀眾同時看到兩條路。\n本章是600秒電影中的第12段，電影絕對時間220-240秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@street：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@street：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Tart 帶 @Owner 在中環行人路朝右走，二者守在路沿內。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Tart 帶 @Owner 在中環行人路朝右走，二者守在路沿內。\n鏡頭：35mm 平行中遠景。聲音：叮叮電車鈴。結束：@Tart 帶 @Owner 在中環行人路朝右走，二者守在路沿內。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 一辆雙層電車從前景向左行；上層窗內 @Tine 與 @Handler 正望向另一側。\n鏡頭：50mm 一個有深度的層次構圖。聲音：車輪、叮聲。結束：一辆雙層電車從前景向左行；上層窗內 @Tine 與 @Handler 正望向另一側。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 電車驶出畫面，@Tart 和 @Owner 繼續右行；沒有犬互望或相遇。\n鏡頭：35mm 固定原軸線。聲音：兩種音樂節奏短暫疊合又分開。結束：電車驶出畫面，@Tart 和 @Owner 繼續右行；沒有犬互望或相遇。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n@Image1 與 @Image2 首次擦身而過，觀眾同時看到兩條路。\n本章是600秒電影中的第12段，電影絕對時間220-240秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image4：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image5：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image5：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image1 帶 @Image3 在中環行人路朝右走，二者守在路沿內。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image1 帶 @Image3 在中環行人路朝右走，二者守在路沿內。\n鏡頭：35mm 平行中遠景。聲音：叮叮電車鈴。結束：@Image1 帶 @Image3 在中環行人路朝右走，二者守在路沿內。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 一辆雙層電車從前景向左行；上層窗內 @Image2 與 @Image4 正望向另一側。\n鏡頭：50mm 一個有深度的層次構圖。聲音：車輪、叮聲。結束：一辆雙層電車從前景向左行；上層窗內 @Image2 與 @Image4 正望向另一側。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 電車驶出畫面，@Image1 和 @Image3 繼續右行；沒有犬互望或相遇。\n鏡頭：35mm 固定原軸線。聲音：兩種音樂節奏短暫疊合又分開。結束：電車驶出畫面，@Image1 和 @Image3 繼續右行；沒有犬互望或相遇。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/adult-reference.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Owner",
+          "reference_token": "@Image3",
+          "path": "assets/asset_owner/owner_c02.png",
+          "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image4",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@street",
+          "reference_token": "@Image5",
+          "path": "assets/asset_street/street_c01.png",
+          "sha256": "ba069d05a07bb66b5c060041df64ab08c127450334bcf109b7800c37903b0cf8",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814112
+      },
+      "request_bytes": 14322486
+    },
+    {
+      "id": "chapter_13_take01",
+      "take_id": "chapter_13_take01",
+      "chapter_id": "chapter_13",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:56.797315+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "fd4c56113edced1df26e44308d64d8c875615fb58bc6abf9fd0bc45e26577de8",
+      "prompt": "SCENE CONTEXT\n關閉的列車門與打開的升降機門造成第二次錯過。\n本章是600秒電影中的第13段，電影絕對時間240-260秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\n溫暖圓潤有重量的原創3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色；本章沒有配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@mtr：簡化香港港鐵月台：前景安全黃線、左側軌道列車位置、右後景升降機、暖灰牆、藍綠玻璃與頂燈。空場無人犬列車。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@mtr：列車前景左，升降機後景右；兩組人犬不在軌道內。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Tart 與 @Owner 已在列車內，車門開始閉合，保持安全距離。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Tart 與 @Owner 已在列車內，車門開始閉合，保持安全距離。\n鏡頭：50mm 月台側面列車窗景。聲音：列車關門提示。結束：@Tart 與 @Owner 已在列車內，車門開始閉合，保持安全距離。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 列車離開向左；背景升降機門打開，@Handler 與 @Tine 走出來。\n鏡頭：35mm 固定廣角，兩個門在不同深度。聲音：列車聲转升降机提示。結束：列車離開向左；背景升降機門打開，@Handler 與 @Tine 走出來。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Tine 在 @Handler 腳旁停下，看向空月台，不知道剛錯過。\n鏡頭：65mm 人犬中景。聲音：輕鼻息、空月台的通風環境聲。結束：@Tine 在 @Handler 腳旁停下，看向空月台，不知道剛錯過。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n只有上文逐鏡頭的自然環境聲與動作Foley：海浪、海風、通風、車門、列車與犬呼吸依地點使用。無音樂、無旋律、無人類或犬台詞、無字幕。扣具聲為單聲原創Click。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n關閉的列車門與打開的升降機門造成第二次錯過。\n本章是600秒電影中的第13段，電影絕對時間240-260秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\n溫暖圓潤有重量的原創3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色；本章沒有配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image4：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image5：簡化香港港鐵月台：前景安全黃線、左側軌道列車位置、右後景升降機、暖灰牆、藍綠玻璃與頂燈。空場無人犬列車。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image5：列車前景左，升降機後景右；兩組人犬不在軌道內。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image1 與 @Image3 已在列車內，車門開始閉合，保持安全距離。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image1 與 @Image3 已在列車內，車門開始閉合，保持安全距離。\n鏡頭：50mm 月台側面列車窗景。聲音：列車關門提示。結束：@Image1 與 @Image3 已在列車內，車門開始閉合，保持安全距離。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 列車離開向左；背景升降機門打開，@Image4 與 @Image2 走出來。\n鏡頭：35mm 固定廣角，兩個門在不同深度。聲音：列車聲转升降机提示。結束：列車離開向左；背景升降機門打開，@Image4 與 @Image2 走出來。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image2 在 @Image4 腳旁停下，看向空月台，不知道剛錯過。\n鏡頭：65mm 人犬中景。聲音：輕鼻息、空月台的通風環境聲。結束：@Image2 在 @Image4 腳旁停下，看向空月台，不知道剛錯過。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n只有上文逐鏡頭的自然環境聲與動作Foley：海浪、海風、通風、車門、列車與犬呼吸依地點使用。無音樂、無旋律、無人類或犬台詞、無字幕。扣具聲為單聲原創Click。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/adult-reference.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Owner",
+          "reference_token": "@Image3",
+          "path": "assets/asset_owner/owner_c02.png",
+          "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image4",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@mtr",
+          "reference_token": "@Image5",
+          "path": "assets/asset_mtr/mtr_c01.png",
+          "sha256": "1d516de0495ba1c14402021bfa80e3c9b9c7e30724df520fee5273dab6f1d341",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814113
+      },
+      "request_bytes": 13835620
+    },
+    {
+      "id": "chapter_14_take01",
+      "take_id": "chapter_14_take01",
+      "chapter_id": "chapter_14",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:56.991034+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "201f22ecaa68550601e7ebd3a72a6cbac6193186563480386ce4d00aa35c58d9",
+      "prompt": "SCENE CONTEXT\n相隔數分鐘的兩段路，用同一構圖把牠們連起來。\n本章是600秒電影中的第14段，電影絕對時間260-280秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@street：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@street：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Handler 牽 @Tine 從社區中心門口向右離開，背景固定茶色店門。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Handler 牽 @Tine 從社區中心門口向右離開，背景固定茶色店門。\n鏡頭：35mm 固定寬景。聲音：腳步、城市環境。結束：@Handler 牽 @Tine 從社區中心門口向右離開，背景固定茶色店門。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 硬切到同一構圖；日光位置不變，@Tart 帶 @Owner 由左向右經過。\n鏡頭：35mm 完全相同機位。聲音：規整爪步。結束：硬切到同一構圖；日光位置不變，@Tart 帶 @Owner 由左向右經過。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 店員望 @Tart 笑著叫錯名字；牠保持工作，只微微抬眉。\n鏡頭：65mm 狗近景。聲音：店員：{阿華田！}；鋼琴幽默短音。結束：店員望 @Tart 笑著叫錯名字；牠保持工作，只微微抬眉。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n相隔數分鐘的兩段路，用同一構圖把牠們連起來。\n本章是600秒電影中的第14段，電影絕對時間260-280秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image4：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image5：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image5：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image4 牽 @Image2 從社區中心門口向右離開，背景固定茶色店門。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image4 牽 @Image2 從社區中心門口向右離開，背景固定茶色店門。\n鏡頭：35mm 固定寬景。聲音：腳步、城市環境。結束：@Image4 牽 @Image2 從社區中心門口向右離開，背景固定茶色店門。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 硬切到同一構圖；日光位置不變，@Image1 帶 @Image3 由左向右經過。\n鏡頭：35mm 完全相同機位。聲音：規整爪步。結束：硬切到同一構圖；日光位置不變，@Image1 帶 @Image3 由左向右經過。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 店員望 @Image1 笑著叫錯名字；牠保持工作，只微微抬眉。\n鏡頭：65mm 狗近景。聲音：店員：{阿華田！}；鋼琴幽默短音。結束：店員望 @Image1 笑著叫錯名字；牠保持工作，只微微抬眉。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/adult-reference.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Owner",
+          "reference_token": "@Image3",
+          "path": "assets/asset_owner/owner_c02.png",
+          "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image4",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@street",
+          "reference_token": "@Image5",
+          "path": "assets/asset_street/street_c01.png",
+          "sha256": "ba069d05a07bb66b5c060041df64ab08c127450334bcf109b7800c37903b0cf8",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814114
+      },
+      "request_bytes": 14322465
+    },
+    {
+      "id": "chapter_15_take01",
+      "take_id": "chapter_15_take01",
+      "chapter_id": "chapter_15",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:57.119705+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "efbea993c54f12c6855d5374dd31a62824759ab33e6fff13a2ef1f8b03644c4b",
+      "prompt": "SCENE CONTEXT\n同樣的錯認，兩隻狗有完全不同的反應。\n本章是600秒電影中的第15段，電影絕對時間280-300秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@street：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@street：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：硬切稍晚同街另一店外，店員看見 @Tine 與 @Handler。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 硬切稍晚同街另一店外，店員看見 @Tine 與 @Handler。\n鏡頭：50mm 中景。聲音：店員：{蛋撻！}。結束：硬切稍晚同街另一店外，店員看見 @Tine 與 @Handler。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Tine 興奮搖尾巴但留在牽繩可控範圍，向店員笑般眨眼。\n鏡頭：65mm 狗表情近景。聲音：轻拍尾巴、短木管。結束：@Tine 興奮搖尾巴但留在牽繩可控範圍，向店員笑般眨眼。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Handler 笑著說是阿華田，輕鬆牽牠往渡輪方向走。\n鏡頭：35mm 跟拍。聲音：女 handler：{佢係阿華田呀。}。結束：@Handler 笑著說是阿華田，輕鬆牽牠往渡輪方向走。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n同樣的錯認，兩隻狗有完全不同的反應。\n本章是600秒電影中的第15段，電影絕對時間280-300秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：硬切稍晚同街另一店外，店員看見 @Image1 與 @Image2。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 硬切稍晚同街另一店外，店員看見 @Image1 與 @Image2。\n鏡頭：50mm 中景。聲音：店員：{蛋撻！}。結束：硬切稍晚同街另一店外，店員看見 @Image1 與 @Image2。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image1 興奮搖尾巴但留在牽繩可控範圍，向店員笑般眨眼。\n鏡頭：65mm 狗表情近景。聲音：轻拍尾巴、短木管。結束：@Image1 興奮搖尾巴但留在牽繩可控範圍，向店員笑般眨眼。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image2 笑著說是阿華田，輕鬆牽牠往渡輪方向走。\n鏡頭：35mm 跟拍。聲音：女 handler：{佢係阿華田呀。}。結束：@Image2 笑著說是阿華田，輕鬆牽牠往渡輪方向走。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image2",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@street",
+          "reference_token": "@Image3",
+          "path": "assets/asset_street/street_c01.png",
+          "sha256": "ba069d05a07bb66b5c060041df64ab08c127450334bcf109b7800c37903b0cf8",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814115
+      },
+      "request_bytes": 8989478
+    },
+    {
+      "id": "chapter_16_take01",
+      "take_id": "chapter_16_take01",
+      "chapter_id": "chapter_16",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:57.240612+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "ce0fba3731ce1fd56d31f152bd925a49eb448c58128a8fb698cc033ceea40c83",
+      "prompt": "SCENE CONTEXT\n第三次錯過最接近：二犬只相距十多米。\n本章是600秒電影中的第16段，電影絕對時間300-320秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@pier：天星碼頭：左側到埗出口、右側上船等候門、海面與小輪泊位在後景、中央寬闊人行空間；日光從左。空場無人犬小輪。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@pier：Tart由到埗出口左離開，Tine由右側候船門登船；中間十多米人行空間。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Tart 與 @Owner 從碼頭左側出口走出；@Tine 與 @Handler 在右側等候區。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Tart 與 @Owner 從碼頭左側出口走出；@Tine 與 @Handler 在右側等候區。\n鏡頭：24mm 全景顯示至少十米距離。聲音：港口、船笛、腳步。結束：@Tart 與 @Owner 從碼頭左側出口走出；@Tine 與 @Handler 在右側等候區。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 遊客群從前景左向右经过，短暫遮住犬的視線與鏡頭。\n鏡頭：35mm 同一軸線，前景遮擋。聲音：人潮腳步、人語。結束：遊客群從前景左向右经过，短暫遮住犬的視線與鏡頭。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 人潮散去，@Tart 已離開左側出口；@Tine 随 @Handler 登船。\n鏡頭：35mm 原構圖重新可見。聲音：小輪船身輕響。結束：人潮散去，@Tart 已離開左側出口；@Tine 随 @Handler 登船。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n第三次錯過最接近：二犬只相距十多米。\n本章是600秒電影中的第16段，電影絕對時間300-320秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image4：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image5：天星碼頭：左側到埗出口、右側上船等候門、海面與小輪泊位在後景、中央寬闊人行空間；日光從左。空場無人犬小輪。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image5：Tart由到埗出口左離開，Tine由右側候船門登船；中間十多米人行空間。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image1 與 @Image3 從碼頭左側出口走出；@Image2 與 @Image4 在右側等候區。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image1 與 @Image3 從碼頭左側出口走出；@Image2 與 @Image4 在右側等候區。\n鏡頭：24mm 全景顯示至少十米距離。聲音：港口、船笛、腳步。結束：@Image1 與 @Image3 從碼頭左側出口走出；@Image2 與 @Image4 在右側等候區。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 遊客群從前景左向右经过，短暫遮住犬的視線與鏡頭。\n鏡頭：35mm 同一軸線，前景遮擋。聲音：人潮腳步、人語。結束：遊客群從前景左向右经过，短暫遮住犬的視線與鏡頭。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 人潮散去，@Image1 已離開左側出口；@Image2 随 @Image4 登船。\n鏡頭：35mm 原構圖重新可見。聲音：小輪船身輕響。結束：人潮散去，@Image1 已離開左側出口；@Image2 随 @Image4 登船。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/adult-reference.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Owner",
+          "reference_token": "@Image3",
+          "path": "assets/asset_owner/owner_c02.png",
+          "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image4",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@pier",
+          "reference_token": "@Image5",
+          "path": "assets/asset_pier/pier_c01.png",
+          "sha256": "e3bb6ecd28949567f72ccb35807faef339c8ada4a79694f15ebd43bb8db8e3ab",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814116
+      },
+      "request_bytes": 13813178
+    },
+    {
+      "id": "chapter_17_take01",
+      "take_id": "chapter_17_take01",
+      "chapter_id": "chapter_17",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:57.340494+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "e300c3ad0e1f25cf6c1250471f64904d41032076aa2d6bb2479e76b606fd0416",
+      "prompt": "SCENE CONTEXT\n阿華田與領犬員獨自坐小輪離岸；空碼頭承接前章已離開的蛋撻，兩犬仍未相遇。\n本章是600秒電影中的第17段，電影絕對時間320-340秒。\nOUTPUT SETTINGS\n20秒，原生720p，21:9。三個6秒、7秒、7秒鏡頭，明確hard cut。\nGLOBAL STYLE\n溫暖圓潤的原創高品質3D動畫，柔毛、表情眼神、柔和光線與有質感的服飾。真實成年犬比例。\nACTIVE REFERENCES\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@pier：天星碼頭：左側到埗出口、右側上船等候門、海面與小輪泊位在後景、中央寬闊人行空間；日光從左。空場無人犬小輪。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@pier 為右側候船門與後景小輪泊位。前章另一組人犬已離開，這章岸上不出現任何人犬。\nFIRST FRAME AND SPATIAL BLOCKING\n直接開始船艙中的 @Tine 與 @Handler，只有一隻棕犬及一位女性。\nACTION TIMING\nShot 1 (0s-6s): @Tine 與 @Handler 在小輪船艙入口安穩坐下，鬆牽繩清晰。画面只有一隻焦糖棕色成年犬與一位珊瑚外套女性。\n鏡頭：50mm 人犬中景。聲音：船機低鳴與犬呼吸。結束：@Tine 與 @Handler 在小輪船艙入口安穩坐下，鬆牽繩清晰。画面只有一隻焦糖棕色成年犬與一位珊瑚外套女性。 最後一秒保持自然穩定剪接狀態。 Hard cut.\nShot 2 (6s-13s): 由小輪船窗望向空碼頭，岸線向右退後。鏡頭內沒有任何人或狗，海水與欄杆保持真實離岸視差。\n鏡頭：65mm 船窗前後層景。聲音：海浪與船身震動。結束：由小輪船窗望向空碼頭，岸線向右退後。鏡頭內沒有任何人或狗，海水與欄杆保持真實離岸視差。 最後一秒保持自然穩定剪接狀態。 Hard cut.\nShot 3 (13s-20s): 硬切岸上的空長椅，遠景小輪離開，風輕輕吹過。整個碼頭空無人犬，保持未相遇的期待。\n鏡頭：35mm 寬景慢停。聲音：海風、远處船機逐漸消失。結束：硬切岸上的空長椅，遠景小輪離開，風輕輕吹過。整個碼頭空無人犬，保持未相遇的期待。 最後一秒保持自然穩定剪接狀態。\nOPTICS AND CAMERA\n自然視差與重量，鏡頭轉換只在明確剪輯；不複製參考多視角排版。最後兩鏡只拍空間。\nPHYSICS\n四爪有重量，鬆牽繩接觸正確；犬自然眨眼呼吸，不說話，不具人手。\nLIGHTING\n左側蜜金日光，柔和動畫反射光，白天小輪與海港。\nAUDIO\n只有原創自然環境聲、船機、海浪、海風、犬呼吸。無背景音樂、無人類或犬台詞。\nCONTINUITY LOCKS\n本章只出現一隻焦糖棕色 @Tine 與一位 @Handler。犬橙色灰邊背心與右後臀淡心形斑穩定；不出現米金犬、男性或額外犬。岸上完全空。兩犬重逢發生於後續夜晚，不在小輪。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色與環境動畫，無字幕、片尾文字、姓名標籤、水印、白底圖格。最後留自然穩定剪接姿態。",
+      "submitted_prompt": "SCENE CONTEXT\n阿華田與領犬員獨自坐小輪離岸；空碼頭承接前章已離開的蛋撻，兩犬仍未相遇。\n本章是600秒電影中的第17段，電影絕對時間320-340秒。\nOUTPUT SETTINGS\n20秒，原生720p，21:9。三個6秒、7秒、7秒鏡頭，明確hard cut。\nGLOBAL STYLE\n溫暖圓潤的原創高品質3D動畫，柔毛、表情眼神、柔和光線與有質感的服飾。真實成年犬比例。\nACTIVE REFERENCES\n@Image1：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：天星碼頭：左側到埗出口、右側上船等候門、海面與小輪泊位在後景、中央寬闊人行空間；日光從左。空場無人犬小輪。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3 為右側候船門與後景小輪泊位。前章另一組人犬已離開，這章岸上不出現任何人犬。\nFIRST FRAME AND SPATIAL BLOCKING\n直接開始船艙中的 @Image1 與 @Image2，只有一隻棕犬及一位女性。\nACTION TIMING\nShot 1 (0s-6s): @Image1 與 @Image2 在小輪船艙入口安穩坐下，鬆牽繩清晰。画面只有一隻焦糖棕色成年犬與一位珊瑚外套女性。\n鏡頭：50mm 人犬中景。聲音：船機低鳴與犬呼吸。結束：@Image1 與 @Image2 在小輪船艙入口安穩坐下，鬆牽繩清晰。画面只有一隻焦糖棕色成年犬與一位珊瑚外套女性。 最後一秒保持自然穩定剪接狀態。 Hard cut.\nShot 2 (6s-13s): 由小輪船窗望向空碼頭，岸線向右退後。鏡頭內沒有任何人或狗，海水與欄杆保持真實離岸視差。\n鏡頭：65mm 船窗前後層景。聲音：海浪與船身震動。結束：由小輪船窗望向空碼頭，岸線向右退後。鏡頭內沒有任何人或狗，海水與欄杆保持真實離岸視差。 最後一秒保持自然穩定剪接狀態。 Hard cut.\nShot 3 (13s-20s): 硬切岸上的空長椅，遠景小輪離開，風輕輕吹過。整個碼頭空無人犬，保持未相遇的期待。\n鏡頭：35mm 寬景慢停。聲音：海風、远處船機逐漸消失。結束：硬切岸上的空長椅，遠景小輪離開，風輕輕吹過。整個碼頭空無人犬，保持未相遇的期待。 最後一秒保持自然穩定剪接狀態。\nOPTICS AND CAMERA\n自然視差與重量，鏡頭轉換只在明確剪輯；不複製參考多視角排版。最後兩鏡只拍空間。\nPHYSICS\n四爪有重量，鬆牽繩接觸正確；犬自然眨眼呼吸，不說話，不具人手。\nLIGHTING\n左側蜜金日光，柔和動畫反射光，白天小輪與海港。\nAUDIO\n只有原創自然環境聲、船機、海浪、海風、犬呼吸。無背景音樂、無人類或犬台詞。\nCONTINUITY LOCKS\n本章只出現一隻焦糖棕色 @Image1 與一位 @Image2。犬橙色灰邊背心與右後臀淡心形斑穩定；不出現米金犬、男性或額外犬。岸上完全空。兩犬重逢發生於後續夜晚，不在小輪。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色與環境動畫，無字幕、片尾文字、姓名標籤、水印、白底圖格。最後留自然穩定剪接姿態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image2",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@pier",
+          "reference_token": "@Image3",
+          "path": "assets/asset_pier/pier_c01.png",
+          "sha256": "e3bb6ecd28949567f72ccb35807faef339c8ada4a79694f15ebd43bb8db8e3ab",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814117
+      },
+      "request_bytes": 8479897
+    },
+    {
+      "id": "chapter_18_take01",
+      "take_id": "chapter_18_take01",
+      "chapter_id": "chapter_18",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:57.451048+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "ebb3ec7d36232cec348c275ae4473f433def0866d76342f41126abafaa71dd81",
+      "prompt": "SCENE CONTEXT\n@Tart 在行人燈允許前進時，察覺轉彎車仍接近。\n本章是600秒電影中的第18段，電影絕對時間340-360秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@street：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@street：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Tart 與 @Owner 停在路沿後，燈號轉綠，行人提示聲響起。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Tart 與 @Owner 停在路沿後，燈號轉綠，行人提示聲響起。\n鏡頭：35mm 側面寬景看清路沿。聲音：行人提示聲、街聲。結束：@Tart 與 @Owner 停在路沿後，燈號轉綠，行人提示聲響起。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Owner 輕握鞍柄說前進，@Tart 卻四腳穩穩停住。\n鏡頭：50mm 人犬側面中景。聲音：主人：{前進。}。結束：@Owner 輕握鞍柄說前進，@Tart 卻四腳穩穩停住。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 轉彎小型貨車在二者前方道路通過；鏡頭保持他們在人行道內。\n鏡頭：35mm 一個連貫側面全景。聲音：車輪声；音樂收住，沒有撞擊。結束：轉彎小型貨車在二者前方道路通過；鏡頭保持他們在人行道內。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n@Image1 在行人燈允許前進時，察覺轉彎車仍接近。\n本章是600秒電影中的第18段，電影絕對時間340-360秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image1 與 @Image2 停在路沿後，燈號轉綠，行人提示聲響起。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image1 與 @Image2 停在路沿後，燈號轉綠，行人提示聲響起。\n鏡頭：35mm 側面寬景看清路沿。聲音：行人提示聲、街聲。結束：@Image1 與 @Image2 停在路沿後，燈號轉綠，行人提示聲響起。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image2 輕握鞍柄說前進，@Image1 卻四腳穩穩停住。\n鏡頭：50mm 人犬側面中景。聲音：主人：{前進。}。結束：@Image2 輕握鞍柄說前進，@Image1 卻四腳穩穩停住。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 轉彎小型貨車在二者前方道路通過；鏡頭保持他們在人行道內。\n鏡頭：35mm 一個連貫側面全景。聲音：車輪声；音樂收住，沒有撞擊。結束：轉彎小型貨車在二者前方道路通過；鏡頭保持他們在人行道內。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/adult-reference.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Owner",
+          "reference_token": "@Image2",
+          "path": "assets/asset_owner/owner_c02.png",
+          "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@street",
+          "reference_token": "@Image3",
+          "path": "assets/asset_street/street_c01.png",
+          "sha256": "ba069d05a07bb66b5c060041df64ab08c127450334bcf109b7800c37903b0cf8",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814118
+      },
+      "request_bytes": 8990607
+    },
+    {
+      "id": "chapter_19_take01",
+      "take_id": "chapter_19_take01",
+      "chapter_id": "chapter_19",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:57.572778+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "9b9d8e09ea52c4769766c958cf729f0ba966366ca0c27f99ab29eba49d0ceed3",
+      "prompt": "SCENE CONTEXT\n@Tart 的判斷保護主人，讓信任有可見的重量。\n本章是600秒電影中的第19段，電影絕對時間360-380秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@street：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@street：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：貨車通過後 @Owner 感受鞍柄與狗的停留，鬆一口氣，沒有誇張跌倒。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 貨車通過後 @Owner 感受鞍柄與狗的停留，鬆一口氣，沒有誇張跌倒。\n鏡頭：65mm 主人表情近景。聲音：主人輕呼吸。結束：貨車通過後 @Owner 感受鞍柄與狗的停留，鬆一口氣，沒有誇張跌倒。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Owner 輕摸 @Tart 肩頭，说谢谢，狗抬眼再望回道路。\n鏡頭：65mm 手與狗頭。聲音：主人：{多謝你，蛋撻。}。結束：@Owner 輕摸 @Tart 肩頭，说谢谢，狗抬眼再望回道路。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 道路清空後 @Tart 主動穩定踏出，帶 @Owner 完整越過斑馬線到另一邊。\n鏡頭：35mm 平行跟拍。聲音：正常行人提示、柔弦恢復。結束：道路清空後 @Tart 主動穩定踏出，帶 @Owner 完整越過斑馬線到另一邊。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n@Image1 的判斷保護主人，讓信任有可見的重量。\n本章是600秒電影中的第19段，電影絕對時間360-380秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：貨車通過後 @Image2 感受鞍柄與狗的停留，鬆一口氣，沒有誇張跌倒。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 貨車通過後 @Image2 感受鞍柄與狗的停留，鬆一口氣，沒有誇張跌倒。\n鏡頭：65mm 主人表情近景。聲音：主人輕呼吸。結束：貨車通過後 @Image2 感受鞍柄與狗的停留，鬆一口氣，沒有誇張跌倒。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image2 輕摸 @Image1 肩頭，说谢谢，狗抬眼再望回道路。\n鏡頭：65mm 手與狗頭。聲音：主人：{多謝你，蛋撻。}。結束：@Image2 輕摸 @Image1 肩頭，说谢谢，狗抬眼再望回道路。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 道路清空後 @Image1 主動穩定踏出，帶 @Image2 完整越過斑馬線到另一邊。\n鏡頭：35mm 平行跟拍。聲音：正常行人提示、柔弦恢復。結束：道路清空後 @Image1 主動穩定踏出，帶 @Image2 完整越過斑馬線到另一邊。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/adult-reference.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Owner",
+          "reference_token": "@Image2",
+          "path": "assets/asset_owner/owner_c02.png",
+          "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@street",
+          "reference_token": "@Image3",
+          "path": "assets/asset_street/street_c01.png",
+          "sha256": "ba069d05a07bb66b5c060041df64ab08c127450334bcf109b7800c37903b0cf8",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814119
+      },
+      "request_bytes": 8990648
+    },
+    {
+      "id": "chapter_20_take01",
+      "take_id": "chapter_20_take01",
+      "chapter_id": "chapter_20",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:57.718750+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "745ecf882456675e1773c52f58c7a5bc3d69ab4b12e8edba4fcda5d498329988",
+      "prompt": "SCENE CONTEXT\n第二次探訪，@Elder 主動連結世界。\n本章是600秒電影中的第20段，電影絕對時間380-400秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Elder：78歲香港華裔老人；稀疏銀髮、銀細框眼鏡、灰藍開襟衫、米色有領襯衣、炭色長褲、深色鞋。從疏離到微小主動，沒有誇張奇蹟式表演。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@centre：社區長者中心：米白牆、右側大窗與安靜角落椅、左侧入口、中間分散椅子、低書架，右側暖窗光；空場無人狗。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@centre：入口左、活動人群中、窗與老人椅右；犬靠近时留下可選擇距離。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Handler 與 @Tine 再次進入同一社區中心；老人坐同一窗邊椅。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Handler 與 @Tine 再次進入同一社區中心；老人坐同一窗邊椅。\n鏡頭：35mm 門口到窗邊寬景。聲音：門聲、安靜室內環境。結束：@Handler 與 @Tine 再次進入同一社區中心；老人坐同一窗邊椅。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Elder 未等狗靠近便微微伸手，轻声叫名字。\n鏡頭：65mm 老人近景。聲音：老人：{阿華田。}。結束：@Elder 未等狗靠近便微微伸手，轻声叫名字。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Tine 缓缓走到椅邊坐下，掌心落在狗頭，尾巴輕搖；@Handler 靜靜讓開。\n鏡頭：50mm 人犬雙主體。聲音：掌心撫毛、鋼琴兩音，沒有奇蹟式歡呼。結束：@Tine 缓缓走到椅邊坐下，掌心落在狗頭，尾巴輕搖；@Handler 靜靜讓開。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n第二次探訪，@Image3 主動連結世界。\n本章是600秒電影中的第20段，電影絕對時間380-400秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：78歲香港華裔老人；稀疏銀髮、銀細框眼鏡、灰藍開襟衫、米色有領襯衣、炭色長褲、深色鞋。從疏離到微小主動，沒有誇張奇蹟式表演。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image4：社區長者中心：米白牆、右側大窗與安靜角落椅、左侧入口、中間分散椅子、低書架，右側暖窗光；空場無人狗。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image4：入口左、活動人群中、窗與老人椅右；犬靠近时留下可選擇距離。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image2 與 @Image1 再次進入同一社區中心；老人坐同一窗邊椅。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image2 與 @Image1 再次進入同一社區中心；老人坐同一窗邊椅。\n鏡頭：35mm 門口到窗邊寬景。聲音：門聲、安靜室內環境。結束：@Image2 與 @Image1 再次進入同一社區中心；老人坐同一窗邊椅。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image3 未等狗靠近便微微伸手，轻声叫名字。\n鏡頭：65mm 老人近景。聲音：老人：{阿華田。}。結束：@Image3 未等狗靠近便微微伸手，轻声叫名字。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image1 缓缓走到椅邊坐下，掌心落在狗頭，尾巴輕搖；@Image2 靜靜讓開。\n鏡頭：50mm 人犬雙主體。聲音：掌心撫毛、鋼琴兩音，沒有奇蹟式歡呼。結束：@Image1 缓缓走到椅邊坐下，掌心落在狗頭，尾巴輕搖；@Image2 靜靜讓開。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image2",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Elder",
+          "reference_token": "@Image3",
+          "path": "assets/asset_elder/elder_c02.png",
+          "sha256": "62c24558c9441266b0cdea4f5a6176a5db1cc56d780572243a639e5ca21da8fa",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@centre",
+          "reference_token": "@Image4",
+          "path": "assets/asset_centre/centre_c01.png",
+          "sha256": "189ea6ce55c3c6f26fa741d3d83fd2a125810c6867f15ec5f544f7f6f2a5438b",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814120
+      },
+      "request_bytes": 11624783
+    },
+    {
+      "id": "chapter_21_take01",
+      "take_id": "chapter_21_take01",
+      "chapter_id": "chapter_21",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:57.856660+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "8522258b6859094365139233678477a2d7a6ee87ee14bb6f60d11b5e292fe68c",
+      "prompt": "SCENE CONTEXT\n夜幕降下，@Owner 为 @Tart 解下導盲鞍。\n本章是600秒電影中的第21段，電影絕對時間400-420秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\n溫暖圓潤有重量的原創3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色；本章沒有配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@harbour：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@harbour：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：藍調傍晚海旁，@Owner 坐左側長椅，@Tart 在左腿旁站穩。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 藍調傍晚海旁，@Owner 坐左側長椅，@Tart 在左腿旁站穩。\n鏡頭：35mm 人犬中景。聲音：海風、遠處渡輪。結束：藍調傍晚海旁，@Owner 坐左側長椅，@Tart 在左腿旁站穩。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Owner 放下鞍柄，解扣並完整取下黑色導盲鞍；橙背心仍在狗身上。\n鏡頭：65mm 手與背部。聲音：清晰一聲 Click，呼應開場。結束：@Owner 放下鞍柄，解扣並完整取下黑色導盲鞍；橙背心仍在狗身上。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Tart 肩膀放鬆，耳朵垂軟，戴日常牽繩在主人腳旁坐下。\n鏡頭：65mm 狗表情近景。聲音：鬆鼻息、海浪與海風。結束：@Tart 肩膀放鬆，耳朵垂軟，戴日常牽繩在主人腳旁坐下。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n只有上文逐鏡頭的自然環境聲與動作Foley：海浪、海風、通風、車門、列車與犬呼吸依地點使用。無音樂、無旋律、無人類或犬台詞、無字幕。扣具聲為單聲原創Click。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n夜幕降下，@Image2 为 @Image1 解下導盲鞍。\n本章是600秒電影中的第21段，電影絕對時間400-420秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\n溫暖圓潤有重量的原創3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色；本章沒有配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：藍調傍晚海旁，@Image2 坐左側長椅，@Image1 在左腿旁站穩。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 藍調傍晚海旁，@Image2 坐左側長椅，@Image1 在左腿旁站穩。\n鏡頭：35mm 人犬中景。聲音：海風、遠處渡輪。結束：藍調傍晚海旁，@Image2 坐左側長椅，@Image1 在左腿旁站穩。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image2 放下鞍柄，解扣並完整取下黑色導盲鞍；橙背心仍在狗身上。\n鏡頭：65mm 手與背部。聲音：清晰一聲 Click，呼應開場。結束：@Image2 放下鞍柄，解扣並完整取下黑色導盲鞍；橙背心仍在狗身上。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image1 肩膀放鬆，耳朵垂軟，戴日常牽繩在主人腳旁坐下。\n鏡頭：65mm 狗表情近景。聲音：鬆鼻息、海浪與海風。結束：@Image1 肩膀放鬆，耳朵垂軟，戴日常牽繩在主人腳旁坐下。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n只有上文逐鏡頭的自然環境聲與動作Foley：海浪、海風、通風、車門、列車與犬呼吸依地點使用。無音樂、無旋律、無人類或犬台詞、無字幕。扣具聲為單聲原創Click。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/adult-reference.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Owner",
+          "reference_token": "@Image2",
+          "path": "assets/asset_owner/owner_c02.png",
+          "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@harbour",
+          "reference_token": "@Image3",
+          "path": "assets/asset_harbour/harbour_c01.png",
+          "sha256": "5a5c8ce97f9bdd86d8eb948dc973d21326e5b547fdd22796129906b8aceef5f6",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814121
+      },
+      "request_bytes": 8804703
+    },
+    {
+      "id": "chapter_22_take01",
+      "take_id": "chapter_22_take01",
+      "chapter_id": "chapter_22",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:58.043408+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "5b86d7129f64e548a8d39b7ff387751c53a10aa40ac78b99a5fc59bae3365c89",
+      "prompt": "SCENE CONTEXT\n@Tart 安靜看海；@Tine 从同一海旁另一端走来。\n本章是600秒電影中的第22段，電影絕對時間420-440秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@harbour：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@harbour：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Tart 坐在长椅旁左側，看向維港；@Owner 在椅子上陪伴。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Tart 坐在长椅旁左側，看向維港；@Owner 在椅子上陪伴。\n鏡頭：35mm 侧后人犬景。聲音：浪声，原創鋼琴。結束：@Tart 坐在长椅旁左側，看向維港；@Owner 在椅子上陪伴。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 硬切 @Handler 帶 @Tine 從右側沿同一海旁步道向左走。\n鏡頭：35mm 侧面跟拍。聲音：爪步、衣料、城市晚聲。結束：硬切 @Handler 帶 @Tine 從右側沿同一海旁步道向左走。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Tine 停步望左，@Handler 順著牠目光停下。\n鏡頭：65mm 犬中近景。聲音：音樂停留兩音；狗不叫。結束：@Tine 停步望左，@Handler 順著牠目光停下。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n@Image1 安靜看海；@Image2 从同一海旁另一端走来。\n本章是600秒電影中的第22段，電影絕對時間420-440秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image4：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image5：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image5：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image1 坐在长椅旁左側，看向維港；@Image3 在椅子上陪伴。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image1 坐在长椅旁左側，看向維港；@Image3 在椅子上陪伴。\n鏡頭：35mm 侧后人犬景。聲音：浪声，原創鋼琴。結束：@Image1 坐在长椅旁左側，看向維港；@Image3 在椅子上陪伴。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 硬切 @Image4 帶 @Image2 從右側沿同一海旁步道向左走。\n鏡頭：35mm 侧面跟拍。聲音：爪步、衣料、城市晚聲。結束：硬切 @Image4 帶 @Image2 從右側沿同一海旁步道向左走。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image2 停步望左，@Image4 順著牠目光停下。\n鏡頭：65mm 犬中近景。聲音：音樂停留兩音；狗不叫。結束：@Image2 停步望左，@Image4 順著牠目光停下。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/adult-reference.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Owner",
+          "reference_token": "@Image3",
+          "path": "assets/asset_owner/owner_c02.png",
+          "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image4",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@harbour",
+          "reference_token": "@Image5",
+          "path": "assets/asset_harbour/harbour_c01.png",
+          "sha256": "5a5c8ce97f9bdd86d8eb948dc973d21326e5b547fdd22796129906b8aceef5f6",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814122
+      },
+      "request_bytes": 14136545
+    },
+    {
+      "id": "chapter_23_take01",
+      "take_id": "chapter_23_take01",
+      "chapter_id": "chapter_23",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:58.249750+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "458b9efdaf4c29b1a2124deb196ae2297bf8a7ad8a7b8349edfa078d8b0d964b",
+      "prompt": "SCENE CONTEXT\n二犬第一次面对彼此，熟悉感比熱情更安靜。\n本章是600秒電影中的第23段，電影絕對時間440-460秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@harbour：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@harbour：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Tart 回頭朝畫面右側；遠處 @Tine 在右側望向左，保持同一軸線。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Tart 回頭朝畫面右側；遠處 @Tine 在右側望向左，保持同一軸線。\n鏡頭：50mm 有距離的寬雙主體。聲音：海風、輕呼吸。結束：@Tart 回頭朝畫面右側；遠處 @Tine 在右側望向左，保持同一軸線。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Handler 允许 @Tine 缓步向左靠近；@Owner 也給 @Tart 留出松牽繩。\n鏡頭：35mm 犬眼高度側拍。聲音：緩慢爪步、柔弦。結束：@Handler 允许 @Tine 缓步向左靠近；@Owner 也給 @Tart 留出松牽繩。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 二犬停在鼻距一掌，互相嗅聞，不碰撞、不立刻追逐。\n鏡頭：85mm 鼻與眼睛雙主體。聲音：輕嗅，最後兩秒停在互望。結束：二犬停在鼻距一掌，互相嗅聞，不碰撞、不立刻追逐。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n二犬第一次面对彼此，熟悉感比熱情更安靜。\n本章是600秒電影中的第23段，電影絕對時間440-460秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image4：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image5：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image5：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image1 回頭朝畫面右側；遠處 @Image2 在右側望向左，保持同一軸線。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image1 回頭朝畫面右側；遠處 @Image2 在右側望向左，保持同一軸線。\n鏡頭：50mm 有距離的寬雙主體。聲音：海風、輕呼吸。結束：@Image1 回頭朝畫面右側；遠處 @Image2 在右側望向左，保持同一軸線。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image4 允许 @Image2 缓步向左靠近；@Image3 也給 @Image1 留出松牽繩。\n鏡頭：35mm 犬眼高度側拍。聲音：緩慢爪步、柔弦。結束：@Image4 允许 @Image2 缓步向左靠近；@Image3 也給 @Image1 留出松牽繩。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 二犬停在鼻距一掌，互相嗅聞，不碰撞、不立刻追逐。\n鏡頭：85mm 鼻與眼睛雙主體。聲音：輕嗅，最後兩秒停在互望。結束：二犬停在鼻距一掌，互相嗅聞，不碰撞、不立刻追逐。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/adult-reference.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Owner",
+          "reference_token": "@Image3",
+          "path": "assets/asset_owner/owner_c02.png",
+          "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image4",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@harbour",
+          "reference_token": "@Image5",
+          "path": "assets/asset_harbour/harbour_c01.png",
+          "sha256": "5a5c8ce97f9bdd86d8eb948dc973d21326e5b547fdd22796129906b8aceef5f6",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814123
+      },
+      "request_bytes": 14136661
+    },
+    {
+      "id": "chapter_24_take01",
+      "take_id": "chapter_24_take01",
+      "chapter_id": "chapter_24",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:58.442806+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "22d85e1feb5821b075d239d9fedc303d47f182fb6971a49d72e1caf3a460fd6c",
+      "prompt": "SCENE CONTEXT\n尾巴節奏喚回被遺忘的童年。\n本章是600秒電影中的第24段，電影絕對時間460-480秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@harbour：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@harbour：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Tine 尾巴輕拍地面一次、兩次；身体仍安静坐下。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Tine 尾巴輕拍地面一次、兩次；身体仍安静坐下。\n鏡頭：65mm 尾與右後腿，心形斑正确。聲音：一聲、兩聲柔尾拍。結束：@Tine 尾巴輕拍地面一次、兩次；身体仍安静坐下。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Tart 先望尾巴再望對方，自己的尾巴缓缓回應一次。\n鏡頭：65mm 表情到尾部輕移。聲音：尾拍回应，鋼琴兩音主題完整出現。結束：@Tart 先望尾巴再望對方，自己的尾巴缓缓回應一次。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Owner 與 @Handler 在狗身後首次交談，狗仍坐在前景。\n鏡頭：50mm 兩人與犬層次構圖。聲音：女 handler：{Tine 是從澳洲來的。}；主人：{Tart 也是。}。結束：@Owner 與 @Handler 在狗身後首次交談，狗仍坐在前景。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n尾巴節奏喚回被遺忘的童年。\n本章是600秒電影中的第24段，電影絕對時間460-480秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image4：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image5：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image5：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image2 尾巴輕拍地面一次、兩次；身体仍安静坐下。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image2 尾巴輕拍地面一次、兩次；身体仍安静坐下。\n鏡頭：65mm 尾與右後腿，心形斑正确。聲音：一聲、兩聲柔尾拍。結束：@Image2 尾巴輕拍地面一次、兩次；身体仍安静坐下。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image1 先望尾巴再望對方，自己的尾巴缓缓回應一次。\n鏡頭：65mm 表情到尾部輕移。聲音：尾拍回应，鋼琴兩音主題完整出現。結束：@Image1 先望尾巴再望對方，自己的尾巴缓缓回應一次。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image3 與 @Image4 在狗身後首次交談，狗仍坐在前景。\n鏡頭：50mm 兩人與犬層次構圖。聲音：女 handler：{Tine 是從澳洲來的。}；主人：{Tart 也是。}。結束：@Image3 與 @Image4 在狗身後首次交談，狗仍坐在前景。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/adult-reference.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Owner",
+          "reference_token": "@Image3",
+          "path": "assets/asset_owner/owner_c02.png",
+          "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image4",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@harbour",
+          "reference_token": "@Image5",
+          "path": "assets/asset_harbour/harbour_c01.png",
+          "sha256": "5a5c8ce97f9bdd86d8eb948dc973d21326e5b547fdd22796129906b8aceef5f6",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814124
+      },
+      "request_bytes": 14136623
+    },
+    {
+      "id": "chapter_25_take01",
+      "take_id": "chapter_25_take01",
+      "chapter_id": "chapter_25",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:58.595176+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "ce7829fea62cc01bdc9725be070b98b8a8cfe242f20369bd8fc50259cf611fd3",
+      "prompt": "SCENE CONTEXT\n共同地名由一次问答露出，资料确认同一犬舍。\n本章是600秒電影中的第25段，電影絕對時間480-500秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@harbour：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@harbour：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Owner 朝 @Handler 轉頭，表情好奇；二犬保持画面下缘静坐。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Owner 朝 @Handler 轉頭，表情好奇；二犬保持画面下缘静坐。\n鏡頭：65mm 雙人中景。聲音：主人：{澳洲哪裡？}；女 handler：{Victoria。}。結束：@Owner 朝 @Handler 轉頭，表情好奇；二犬保持画面下缘静坐。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Owner 顿一下，轻声再問；@Handler 拿出手机打开既有资料。\n鏡頭：65mm 人手与表情。聲音：主人：{……Victoria？}。結束：@Owner 顿一下，轻声再問；@Handler 拿出手机打开既有资料。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 二人对照两份记录，露出克制惊喜；具体信息在后期排字。\n鏡頭：50mm 手機与双方反應，不要求模型生成可讀字。聲音：女 handler：{同一間犬舍。}；远处幼犬声预叠。結束：二人对照两份记录，露出克制惊喜；具体信息在后期排字。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n共同地名由一次问答露出，资料确认同一犬舍。\n本章是600秒電影中的第25段，電影絕對時間480-500秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image1 朝 @Image2 轉頭，表情好奇；二犬保持画面下缘静坐。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image1 朝 @Image2 轉頭，表情好奇；二犬保持画面下缘静坐。\n鏡頭：65mm 雙人中景。聲音：主人：{澳洲哪裡？}；女 handler：{Victoria。}。結束：@Image1 朝 @Image2 轉頭，表情好奇；二犬保持画面下缘静坐。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image1 顿一下，轻声再問；@Image2 拿出手机打开既有资料。\n鏡頭：65mm 人手与表情。聲音：主人：{……Victoria？}。結束：@Image1 顿一下，轻声再問；@Image2 拿出手机打开既有资料。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 二人对照两份记录，露出克制惊喜；具体信息在后期排字。\n鏡頭：50mm 手機与双方反應，不要求模型生成可讀字。聲音：女 handler：{同一間犬舍。}；远处幼犬声预叠。結束：二人对照两份记录，露出克制惊喜；具体信息在后期排字。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Owner",
+          "reference_token": "@Image1",
+          "path": "assets/asset_owner/owner_c02.png",
+          "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image2",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@harbour",
+          "reference_token": "@Image3",
+          "path": "assets/asset_harbour/harbour_c01.png",
+          "sha256": "5a5c8ce97f9bdd86d8eb948dc973d21326e5b547fdd22796129906b8aceef5f6",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814125
+      },
+      "request_bytes": 9189470
+    },
+    {
+      "id": "chapter_26_take01",
+      "take_id": "chapter_26_take01",
+      "chapter_id": "chapter_26",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:58.722394+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "269f503c0b77ac8bfee6e37203863a0320f91b3d31c0b39360423911058c0e58",
+      "prompt": "SCENE CONTEXT\n短暫黑場之后回到开场草地，這次幼犬进入画面。\n本章是600秒電影中的第26段，電影絕對時間500-520秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@BabyTart：Tart 幼年：同一米金毛色、耳、鼻、眼身份，幼犬短腿圓頭；無橙背心、無導盲鞍、沒有成人工作裝備。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@BabyTine：Tine 幼年：同一焦糖棕毛色、右後臀淡色心形斑、耳鼻眼身份；幼犬短腿圓頭；無背心、無成人工作裝備。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@farm：澳洲Victoria犬舍草原：晨曦從左側、露水草葉、低木籬笆、遠處淺色木犬舍、柔弧山丘。開場和回憶同一幾何；沒有幼犬在空場參考圖中。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@farm：草原前景左與右，中間留空；晨光左側。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：開頭十二幀黑畫面，再顯出與開場同一草原；幼犬聲清晰近來。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 開頭十二幀黑畫面，再顯出與開場同一草原；幼犬聲清晰近來。\n鏡頭：24mm 固定草原遠景；黑場属于本章內部剪輯。聲音：幼犬声、草風。結束：開頭十二幀黑畫面，再顯出與開場同一草原；幼犬聲清晰近來。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 三隻其他拉布拉多幼犬在遠景跑過，@BabyTart 安靜坐在前景左側，無背心。\n鏡頭：50mm 低位前後層景。聲音：小爪步、柔鋼琴。結束：三隻其他拉布拉多幼犬在遠景跑過，@BabyTart 安靜坐在前景左側，無背心。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @BabyTine 從右側小跑近，減速停在 @BabyTart 前，不撞上牠。\n鏡頭：35mm 横向低位跟拍。聲音：短促开心鼻息、草叶摩擦。結束：@BabyTine 從右側小跑近，減速停在 @BabyTart 前，不撞上牠。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n短暫黑場之后回到开场草地，這次幼犬进入画面。\n本章是600秒電影中的第26段，電影絕對時間500-520秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：Tart 幼年：同一米金毛色、耳、鼻、眼身份，幼犬短腿圓頭；無橙背心、無導盲鞍、沒有成人工作裝備。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：Tine 幼年：同一焦糖棕毛色、右後臀淡色心形斑、耳鼻眼身份；幼犬短腿圓頭；無背心、無成人工作裝備。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：澳洲Victoria犬舍草原：晨曦從左側、露水草葉、低木籬笆、遠處淺色木犬舍、柔弧山丘。開場和回憶同一幾何；沒有幼犬在空場參考圖中。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3：草原前景左與右，中間留空；晨光左側。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：開頭十二幀黑畫面，再顯出與開場同一草原；幼犬聲清晰近來。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 開頭十二幀黑畫面，再顯出與開場同一草原；幼犬聲清晰近來。\n鏡頭：24mm 固定草原遠景；黑場属于本章內部剪輯。聲音：幼犬声、草風。結束：開頭十二幀黑畫面，再顯出與開場同一草原；幼犬聲清晰近來。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 三隻其他拉布拉多幼犬在遠景跑過，@Image1 安靜坐在前景左側，無背心。\n鏡頭：50mm 低位前後層景。聲音：小爪步、柔鋼琴。結束：三隻其他拉布拉多幼犬在遠景跑過，@Image1 安靜坐在前景左側，無背心。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image2 從右側小跑近，減速停在 @Image1 前，不撞上牠。\n鏡頭：35mm 横向低位跟拍。聲音：短促开心鼻息、草叶摩擦。結束：@Image2 從右側小跑近，減速停在 @Image1 前，不撞上牠。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@BabyTart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_babytart/babytart_c01.png",
+          "sha256": "f0c76e0d2070b9ac40209f3c99844e82990a397f132385212b2e1bd9a5baff24",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@BabyTine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_babytine/babytine_c01.png",
+          "sha256": "fefe6a788652e7b2b8d06cb87db7330c9f5790831c360290d695bba93beb86f3",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@farm",
+          "reference_token": "@Image3",
+          "path": "assets/asset_farm/farm_c01.png",
+          "sha256": "e5f4e8a708e3fc5811e7819598c8ebacd2a6f46c8eb792fb2b74f12e0adcb6fb",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814126
+      },
+      "request_bytes": 9142297
+    },
+    {
+      "id": "chapter_27_take01",
+      "take_id": "chapter_27_take01",
+      "chapter_id": "chapter_27",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:58.854966+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "4e758bad7e169c422c08d9d3c393c45d1f692baddef967103b1d17ee35e41968",
+      "prompt": "SCENE CONTEXT\n@BabyTart 与 @BabyTine 的性格和尾巴节奏呼應成年。\n本章是600秒電影中的第27段，電影絕對時間520-540秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@BabyTart：Tart 幼年：同一米金毛色、耳、鼻、眼身份，幼犬短腿圓頭；無橙背心、無導盲鞍、沒有成人工作裝備。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@BabyTine：Tine 幼年：同一焦糖棕毛色、右後臀淡色心形斑、耳鼻眼身份；幼犬短腿圓頭；無背心、無成人工作裝備。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@farm：澳洲Victoria犬舍草原：晨曦從左側、露水草葉、低木籬笆、遠處淺色木犬舍、柔弧山丘。開場和回憶同一幾何；沒有幼犬在空場參考圖中。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@farm：草原前景左與右，中間留空；晨光左側。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@BabyTine 在右側尾巴轻拍一次兩次，@BabyTart 在左側平静望著牠。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @BabyTine 在右側尾巴轻拍一次兩次，@BabyTart 在左側平静望著牠。\n鏡頭：65mm 幼犬雙主體。聲音：轻尾拍、兩音钢琴。結束：@BabyTine 在右側尾巴轻拍一次兩次，@BabyTart 在左側平静望著牠。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @BabyTine 緩緩挨近，@BabyTart 挪开半掌；前者又挨近。\n鏡頭：50mm 低位雙犬景。聲音：小爪草地、俏皮木管。結束：@BabyTine 緩緩挨近，@BabyTart 挪开半掌；前者又挨近。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 二犬肩并肩坐在草地，看向同一片光；共同过去直到此刻才揭示。\n鏡頭：35mm 緩慢拉遠。聲音：暖弦扩展主题，沒有旁白解釋。結束：二犬肩并肩坐在草地，看向同一片光；共同过去直到此刻才揭示。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n@Image1 与 @Image2 的性格和尾巴节奏呼應成年。\n本章是600秒電影中的第27段，電影絕對時間520-540秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：Tart 幼年：同一米金毛色、耳、鼻、眼身份，幼犬短腿圓頭；無橙背心、無導盲鞍、沒有成人工作裝備。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：Tine 幼年：同一焦糖棕毛色、右後臀淡色心形斑、耳鼻眼身份；幼犬短腿圓頭；無背心、無成人工作裝備。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：澳洲Victoria犬舍草原：晨曦從左側、露水草葉、低木籬笆、遠處淺色木犬舍、柔弧山丘。開場和回憶同一幾何；沒有幼犬在空場參考圖中。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3：草原前景左與右，中間留空；晨光左側。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image2 在右側尾巴轻拍一次兩次，@Image1 在左側平静望著牠。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image2 在右側尾巴轻拍一次兩次，@Image1 在左側平静望著牠。\n鏡頭：65mm 幼犬雙主體。聲音：轻尾拍、兩音钢琴。結束：@Image2 在右側尾巴轻拍一次兩次，@Image1 在左側平静望著牠。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image2 緩緩挨近，@Image1 挪开半掌；前者又挨近。\n鏡頭：50mm 低位雙犬景。聲音：小爪草地、俏皮木管。結束：@Image2 緩緩挨近，@Image1 挪开半掌；前者又挨近。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 二犬肩并肩坐在草地，看向同一片光；共同过去直到此刻才揭示。\n鏡頭：35mm 緩慢拉遠。聲音：暖弦扩展主题，沒有旁白解釋。結束：二犬肩并肩坐在草地，看向同一片光；共同过去直到此刻才揭示。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@BabyTart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_babytart/babytart_c01.png",
+          "sha256": "f0c76e0d2070b9ac40209f3c99844e82990a397f132385212b2e1bd9a5baff24",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@BabyTine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_babytine/babytine_c01.png",
+          "sha256": "fefe6a788652e7b2b8d06cb87db7330c9f5790831c360290d695bba93beb86f3",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@farm",
+          "reference_token": "@Image3",
+          "path": "assets/asset_farm/farm_c01.png",
+          "sha256": "e5f4e8a708e3fc5811e7819598c8ebacd2a6f46c8eb792fb2b74f12e0adcb6fb",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814127
+      },
+      "request_bytes": 9142218
+    },
+    {
+      "id": "chapter_28_take01",
+      "take_id": "chapter_28_take01",
+      "chapter_id": "chapter_28",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:59.034443+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "0865ae244ec2877af94b97e4311a99fb21832eaea5ee80b62682f00036ed4109",
+      "prompt": "SCENE CONTEXT\n幼犬走向不同訓練道路，随后match cut回成年香港。\n本章是600秒電影中的第28段，電影絕對時間540-560秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@BabyTart：Tart 幼年：同一米金毛色、耳、鼻、眼身份，幼犬短腿圓頭；無橙背心、無導盲鞍、沒有成人工作裝備。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@BabyTine：Tine 幼年：同一焦糖棕毛色、右後臀淡色心形斑、耳鼻眼身份；幼犬短腿圓頭；無背心、無成人工作裝備。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@farm：澳洲Victoria犬舍草原：晨曦從左側、露水草葉、低木籬笆、遠處淺色木犬舍、柔弧山丘。開場和回憶同一幾何；沒有幼犬在空場參考圖中。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@farm：草原前景左與右，中間留空；晨光左側。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：犬舍草地，@BabyTart 跟隨左側遠處照顧者向左，@BabyTine 隨右側照顧者向右。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 犬舍草地，@BabyTart 跟隨左側遠處照顧者向左，@BabyTine 隨右側照顧者向右。\n鏡頭：35mm 正面低位寬景。聲音：草風、温柔脚步。結束：犬舍草地，@BabyTart 跟隨左側遠處照顧者向左，@BabyTine 隨右側照顧者向右。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 二犬各自回望一次，隨后继续前行，不暗示被遗弃或恐惧。\n鏡頭：65mm 两个明确反打以hard cut连接。聲音：鋼琴旋律分成兩個聲部。結束：二犬各自回望一次，隨后继续前行，不暗示被遗弃或恐惧。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): Match cut 到夜間海旁：@Tart 從左走來，@Tine 從右走來，方向由離開變相聚。\n鏡頭：35mm 正面宽景，成年身份和夜色在剪切时改变。聲音：幼犬脚步转成年爪步，海风接回。結束：Match cut 到夜間海旁：@Tart 從左走來，@Tine 從右走來，方向由離開變相聚。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n幼犬走向不同訓練道路，随后match cut回成年香港。\n本章是600秒電影中的第28段，電影絕對時間540-560秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：Tart 幼年：同一米金毛色、耳、鼻、眼身份，幼犬短腿圓頭；無橙背心、無導盲鞍、沒有成人工作裝備。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image4：Tine 幼年：同一焦糖棕毛色、右後臀淡色心形斑、耳鼻眼身份；幼犬短腿圓頭；無背心、無成人工作裝備。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image5：澳洲Victoria犬舍草原：晨曦從左側、露水草葉、低木籬笆、遠處淺色木犬舍、柔弧山丘。開場和回憶同一幾何；沒有幼犬在空場參考圖中。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image5：草原前景左與右，中間留空；晨光左側。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：犬舍草地，@Image3 跟隨左側遠處照顧者向左，@Image4 隨右側照顧者向右。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 犬舍草地，@Image3 跟隨左側遠處照顧者向左，@Image4 隨右側照顧者向右。\n鏡頭：35mm 正面低位寬景。聲音：草風、温柔脚步。結束：犬舍草地，@Image3 跟隨左側遠處照顧者向左，@Image4 隨右側照顧者向右。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 二犬各自回望一次，隨后继续前行，不暗示被遗弃或恐惧。\n鏡頭：65mm 两个明确反打以hard cut连接。聲音：鋼琴旋律分成兩個聲部。結束：二犬各自回望一次，隨后继续前行，不暗示被遗弃或恐惧。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): Match cut 到夜間海旁：@Image1 從左走來，@Image2 從右走來，方向由離開變相聚。\n鏡頭：35mm 正面宽景，成年身份和夜色在剪切时改变。聲音：幼犬脚步转成年爪步，海风接回。結束：Match cut 到夜間海旁：@Image1 從左走來，@Image2 從右走來，方向由離開變相聚。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/adult-reference.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@BabyTart",
+          "reference_token": "@Image3",
+          "path": "assets/asset_babytart/babytart_c01.png",
+          "sha256": "f0c76e0d2070b9ac40209f3c99844e82990a397f132385212b2e1bd9a5baff24",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@BabyTine",
+          "reference_token": "@Image4",
+          "path": "assets/asset_babytine/babytine_c01.png",
+          "sha256": "fefe6a788652e7b2b8d06cb87db7330c9f5790831c360290d695bba93beb86f3",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@farm",
+          "reference_token": "@Image5",
+          "path": "assets/asset_farm/farm_c01.png",
+          "sha256": "e5f4e8a708e3fc5811e7819598c8ebacd2a6f46c8eb792fb2b74f12e0adcb6fb",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814128
+      },
+      "request_bytes": 14089646
+    },
+    {
+      "id": "chapter_29_take01",
+      "take_id": "chapter_29_take01",
+      "chapter_id": "chapter_29",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:59.243171+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "91bacce4abb552ed8219782844a374930a3fa2d982552344237b92eb2e07f7dd",
+      "prompt": "SCENE CONTEXT\n成年人身边的犬像幼年一樣，保留含蓄幽默。\n本章是600秒電影中的第29段，電影絕對時間560-580秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@harbour：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@harbour：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Tart 與 @Tine 并肩坐下看海，@Owner 与 @Handler 在远景长椅安静谈话。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Tart 與 @Tine 并肩坐下看海，@Owner 与 @Handler 在远景长椅安静谈话。\n鏡頭：50mm 犬侧后雙主體。聲音：海浪、软钢琴。結束：@Tart 與 @Tine 并肩坐下看海，@Owner 与 @Handler 在远景长椅安静谈话。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Tine 挨近 @Tart，后者挪开半掌；@Tine 再靠近一次。\n鏡頭：65mm 二犬中景，完整保留爪与肩接触。聲音：两次爪步，俏皮单音。結束：@Tine 挨近 @Tart，后者挪开半掌；@Tine 再靠近一次。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Tart 微微侧眼，終於不再挪開，讓 @Tine 靠在肩旁。\n鏡頭：85mm 犬雙表情。聲音：轻叹鼻息、弦乐舒展。結束：@Tart 微微侧眼，終於不再挪開，讓 @Tine 靠在肩旁。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n成年人身边的犬像幼年一樣，保留含蓄幽默。\n本章是600秒電影中的第29段，電影絕對時間560-580秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image4：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image5：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image5：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image1 與 @Image2 并肩坐下看海，@Image3 与 @Image4 在远景长椅安静谈话。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image1 與 @Image2 并肩坐下看海，@Image3 与 @Image4 在远景长椅安静谈话。\n鏡頭：50mm 犬侧后雙主體。聲音：海浪、软钢琴。結束：@Image1 與 @Image2 并肩坐下看海，@Image3 与 @Image4 在远景长椅安静谈话。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image2 挨近 @Image1，后者挪开半掌；@Image2 再靠近一次。\n鏡頭：65mm 二犬中景，完整保留爪与肩接触。聲音：两次爪步，俏皮单音。結束：@Image2 挨近 @Image1，后者挪开半掌；@Image2 再靠近一次。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image1 微微侧眼，終於不再挪開，讓 @Image2 靠在肩旁。\n鏡頭：85mm 犬雙表情。聲音：轻叹鼻息、弦乐舒展。結束：@Image1 微微侧眼，終於不再挪開，讓 @Image2 靠在肩旁。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/adult-reference.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Owner",
+          "reference_token": "@Image3",
+          "path": "assets/asset_owner/owner_c02.png",
+          "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Handler",
+          "reference_token": "@Image4",
+          "path": "assets/asset_handler/handler_c02.png",
+          "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@harbour",
+          "reference_token": "@Image5",
+          "path": "assets/asset_harbour/harbour_c01.png",
+          "sha256": "5a5c8ce97f9bdd86d8eb948dc973d21326e5b547fdd22796129906b8aceef5f6",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814129
+      },
+      "request_bytes": 14136648
+    },
+    {
+      "id": "chapter_30_take01",
+      "take_id": "chapter_30_take01",
+      "chapter_id": "chapter_30",
+      "take_number": 1,
+      "status": "pending",
+      "submission_state": "not_submitted",
+      "created_at": "2026-10-08T10:07:59.384480+00:00",
+      "source_revision": 13,
+      "dependency_fingerprint": "8ef595cad0d85e61930b0f1d3a9fc00486fc740ccc3033993e91ab32699e625d",
+      "prompt": "SCENE CONTEXT\n兩隻狗一樣的睡姿與整個香港，收束不同天賦同樣溫度。\n本章是600秒電影中的第30段，電影絕對時間580-600秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@harbour：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@harbour：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Tart 與 @Tine 慢慢伏下，下巴放前爪，姿態幾乎相同；二者橙背心仍在。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Tart 與 @Tine 慢慢伏下，下巴放前爪，姿態幾乎相同；二者橙背心仍在。\n鏡頭：50mm 低位兩犬同框。聲音：轻呼吸、海风。結束：@Tart 與 @Tine 慢慢伏下，下巴放前爪，姿態幾乎相同；二者橙背心仍在。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 鏡頭从二犬緩慢拉遠，维港对岸城市灯火展開，二人仍在远处陪伴。\n鏡頭：24mm 平穩後退升高，最後保持全景。聲音：原創主題最后回歸。結束：鏡頭从二犬緩慢拉遠，维港对岸城市灯火展開，二人仍在远处陪伴。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 最后七秒保持海港与二犬小小身影，後期加來源結語及來源署名，收在第600秒。\n鏡頭：24mm 鎖定完整21:9構圖。聲音：鋼琴與弦樂自然收束，最后海風。結束：最后七秒保持海港与二犬小小身影，後期加來源結語及來源署名，收在第600秒。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+      "submitted_prompt": "SCENE CONTEXT\n兩隻狗一樣的睡姿與整個香港，收束不同天賦同樣溫度。\n本章是600秒電影中的第30段，電影絕對時間580-600秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image1 與 @Image2 慢慢伏下，下巴放前爪，姿態幾乎相同；二者橙背心仍在。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image1 與 @Image2 慢慢伏下，下巴放前爪，姿態幾乎相同；二者橙背心仍在。\n鏡頭：50mm 低位兩犬同框。聲音：轻呼吸、海风。結束：@Image1 與 @Image2 慢慢伏下，下巴放前爪，姿態幾乎相同；二者橙背心仍在。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 鏡頭从二犬緩慢拉遠，维港对岸城市灯火展開，二人仍在远处陪伴。\n鏡頭：24mm 平穩後退升高，最後保持全景。聲音：原創主題最后回歸。結束：鏡頭从二犬緩慢拉遠，维港对岸城市灯火展開，二人仍在远处陪伴。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 最后七秒保持海港与二犬小小身影，後期加來源結語及來源署名，收在第600秒。\n鏡頭：24mm 鎖定完整21:9構圖。聲音：鋼琴與弦樂自然收束，最后海風。結束：最后七秒保持海港与二犬小小身影，後期加來源結語及來源署名，收在第600秒。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/adult-reference.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_tine/adult-reference.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@harbour",
+          "reference_token": "@Image3",
+          "path": "assets/asset_harbour/harbour_c01.png",
+          "sha256": "5a5c8ce97f9bdd86d8eb948dc973d21326e5b547fdd22796129906b8aceef5f6",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 20,
+      "resolution": "720p",
+      "aspect_ratio": "21:9",
+      "model": "Seedance 2.5",
+      "settings": {
+        "duration": 20,
+        "ratio": "21:9",
+        "resolution": "720p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 814130
+      },
+      "request_bytes": 8419317
+    }
+  ],
+  "generation_state": "complete",
+  "actual_submission_journal": "exports/seedance-journal.json"
+}

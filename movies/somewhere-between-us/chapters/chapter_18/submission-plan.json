@@ -1,0 +1,52 @@
+{
+  "id": "chapter_18_take01",
+  "take_id": "chapter_18_take01",
+  "chapter_id": "chapter_18",
+  "take_number": 1,
+  "status": "pending",
+  "submission_state": "not_submitted",
+  "created_at": "2026-10-08T10:07:57.451048+00:00",
+  "source_revision": 13,
+  "dependency_fingerprint": "ebb3ec7d36232cec348c275ae4473f433def0866d76342f41126abafaa71dd81",
+  "prompt": "SCENE CONTEXT\n@Tart 在行人燈允許前進時，察覺轉彎車仍接近。\n本章是600秒電影中的第18段，電影絕對時間340-360秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@street：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@street：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Tart 與 @Owner 停在路沿後，燈號轉綠，行人提示聲響起。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Tart 與 @Owner 停在路沿後，燈號轉綠，行人提示聲響起。\n鏡頭：35mm 側面寬景看清路沿。聲音：行人提示聲、街聲。結束：@Tart 與 @Owner 停在路沿後，燈號轉綠，行人提示聲響起。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Owner 輕握鞍柄說前進，@Tart 卻四腳穩穩停住。\n鏡頭：50mm 人犬側面中景。聲音：主人：{前進。}。結束：@Owner 輕握鞍柄說前進，@Tart 卻四腳穩穩停住。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 轉彎小型貨車在二者前方道路通過；鏡頭保持他們在人行道內。\n鏡頭：35mm 一個連貫側面全景。聲音：車輪声；音樂收住，沒有撞擊。結束：轉彎小型貨車在二者前方道路通過；鏡頭保持他們在人行道內。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+  "submitted_prompt": "SCENE CONTEXT\n@Image1 在行人燈允許前進時，察覺轉彎車仍接近。\n本章是600秒電影中的第18段，電影絕對時間340-360秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image1 與 @Image2 停在路沿後，燈號轉綠，行人提示聲響起。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image1 與 @Image2 停在路沿後，燈號轉綠，行人提示聲響起。\n鏡頭：35mm 側面寬景看清路沿。聲音：行人提示聲、街聲。結束：@Image1 與 @Image2 停在路沿後，燈號轉綠，行人提示聲響起。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image2 輕握鞍柄說前進，@Image1 卻四腳穩穩停住。\n鏡頭：50mm 人犬側面中景。聲音：主人：{前進。}。結束：@Image2 輕握鞍柄說前進，@Image1 卻四腳穩穩停住。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 轉彎小型貨車在二者前方道路通過；鏡頭保持他們在人行道內。\n鏡頭：35mm 一個連貫側面全景。聲音：車輪声；音樂收住，沒有撞擊。結束：轉彎小型貨車在二者前方道路通過；鏡頭保持他們在人行道內。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+  "bindings": [
+    {
+      "tag": "@Tart",
+      "reference_token": "@Image1",
+      "path": "assets/asset_tart/adult-reference.png",
+      "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+      "role": "reference_image"
+    },
+    {
+      "tag": "@Owner",
+      "reference_token": "@Image2",
+      "path": "assets/asset_owner/owner_c02.png",
+      "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+      "role": "reference_image"
+    },
+    {
+      "tag": "@street",
+      "reference_token": "@Image3",
+      "path": "assets/asset_street/street_c01.png",
+      "sha256": "ba069d05a07bb66b5c060041df64ab08c127450334bcf109b7800c37903b0cf8",
+      "role": "reference_image"
+    }
+  ],
+  "duration": 20,
+  "resolution": "720p",
+  "aspect_ratio": "21:9",
+  "model": "Seedance 2.5",
+  "settings": {
+    "duration": 20,
+    "ratio": "21:9",
+    "resolution": "720p",
+    "generate_audio": true,
+    "watermark": false,
+    "return_last_frame": true,
+    "output_format": "mp4",
+    "omni_reference_task_type": "reference",
+    "seed": 814118
+  },
+  "request_bytes": 8990607
+}

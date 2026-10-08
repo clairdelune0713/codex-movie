@@ -1,0 +1,245 @@
+{
+  "method": "Human-like model visual review of six extracted source frames per selected take, plus extra van-crossing samples and post-composite title previews. Technical full decode of each selected take. Not an every-frame or speech-transcription audit.",
+  "selected_takes": [
+    {
+      "chapter": "chapter_01",
+      "take": "chapter_01_take01",
+      "contact_path": "chapters/chapter_01/screenshots/chapter_01_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_02",
+      "take": "chapter_02_take01",
+      "contact_path": "chapters/chapter_02/screenshots/chapter_02_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_03",
+      "take": "chapter_03_take01",
+      "contact_path": "chapters/chapter_03/screenshots/chapter_03_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_04",
+      "take": "chapter_04_take01",
+      "contact_path": "chapters/chapter_04/screenshots/chapter_04_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_05",
+      "take": "chapter_05_take01",
+      "contact_path": "chapters/chapter_05/screenshots/chapter_05_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_06",
+      "take": "chapter_06_take02",
+      "contact_path": "chapters/chapter_06/screenshots/chapter_06_take02_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_07",
+      "take": "chapter_07_take01",
+      "contact_path": "chapters/chapter_07/screenshots/chapter_07_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_08",
+      "take": "chapter_08_take01",
+      "contact_path": "chapters/chapter_08/screenshots/chapter_08_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_09",
+      "take": "chapter_09_take01",
+      "contact_path": "chapters/chapter_09/screenshots/chapter_09_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_10",
+      "take": "chapter_10_take02",
+      "contact_path": "chapters/chapter_10/screenshots/chapter_10_take02_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_11",
+      "take": "chapter_11_take01",
+      "contact_path": "chapters/chapter_11/screenshots/chapter_11_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_12",
+      "take": "chapter_12_take01",
+      "contact_path": "chapters/chapter_12/screenshots/chapter_12_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_13",
+      "take": "chapter_13_take02",
+      "contact_path": "chapters/chapter_13/screenshots/chapter_13_take02_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_14",
+      "take": "chapter_14_take01",
+      "contact_path": "chapters/chapter_14/screenshots/chapter_14_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_15",
+      "take": "chapter_15_take01",
+      "contact_path": "chapters/chapter_15/screenshots/chapter_15_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_16",
+      "take": "chapter_16_take01",
+      "contact_path": "chapters/chapter_16/screenshots/chapter_16_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_17",
+      "take": "chapter_17_take02",
+      "contact_path": "chapters/chapter_17/screenshots/chapter_17_take02_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_18",
+      "take": "chapter_18_take01",
+      "contact_path": "chapters/chapter_18/screenshots/chapter_18_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_19",
+      "take": "chapter_19_take01",
+      "contact_path": "chapters/chapter_19/screenshots/chapter_19_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_20",
+      "take": "chapter_20_take01",
+      "contact_path": "chapters/chapter_20/screenshots/chapter_20_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_21",
+      "take": "chapter_21_take02",
+      "contact_path": "chapters/chapter_21/screenshots/chapter_21_take02_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_22",
+      "take": "chapter_22_take01",
+      "contact_path": "chapters/chapter_22/screenshots/chapter_22_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_23",
+      "take": "chapter_23_take01",
+      "contact_path": "chapters/chapter_23/screenshots/chapter_23_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_24",
+      "take": "chapter_24_take01",
+      "contact_path": "chapters/chapter_24/screenshots/chapter_24_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_25",
+      "take": "chapter_25_take01",
+      "contact_path": "chapters/chapter_25/screenshots/chapter_25_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_26",
+      "take": "chapter_26_take01",
+      "contact_path": "chapters/chapter_26/screenshots/chapter_26_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_27",
+      "take": "chapter_27_take01",
+      "contact_path": "chapters/chapter_27/screenshots/chapter_27_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_28",
+      "take": "chapter_28_take01",
+      "contact_path": "chapters/chapter_28/screenshots/chapter_28_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_29",
+      "take": "chapter_29_take01",
+      "contact_path": "chapters/chapter_29/screenshots/chapter_29_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    },
+    {
+      "chapter": "chapter_30",
+      "take": "chapter_30_take01",
+      "contact_path": "chapters/chapter_30/screenshots/chapter_30_take01_contact.jpg",
+      "frames_reviewed": 6,
+      "dependency_current": true
+    }
+  ],
+  "technical_checks": {
+    "requested_api_profile": "720p",
+    "native_dimensions": [
+      1470,
+      630
+    ],
+    "aspect_ratio": "21:9",
+    "source_audio_present": true,
+    "reference_storyboards_sent": 0,
+    "author_name_in_selected_prompts_or_titles": false
+  },
+  "corrections": [
+    "Replaced ferry take that prematurely placed both dogs together; reduced active references to Tine, handler and empty pier.",
+    "Replaced confirmed audio-filter failures in chapters 6,13,21 with location ambience/Foley.",
+    "Covered unsolicited generated closing-footer lettering with a dark lower band; native dimensions retained."
+  ],
+  "observed_limits": [
+    "Vest lettering, harness shape, heart-patch placement and minor body/costume details vary between some shots.",
+    "Opening Hong Kong establishing montage shifts from morning to night before the daytime work scenes.",
+    "Human dialogue was directed in Cantonese; exact spoken wording has not been independently transcribed.",
+    "Native scene audio and music may vary in tone across cuts; final loudness normalized, with short edge fades."
+  ],
+  "final_file_review": {
+    "reviewed": true,
+    "overview": "exports/final-review/final-overview.jpg",
+    "opening_title": "exports/final-review/chapter_02_final.jpg",
+    "shared_origin_text": "exports/final-review/chapter_25_final.jpg",
+    "closing_title": "exports/final-review/chapter_30_final.jpg",
+    "caption_cover_verified": true
+  }
+}

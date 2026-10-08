@@ -1,0 +1,52 @@
+{
+  "id": "chapter_21_take01",
+  "take_id": "chapter_21_take01",
+  "chapter_id": "chapter_21",
+  "take_number": 1,
+  "status": "pending",
+  "submission_state": "not_submitted",
+  "created_at": "2026-10-08T10:07:57.856660+00:00",
+  "source_revision": 13,
+  "dependency_fingerprint": "8522258b6859094365139233678477a2d7a6ee87ee14bb6f60d11b5e292fe68c",
+  "prompt": "SCENE CONTEXT\n夜幕降下，@Owner 为 @Tart 解下導盲鞍。\n本章是600秒電影中的第21段，電影絕對時間400-420秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\n溫暖圓潤有重量的原創3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色；本章沒有配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tart：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Owner：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@harbour：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@harbour：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：藍調傍晚海旁，@Owner 坐左側長椅，@Tart 在左腿旁站穩。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 藍調傍晚海旁，@Owner 坐左側長椅，@Tart 在左腿旁站穩。\n鏡頭：35mm 人犬中景。聲音：海風、遠處渡輪。結束：藍調傍晚海旁，@Owner 坐左側長椅，@Tart 在左腿旁站穩。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Owner 放下鞍柄，解扣並完整取下黑色導盲鞍；橙背心仍在狗身上。\n鏡頭：65mm 手與背部。聲音：清晰一聲 Click，呼應開場。結束：@Owner 放下鞍柄，解扣並完整取下黑色導盲鞍；橙背心仍在狗身上。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Tart 肩膀放鬆，耳朵垂軟，戴日常牽繩在主人腳旁坐下。\n鏡頭：65mm 狗表情近景。聲音：鬆鼻息、海浪與海風。結束：@Tart 肩膀放鬆，耳朵垂軟，戴日常牽繩在主人腳旁坐下。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n只有上文逐鏡頭的自然環境聲與動作Foley：海浪、海風、通風、車門、列車與犬呼吸依地點使用。無音樂、無旋律、無人類或犬台詞、無字幕。扣具聲為單聲原創Click。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+  "submitted_prompt": "SCENE CONTEXT\n夜幕降下，@Image2 为 @Image1 解下導盲鞍。\n本章是600秒電影中的第21段，電影絕對時間400-420秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\n溫暖圓潤有重量的原創3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色；本章沒有配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年米金色拉布拉多蛋撻；柔軟垂耳、黑棕鼻、深色大眼、橙色灰邊背心與藍圓章；工作時在背心外穿黑色導盲鞍，夜晚解除。成年比例照使用者附圖，冷靜專注。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：38歲香港華裔視障男士；整齊短黑髮、透明矩形眼鏡、青綠polo、米色長褲、海軍藍運動鞋。生活獨立、與Tart互信，尊嚴自然。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：尖沙咀維港海旁：石鋪地、右側水平金屬護欄、左側長椅、遠處香港島天際線、開放海面。參考圖幾何一致；早晨暖光，重逢藍調入夜。空場無狗無人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3：犬坐海旁前景，左側長椅、右側護欄、後景海面與香港島；不跳進水。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：藍調傍晚海旁，@Image2 坐左側長椅，@Image1 在左腿旁站穩。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 藍調傍晚海旁，@Image2 坐左側長椅，@Image1 在左腿旁站穩。\n鏡頭：35mm 人犬中景。聲音：海風、遠處渡輪。結束：藍調傍晚海旁，@Image2 坐左側長椅，@Image1 在左腿旁站穩。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image2 放下鞍柄，解扣並完整取下黑色導盲鞍；橙背心仍在狗身上。\n鏡頭：65mm 手與背部。聲音：清晰一聲 Click，呼應開場。結束：@Image2 放下鞍柄，解扣並完整取下黑色導盲鞍；橙背心仍在狗身上。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image1 肩膀放鬆，耳朵垂軟，戴日常牽繩在主人腳旁坐下。\n鏡頭：65mm 狗表情近景。聲音：鬆鼻息、海浪與海風。結束：@Image1 肩膀放鬆，耳朵垂軟，戴日常牽繩在主人腳旁坐下。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n藍調夜色、左側暖城市窗光、海面微反射；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n只有上文逐鏡頭的自然環境聲與動作Foley：海浪、海風、通風、車門、列車與犬呼吸依地點使用。無音樂、無旋律、無人類或犬台詞、無字幕。扣具聲為單聲原創Click。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+  "bindings": [
+    {
+      "tag": "@Tart",
+      "reference_token": "@Image1",
+      "path": "assets/asset_tart/adult-reference.png",
+      "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+      "role": "reference_image"
+    },
+    {
+      "tag": "@Owner",
+      "reference_token": "@Image2",
+      "path": "assets/asset_owner/owner_c02.png",
+      "sha256": "6804eb876af57e9115a98b77f4a0520dc8a8014567bfedfdfc39cc8e6a55273a",
+      "role": "reference_image"
+    },
+    {
+      "tag": "@harbour",
+      "reference_token": "@Image3",
+      "path": "assets/asset_harbour/harbour_c01.png",
+      "sha256": "5a5c8ce97f9bdd86d8eb948dc973d21326e5b547fdd22796129906b8aceef5f6",
+      "role": "reference_image"
+    }
+  ],
+  "duration": 20,
+  "resolution": "720p",
+  "aspect_ratio": "21:9",
+  "model": "Seedance 2.5",
+  "settings": {
+    "duration": 20,
+    "ratio": "21:9",
+    "resolution": "720p",
+    "generate_audio": true,
+    "watermark": false,
+    "return_last_frame": true,
+    "output_format": "mp4",
+    "omni_reference_task_type": "reference",
+    "seed": 814121
+  },
+  "request_bytes": 8804703
+}

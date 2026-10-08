@@ -1,6 +1,6 @@
 # Direct Seedance 2.5 generation
 
-This route produced six successful 10-second, native 480p clips with five image references and audio on 2026-10-08. It describes the verified BytePlus regional route, not every Volcengine deployment. Recheck provider capabilities when the model, region or API version changes. Keep this guide free of credential values, account/project names and real endpoint IDs.
+This authentication and task route produced six successful 10-second, native 480p clips with image references and audio on 2026-10-08. It describes the verified BytePlus regional route, not every Volcengine deployment. Recheck provider capabilities when the model, region or API version changes. Keep this guide free of credential values, account/project names and real endpoint IDs. Reference construction follows Movi2: text prompt plus selected assets, with no storyboard dependency or upload.
 
 ## Settings and source implementation
 
@@ -73,7 +73,7 @@ For signing uncertainty, compare against the actual AIFX helper using synthetic 
 
 ## Reference mode and request configuration
 
-Write the prompt using [seedance-prompts.md](seedance-prompts.md). Save a deterministic ordered asset-to-reference binding table. Supported inline image inputs avoid unnecessary buckets and app uploads:
+Write the prompt using [seedance-prompts.md](seedance-prompts.md). Build the content list from one text item and the selected active assets, plus any explicitly supplied supported reference materials. Save a deterministic ordered asset-to-reference binding table. Do not read `selected_storyboard_id` to construct a request, append chapter storyboard files, or require a storyboard to exist. Do not copy an earlier project-specific adapter's automatic storyboard append behavior. Supported inline image inputs avoid unnecessary buckets and app uploads:
 
 ```json
 {
@@ -96,9 +96,9 @@ Write the prompt using [seedance-prompts.md](seedance-prompts.md). Save a determ
 
 This is an example, not a fixed project recipe. Honor requested duration, ratio, resolution and audio; omit unsupported optional fields for other provider modes. Use the actual image MIME type. Preserve complete-tag matching so `@Tom` cannot capture `@Tom-hat`. Canonical project tags remain unchanged; save the translated prompt separately. Do not log or store base64 payloads just to record reference provenance: local paths, SHA-256 hashes, roles and bindings suffice.
 
-The documented Seedance 2.5 profile consulted for this run allowed 4–30 seconds and 1–30 reference images, with 30 MB per image and 64 MB for the whole request. Check current documentation before assuming these limits; count serialized base64 JSON bytes, not just raw image sizes. Five references in the successful run produced approximately 15 MB requests. At `16:9`, `480p` produced actual `854×480` video. Resolution is a structured API field, not merely prompt text.
+The documented Seedance 2.5 profile consulted for this run allowed 4–30 seconds and 1–30 reference images, with 30 MB per image and 64 MB for the whole request. Check current documentation before assuming these limits; count serialized base64 JSON bytes, not just raw image sizes. Reference count follows the chapter's actual linked assets and supplied materials; do not add a fifth image or any fixed-count filler. At `16:9`, `480p` produced actual `854×480` video. Resolution is a structured API field, not merely prompt text.
 
-Omni `reference_image` inputs guide identity/composition; they are not exact first frames. First/last-frame generation is a separate supported mode and must not be mixed with omni roles when the current API excludes that combination. `return_last_frame` requests an output image and is distinct from supplying an input last frame. Character sheets represent one subject; storyboard references supply sequence/composition only, with explicit full-screen moving-video instructions.
+Omni `reference_image` inputs guide asset identity and applicable geometry/composition; they are not exact first frames. First/last-frame generation is a separate supported mode and must not be mixed with omni roles when the current API excludes that combination. Use deliberately supplied frame assets for that mode, not storyboard previews. `return_last_frame` requests an output image and is distinct from supplying an input last frame. Character sheets represent one subject. Shot sequence and composition direction come from the cinematic text prompt.
 
 ## Submit once, poll, retain takes
 

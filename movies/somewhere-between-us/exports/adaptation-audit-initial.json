@@ -1,0 +1,36 @@
+{
+  "duration": 600,
+  "chapters": 30,
+  "shots": 90,
+  "story_events_preserved": [
+    "Victoria to Victoria Harbour",
+    "Tart guide-dog harness",
+    "cafe food restraint",
+    "Tine elderly connection and exact source dialogue",
+    "tram/MTR/street/ferry near misses",
+    "intelligent refusal at crossing",
+    "elder calls Tine",
+    "harness click release",
+    "quiet mutual recognition",
+    "same Victoria dog farm revelation",
+    "puppy flashback",
+    "different paths match cut",
+    "shared final posture"
+  ],
+  "source_author": "Irene Chan 09092026",
+  "runtime_override": "User 10 minutes replaces source 30 minutes",
+  "supporting_sources_are_plot_only": true,
+  "storyboard_inputs": 0,
+  "readable_text_strategy": "Composite title, provenance records and source closing lines in postproduction",
+  "output_goal": {
+    "resolution_label": "720p",
+    "width": 1680,
+    "height": 720,
+    "aspect_ratio": "21:9",
+    "fps": 30,
+    "duration_seconds": 600,
+    "frame_count": 18000,
+    "audio_channels": 2,
+    "audio_sample_rate": 48000
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "chapter_01_take01",
+  "take_id": "chapter_01_take01",
+  "chapter_id": "chapter_01",
+  "take_number": 1,
+  "status": "pending",
+  "submission_state": "not_submitted",
+  "created_at": "2026-10-08T10:07:54.944215+00:00",
+  "source_revision": 13,
+  "dependency_fingerprint": "92ebcf44b0e4b759626e6dbaa45efbfe965bd1e09ebe194121ffb9f6c412ab6c",
+  "prompt": "SCENE CONTEXT\n清晨草原，幼犬聲只在遠處，暫不揭示兩犬共同身世。\n本章是600秒電影中的第1段，電影絕對時間0-20秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@farm：澳洲Victoria犬舍草原：晨曦從左側、露水草葉、低木籬笆、遠處淺色木犬舍、柔弧山丘。開場和回憶同一幾何；沒有幼犬在空場參考圖中。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@farm：草原前景左與右，中間留空；晨光左側。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：露水草葉沿左至右被風吹動；低鏡頭緩緩前進。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 露水草葉沿左至右被風吹動；低鏡頭緩緩前進。\n鏡頭：24mm 草地微距轉遠景。聲音：風、遠處幼犬叫聲。結束：露水草葉沿左至右被風吹動；低鏡頭緩緩前進。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 澳洲 Victoria 的草原在日出中展開，遠處犬舍仍朦朧。\n鏡頭：35mm 固定大全景。聲音：獨奏鋼琴兩音主題。結束：澳洲 Victoria 的草原在日出中展開，遠處犬舍仍朦朧。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 草浪的節奏接上維港水面的波紋；最後一秒穩定海面。\n鏡頭：50mm 草浪特寫，明確 match cut 至海浪。聲音：草風轉海風，幼犬声淡出。結束：草浪的節奏接上維港水面的波紋；最後一秒穩定海面。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+  "submitted_prompt": "SCENE CONTEXT\n清晨草原，幼犬聲只在遠處，暫不揭示兩犬共同身世。\n本章是600秒電影中的第1段，電影絕對時間0-20秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：澳洲Victoria犬舍草原：晨曦從左側、露水草葉、低木籬笆、遠處淺色木犬舍、柔弧山丘。開場和回憶同一幾何；沒有幼犬在空場參考圖中。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image1：草原前景左與右，中間留空；晨光左側。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：露水草葉沿左至右被風吹動；低鏡頭緩緩前進。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 露水草葉沿左至右被風吹動；低鏡頭緩緩前進。\n鏡頭：24mm 草地微距轉遠景。聲音：風、遠處幼犬叫聲。結束：露水草葉沿左至右被風吹動；低鏡頭緩緩前進。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): 澳洲 Victoria 的草原在日出中展開，遠處犬舍仍朦朧。\n鏡頭：35mm 固定大全景。聲音：獨奏鋼琴兩音主題。結束：澳洲 Victoria 的草原在日出中展開，遠處犬舍仍朦朧。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): 草浪的節奏接上維港水面的波紋；最後一秒穩定海面。\n鏡頭：50mm 草浪特寫，明確 match cut 至海浪。聲音：草風轉海風，幼犬声淡出。結束：草浪的節奏接上維港水面的波紋；最後一秒穩定海面。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+  "bindings": [
+    {
+      "tag": "@farm",
+      "reference_token": "@Image1",
+      "path": "assets/asset_farm/farm_c01.png",
+      "sha256": "e5f4e8a708e3fc5811e7819598c8ebacd2a6f46c8eb792fb2b74f12e0adcb6fb",
+      "role": "reference_image"
+    }
+  ],
+  "duration": 20,
+  "resolution": "720p",
+  "aspect_ratio": "21:9",
+  "model": "Seedance 2.5",
+  "settings": {
+    "duration": 20,
+    "ratio": "21:9",
+    "resolution": "720p",
+    "generate_audio": true,
+    "watermark": false,
+    "return_last_frame": true,
+    "output_format": "mp4",
+    "omni_reference_task_type": "reference",
+    "seed": 814101
+  },
+  "request_bytes": 3998572
+}

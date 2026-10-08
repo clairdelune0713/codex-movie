@@ -1,0 +1,59 @@
+{
+  "id": "chapter_08_take01",
+  "take_id": "chapter_08_take01",
+  "chapter_id": "chapter_08",
+  "take_number": 1,
+  "status": "pending",
+  "submission_state": "not_submitted",
+  "created_at": "2026-10-08T10:07:55.816861+00:00",
+  "source_revision": 13,
+  "dependency_fingerprint": "5cf927d4627ebd4765de0f04dd2c0f6b5e6d92fe9bf8a5bf612742769787fba2",
+  "prompt": "SCENE CONTEXT\n@Elder 留在窗邊角落，拒絕與熱鬧連結。\n本章是600秒電影中的第8段，電影絕對時間140-160秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Elder：78歲香港華裔老人；稀疏銀髮、銀細框眼鏡、灰藍開襟衫、米色有領襯衣、炭色長褲、深色鞋。從疏離到微小主動，沒有誇張奇蹟式表演。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@centre：社區長者中心：米白牆、右側大窗與安靜角落椅、左侧入口、中間分散椅子、低書架，右側暖窗光；空場無人狗。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@centre：入口左、活動人群中、窗與老人椅右；犬靠近时留下可選擇距離。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Elder 坐在畫面右側窗邊，其他訪客活動在模糊遠景左側。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Elder 坐在畫面右側窗邊，其他訪客活動在模糊遠景左側。\n鏡頭：65mm 老人近景。聲音：人語退遠，單音鋼琴。結束：@Elder 坐在畫面右側窗邊，其他訪客活動在模糊遠景左側。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Handler 禮貌問是否想見 @Tine，@Elder 目光仍向窗外。\n鏡頭：50mm 斜側雙人鏡頭。聲音：老人低聲：{我不喜歡狗。}。結束：@Handler 禮貌問是否想見 @Tine，@Elder 目光仍向窗外。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Tine 原本輕搖的尾巴停慢，望望老人後收住步伐。\n鏡頭：85mm 狗表情特寫。聲音：呼吸、室內風聲。結束：@Tine 原本輕搖的尾巴停慢，望望老人後收住步伐。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+  "submitted_prompt": "SCENE CONTEXT\n@Image3 留在窗邊角落，拒絕與熱鬧連結。\n本章是600秒電影中的第8段，電影絕對時間140-160秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：78歲香港華裔老人；稀疏銀髮、銀細框眼鏡、灰藍開襟衫、米色有領襯衣、炭色長褲、深色鞋。從疏離到微小主動，沒有誇張奇蹟式表演。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image4：社區長者中心：米白牆、右側大窗與安靜角落椅、左侧入口、中間分散椅子、低書架，右側暖窗光；空場無人狗。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image4：入口左、活動人群中、窗與老人椅右；犬靠近时留下可選擇距離。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：@Image3 坐在畫面右側窗邊，其他訪客活動在模糊遠景左側。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): @Image3 坐在畫面右側窗邊，其他訪客活動在模糊遠景左側。\n鏡頭：65mm 老人近景。聲音：人語退遠，單音鋼琴。結束：@Image3 坐在畫面右側窗邊，其他訪客活動在模糊遠景左側。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image2 禮貌問是否想見 @Image1，@Image3 目光仍向窗外。\n鏡頭：50mm 斜側雙人鏡頭。聲音：老人低聲：{我不喜歡狗。}。結束：@Image2 禮貌問是否想見 @Image1，@Image3 目光仍向窗外。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image1 原本輕搖的尾巴停慢，望望老人後收住步伐。\n鏡頭：85mm 狗表情特寫。聲音：呼吸、室內風聲。結束：@Image1 原本輕搖的尾巴停慢，望望老人後收住步伐。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+  "bindings": [
+    {
+      "tag": "@Tine",
+      "reference_token": "@Image1",
+      "path": "assets/asset_tine/adult-reference.png",
+      "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+      "role": "reference_image"
+    },
+    {
+      "tag": "@Handler",
+      "reference_token": "@Image2",
+      "path": "assets/asset_handler/handler_c02.png",
+      "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+      "role": "reference_image"
+    },
+    {
+      "tag": "@Elder",
+      "reference_token": "@Image3",
+      "path": "assets/asset_elder/elder_c02.png",
+      "sha256": "62c24558c9441266b0cdea4f5a6176a5db1cc56d780572243a639e5ca21da8fa",
+      "role": "reference_image"
+    },
+    {
+      "tag": "@centre",
+      "reference_token": "@Image4",
+      "path": "assets/asset_centre/centre_c01.png",
+      "sha256": "189ea6ce55c3c6f26fa741d3d83fd2a125810c6867f15ec5f544f7f6f2a5438b",
+      "role": "reference_image"
+    }
+  ],
+  "duration": 20,
+  "resolution": "720p",
+  "aspect_ratio": "21:9",
+  "model": "Seedance 2.5",
+  "settings": {
+    "duration": 20,
+    "ratio": "21:9",
+    "resolution": "720p",
+    "generate_audio": true,
+    "watermark": false,
+    "return_last_frame": true,
+    "output_format": "mp4",
+    "omni_reference_task_type": "reference",
+    "seed": 814108
+  },
+  "request_bytes": 11624726
+}

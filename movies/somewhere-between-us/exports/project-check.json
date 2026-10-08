@@ -1,0 +1,321 @@
+{
+  "project": "SOMEWHERE BETWEEN US｜我們之間",
+  "revision": 14,
+  "duration": 600,
+  "errors": [],
+  "warnings": [],
+  "artifacts": [
+    {
+      "owner": "@Tart",
+      "kind": "candidate",
+      "id": "tart_adult_ref01",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "@Tine",
+      "kind": "candidate",
+      "id": "tine_adult_ref01",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "@BabyTart",
+      "kind": "candidate",
+      "id": "babytart_c01",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "@BabyTine",
+      "kind": "candidate",
+      "id": "babytine_c01",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "@Owner",
+      "kind": "candidate",
+      "id": "owner_c01",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "@Owner",
+      "kind": "candidate",
+      "id": "owner_c02",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "@Handler",
+      "kind": "candidate",
+      "id": "handler_c01",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "@Handler",
+      "kind": "candidate",
+      "id": "handler_c02",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "@Elder",
+      "kind": "candidate",
+      "id": "elder_c01",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "@Elder",
+      "kind": "candidate",
+      "id": "elder_c02",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "@farm",
+      "kind": "candidate",
+      "id": "farm_c01",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "@harbour",
+      "kind": "candidate",
+      "id": "harbour_c01",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "@street",
+      "kind": "candidate",
+      "id": "street_c01",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "@cafe",
+      "kind": "candidate",
+      "id": "cafe_c01",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "@centre",
+      "kind": "candidate",
+      "id": "centre_c01",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "@mtr",
+      "kind": "candidate",
+      "id": "mtr_c01",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "@pier",
+      "kind": "candidate",
+      "id": "pier_c01",
+      "freshness": "unknown"
+    },
+    {
+      "owner": "chapter_01",
+      "kind": "takes",
+      "id": "chapter_01_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_02",
+      "kind": "takes",
+      "id": "chapter_02_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_03",
+      "kind": "takes",
+      "id": "chapter_03_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_04",
+      "kind": "takes",
+      "id": "chapter_04_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_05",
+      "kind": "takes",
+      "id": "chapter_05_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_06",
+      "kind": "takes",
+      "id": "chapter_06_take01",
+      "freshness": "stale"
+    },
+    {
+      "owner": "chapter_06",
+      "kind": "takes",
+      "id": "chapter_06_take02",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_07",
+      "kind": "takes",
+      "id": "chapter_07_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_08",
+      "kind": "takes",
+      "id": "chapter_08_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_09",
+      "kind": "takes",
+      "id": "chapter_09_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_10",
+      "kind": "takes",
+      "id": "chapter_10_take01",
+      "freshness": "stale"
+    },
+    {
+      "owner": "chapter_10",
+      "kind": "takes",
+      "id": "chapter_10_take02",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_11",
+      "kind": "takes",
+      "id": "chapter_11_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_12",
+      "kind": "takes",
+      "id": "chapter_12_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_13",
+      "kind": "takes",
+      "id": "chapter_13_take01",
+      "freshness": "stale"
+    },
+    {
+      "owner": "chapter_13",
+      "kind": "takes",
+      "id": "chapter_13_take02",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_14",
+      "kind": "takes",
+      "id": "chapter_14_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_15",
+      "kind": "takes",
+      "id": "chapter_15_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_16",
+      "kind": "takes",
+      "id": "chapter_16_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_17",
+      "kind": "takes",
+      "id": "chapter_17_take01",
+      "freshness": "stale"
+    },
+    {
+      "owner": "chapter_17",
+      "kind": "takes",
+      "id": "chapter_17_take02",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_18",
+      "kind": "takes",
+      "id": "chapter_18_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_19",
+      "kind": "takes",
+      "id": "chapter_19_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_20",
+      "kind": "takes",
+      "id": "chapter_20_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_21",
+      "kind": "takes",
+      "id": "chapter_21_take01",
+      "freshness": "stale"
+    },
+    {
+      "owner": "chapter_21",
+      "kind": "takes",
+      "id": "chapter_21_take02",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_22",
+      "kind": "takes",
+      "id": "chapter_22_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_23",
+      "kind": "takes",
+      "id": "chapter_23_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_24",
+      "kind": "takes",
+      "id": "chapter_24_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_25",
+      "kind": "takes",
+      "id": "chapter_25_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_26",
+      "kind": "takes",
+      "id": "chapter_26_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_27",
+      "kind": "takes",
+      "id": "chapter_27_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_28",
+      "kind": "takes",
+      "id": "chapter_28_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_29",
+      "kind": "takes",
+      "id": "chapter_29_take01",
+      "freshness": "current"
+    },
+    {
+      "owner": "chapter_30",
+      "kind": "takes",
+      "id": "chapter_30_take01",
+      "freshness": "current"
+    }
+  ]
+}

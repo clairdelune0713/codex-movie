@@ -1,0 +1,52 @@
+{
+  "id": "chapter_15_take01",
+  "take_id": "chapter_15_take01",
+  "chapter_id": "chapter_15",
+  "take_number": 1,
+  "status": "pending",
+  "submission_state": "not_submitted",
+  "created_at": "2026-10-08T10:07:57.119705+00:00",
+  "source_revision": 13,
+  "dependency_fingerprint": "efbea993c54f12c6855d5374dd31a62824759ab33e6fff13a2ef1f8b03644c4b",
+  "prompt": "SCENE CONTEXT\n同樣的錯認，兩隻狗有完全不同的反應。\n本章是600秒電影中的第15段，電影絕對時間280-300秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Tine：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Handler：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@street：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@street：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：硬切稍晚同街另一店外，店員看見 @Tine 與 @Handler。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 硬切稍晚同街另一店外，店員看見 @Tine 與 @Handler。\n鏡頭：50mm 中景。聲音：店員：{蛋撻！}。結束：硬切稍晚同街另一店外，店員看見 @Tine 與 @Handler。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Tine 興奮搖尾巴但留在牽繩可控範圍，向店員笑般眨眼。\n鏡頭：65mm 狗表情近景。聲音：轻拍尾巴、短木管。結束：@Tine 興奮搖尾巴但留在牽繩可控範圍，向店員笑般眨眼。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Handler 笑著說是阿華田，輕鬆牽牠往渡輪方向走。\n鏡頭：35mm 跟拍。聲音：女 handler：{佢係阿華田呀。}。結束：@Handler 笑著說是阿華田，輕鬆牽牠往渡輪方向走。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。",
+  "submitted_prompt": "SCENE CONTEXT\n同樣的錯認，兩隻狗有完全不同的反應。\n本章是600秒電影中的第15段，電影絕對時間280-300秒。\nOUTPUT SETTINGS\n20秒；原生720p；21:9。三個連續計時鏡頭，明確hard cut。真實節奏的細緻3D動畫，無慢動作填時。\nGLOBAL STYLE\nUp般圓潤有重量的3D視覺語言，柔毛、表情眼神與有質感的服飾；原創角色與原創配樂。成年犬保持附圖身材；幼犬只在回憶使用幼犬專用圖。\nACTIVE REFERENCES\n@Image1：成年焦糖棕色拉布拉多阿華田；右後臀淡色心形斑，橙色灰邊背心、藍圓章，成年的體格照附圖。熱情但能讀懂別人的界線；從不在工作情境猛衝人。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image2：32歲香港華裔女治療犬領犬員；下巴長黑bob髮、珊瑚色針織外套、米白T恤、海軍藍長褲、白運動鞋、棕色小斜肩包。尊重人犬界線。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\n@Image3：中環香港街道：寬行人道、行人路沿、斑馬線、雙軌電車、低層店面、遠處高樓；道路與行人區有清楚邊界、街道由左至右。空場無人犬車；交通由提示生成。 參考圖只提供該單一資產身份/材質/幾何，不複製白底、多視角排列或額外主體。\nLOCATION MAP\n@Image3：犬與主人在行人路後方；道路和轉彎車在前景；人犬活動不越過未確認安全的路沿。\nFIRST FRAME AND SPATIAL BLOCKING\n直接以鏡頭一的構圖開始：硬切稍晚同街另一店外，店員看見 @Image1 與 @Image2。。沿用本章地圖及前章的具體結束狀態；地點或時間改变只发生在明確剪輯。\nACTION TIMING\nShot 1 (0s-6s): 硬切稍晚同街另一店外，店員看見 @Image1 與 @Image2。\n鏡頭：50mm 中景。聲音：店員：{蛋撻！}。結束：硬切稍晚同街另一店外，店員看見 @Image1 與 @Image2。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 2 (6s-13s): @Image1 興奮搖尾巴但留在牽繩可控範圍，向店員笑般眨眼。\n鏡頭：65mm 狗表情近景。聲音：轻拍尾巴、短木管。結束：@Image1 興奮搖尾巴但留在牽繩可控範圍，向店員笑般眨眼。；最後一秒保留自然呼吸的穩定剪接姿態。。 Hard cut.\nShot 3 (13s-20s): @Image2 笑著說是阿華田，輕鬆牽牠往渡輪方向走。\n鏡頭：35mm 跟拍。聲音：女 handler：{佢係阿華田呀。}。結束：@Image2 笑著說是阿華田，輕鬆牽牠往渡輪方向走。；最後一秒保留自然呼吸的穩定剪接姿態。。\nOPTICS AND CAMERA\n每鏡頭依上述焦段與機位。頭、鼻、眼與動作接觸可見；犬近景視線高度約0.55米。保持180度軸線，動作不因鏡頭改變位置。\nPHYSICS\n四爪與地面有重量，尾巴根部位置固定；牽繩有鬆度與接觸、鞍柄不穿過手掌。犬不具人手，不說人語。自然眨眼、呼吸和微姿態维持生命感。\nLIGHTING\n左側蜜金柔光、溫暖反射與柔影；同章曝光與光向稳定，保持柔和動畫反射光。\nAUDIO\n逐鏡頭聲音按上文；人類引用花括號內的原句為廣東話對白，合理速度，無字幕。其他角色不即興台詞。原創鋼琴兩音主题，Tart規整節奏、Tine溫暖木管；海港重逢弦樂會合。犬只有呼吸、嗅聞與來源指定犬叫聲，沒有擬人對白。\nCONTINUITY LOCKS\n每個角色只有一個身份；衣服、毛色、身材、Tine右後臀心形斑固定；多視角參考不變成多隻犬。Tart工作鞍從第3章扣上至第21章完整卸下，其後只有橙背心和日常牽繩；沒有佩戴鞍而自由追逐。背景群眾只在敘述指明時出现。\nPOSITIVE CONSTRAINTS\n完整20秒全屏角色動畫；無圖格、參考圖白底、姓名標籤、水印、片中字幕；聲畫有一致時序，最後留自然穩定剪接狀態。\nREFERENCE MODE: These images ground individual identity, costume and empty setting only. The images are NOT exact first frames or storyboards. Generate genuine full-screen character motion. Night harbour plate controls geometry; the chapter lighting overrides plate time of day for morning scenes. No reference-grid reproduction. Human character-sheet front/back/portrait is ONE individual, not three.",
+  "bindings": [
+    {
+      "tag": "@Tine",
+      "reference_token": "@Image1",
+      "path": "assets/asset_tine/adult-reference.png",
+      "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+      "role": "reference_image"
+    },
+    {
+      "tag": "@Handler",
+      "reference_token": "@Image2",
+      "path": "assets/asset_handler/handler_c02.png",
+      "sha256": "ba8abfe59a0e2a770337356d3d27c2b55f87b886443a206790c3c9aa6fc75a4f",
+      "role": "reference_image"
+    },
+    {
+      "tag": "@street",
+      "reference_token": "@Image3",
+      "path": "assets/asset_street/street_c01.png",
+      "sha256": "ba069d05a07bb66b5c060041df64ab08c127450334bcf109b7800c37903b0cf8",
+      "role": "reference_image"
+    }
+  ],
+  "duration": 20,
+  "resolution": "720p",
+  "aspect_ratio": "21:9",
+  "model": "Seedance 2.5",
+  "settings": {
+    "duration": 20,
+    "ratio": "21:9",
+    "resolution": "720p",
+    "generate_audio": true,
+    "watermark": false,
+    "return_last_frame": true,
+    "output_format": "mp4",
+    "omni_reference_task_type": "reference",
+    "seed": 814115
+  },
+  "request_bytes": 8989478
+}

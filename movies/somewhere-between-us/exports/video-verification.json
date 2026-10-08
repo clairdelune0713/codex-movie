@@ -1,0 +1,175 @@
+{
+  "duration_seconds": 600.0,
+  "resolution": [
+    1470,
+    630
+  ],
+  "fps": 30.0,
+  "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1470x630 [SAR 1:1 DAR 7:3], 2277 kb/s, 30 fps, 30 tbr, 15360 tbn (default)",
+  "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s (default)",
+  "decode_verified": true,
+  "frame_count": 18000,
+  "file_bytes": 185917374,
+  "passes": true,
+  "audio_loudness_measured": {
+    "input_i": -22.92,
+    "input_tp": -1.39,
+    "input_lra": 10.2,
+    "input_thresh": -33.25
+  },
+  "final_frame_samples": [
+    {
+      "chapter": 1,
+      "timestamp": 12,
+      "path": "exports/final-review/chapter_01_final.jpg"
+    },
+    {
+      "chapter": 2,
+      "timestamp": 24,
+      "path": "exports/final-review/chapter_02_final.jpg"
+    },
+    {
+      "chapter": 3,
+      "timestamp": 47,
+      "path": "exports/final-review/chapter_03_final.jpg"
+    },
+    {
+      "chapter": 4,
+      "timestamp": 72,
+      "path": "exports/final-review/chapter_04_final.jpg"
+    },
+    {
+      "chapter": 5,
+      "timestamp": 94,
+      "path": "exports/final-review/chapter_05_final.jpg"
+    },
+    {
+      "chapter": 6,
+      "timestamp": 114,
+      "path": "exports/final-review/chapter_06_final.jpg"
+    },
+    {
+      "chapter": 7,
+      "timestamp": 134,
+      "path": "exports/final-review/chapter_07_final.jpg"
+    },
+    {
+      "chapter": 8,
+      "timestamp": 154,
+      "path": "exports/final-review/chapter_08_final.jpg"
+    },
+    {
+      "chapter": 9,
+      "timestamp": 174,
+      "path": "exports/final-review/chapter_09_final.jpg"
+    },
+    {
+      "chapter": 10,
+      "timestamp": 186,
+      "path": "exports/final-review/chapter_10_final.jpg"
+    },
+    {
+      "chapter": 11,
+      "timestamp": 213,
+      "path": "exports/final-review/chapter_11_final.jpg"
+    },
+    {
+      "chapter": 12,
+      "timestamp": 234,
+      "path": "exports/final-review/chapter_12_final.jpg"
+    },
+    {
+      "chapter": 13,
+      "timestamp": 254,
+      "path": "exports/final-review/chapter_13_final.jpg"
+    },
+    {
+      "chapter": 14,
+      "timestamp": 274,
+      "path": "exports/final-review/chapter_14_final.jpg"
+    },
+    {
+      "chapter": 15,
+      "timestamp": 294,
+      "path": "exports/final-review/chapter_15_final.jpg"
+    },
+    {
+      "chapter": 16,
+      "timestamp": 314,
+      "path": "exports/final-review/chapter_16_final.jpg"
+    },
+    {
+      "chapter": 17,
+      "timestamp": 324,
+      "path": "exports/final-review/chapter_17_final.jpg"
+    },
+    {
+      "chapter": 18,
+      "timestamp": 345,
+      "path": "exports/final-review/chapter_18_final.jpg"
+    },
+    {
+      "chapter": 19,
+      "timestamp": 375,
+      "path": "exports/final-review/chapter_19_final.jpg"
+    },
+    {
+      "chapter": 20,
+      "timestamp": 392,
+      "path": "exports/final-review/chapter_20_final.jpg"
+    },
+    {
+      "chapter": 21,
+      "timestamp": 414,
+      "path": "exports/final-review/chapter_21_final.jpg"
+    },
+    {
+      "chapter": 22,
+      "timestamp": 434,
+      "path": "exports/final-review/chapter_22_final.jpg"
+    },
+    {
+      "chapter": 23,
+      "timestamp": 456,
+      "path": "exports/final-review/chapter_23_final.jpg"
+    },
+    {
+      "chapter": 24,
+      "timestamp": 474,
+      "path": "exports/final-review/chapter_24_final.jpg"
+    },
+    {
+      "chapter": 25,
+      "timestamp": 495,
+      "path": "exports/final-review/chapter_25_final.jpg"
+    },
+    {
+      "chapter": 26,
+      "timestamp": 513,
+      "path": "exports/final-review/chapter_26_final.jpg"
+    },
+    {
+      "chapter": 27,
+      "timestamp": 535,
+      "path": "exports/final-review/chapter_27_final.jpg"
+    },
+    {
+      "chapter": 28,
+      "timestamp": 550,
+      "path": "exports/final-review/chapter_28_final.jpg"
+    },
+    {
+      "chapter": 29,
+      "timestamp": 573,
+      "path": "exports/final-review/chapter_29_final.jpg"
+    },
+    {
+      "chapter": 30,
+      "timestamp": 598,
+      "path": "exports/final-review/chapter_30_final.jpg"
+    }
+  ],
+  "final_overview_path": "exports/final-review/final-overview.jpg",
+  "poster_path": "exports/poster.jpg",
+  "sha256": "499b76add9b744000d1ffc84301f2c525153ea07c835a8b51d31b5890b2066ae"
+}

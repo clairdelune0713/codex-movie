@@ -1,0 +1,14 @@
+{
+  "verified_at": "2026-10-08T10:00:10.240257+00:00",
+  "configured_endpoint": "ep-20260807163021-h866v",
+  "resolved_endpoint": "ep-20260807143930-zwn48",
+  "model_reference": {
+    "FoundationModel": {
+      "Name": "dreamina-seedance-2-5",
+      "ModelVersion": "260628"
+    },
+    "CustomModelId": ""
+  },
+  "status": "Running",
+  "credential_values_persisted": false
+}
