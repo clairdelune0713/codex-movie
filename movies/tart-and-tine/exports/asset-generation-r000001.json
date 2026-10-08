@@ -1,0 +1,16 @@
+[
+  {
+    "name": "garden",
+    "prompt": "Use case: stylized-concept. Asset type: empty environment reference plate for a short movie. Generate a cinematic 16:9 wide establishing image of a warm whimsical feature-film 3D puppy training garden inspired by the visual language of Up: rounded shapes, rich teal foliage, honey sunlight, soft shadows, tactile materials, lush simplified geometry. No characters. A stable gravel path runs screen-left to screen-right through an enclosed garden, over a very low little arched wooden training bridge above a shallow DRY gravel bed (no water). Show both ramps clearly, safe bridge height only 20 cm, 1.5 m span, bridge width enough for two puppies, NO railings obscuring action. Near ramp on the left, far ramp on the right. White daisies immediately beside the far ramp, a big rounded oak tree and soft grass farther right. Soft round shrubs and low stone wall enclose background. Late afternoon sun from upper left, warm sky bounce, cheerful inviting mood. Ground-level puppy-height cinematic view, all geography readable, moderate depth of field. Render empty setting only, NO dogs, people, silhouettes, balls, hero props, text, labels, watermarks or franchise characters. This is an original environment for Tart and Tine.",
+    "dependency_fingerprint": "65fecd9bd3a7b51d892f6bb18bc1e0ee1a8b263c49a137c566290431c139f1db",
+    "source_revision": 1,
+    "generated_source": "C:\\Users\\admina\\.codex\\generated_images\\01a11a44-5aa0-70b1-844e-04cc6e09c1c2\\exec-6609257d-cbdd-4fa5-822e-835b0e0868de.png"
+  },
+  {
+    "name": "ball",
+    "prompt": "Use case: stylized-concept. Asset type: prop reference sheet for a warm whimsical feature-film 3D animation inspired by Up. Create ONE small sky-blue rubber training ball on a neutral warm-white studio background, cinematic soft lighting, rounded appealing original design. Matte tactile rubber surface, exactly one narrow cream stripe around its equator. Ball suitable to fit beneath a puppy's forepaw. Single clear hero view, 3/4 slightly above at center, elegant soft contact shadow, enough clean space all around. The ball is round, no face, no letters, no seams resembling a different stripe, no dogs, paws, other props, watermark, grid or labels. Preserve one solid cream stripe and sky-blue color; polished feature-film CGI, not flat vector art.",
+    "dependency_fingerprint": "7726085d018426c0d03aff2c7859a887a9c09a5d047b978db272f22eb89e7113",
+    "source_revision": 1,
+    "generated_source": "C:\\Users\\admina\\.codex\\generated_images\\01a11a44-5aa0-70b1-844e-04cc6e09c1c2\\exec-1dc4062b-545a-4d2c-bcdc-77beb7adad61.png"
+  }
+]

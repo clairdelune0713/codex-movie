@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-10-08T07:33:01.037Z",
+  "next_env_files": [
+    ".env"
+  ],
+  "setting_comparison": [
+    {
+      "name": "VOLC_ACCESS_KEY",
+      "python_matches_dotenv": true,
+      "python_matches_next": true,
+      "python_length": 47,
+      "dotenv_length": 47,
+      "next_length": 47
+    },
+    {
+      "name": "VOLC_SECRET_KEY_RAW",
+      "python_matches_dotenv": true,
+      "python_matches_next": true,
+      "python_length": 60,
+      "dotenv_length": 60,
+      "next_length": 60
+    },
+    {
+      "name": "VOLC_PROJECT_NAME",
+      "python_matches_dotenv": true,
+      "python_matches_next": true,
+      "python_length": 8,
+      "dotenv_length": 8,
+      "next_length": 8
+    },
+    {
+      "name": "VOLC_ENDPOINT_SEEDANCE_25",
+      "python_matches_dotenv": true,
+      "python_matches_next": true,
+      "python_length": 23,
+      "dotenv_length": 23,
+      "next_length": 23
+    }
+  ],
+  "credential_routing_variable_presence": {
+    "VOLC_ACCESS_KEY_M": true,
+    "VOLC_SECRET_KEY_RAW_M": true,
+    "VOLC_PROJECT_NAME_M": true
+  },
+  "values_logged": false
+}

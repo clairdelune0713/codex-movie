@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "a7cbe466192f4a5db2d9233ab7715bbb",
+  "revision": 0,
+  "project_name": "Tart & Tine: A Little Braver Together",
+  "created_at": "2026-10-08T06:50:36.695002+00:00",
+  "updated_at": "2026-10-08T06:50:36.695002+00:00",
+  "source_text": "",
+  "input_mode": "idea",
+  "language": "auto",
+  "high_level_idea": "",
+  "detailed_script": "",
+  "master_prompt_raw": "",
+  "style": {
+    "medium": "cinematic realism",
+    "palette": "",
+    "lighting": "",
+    "constraints": []
+  },
+  "aspect_ratio": "16:9",
+  "duration_mode": "adaptive",
+  "total_duration_target": null,
+  "chapter_limits": {
+    "min": 4,
+    "max": 30
+  },
+  "asset_list": [],
+  "chapters": []
+}

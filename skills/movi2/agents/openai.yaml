@@ -1,0 +1,4 @@
+interface:
+  display_name: "Movi2"
+  short_description: "Iterate cinematic stories, assets, and shots in Codex"
+  default_prompt: "Use $movi2 to turn my story into a local movie project, then iterate on its prompts, assets, and style."

@@ -1,0 +1,186 @@
+{
+  "duration_seconds": 60.02,
+  "resolution": [
+    854,
+    480
+  ],
+  "fps": 30.0,
+  "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480 [SAR 1:1 DAR 427:240], 1856 kb/s, 30 fps, 30 tbr, 15360 tbn (default)",
+  "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 193 kb/s (default)",
+  "decode_verified": true,
+  "frame_count": 1800,
+  "path": "exports/tart-and-tine-60s.mp4",
+  "input_take_ids": [
+    "chapter_01_take01",
+    "chapter_02_take01",
+    "chapter_03_take01",
+    "chapter_04_take01",
+    "chapter_05_take01",
+    "chapter_06_take01"
+  ],
+  "transitions": "Hard video cuts; 40 ms per-chapter audio edge fades; native music/Foley preserved",
+  "native_take_profiles": [
+    {
+      "duration_seconds": 10.08,
+      "resolution": [
+        854,
+        480
+      ],
+      "fps": 24.0,
+      "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 5003 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+      "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 131 kb/s (default)",
+      "decode_verified": true,
+      "frame_count": 241,
+      "audio_max_volume_db": -17.2,
+      "chapter_id": "chapter_01",
+      "take_id": "chapter_01_take01",
+      "samples": [
+        "chapters/chapter_01/screenshots/chapter_01_take01_sample01.png",
+        "chapters/chapter_01/screenshots/chapter_01_take01_sample02.png",
+        "chapters/chapter_01/screenshots/chapter_01_take01_sample03.png",
+        "chapters/chapter_01/screenshots/chapter_01_take01_sample04.png"
+      ],
+      "contact_sheet": "chapters/chapter_01/screenshots/chapter_01_take01_contact.jpg",
+      "motion_difference": [
+        151.53883684621388,
+        164.89926814988291,
+        168.03442866900858
+      ]
+    },
+    {
+      "duration_seconds": 10.08,
+      "resolution": [
+        854,
+        480
+      ],
+      "fps": 24.0,
+      "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 3682 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+      "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 130 kb/s (default)",
+      "decode_verified": true,
+      "frame_count": 241,
+      "audio_max_volume_db": -13.8,
+      "chapter_id": "chapter_02",
+      "take_id": "chapter_02_take01",
+      "samples": [
+        "chapters/chapter_02/screenshots/chapter_02_take01_sample01.png",
+        "chapters/chapter_02/screenshots/chapter_02_take01_sample02.png",
+        "chapters/chapter_02/screenshots/chapter_02_take01_sample03.png",
+        "chapters/chapter_02/screenshots/chapter_02_take01_sample04.png"
+      ],
+      "contact_sheet": "chapters/chapter_02/screenshots/chapter_02_take01_contact.jpg",
+      "motion_difference": [
+        197.00412763466042,
+        179.5801839383294,
+        189.20233948087431
+      ]
+    },
+    {
+      "duration_seconds": 10.08,
+      "resolution": [
+        854,
+        480
+      ],
+      "fps": 24.0,
+      "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 3664 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+      "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 130 kb/s (default)",
+      "decode_verified": true,
+      "frame_count": 241,
+      "audio_max_volume_db": -21.8,
+      "chapter_id": "chapter_03",
+      "take_id": "chapter_03_take01",
+      "samples": [
+        "chapters/chapter_03/screenshots/chapter_03_take01_sample01.png",
+        "chapters/chapter_03/screenshots/chapter_03_take01_sample02.png",
+        "chapters/chapter_03/screenshots/chapter_03_take01_sample03.png",
+        "chapters/chapter_03/screenshots/chapter_03_take01_sample04.png"
+      ],
+      "contact_sheet": "chapters/chapter_03/screenshots/chapter_03_take01_contact.jpg",
+      "motion_difference": [
+        178.46735948477752,
+        153.90764783372364,
+        156.57989851678377
+      ]
+    },
+    {
+      "duration_seconds": 10.08,
+      "resolution": [
+        854,
+        480
+      ],
+      "fps": 24.0,
+      "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 4853 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+      "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 128 kb/s (default)",
+      "decode_verified": true,
+      "frame_count": 241,
+      "audio_max_volume_db": -2.9,
+      "chapter_id": "chapter_04",
+      "take_id": "chapter_04_take01",
+      "samples": [
+        "chapters/chapter_04/screenshots/chapter_04_take01_sample01.png",
+        "chapters/chapter_04/screenshots/chapter_04_take01_sample02.png",
+        "chapters/chapter_04/screenshots/chapter_04_take01_sample03.png",
+        "chapters/chapter_04/screenshots/chapter_04_take01_sample04.png"
+      ],
+      "contact_sheet": "chapters/chapter_04/screenshots/chapter_04_take01_contact.jpg",
+      "motion_difference": [
+        190.57676131928181,
+        192.46707406323185,
+        183.50298838797812
+      ]
+    },
+    {
+      "duration_seconds": 10.08,
+      "resolution": [
+        854,
+        480
+      ],
+      "fps": 24.0,
+      "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 5521 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+      "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 131 kb/s (default)",
+      "decode_verified": true,
+      "frame_count": 241,
+      "audio_max_volume_db": -9.7,
+      "chapter_id": "chapter_05",
+      "take_id": "chapter_05_take01",
+      "samples": [
+        "chapters/chapter_05/screenshots/chapter_05_take01_sample01.png",
+        "chapters/chapter_05/screenshots/chapter_05_take01_sample02.png",
+        "chapters/chapter_05/screenshots/chapter_05_take01_sample03.png",
+        "chapters/chapter_05/screenshots/chapter_05_take01_sample04.png"
+      ],
+      "contact_sheet": "chapters/chapter_05/screenshots/chapter_05_take01_contact.jpg",
+      "motion_difference": [
+        172.56133879781422,
+        162.02290202966432,
+        196.76939402810305
+      ]
+    },
+    {
+      "duration_seconds": 10.08,
+      "resolution": [
+        854,
+        480
+      ],
+      "fps": 24.0,
+      "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 3373 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+      "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 130 kb/s (default)",
+      "decode_verified": true,
+      "frame_count": 241,
+      "audio_max_volume_db": -19.7,
+      "chapter_id": "chapter_06",
+      "take_id": "chapter_06_take01",
+      "samples": [
+        "chapters/chapter_06/screenshots/chapter_06_take01_sample01.png",
+        "chapters/chapter_06/screenshots/chapter_06_take01_sample02.png",
+        "chapters/chapter_06/screenshots/chapter_06_take01_sample03.png",
+        "chapters/chapter_06/screenshots/chapter_06_take01_sample04.png"
+      ],
+      "contact_sheet": "chapters/chapter_06/screenshots/chapter_06_take01_contact.jpg",
+      "motion_difference": [
+        159.54576258782203,
+        161.64154225214676,
+        159.68242096018736
+      ]
+    }
+  ]
+}

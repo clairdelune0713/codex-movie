@@ -1,0 +1,19 @@
+{
+  "source": "aifx-studio/src/lib/volcengine.ts",
+  "source_sha256": "0c3a7ab0245e5e3009eba7d24320dd2f7a615281fb017451946a99ff0282b483",
+  "signing_matches_python_client": true,
+  "credential_keys_used": [
+    "VOLC_ACCESS_KEY",
+    "VOLC_SECRET_KEY_RAW",
+    "VOLC_PROJECT_NAME",
+    "VOLC_ENDPOINT_SEEDANCE_25"
+  ],
+  "excluded_credentials": "All _M and other credentials excluded",
+  "other_aifx_services_invoked": false,
+  "live_result": {
+    "http_status": 403,
+    "authenticated": false,
+    "error": "User is not authorized to perform: ark:GetApiKey on resource: trn:ark:ap-southeast-1:3002704367:endpoint/ep-20260807163021-h866v"
+  },
+  "checked_at": "2026-10-08T07:25:00.879Z"
+}

@@ -1,0 +1,10 @@
+{
+  "configured_endpoint": "ep-20260807163021-h866v",
+  "resolved_endpoint": "ep-20260807143930-zwn48",
+  "model": "dreamina-seedance-2-5",
+  "model_version": "260628",
+  "reason": "ListEndpoints with the four named base settings found this Running Seedance 2.5 endpoint in the named project; the .env endpoint is not visible in that project.",
+  "evidence": "base-project-endpoints.json",
+  "credentials_changed": false,
+  "scope": "Movie client endpoint resolution; sibling application configuration is not edited"
+}

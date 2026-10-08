@@ -1,0 +1,4 @@
+use [$movi2](C:\Users\admina\.codex\skills\movi2\SKILL.md) to create a 60s movie about those two dogs. the beige one is called Tart. The brown one is called Tine
+
+Follow-up: the style should be like the Up movie.
+Reference files: tart-young.png; tine-young.png

@@ -1,0 +1,56 @@
+{
+  "status": "resolved_endpoint_pairing",
+  "credential_source": "../aifx-studio/.env",
+  "credential_variable_names": [
+    "VOLC_ACCESS_KEY",
+    "VOLC_SECRET_KEY_RAW",
+    "VOLC_PROJECT_NAME",
+    "VOLC_ENDPOINT_SEEDANCE_25"
+  ],
+  "values_persisted": false,
+  "authentication": "Volcengine V4 AK/SK signature, followed by endpoint-scoped temporary Bearer token via GetApiKey",
+  "region": "ap-southeast-1",
+  "openapi_host": "ark.ap-southeast-1.byteplusapi.com",
+  "runtime_base_url": "https://ark.ap-southeast.bytepluses.com/api/v3",
+  "probe_result": {
+    "http_status": 403,
+    "error_code": "AccessDenied",
+    "denied_action": "ark:GetApiKey",
+    "resource": "trn:ark:ap-southeast-1:3002704367:endpoint/ep-20260807163021-h866v"
+  },
+  "submitted_generation_jobs": 6,
+  "intended_generation_settings": {
+    "model": "dreamina-seedance-2-5-260628 via VOLC_ENDPOINT_SEEDANCE_25",
+    "mode": "omni reference-to-video",
+    "omni_reference_task_type": "reference",
+    "chapter_count": 6,
+    "duration_per_chapter": 10,
+    "ratio": "16:9",
+    "resolution": "480p",
+    "generate_audio": true,
+    "watermark": false,
+    "return_last_frame": true,
+    "output_format": "mp4",
+    "references_per_chapter": 5,
+    "reference_roles": "reference_image only; do not mix first_frame/last_frame roles with omni references",
+    "reference_transfer": "Documented inline data:image/png;base64; no cloud storage bucket or asset group created"
+  },
+  "required_user_action": null,
+  "docs": [
+    "https://docs.byteplus.com/es/docs/modelark/seedance-2-5",
+    "https://docs.byteplus.com/ja/docs/modelark/create-video-generation-task-api",
+    "https://docs.byteplus.com/de/docs/ModelArk/1262825"
+  ],
+  "repository_comparison": {
+    "signing_matches": true,
+    "actual_source_helper_live_http_status": 403,
+    "report": "aifx-auth-comparison.json"
+  },
+  "resolution": {
+    "cause": "Configured endpoint was not in the project accessible to the named AK/SK pair",
+    "verified_endpoint": "ep-20260807143930-zwn48",
+    "authentication_succeeded": true,
+    "generation_jobs_accepted": 6,
+    "credential_values_changed": false
+  }
+}

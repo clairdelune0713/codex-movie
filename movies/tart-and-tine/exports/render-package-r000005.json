@@ -1,0 +1,375 @@
+{
+  "project_id": "a7cbe466192f4a5db2d9233ab7715bbb",
+  "source_revision": 5,
+  "style": {
+    "medium": "Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs",
+    "palette": "Cream and caramel fur, orange vests, saturated teal foliage, sky blue, honey sunlight; soft shadows",
+    "lighting": "One late-afternoon scene with warm sun from upper screen-left, soft skylight and cinematic bounce",
+    "constraints": [
+      "Rounded appealing shapes; expressive eye acting; soft detailed fur; playful squash and stretch within canine anatomy",
+      "Tart is beige; Tine is brown with a pale heart-shaped patch on the right rear haunch",
+      "Orange gray-edged training vests and blue circular patches remain consistent",
+      "Exactly two puppies; no humans, extra dogs, copied Up characters, subtitles, watermarks, or inserted franchise music",
+      "No spoken dialogue; original piano and pizzicato score with garden ambience and canine Foley"
+    ]
+  },
+  "aspect_ratio": "16:9",
+  "status": "prepared",
+  "warnings": [],
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "duration": 10,
+      "prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: Meet Tart and Tine; a gentle game begins. @Tart and @Tine in @garden.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Tart sits left, Tine right, blue ball between them on the near side of the bridge.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @Tart and @Tine sit together in @garden, ears perked. @Tart glances shyly at @Tine; @Tine answers with a bright tail wag. Camera: 35mm wide at puppy eye height; slow push toward both puppies. Audio: Soft breeze, distant birds; original playful piano motif begins. End state: Tart looks toward the ball; Tine lifts one forepaw. Hard cut.\nShot 2 (3s-6s): @Tine lowers a forepaw onto @ball and gently nudges it along the gravel path; @Tart tilts the head in delight. Camera: 50mm medium two-shot; paws and faces in one coherent composition. Audio: Soft rubber tap and gravel tick; pizzicato joins piano. End state: The ball starts rolling east, screen-left to screen-right. Hard cut.\nShot 3 (6s-10s): @Tart and @Tine trot after @ball through @garden toward the near bridge ramp. @Tine leads by half a body length. Camera: 35mm lateral tracking, consistent left-to-right travel. Audio: Light paw patter; vest cloth flutter; upbeat motif. End state: Ball reaches the near bridge ramp; both dogs are approaching behind it.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Tart is beige; @Tine is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.",
+      "shots": [
+        {
+          "start": 0,
+          "end": 3,
+          "action": "@Tart and @Tine sit together in @garden, ears perked. @Tart glances shyly at @Tine; @Tine answers with a bright tail wag.",
+          "camera": "35mm wide at puppy eye height; slow push toward both puppies",
+          "audio": "Soft breeze, distant birds; original playful piano motif begins.",
+          "end_state": "Tart looks toward the ball; Tine lifts one forepaw."
+        },
+        {
+          "start": 3,
+          "end": 6,
+          "action": "@Tine lowers a forepaw onto @ball and gently nudges it along the gravel path; @Tart tilts the head in delight.",
+          "camera": "50mm medium two-shot; paws and faces in one coherent composition",
+          "audio": "Soft rubber tap and gravel tick; pizzicato joins piano.",
+          "end_state": "The ball starts rolling east, screen-left to screen-right."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "action": "@Tart and @Tine trot after @ball through @garden toward the near bridge ramp. @Tine leads by half a body length.",
+          "camera": "35mm lateral tracking, consistent left-to-right travel",
+          "audio": "Light paw patter; vest cloth flutter; upbeat motif.",
+          "end_state": "Ball reaches the near bridge ramp; both dogs are approaching behind it."
+        }
+      ],
+      "references": [
+        {
+          "tag": "@Tart",
+          "category": "character",
+          "candidate_id": "tart_ref01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_tart\\reference_01.png"
+        },
+        {
+          "tag": "@Tine",
+          "category": "character",
+          "candidate_id": "tine_ref01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_tine\\reference_01.png"
+        },
+        {
+          "tag": "@garden",
+          "category": "environment",
+          "candidate_id": "garden_c01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_garden\\garden_c01.png"
+        },
+        {
+          "tag": "@ball",
+          "category": "prop",
+          "candidate_id": "ball_c01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_ball\\ball_c01.png"
+        }
+      ],
+      "materials": [],
+      "dependency_fingerprint": "2b245f0014b415c1617d69d1d2d28e61eb7615080a790359b78e30d2281ae85c"
+    },
+    {
+      "id": "chapter_02",
+      "duration": 10,
+      "prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: The ball crosses a small bridge that feels very big to Tart. @Tart and @Tine in @garden.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Ball rolls onto the low bridge; both puppies approach from screen-left.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @ball rolls slowly over the low wooden bridge in @garden and settles in grass beside the far-side daisies. Camera: 50mm ground-level follow; show near ramp, bridge crown, far ramp and destination. Audio: Gentle wood roll, then soft grass rustle. End state: Ball is stationary beside the far ramp, on the right. Hard cut.\nShot 2 (3s-6s): @Tine crosses the bridge confidently and stops beside @ball. @Tart reaches the near ramp and slows. Camera: 35mm wide side view; both ramps visible; no axis crossing. Audio: Paw taps on wood; piano skips upward. End state: Tine stands at the far ramp; Tart remains at the near ramp. Hard cut.\nShot 3 (6s-10s): @Tart places one paw on the first bridge plank in @garden, hears a tiny creak, and withdraws the paw. Ears droop; eyes look across toward @Tine. Camera: 65mm close-up from near-side three-quarter view; bridge stays low and safe. Audio: A small wood creak; a soft canine breath; score thins to two piano notes. End state: Tart has all four paws on near-side gravel, hesitant but safe.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Tart is beige; @Tine is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.",
+      "shots": [
+        {
+          "start": 0,
+          "end": 3,
+          "action": "@ball rolls slowly over the low wooden bridge in @garden and settles in grass beside the far-side daisies.",
+          "camera": "50mm ground-level follow; show near ramp, bridge crown, far ramp and destination",
+          "audio": "Gentle wood roll, then soft grass rustle.",
+          "end_state": "Ball is stationary beside the far ramp, on the right."
+        },
+        {
+          "start": 3,
+          "end": 6,
+          "action": "@Tine crosses the bridge confidently and stops beside @ball. @Tart reaches the near ramp and slows.",
+          "camera": "35mm wide side view; both ramps visible; no axis crossing",
+          "audio": "Paw taps on wood; piano skips upward.",
+          "end_state": "Tine stands at the far ramp; Tart remains at the near ramp."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "action": "@Tart places one paw on the first bridge plank in @garden, hears a tiny creak, and withdraws the paw. Ears droop; eyes look across toward @Tine.",
+          "camera": "65mm close-up from near-side three-quarter view; bridge stays low and safe",
+          "audio": "A small wood creak; a soft canine breath; score thins to two piano notes.",
+          "end_state": "Tart has all four paws on near-side gravel, hesitant but safe."
+        }
+      ],
+      "references": [
+        {
+          "tag": "@Tart",
+          "category": "character",
+          "candidate_id": "tart_ref01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_tart\\reference_01.png"
+        },
+        {
+          "tag": "@Tine",
+          "category": "character",
+          "candidate_id": "tine_ref01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_tine\\reference_01.png"
+        },
+        {
+          "tag": "@garden",
+          "category": "environment",
+          "candidate_id": "garden_c01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_garden\\garden_c01.png"
+        },
+        {
+          "tag": "@ball",
+          "category": "prop",
+          "candidate_id": "ball_c01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_ball\\ball_c01.png"
+        }
+      ],
+      "materials": [],
+      "dependency_fingerprint": "51fc43f3821abb11bfea71a089e1790631aa61cc48621d0a503f4a3119705518"
+    },
+    {
+      "id": "chapter_03",
+      "duration": 10,
+      "prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: Tine notices the hesitation and chooses friendship over the ball. @Tart and @Tine in @garden.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Tine at far ramp right, Tart at near ramp left; ball remains by daisies.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @Tine looks from stationary @ball to @Tart across the bridge in @garden. Playful expression softens into concern. Camera: 65mm medium close-up; rack focus from ball to Tart across bridge. Audio: Bird ambience; piano holds a warm chord. End state: Tine turns body toward Tart. Hard cut.\nShot 2 (3s-6s): @Tine walks back across the bridge in @garden, right to left, slowing as the puppy reaches @Tart on near-side gravel. Camera: 35mm wide profile maintains the established axis; return direction visibly motivated. Audio: Measured wooden paw taps; gentle pizzicato pulse. End state: Both puppies are together at the near ramp; ball remains far-side. Hard cut.\nShot 3 (6s-10s): @Tine gently touches noses with @Tart and waits. @Tart raises the ears, takes a steadying breath and returns the nose touch. Camera: 85mm close two-shot at nose height; tiny slow push. Audio: Quiet sniff and soft exhale; a tender original piano phrase. End state: Both turn to face the bridge, Tart left and Tine right, shoulder to shoulder.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Tart is beige; @Tine is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.",
+      "shots": [
+        {
+          "start": 0,
+          "end": 3,
+          "action": "@Tine looks from stationary @ball to @Tart across the bridge in @garden. Playful expression softens into concern.",
+          "camera": "65mm medium close-up; rack focus from ball to Tart across bridge",
+          "audio": "Bird ambience; piano holds a warm chord.",
+          "end_state": "Tine turns body toward Tart."
+        },
+        {
+          "start": 3,
+          "end": 6,
+          "action": "@Tine walks back across the bridge in @garden, right to left, slowing as the puppy reaches @Tart on near-side gravel.",
+          "camera": "35mm wide profile maintains the established axis; return direction visibly motivated",
+          "audio": "Measured wooden paw taps; gentle pizzicato pulse.",
+          "end_state": "Both puppies are together at the near ramp; ball remains far-side."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "action": "@Tine gently touches noses with @Tart and waits. @Tart raises the ears, takes a steadying breath and returns the nose touch.",
+          "camera": "85mm close two-shot at nose height; tiny slow push",
+          "audio": "Quiet sniff and soft exhale; a tender original piano phrase.",
+          "end_state": "Both turn to face the bridge, Tart left and Tine right, shoulder to shoulder."
+        }
+      ],
+      "references": [
+        {
+          "tag": "@Tart",
+          "category": "character",
+          "candidate_id": "tart_ref01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_tart\\reference_01.png"
+        },
+        {
+          "tag": "@Tine",
+          "category": "character",
+          "candidate_id": "tine_ref01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_tine\\reference_01.png"
+        },
+        {
+          "tag": "@garden",
+          "category": "environment",
+          "candidate_id": "garden_c01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_garden\\garden_c01.png"
+        },
+        {
+          "tag": "@ball",
+          "category": "prop",
+          "candidate_id": "ball_c01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_ball\\ball_c01.png"
+        }
+      ],
+      "materials": [],
+      "dependency_fingerprint": "ab33a750c8154a89df499c104095025de40362f136d091d5a1fcc9ca5974b4e2"
+    },
+    {
+      "id": "chapter_04",
+      "duration": 10,
+      "prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: They cross together, at Tart’s pace. @Tart and @Tine in @garden.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Both puppies at near ramp facing east; Tine leads by only a paw length.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @Tine places a paw onto the first plank in @garden and waits for @Tart to match the step. Both then advance slowly. Camera: 50mm low medium two-shot includes both faces and front paws. Audio: Two gentle synchronized taps; encouraging piano phrase. End state: Both puppies have their front paws on the bridge. Hard cut.\nShot 2 (3s-6s): At the bridge crown in @garden, @Tart glances at @Tine, then straight ahead. Their ears lift and tails begin to wag as they keep walking. Camera: 65mm eye-level moving two-shot; subtle background parallax. Audio: Soft wood taps and fur movement; pizzicato grows warmer. End state: Both puppies pass the midpoint, continuing left to right. Hard cut.\nShot 3 (6s-10s): @Tart and @Tine step off the far ramp onto grass beside @ball in @garden. @Tart straightens proudly; @Tine gives a little happy bounce. Camera: 35mm wider side view; small upward camera settle at landing. Audio: Grass pawfalls and one happy woof; score opens into a bright chord. End state: Both stand safely on far-side grass; ball sits ahead beside daisies.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Tart is beige; @Tine is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.",
+      "shots": [
+        {
+          "start": 0,
+          "end": 3,
+          "action": "@Tine places a paw onto the first plank in @garden and waits for @Tart to match the step. Both then advance slowly.",
+          "camera": "50mm low medium two-shot includes both faces and front paws",
+          "audio": "Two gentle synchronized taps; encouraging piano phrase.",
+          "end_state": "Both puppies have their front paws on the bridge."
+        },
+        {
+          "start": 3,
+          "end": 6,
+          "action": "At the bridge crown in @garden, @Tart glances at @Tine, then straight ahead. Their ears lift and tails begin to wag as they keep walking.",
+          "camera": "65mm eye-level moving two-shot; subtle background parallax",
+          "audio": "Soft wood taps and fur movement; pizzicato grows warmer.",
+          "end_state": "Both puppies pass the midpoint, continuing left to right."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "action": "@Tart and @Tine step off the far ramp onto grass beside @ball in @garden. @Tart straightens proudly; @Tine gives a little happy bounce.",
+          "camera": "35mm wider side view; small upward camera settle at landing",
+          "audio": "Grass pawfalls and one happy woof; score opens into a bright chord.",
+          "end_state": "Both stand safely on far-side grass; ball sits ahead beside daisies."
+        }
+      ],
+      "references": [
+        {
+          "tag": "@Tart",
+          "category": "character",
+          "candidate_id": "tart_ref01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_tart\\reference_01.png"
+        },
+        {
+          "tag": "@Tine",
+          "category": "character",
+          "candidate_id": "tine_ref01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_tine\\reference_01.png"
+        },
+        {
+          "tag": "@garden",
+          "category": "environment",
+          "candidate_id": "garden_c01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_garden\\garden_c01.png"
+        },
+        {
+          "tag": "@ball",
+          "category": "prop",
+          "candidate_id": "ball_c01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_ball\\ball_c01.png"
+        }
+      ],
+      "materials": [],
+      "dependency_fingerprint": "c30d749bf3bad104b86a4082808905224f35641b9ccc185c50f42e51e2046236"
+    },
+    {
+      "id": "chapter_05",
+      "duration": 10,
+      "prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: Tart returns the kindness when Tine becomes distracted. @Tart and @Tine in @garden.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Both at far ramp; ball stationary nearby; daisies on the path edge.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @Tine leans toward fragrant daisies in @garden, captivated by the flowers. @Tart looks at @Tine, then at @ball with a knowing smile. Camera: 50mm medium two-shot; flowers foreground, ball lower center. Audio: Sniff-sniff, leaf rustle; playful flute-like score accent without speech. End state: Tine faces daisies; Tart steps closer to ball. Hard cut.\nShot 2 (3s-6s): @Tart nudges @ball gently into @Tine’s field of view. @Tine notices, turns back, and touches a paw to the ball beside Tart’s paw. Camera: 65mm close view of noses, ball and paws; tilt up to their expressions. Audio: Rubber brushing grass, surprised sniff; familiar piano motif returns. End state: Both puppies are focused together again, ball between their paws. Hard cut.\nShot 3 (6s-10s): @Tart and @Tine exchange a delighted look, then gently roll @ball together toward the oak tree in @garden. Camera: 35mm lateral follow resumes left-to-right travel; no fast chase. Audio: Two soft happy woofs; paw patter; lively but tender score. End state: Ball rolls toward tree; both puppies follow side by side.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Tart is beige; @Tine is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.",
+      "shots": [
+        {
+          "start": 0,
+          "end": 3,
+          "action": "@Tine leans toward fragrant daisies in @garden, captivated by the flowers. @Tart looks at @Tine, then at @ball with a knowing smile.",
+          "camera": "50mm medium two-shot; flowers foreground, ball lower center",
+          "audio": "Sniff-sniff, leaf rustle; playful flute-like score accent without speech.",
+          "end_state": "Tine faces daisies; Tart steps closer to ball."
+        },
+        {
+          "start": 3,
+          "end": 6,
+          "action": "@Tart nudges @ball gently into @Tine’s field of view. @Tine notices, turns back, and touches a paw to the ball beside Tart’s paw.",
+          "camera": "65mm close view of noses, ball and paws; tilt up to their expressions",
+          "audio": "Rubber brushing grass, surprised sniff; familiar piano motif returns.",
+          "end_state": "Both puppies are focused together again, ball between their paws."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "action": "@Tart and @Tine exchange a delighted look, then gently roll @ball together toward the oak tree in @garden.",
+          "camera": "35mm lateral follow resumes left-to-right travel; no fast chase",
+          "audio": "Two soft happy woofs; paw patter; lively but tender score.",
+          "end_state": "Ball rolls toward tree; both puppies follow side by side."
+        }
+      ],
+      "references": [
+        {
+          "tag": "@Tart",
+          "category": "character",
+          "candidate_id": "tart_ref01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_tart\\reference_01.png"
+        },
+        {
+          "tag": "@Tine",
+          "category": "character",
+          "candidate_id": "tine_ref01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_tine\\reference_01.png"
+        },
+        {
+          "tag": "@garden",
+          "category": "environment",
+          "candidate_id": "garden_c01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_garden\\garden_c01.png"
+        },
+        {
+          "tag": "@ball",
+          "category": "prop",
+          "candidate_id": "ball_c01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_ball\\ball_c01.png"
+        }
+      ],
+      "materials": [],
+      "dependency_fingerprint": "ed369a75da09c1d93c51a46a8ef61d3b9be907885219945466729b0cd380ebca"
+    },
+    {
+      "id": "chapter_06",
+      "duration": 10,
+      "prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: Their small adventure ends in quiet shared confidence. @Tart and @Tine in @garden.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Both puppies reach grass beneath the oak; ball rolls to a gentle stop.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @ball settles beneath the oak in @garden. @Tart and @Tine arrive together and slow to a stop, breathing lightly after their small adventure. Camera: 35mm wide eye-level; oak frames the pair and bridge remains visible behind. Audio: Soft grass steps; piano cadence begins; garden ambience continues. End state: Ball rests before both puppies; Tart left, Tine right. Hard cut.\nShot 2 (3s-6s): @Tart and @Tine sit with shoulders touching in @garden. @Tart rests the head lightly against @Tine; Tine leans back in return. Tails wag softly. Camera: 65mm medium two-shot, gentle push; cream and brown faces clearly distinct. Audio: Tiny contented sighs, soft vest fabric; original piano resolves. End state: Both rest together peacefully; ball stationary at their paws. Hard cut.\nShot 3 (6s-10s): Hold @Tart and @Tine together under the oak in @garden with @ball at their feet. Camera eases back to reveal the little bridge they crossed; warm light catches their orange vests. Camera: 35mm slow pullback; last composition holds during the final second. Audio: Last piano chord rings and fades naturally; birds and breeze continue. End state: Calm wide final frame with both puppies together; no fade or title changes the runtime.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Tart is beige; @Tine is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.",
+      "shots": [
+        {
+          "start": 0,
+          "end": 3,
+          "action": "@ball settles beneath the oak in @garden. @Tart and @Tine arrive together and slow to a stop, breathing lightly after their small adventure.",
+          "camera": "35mm wide eye-level; oak frames the pair and bridge remains visible behind",
+          "audio": "Soft grass steps; piano cadence begins; garden ambience continues.",
+          "end_state": "Ball rests before both puppies; Tart left, Tine right."
+        },
+        {
+          "start": 3,
+          "end": 6,
+          "action": "@Tart and @Tine sit with shoulders touching in @garden. @Tart rests the head lightly against @Tine; Tine leans back in return. Tails wag softly.",
+          "camera": "65mm medium two-shot, gentle push; cream and brown faces clearly distinct",
+          "audio": "Tiny contented sighs, soft vest fabric; original piano resolves.",
+          "end_state": "Both rest together peacefully; ball stationary at their paws."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "action": "Hold @Tart and @Tine together under the oak in @garden with @ball at their feet. Camera eases back to reveal the little bridge they crossed; warm light catches their orange vests.",
+          "camera": "35mm slow pullback; last composition holds during the final second",
+          "audio": "Last piano chord rings and fades naturally; birds and breeze continue.",
+          "end_state": "Calm wide final frame with both puppies together; no fade or title changes the runtime."
+        }
+      ],
+      "references": [
+        {
+          "tag": "@Tart",
+          "category": "character",
+          "candidate_id": "tart_ref01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_tart\\reference_01.png"
+        },
+        {
+          "tag": "@Tine",
+          "category": "character",
+          "candidate_id": "tine_ref01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_tine\\reference_01.png"
+        },
+        {
+          "tag": "@garden",
+          "category": "environment",
+          "candidate_id": "garden_c01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_garden\\garden_c01.png"
+        },
+        {
+          "tag": "@ball",
+          "category": "prop",
+          "candidate_id": "ball_c01",
+          "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\assets\\asset_ball\\ball_c01.png"
+        }
+      ],
+      "materials": [],
+      "dependency_fingerprint": "4437362fcd79c587c2e7bc44fe99bcc7cfe1af9f99b66a9b8b308407f44377fc"
+    }
+  ]
+}

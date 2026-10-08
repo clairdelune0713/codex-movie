@@ -1,0 +1,57 @@
+{
+  "checked_at": "2026-10-08T07:35:10.266Z",
+  "credential_route": "Four named base settings only",
+  "configured_endpoint_visible": false,
+  "total_count": 4,
+  "items": [
+    {
+      "id": "ep-20260807144226-tqmnl",
+      "status": "Running",
+      "model_reference": {
+        "FoundationModel": {
+          "Name": "dreamina-seedance-2-0-mini",
+          "ModelVersion": "260615"
+        },
+        "CustomModelId": ""
+      },
+      "project_matches_named_setting": true
+    },
+    {
+      "id": "ep-20260807143930-zwn48",
+      "status": "Running",
+      "model_reference": {
+        "FoundationModel": {
+          "Name": "dreamina-seedance-2-5",
+          "ModelVersion": "260628"
+        },
+        "CustomModelId": ""
+      },
+      "project_matches_named_setting": true
+    },
+    {
+      "id": "ep-20260715220715-lvm5f",
+      "status": "Running",
+      "model_reference": {
+        "FoundationModel": {
+          "Name": "dreamina-seedance-2-0-fast",
+          "ModelVersion": "260128"
+        },
+        "CustomModelId": ""
+      },
+      "project_matches_named_setting": true
+    },
+    {
+      "id": "ep-20260715220316-btkws",
+      "status": "Running",
+      "model_reference": {
+        "FoundationModel": {
+          "Name": "dreamina-seedance-2-0",
+          "ModelVersion": "260128"
+        },
+        "CustomModelId": ""
+      },
+      "project_matches_named_setting": true
+    }
+  ],
+  "values_logged": false
+}

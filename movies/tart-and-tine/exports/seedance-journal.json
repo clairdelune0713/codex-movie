@@ -1,0 +1,577 @@
+{
+  "project_id": "a7cbe466192f4a5db2d9233ab7715bbb",
+  "model": "dreamina-seedance-2-5-260628",
+  "credential_source": "../aifx-studio/.env (four named variables only; values never persisted)",
+  "takes": {
+    "chapter_01": {
+      "chapter_id": "chapter_01",
+      "take_id": "chapter_01_take01",
+      "take_number": 1,
+      "status": "succeeded",
+      "submission_state": "accepted",
+      "created_at": "2026-10-08T07:36:53.066965+00:00",
+      "source_revision": 5,
+      "dependency_fingerprint": "2b245f0014b415c1617d69d1d2d28e61eb7615080a790359b78e30d2281ae85c",
+      "prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: Meet Tart and Tine; a gentle game begins. @Tart and @Tine in @garden.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Tart sits left, Tine right, blue ball between them on the near side of the bridge.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @Tart and @Tine sit together in @garden, ears perked. @Tart glances shyly at @Tine; @Tine answers with a bright tail wag. Camera: 35mm wide at puppy eye height; slow push toward both puppies. Audio: Soft breeze, distant birds; original playful piano motif begins. End state: Tart looks toward the ball; Tine lifts one forepaw. Hard cut.\nShot 2 (3s-6s): @Tine lowers a forepaw onto @ball and gently nudges it along the gravel path; @Tart tilts the head in delight. Camera: 50mm medium two-shot; paws and faces in one coherent composition. Audio: Soft rubber tap and gravel tick; pizzicato joins piano. End state: The ball starts rolling east, screen-left to screen-right. Hard cut.\nShot 3 (6s-10s): @Tart and @Tine trot after @ball through @garden toward the near bridge ramp. @Tine leads by half a body length. Camera: 35mm lateral tracking, consistent left-to-right travel. Audio: Light paw patter; vest cloth flutter; upbeat motif. End state: Ball reaches the near bridge ramp; both dogs are approaching behind it.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Tart is beige; @Tine is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.",
+      "submitted_prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: Meet Tart and Tine; a gentle game begins. @Image1 and @Image2 in @Image3.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Tart sits left, Tine right, blue ball between them on the near side of the bridge.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @Image1 and @Image2 sit together in @Image3, ears perked. @Image1 glances shyly at @Image2; @Image2 answers with a bright tail wag. Camera: 35mm wide at puppy eye height; slow push toward both puppies. Audio: Soft breeze, distant birds; original playful piano motif begins. End state: Tart looks toward the ball; Tine lifts one forepaw. Hard cut.\nShot 2 (3s-6s): @Image2 lowers a forepaw onto @Image4 and gently nudges it along the gravel path; @Image1 tilts the head in delight. Camera: 50mm medium two-shot; paws and faces in one coherent composition. Audio: Soft rubber tap and gravel tick; pizzicato joins piano. End state: The ball starts rolling east, screen-left to screen-right. Hard cut.\nShot 3 (6s-10s): @Image1 and @Image2 trot after @Image4 through @Image3 toward the near bridge ramp. @Image2 leads by half a body length. Camera: 35mm lateral tracking, consistent left-to-right travel. Audio: Light paw patter; vest cloth flutter; upbeat motif. End state: Ball reaches the near bridge ramp; both dogs are approaching behind it.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Image1 is beige; @Image2 is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.\nREFERENCE ROLES: @Image1 is ONLY the beige Tart identity sheet; @Image2 is ONLY brown Tine identity sheet. Each sheet shows multiple angles of ONE puppy. @Image3 supplies fixed garden geometry and sunlight. @Image4 supplies the one small blue ball with cream stripe. @Image5 is a four-panel STORYBOARD, read left-to-right/top-to-bottom, for composition and emotion only. Generate one full-screen moving film, NEVER a grid, split screen, montage of stills, character sheet, panel borders, or frozen slideshow. Do not reproduce the image reference backgrounds from the dog sheets.\nOUTPUT: Exactly 10 seconds of genuine animated action with three shots, two hard cuts, and the timings above, cinematic 16:9. At most two dogs and one ball in any scene. Consistent orange vests and Tine right-rear heart patch. Native synchronized garden ambience, canine Foley and original gentle piano/pizzicato music; absolutely no human speech or narration.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/reference_01.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_tine/reference_01.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@garden",
+          "reference_token": "@Image3",
+          "path": "assets/asset_garden/garden_c01.png",
+          "sha256": "c1488292ea6de7435772d70fb48c358d37a7160a7e3fc6f1d969107221485255",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@ball",
+          "reference_token": "@Image4",
+          "path": "assets/asset_ball/ball_c01.png",
+          "sha256": "daea2d318862bc40ba7289bdc533dbb3115d7b8f82ff7fc96f189f33c03def9e",
+          "role": "reference_image"
+        },
+        {
+          "tag": "storyboard_chapter_01",
+          "reference_token": "@Image5",
+          "path": "chapters/chapter_01/storyboards/chapter_01_sb01.png",
+          "sha256": "bbdd3d2efa8d56002b7fe4d1f5a3bb89ef33692e089bad572c973e141d5b38a1",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 10,
+      "resolution": "480p",
+      "model": "dreamina-seedance-2-5-260628",
+      "endpoint_id": "ep-20260807143930-zwn48",
+      "settings": {
+        "model": "ep-20260807143930-zwn48",
+        "duration": 10,
+        "ratio": "16:9",
+        "resolution": "480p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 18427
+      },
+      "request_bytes": 14730351,
+      "task_id": "cgt-20261008153655-of3kc",
+      "submitted_at": "2026-10-08T07:36:59.098202+00:00",
+      "provider_status": "succeeded",
+      "checked_at": "2026-10-08T07:42:09.831323+00:00",
+      "path": "chapters/chapter_01/takes/chapter_01_take01.mp4",
+      "last_frame_path": "chapters/chapter_01/takes/chapter_01_take01_last.jpg",
+      "provider_result": {
+        "id": "cgt-20261008153655-of3kc",
+        "model": "dreamina-seedance-2-5-260628",
+        "status": "succeeded",
+        "usage": {
+          "completion_tokens": 96475,
+          "total_tokens": 96475
+        },
+        "created_at": 1791445017,
+        "updated_at": 1791445287,
+        "seed": 18427,
+        "resolution": "480p",
+        "ratio": "16:9",
+        "duration": 10,
+        "framespersecond": 24,
+        "service_tier": "default",
+        "execution_expires_after": 172800,
+        "generate_audio": true,
+        "draft": false,
+        "priority": 0,
+        "output_format": "mp4"
+      },
+      "completed_at": "2026-10-08T07:42:16.251992+00:00"
+    },
+    "chapter_02": {
+      "chapter_id": "chapter_02",
+      "take_id": "chapter_02_take01",
+      "take_number": 1,
+      "status": "succeeded",
+      "submission_state": "accepted",
+      "created_at": "2026-10-08T07:38:03.459931+00:00",
+      "source_revision": 5,
+      "dependency_fingerprint": "51fc43f3821abb11bfea71a089e1790631aa61cc48621d0a503f4a3119705518",
+      "prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: The ball crosses a small bridge that feels very big to Tart. @Tart and @Tine in @garden.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Ball rolls onto the low bridge; both puppies approach from screen-left.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @ball rolls slowly over the low wooden bridge in @garden and settles in grass beside the far-side daisies. Camera: 50mm ground-level follow; show near ramp, bridge crown, far ramp and destination. Audio: Gentle wood roll, then soft grass rustle. End state: Ball is stationary beside the far ramp, on the right. Hard cut.\nShot 2 (3s-6s): @Tine crosses the bridge confidently and stops beside @ball. @Tart reaches the near ramp and slows. Camera: 35mm wide side view; both ramps visible; no axis crossing. Audio: Paw taps on wood; piano skips upward. End state: Tine stands at the far ramp; Tart remains at the near ramp. Hard cut.\nShot 3 (6s-10s): @Tart places one paw on the first bridge plank in @garden, hears a tiny creak, and withdraws the paw. Ears droop; eyes look across toward @Tine. Camera: 65mm close-up from near-side three-quarter view; bridge stays low and safe. Audio: A small wood creak; a soft canine breath; score thins to two piano notes. End state: Tart has all four paws on near-side gravel, hesitant but safe.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Tart is beige; @Tine is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.",
+      "submitted_prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: The ball crosses a small bridge that feels very big to Tart. @Image1 and @Image2 in @Image3.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Ball rolls onto the low bridge; both puppies approach from screen-left.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @Image4 rolls slowly over the low wooden bridge in @Image3 and settles in grass beside the far-side daisies. Camera: 50mm ground-level follow; show near ramp, bridge crown, far ramp and destination. Audio: Gentle wood roll, then soft grass rustle. End state: Ball is stationary beside the far ramp, on the right. Hard cut.\nShot 2 (3s-6s): @Image2 crosses the bridge confidently and stops beside @Image4. @Image1 reaches the near ramp and slows. Camera: 35mm wide side view; both ramps visible; no axis crossing. Audio: Paw taps on wood; piano skips upward. End state: Tine stands at the far ramp; Tart remains at the near ramp. Hard cut.\nShot 3 (6s-10s): @Image1 places one paw on the first bridge plank in @Image3, hears a tiny creak, and withdraws the paw. Ears droop; eyes look across toward @Image2. Camera: 65mm close-up from near-side three-quarter view; bridge stays low and safe. Audio: A small wood creak; a soft canine breath; score thins to two piano notes. End state: Tart has all four paws on near-side gravel, hesitant but safe.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Image1 is beige; @Image2 is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.\nREFERENCE ROLES: @Image1 is ONLY the beige Tart identity sheet; @Image2 is ONLY brown Tine identity sheet. Each sheet shows multiple angles of ONE puppy. @Image3 supplies fixed garden geometry and sunlight. @Image4 supplies the one small blue ball with cream stripe. @Image5 is a four-panel STORYBOARD, read left-to-right/top-to-bottom, for composition and emotion only. Generate one full-screen moving film, NEVER a grid, split screen, montage of stills, character sheet, panel borders, or frozen slideshow. Do not reproduce the image reference backgrounds from the dog sheets.\nOUTPUT: Exactly 10 seconds of genuine animated action with three shots, two hard cuts, and the timings above, cinematic 16:9. At most two dogs and one ball in any scene. Consistent orange vests and Tine right-rear heart patch. Native synchronized garden ambience, canine Foley and original gentle piano/pizzicato music; absolutely no human speech or narration.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/reference_01.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_tine/reference_01.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@garden",
+          "reference_token": "@Image3",
+          "path": "assets/asset_garden/garden_c01.png",
+          "sha256": "c1488292ea6de7435772d70fb48c358d37a7160a7e3fc6f1d969107221485255",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@ball",
+          "reference_token": "@Image4",
+          "path": "assets/asset_ball/ball_c01.png",
+          "sha256": "daea2d318862bc40ba7289bdc533dbb3115d7b8f82ff7fc96f189f33c03def9e",
+          "role": "reference_image"
+        },
+        {
+          "tag": "storyboard_chapter_02",
+          "reference_token": "@Image5",
+          "path": "chapters/chapter_02/storyboards/chapter_02_sb02.png",
+          "sha256": "456de93bb44b238faf55a869bc5e9185af0add83abadb98f56b4320e71550aa8",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 10,
+      "resolution": "480p",
+      "model": "dreamina-seedance-2-5-260628",
+      "endpoint_id": "ep-20260807143930-zwn48",
+      "settings": {
+        "model": "ep-20260807143930-zwn48",
+        "duration": 10,
+        "ratio": "16:9",
+        "resolution": "480p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 18428
+      },
+      "request_bytes": 14657009,
+      "task_id": "cgt-20261008153806-24yet",
+      "submitted_at": "2026-10-08T07:38:09.061042+00:00",
+      "provider_status": "succeeded",
+      "checked_at": "2026-10-08T07:45:33.855882+00:00",
+      "path": "chapters/chapter_02/takes/chapter_02_take01.mp4",
+      "last_frame_path": "chapters/chapter_02/takes/chapter_02_take01_last.jpg",
+      "provider_result": {
+        "id": "cgt-20261008153806-24yet",
+        "model": "dreamina-seedance-2-5-260628",
+        "status": "succeeded",
+        "usage": {
+          "completion_tokens": 96475,
+          "total_tokens": 96475
+        },
+        "created_at": 1791445087,
+        "updated_at": 1791445503,
+        "seed": 18428,
+        "resolution": "480p",
+        "ratio": "16:9",
+        "duration": 10,
+        "framespersecond": 24,
+        "service_tier": "default",
+        "execution_expires_after": 172800,
+        "generate_audio": true,
+        "draft": false,
+        "priority": 0,
+        "output_format": "mp4"
+      },
+      "completed_at": "2026-10-08T07:45:39.237993+00:00"
+    },
+    "chapter_03": {
+      "chapter_id": "chapter_03",
+      "take_id": "chapter_03_take01",
+      "take_number": 1,
+      "status": "succeeded",
+      "submission_state": "accepted",
+      "created_at": "2026-10-08T07:38:09.149165+00:00",
+      "source_revision": 5,
+      "dependency_fingerprint": "ab33a750c8154a89df499c104095025de40362f136d091d5a1fcc9ca5974b4e2",
+      "prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: Tine notices the hesitation and chooses friendship over the ball. @Tart and @Tine in @garden.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Tine at far ramp right, Tart at near ramp left; ball remains by daisies.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @Tine looks from stationary @ball to @Tart across the bridge in @garden. Playful expression softens into concern. Camera: 65mm medium close-up; rack focus from ball to Tart across bridge. Audio: Bird ambience; piano holds a warm chord. End state: Tine turns body toward Tart. Hard cut.\nShot 2 (3s-6s): @Tine walks back across the bridge in @garden, right to left, slowing as the puppy reaches @Tart on near-side gravel. Camera: 35mm wide profile maintains the established axis; return direction visibly motivated. Audio: Measured wooden paw taps; gentle pizzicato pulse. End state: Both puppies are together at the near ramp; ball remains far-side. Hard cut.\nShot 3 (6s-10s): @Tine gently touches noses with @Tart and waits. @Tart raises the ears, takes a steadying breath and returns the nose touch. Camera: 85mm close two-shot at nose height; tiny slow push. Audio: Quiet sniff and soft exhale; a tender original piano phrase. End state: Both turn to face the bridge, Tart left and Tine right, shoulder to shoulder.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Tart is beige; @Tine is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.",
+      "submitted_prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: Tine notices the hesitation and chooses friendship over the ball. @Image1 and @Image2 in @Image3.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Tine at far ramp right, Tart at near ramp left; ball remains by daisies.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @Image2 looks from stationary @Image4 to @Image1 across the bridge in @Image3. Playful expression softens into concern. Camera: 65mm medium close-up; rack focus from ball to Tart across bridge. Audio: Bird ambience; piano holds a warm chord. End state: Tine turns body toward Tart. Hard cut.\nShot 2 (3s-6s): @Image2 walks back across the bridge in @Image3, right to left, slowing as the puppy reaches @Image1 on near-side gravel. Camera: 35mm wide profile maintains the established axis; return direction visibly motivated. Audio: Measured wooden paw taps; gentle pizzicato pulse. End state: Both puppies are together at the near ramp; ball remains far-side. Hard cut.\nShot 3 (6s-10s): @Image2 gently touches noses with @Image1 and waits. @Image1 raises the ears, takes a steadying breath and returns the nose touch. Camera: 85mm close two-shot at nose height; tiny slow push. Audio: Quiet sniff and soft exhale; a tender original piano phrase. End state: Both turn to face the bridge, Tart left and Tine right, shoulder to shoulder.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Image1 is beige; @Image2 is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.\nREFERENCE ROLES: @Image1 is ONLY the beige Tart identity sheet; @Image2 is ONLY brown Tine identity sheet. Each sheet shows multiple angles of ONE puppy. @Image3 supplies fixed garden geometry and sunlight. @Image4 supplies the one small blue ball with cream stripe. @Image5 is a four-panel STORYBOARD, read left-to-right/top-to-bottom, for composition and emotion only. Generate one full-screen moving film, NEVER a grid, split screen, montage of stills, character sheet, panel borders, or frozen slideshow. Do not reproduce the image reference backgrounds from the dog sheets.\nOUTPUT: Exactly 10 seconds of genuine animated action with three shots, two hard cuts, and the timings above, cinematic 16:9. At most two dogs and one ball in any scene. Consistent orange vests and Tine right-rear heart patch. Native synchronized garden ambience, canine Foley and original gentle piano/pizzicato music; absolutely no human speech or narration.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/reference_01.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_tine/reference_01.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@garden",
+          "reference_token": "@Image3",
+          "path": "assets/asset_garden/garden_c01.png",
+          "sha256": "c1488292ea6de7435772d70fb48c358d37a7160a7e3fc6f1d969107221485255",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@ball",
+          "reference_token": "@Image4",
+          "path": "assets/asset_ball/ball_c01.png",
+          "sha256": "daea2d318862bc40ba7289bdc533dbb3115d7b8f82ff7fc96f189f33c03def9e",
+          "role": "reference_image"
+        },
+        {
+          "tag": "storyboard_chapter_03",
+          "reference_token": "@Image5",
+          "path": "chapters/chapter_03/storyboards/chapter_03_sb02.png",
+          "sha256": "1239fc7704a4718da331659a1c51166f83901191266b96a3c7fb1c20d03b1fe5",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 10,
+      "resolution": "480p",
+      "model": "dreamina-seedance-2-5-260628",
+      "endpoint_id": "ep-20260807143930-zwn48",
+      "settings": {
+        "model": "ep-20260807143930-zwn48",
+        "duration": 10,
+        "ratio": "16:9",
+        "resolution": "480p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 18429
+      },
+      "request_bytes": 14599422,
+      "task_id": "cgt-20261008153811-hu5ut",
+      "submitted_at": "2026-10-08T07:38:13.618432+00:00",
+      "provider_status": "succeeded",
+      "checked_at": "2026-10-08T07:43:01.907521+00:00",
+      "path": "chapters/chapter_03/takes/chapter_03_take01.mp4",
+      "last_frame_path": "chapters/chapter_03/takes/chapter_03_take01_last.jpg",
+      "provider_result": {
+        "id": "cgt-20261008153811-hu5ut",
+        "model": "dreamina-seedance-2-5-260628",
+        "status": "succeeded",
+        "usage": {
+          "completion_tokens": 96475,
+          "total_tokens": 96475
+        },
+        "created_at": 1791445092,
+        "updated_at": 1791445369,
+        "seed": 18429,
+        "resolution": "480p",
+        "ratio": "16:9",
+        "duration": 10,
+        "framespersecond": 24,
+        "service_tier": "default",
+        "execution_expires_after": 172800,
+        "generate_audio": true,
+        "draft": false,
+        "priority": 0,
+        "output_format": "mp4"
+      },
+      "completed_at": "2026-10-08T07:43:07.598949+00:00"
+    },
+    "chapter_04": {
+      "chapter_id": "chapter_04",
+      "take_id": "chapter_04_take01",
+      "take_number": 1,
+      "status": "succeeded",
+      "submission_state": "accepted",
+      "created_at": "2026-10-08T07:38:13.719783+00:00",
+      "source_revision": 5,
+      "dependency_fingerprint": "c30d749bf3bad104b86a4082808905224f35641b9ccc185c50f42e51e2046236",
+      "prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: They cross together, at Tart’s pace. @Tart and @Tine in @garden.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Both puppies at near ramp facing east; Tine leads by only a paw length.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @Tine places a paw onto the first plank in @garden and waits for @Tart to match the step. Both then advance slowly. Camera: 50mm low medium two-shot includes both faces and front paws. Audio: Two gentle synchronized taps; encouraging piano phrase. End state: Both puppies have their front paws on the bridge. Hard cut.\nShot 2 (3s-6s): At the bridge crown in @garden, @Tart glances at @Tine, then straight ahead. Their ears lift and tails begin to wag as they keep walking. Camera: 65mm eye-level moving two-shot; subtle background parallax. Audio: Soft wood taps and fur movement; pizzicato grows warmer. End state: Both puppies pass the midpoint, continuing left to right. Hard cut.\nShot 3 (6s-10s): @Tart and @Tine step off the far ramp onto grass beside @ball in @garden. @Tart straightens proudly; @Tine gives a little happy bounce. Camera: 35mm wider side view; small upward camera settle at landing. Audio: Grass pawfalls and one happy woof; score opens into a bright chord. End state: Both stand safely on far-side grass; ball sits ahead beside daisies.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Tart is beige; @Tine is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.",
+      "submitted_prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: They cross together, at Tart’s pace. @Image1 and @Image2 in @Image3.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Both puppies at near ramp facing east; Tine leads by only a paw length.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @Image2 places a paw onto the first plank in @Image3 and waits for @Image1 to match the step. Both then advance slowly. Camera: 50mm low medium two-shot includes both faces and front paws. Audio: Two gentle synchronized taps; encouraging piano phrase. End state: Both puppies have their front paws on the bridge. Hard cut.\nShot 2 (3s-6s): At the bridge crown in @Image3, @Image1 glances at @Image2, then straight ahead. Their ears lift and tails begin to wag as they keep walking. Camera: 65mm eye-level moving two-shot; subtle background parallax. Audio: Soft wood taps and fur movement; pizzicato grows warmer. End state: Both puppies pass the midpoint, continuing left to right. Hard cut.\nShot 3 (6s-10s): @Image1 and @Image2 step off the far ramp onto grass beside @Image4 in @Image3. @Image1 straightens proudly; @Image2 gives a little happy bounce. Camera: 35mm wider side view; small upward camera settle at landing. Audio: Grass pawfalls and one happy woof; score opens into a bright chord. End state: Both stand safely on far-side grass; ball sits ahead beside daisies.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Image1 is beige; @Image2 is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.\nREFERENCE ROLES: @Image1 is ONLY the beige Tart identity sheet; @Image2 is ONLY brown Tine identity sheet. Each sheet shows multiple angles of ONE puppy. @Image3 supplies fixed garden geometry and sunlight. @Image4 supplies the one small blue ball with cream stripe. @Image5 is a four-panel STORYBOARD, read left-to-right/top-to-bottom, for composition and emotion only. Generate one full-screen moving film, NEVER a grid, split screen, montage of stills, character sheet, panel borders, or frozen slideshow. Do not reproduce the image reference backgrounds from the dog sheets.\nOUTPUT: Exactly 10 seconds of genuine animated action with three shots, two hard cuts, and the timings above, cinematic 16:9. At most two dogs and one ball in any scene. Consistent orange vests and Tine right-rear heart patch. Native synchronized garden ambience, canine Foley and original gentle piano/pizzicato music; absolutely no human speech or narration.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/reference_01.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_tine/reference_01.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@garden",
+          "reference_token": "@Image3",
+          "path": "assets/asset_garden/garden_c01.png",
+          "sha256": "c1488292ea6de7435772d70fb48c358d37a7160a7e3fc6f1d969107221485255",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@ball",
+          "reference_token": "@Image4",
+          "path": "assets/asset_ball/ball_c01.png",
+          "sha256": "daea2d318862bc40ba7289bdc533dbb3115d7b8f82ff7fc96f189f33c03def9e",
+          "role": "reference_image"
+        },
+        {
+          "tag": "storyboard_chapter_04",
+          "reference_token": "@Image5",
+          "path": "chapters/chapter_04/storyboards/chapter_04_sb01.png",
+          "sha256": "4655727020c9b8c013de3e18d983f61a2c3030c61000b8d3e43dbe8a1a9e602d",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 10,
+      "resolution": "480p",
+      "model": "dreamina-seedance-2-5-260628",
+      "endpoint_id": "ep-20260807143930-zwn48",
+      "settings": {
+        "model": "ep-20260807143930-zwn48",
+        "duration": 10,
+        "ratio": "16:9",
+        "resolution": "480p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 18430
+      },
+      "request_bytes": 14612067,
+      "task_id": "cgt-20261008153816-3g6u1",
+      "submitted_at": "2026-10-08T07:38:18.961866+00:00",
+      "provider_status": "succeeded",
+      "checked_at": "2026-10-08T07:42:19.346736+00:00",
+      "path": "chapters/chapter_04/takes/chapter_04_take01.mp4",
+      "last_frame_path": "chapters/chapter_04/takes/chapter_04_take01_last.jpg",
+      "provider_result": {
+        "id": "cgt-20261008153816-3g6u1",
+        "model": "dreamina-seedance-2-5-260628",
+        "status": "succeeded",
+        "usage": {
+          "completion_tokens": 96475,
+          "total_tokens": 96475
+        },
+        "created_at": 1791445097,
+        "updated_at": 1791445334,
+        "seed": 18430,
+        "resolution": "480p",
+        "ratio": "16:9",
+        "duration": 10,
+        "framespersecond": 24,
+        "service_tier": "default",
+        "execution_expires_after": 172800,
+        "generate_audio": true,
+        "draft": false,
+        "priority": 0,
+        "output_format": "mp4"
+      },
+      "completed_at": "2026-10-08T07:42:26.260010+00:00"
+    },
+    "chapter_05": {
+      "chapter_id": "chapter_05",
+      "take_id": "chapter_05_take01",
+      "take_number": 1,
+      "status": "succeeded",
+      "submission_state": "accepted",
+      "created_at": "2026-10-08T07:38:19.071239+00:00",
+      "source_revision": 5,
+      "dependency_fingerprint": "ed369a75da09c1d93c51a46a8ef61d3b9be907885219945466729b0cd380ebca",
+      "prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: Tart returns the kindness when Tine becomes distracted. @Tart and @Tine in @garden.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Both at far ramp; ball stationary nearby; daisies on the path edge.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @Tine leans toward fragrant daisies in @garden, captivated by the flowers. @Tart looks at @Tine, then at @ball with a knowing smile. Camera: 50mm medium two-shot; flowers foreground, ball lower center. Audio: Sniff-sniff, leaf rustle; playful flute-like score accent without speech. End state: Tine faces daisies; Tart steps closer to ball. Hard cut.\nShot 2 (3s-6s): @Tart nudges @ball gently into @Tine’s field of view. @Tine notices, turns back, and touches a paw to the ball beside Tart’s paw. Camera: 65mm close view of noses, ball and paws; tilt up to their expressions. Audio: Rubber brushing grass, surprised sniff; familiar piano motif returns. End state: Both puppies are focused together again, ball between their paws. Hard cut.\nShot 3 (6s-10s): @Tart and @Tine exchange a delighted look, then gently roll @ball together toward the oak tree in @garden. Camera: 35mm lateral follow resumes left-to-right travel; no fast chase. Audio: Two soft happy woofs; paw patter; lively but tender score. End state: Ball rolls toward tree; both puppies follow side by side.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Tart is beige; @Tine is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.",
+      "submitted_prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: Tart returns the kindness when Tine becomes distracted. @Image1 and @Image2 in @Image3.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Both at far ramp; ball stationary nearby; daisies on the path edge.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @Image2 leans toward fragrant daisies in @Image3, captivated by the flowers. @Image1 looks at @Image2, then at @Image4 with a knowing smile. Camera: 50mm medium two-shot; flowers foreground, ball lower center. Audio: Sniff-sniff, leaf rustle; playful flute-like score accent without speech. End state: Tine faces daisies; Tart steps closer to ball. Hard cut.\nShot 2 (3s-6s): @Image1 nudges @Image4 gently into @Image2’s field of view. @Image2 notices, turns back, and touches a paw to the ball beside Tart’s paw. Camera: 65mm close view of noses, ball and paws; tilt up to their expressions. Audio: Rubber brushing grass, surprised sniff; familiar piano motif returns. End state: Both puppies are focused together again, ball between their paws. Hard cut.\nShot 3 (6s-10s): @Image1 and @Image2 exchange a delighted look, then gently roll @Image4 together toward the oak tree in @Image3. Camera: 35mm lateral follow resumes left-to-right travel; no fast chase. Audio: Two soft happy woofs; paw patter; lively but tender score. End state: Ball rolls toward tree; both puppies follow side by side.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Image1 is beige; @Image2 is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.\nREFERENCE ROLES: @Image1 is ONLY the beige Tart identity sheet; @Image2 is ONLY brown Tine identity sheet. Each sheet shows multiple angles of ONE puppy. @Image3 supplies fixed garden geometry and sunlight. @Image4 supplies the one small blue ball with cream stripe. @Image5 is a four-panel STORYBOARD, read left-to-right/top-to-bottom, for composition and emotion only. Generate one full-screen moving film, NEVER a grid, split screen, montage of stills, character sheet, panel borders, or frozen slideshow. Do not reproduce the image reference backgrounds from the dog sheets.\nOUTPUT: Exactly 10 seconds of genuine animated action with three shots, two hard cuts, and the timings above, cinematic 16:9. At most two dogs and one ball in any scene. Consistent orange vests and Tine right-rear heart patch. Native synchronized garden ambience, canine Foley and original gentle piano/pizzicato music; absolutely no human speech or narration.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/reference_01.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_tine/reference_01.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@garden",
+          "reference_token": "@Image3",
+          "path": "assets/asset_garden/garden_c01.png",
+          "sha256": "c1488292ea6de7435772d70fb48c358d37a7160a7e3fc6f1d969107221485255",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@ball",
+          "reference_token": "@Image4",
+          "path": "assets/asset_ball/ball_c01.png",
+          "sha256": "daea2d318862bc40ba7289bdc533dbb3115d7b8f82ff7fc96f189f33c03def9e",
+          "role": "reference_image"
+        },
+        {
+          "tag": "storyboard_chapter_05",
+          "reference_token": "@Image5",
+          "path": "chapters/chapter_05/storyboards/chapter_05_sb01.png",
+          "sha256": "427fda03ad3c970683307cc5e41203d67df913cb6323bbcba9d77164caff64fd",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 10,
+      "resolution": "480p",
+      "model": "dreamina-seedance-2-5-260628",
+      "endpoint_id": "ep-20260807143930-zwn48",
+      "settings": {
+        "model": "ep-20260807143930-zwn48",
+        "duration": 10,
+        "ratio": "16:9",
+        "resolution": "480p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 18431
+      },
+      "request_bytes": 14784863,
+      "task_id": "cgt-20261008153821-588zc",
+      "submitted_at": "2026-10-08T07:38:23.519962+00:00",
+      "provider_status": "succeeded",
+      "checked_at": "2026-10-08T07:44:22.271025+00:00",
+      "path": "chapters/chapter_05/takes/chapter_05_take01.mp4",
+      "last_frame_path": "chapters/chapter_05/takes/chapter_05_take01_last.jpg",
+      "provider_result": {
+        "id": "cgt-20261008153821-588zc",
+        "model": "dreamina-seedance-2-5-260628",
+        "status": "succeeded",
+        "usage": {
+          "completion_tokens": 96475,
+          "total_tokens": 96475
+        },
+        "created_at": 1791445102,
+        "updated_at": 1791445431,
+        "seed": 18431,
+        "resolution": "480p",
+        "ratio": "16:9",
+        "duration": 10,
+        "framespersecond": 24,
+        "service_tier": "default",
+        "execution_expires_after": 172800,
+        "generate_audio": true,
+        "draft": false,
+        "priority": 0,
+        "output_format": "mp4"
+      },
+      "completed_at": "2026-10-08T07:44:28.728297+00:00"
+    },
+    "chapter_06": {
+      "chapter_id": "chapter_06",
+      "take_id": "chapter_06_take01",
+      "take_number": 1,
+      "status": "succeeded",
+      "submission_state": "accepted",
+      "created_at": "2026-10-08T07:38:23.609584+00:00",
+      "source_revision": 5,
+      "dependency_fingerprint": "4437362fcd79c587c2e7bc44fe99bcc7cfe1af9f99b66a9b8b308407f44377fc",
+      "prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: Their small adventure ends in quiet shared confidence. @Tart and @Tine in @garden.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Both puppies reach grass beneath the oak; ball rolls to a gentle stop.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @ball settles beneath the oak in @garden. @Tart and @Tine arrive together and slow to a stop, breathing lightly after their small adventure. Camera: 35mm wide eye-level; oak frames the pair and bridge remains visible behind. Audio: Soft grass steps; piano cadence begins; garden ambience continues. End state: Ball rests before both puppies; Tart left, Tine right. Hard cut.\nShot 2 (3s-6s): @Tart and @Tine sit with shoulders touching in @garden. @Tart rests the head lightly against @Tine; Tine leans back in return. Tails wag softly. Camera: 65mm medium two-shot, gentle push; cream and brown faces clearly distinct. Audio: Tiny contented sighs, soft vest fabric; original piano resolves. End state: Both rest together peacefully; ball stationary at their paws. Hard cut.\nShot 3 (6s-10s): Hold @Tart and @Tine together under the oak in @garden with @ball at their feet. Camera eases back to reveal the little bridge they crossed; warm light catches their orange vests. Camera: 35mm slow pullback; last composition holds during the final second. Audio: Last piano chord rings and fades naturally; birds and breeze continue. End state: Calm wide final frame with both puppies together; no fade or title changes the runtime.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Tart is beige; @Tine is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.",
+      "submitted_prompt": "GLOBAL STYLE: Warm, whimsical feature-film 3D animation inspired by Up, retaining the supplied puppy designs. 16:9. Rounded forms, expressive eyes, soft detailed fur, warm honey light and teal foliage.\nSCENE: Their small adventure ends in quiet shared confidence. @Image1 and @Image2 in @Image3.\nLOCATION: Fixed enclosed training garden; gravel path, low wooden bridge over a dry bed, daisies at far ramp and oak beyond.\nFIRST FRAME AND BLOCKING: Both puppies reach grass beneath the oak; ball rolls to a gentle stop.\nSHOT-BY-SHOT BREAKDOWN:\nShot 1 (0s-3s): @Image4 settles beneath the oak in @Image3. @Image1 and @Image2 arrive together and slow to a stop, breathing lightly after their small adventure. Camera: 35mm wide eye-level; oak frames the pair and bridge remains visible behind. Audio: Soft grass steps; piano cadence begins; garden ambience continues. End state: Ball rests before both puppies; Tart left, Tine right. Hard cut.\nShot 2 (3s-6s): @Image1 and @Image2 sit with shoulders touching in @Image3. @Image1 rests the head lightly against @Image2; Tine leans back in return. Tails wag softly. Camera: 65mm medium two-shot, gentle push; cream and brown faces clearly distinct. Audio: Tiny contented sighs, soft vest fabric; original piano resolves. End state: Both rest together peacefully; ball stationary at their paws. Hard cut.\nShot 3 (6s-10s): Hold @Image1 and @Image2 together under the oak in @Image3 with @Image4 at their feet. Camera eases back to reveal the little bridge they crossed; warm light catches their orange vests. Camera: 35mm slow pullback; last composition holds during the final second. Audio: Last piano chord rings and fades naturally; birds and breeze continue. End state: Calm wide final frame with both puppies together; no fade or title changes the runtime.\nOPTICS and CAMERA: Puppy eye height. Use the stated 35mm, 50mm, 65mm or 85mm-equivalent lenses; gentle dolly movement, readable actions and moderate depth of field.\nPHYSICS: Four anatomically consistent paws per puppy, natural canine locomotion; ear and vest secondary motion; the rubber ball rolls with friction and slows on grass. Bridge is low and stable; a harmless creak does not signify structural failure.\nLIGHTING: Same late-afternoon sun from upper screen-left throughout, soft skylight, bounced gold light, no change of weather or time.\nAUDIO: No spoken dialogue, narration or subtitles. The shot-level Foley and ambience remain audible. Use an original gentle piano/pizzicato score, never a film soundtrack.\nCONTINUITY LOCKS: @Image1 is beige; @Image2 is caramel brown with a pale heart on the right rear haunch. Preserve their reference faces, orange gray-trimmed training vests and blue circular patches. Reference sheets show multiple views of only one dog each. Two dogs total. Normal travel is left to right; Tine's motivated return is right to left. Ball never changes color, size, stripe, ownership or location without a visible action. Keep the bridge ramps, daisies and oak fixed. No duplicate dogs, morphing, floating paws, extra limbs, watermarks or on-screen text.\nREFERENCE ROLES: @Image1 is ONLY the beige Tart identity sheet; @Image2 is ONLY brown Tine identity sheet. Each sheet shows multiple angles of ONE puppy. @Image3 supplies fixed garden geometry and sunlight. @Image4 supplies the one small blue ball with cream stripe. @Image5 is a four-panel STORYBOARD, read left-to-right/top-to-bottom, for composition and emotion only. Generate one full-screen moving film, NEVER a grid, split screen, montage of stills, character sheet, panel borders, or frozen slideshow. Do not reproduce the image reference backgrounds from the dog sheets.\nOUTPUT: Exactly 10 seconds of genuine animated action with three shots, two hard cuts, and the timings above, cinematic 16:9. At most two dogs and one ball in any scene. Consistent orange vests and Tine right-rear heart patch. Native synchronized garden ambience, canine Foley and original gentle piano/pizzicato music; absolutely no human speech or narration.",
+      "bindings": [
+        {
+          "tag": "@Tart",
+          "reference_token": "@Image1",
+          "path": "assets/asset_tart/reference_01.png",
+          "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@Tine",
+          "reference_token": "@Image2",
+          "path": "assets/asset_tine/reference_01.png",
+          "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@garden",
+          "reference_token": "@Image3",
+          "path": "assets/asset_garden/garden_c01.png",
+          "sha256": "c1488292ea6de7435772d70fb48c358d37a7160a7e3fc6f1d969107221485255",
+          "role": "reference_image"
+        },
+        {
+          "tag": "@ball",
+          "reference_token": "@Image4",
+          "path": "assets/asset_ball/ball_c01.png",
+          "sha256": "daea2d318862bc40ba7289bdc533dbb3115d7b8f82ff7fc96f189f33c03def9e",
+          "role": "reference_image"
+        },
+        {
+          "tag": "storyboard_chapter_06",
+          "reference_token": "@Image5",
+          "path": "chapters/chapter_06/storyboards/chapter_06_sb01.png",
+          "sha256": "4e519c3271f5337bdec9f1688a7d6acdbeec1b12cc81d0caa2d7cd01dfe452c7",
+          "role": "reference_image"
+        }
+      ],
+      "duration": 10,
+      "resolution": "480p",
+      "model": "dreamina-seedance-2-5-260628",
+      "endpoint_id": "ep-20260807143930-zwn48",
+      "settings": {
+        "model": "ep-20260807143930-zwn48",
+        "duration": 10,
+        "ratio": "16:9",
+        "resolution": "480p",
+        "generate_audio": true,
+        "watermark": false,
+        "return_last_frame": true,
+        "output_format": "mp4",
+        "omni_reference_task_type": "reference",
+        "seed": 18432
+      },
+      "request_bytes": 14952711,
+      "task_id": "cgt-20261008153825-txbjg",
+      "submitted_at": "2026-10-08T07:38:29.036667+00:00",
+      "provider_status": "succeeded",
+      "checked_at": "2026-10-08T07:43:09.653809+00:00",
+      "path": "chapters/chapter_06/takes/chapter_06_take01.mp4",
+      "last_frame_path": "chapters/chapter_06/takes/chapter_06_take01_last.jpg",
+      "provider_result": {
+        "id": "cgt-20261008153825-txbjg",
+        "model": "dreamina-seedance-2-5-260628",
+        "status": "succeeded",
+        "usage": {
+          "completion_tokens": 96475,
+          "total_tokens": 96475
+        },
+        "created_at": 1791445107,
+        "updated_at": 1791445350,
+        "seed": 18432,
+        "resolution": "480p",
+        "ratio": "16:9",
+        "duration": 10,
+        "framespersecond": 24,
+        "service_tier": "default",
+        "execution_expires_after": 172800,
+        "generate_audio": true,
+        "draft": false,
+        "priority": 0,
+        "output_format": "mp4"
+      },
+      "completed_at": "2026-10-08T07:43:15.084985+00:00"
+    }
+  }
+}

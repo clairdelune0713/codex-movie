@@ -1,0 +1,6 @@
+file 'chapter_01_take01_normalized.mp4'
+file 'chapter_02_take01_normalized.mp4'
+file 'chapter_03_take01_normalized.mp4'
+file 'chapter_04_take01_normalized.mp4'
+file 'chapter_05_take01_normalized.mp4'
+file 'chapter_06_take01_normalized.mp4'

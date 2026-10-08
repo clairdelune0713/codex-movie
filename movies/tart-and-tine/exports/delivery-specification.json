@@ -1,0 +1,381 @@
+{
+  "project_name": "Tart & Tine: A Little Braver Together",
+  "source_revision": 5,
+  "status": "blocked_endpoint_authorization",
+  "desired_output_filename": "tart-and-tine-60s.mp4",
+  "output_goals": {
+    "duration_seconds": 60,
+    "resolution": [
+      854,
+      480
+    ],
+    "aspect_ratio": "16:9",
+    "fps": 30,
+    "frame_count": 1800,
+    "audio_channels": 2,
+    "audio_sample_rate": 48000,
+    "transitions": "Hard cuts, no runtime-changing crossfades",
+    "resolution_label": "480p"
+  },
+  "actual_video": null,
+  "generated_video_takes": 0,
+  "generated_audio_tracks": 0,
+  "storyboard_note": "Static concept images with four panels per chapter; not animated video and not a verified first/last frame. Source sheets remain the canonical character identity anchors.",
+  "pending_stages": [
+    "Correct ark:GetApiKey permission or AK/SK/endpoint pairing",
+    "Render six 10-second chapters with native audio",
+    "Inspect selected takes, assemble and verify movie"
+  ],
+  "shot_ledger": [
+    {
+      "chapter_id": "chapter_01",
+      "shot_index": 1,
+      "movie_start_seconds": 0,
+      "movie_end_seconds": 3,
+      "start_frame": 0,
+      "end_frame_exclusive": 90,
+      "action": "@Tart and @Tine sit together in @garden, ears perked. @Tart glances shyly at @Tine; @Tine answers with a bright tail wag.",
+      "camera": "35mm wide at puppy eye height; slow push toward both puppies",
+      "audio_direction": "Soft breeze, distant birds; original playful piano motif begins.",
+      "end_state": "Tart looks toward the ball; Tine lifts one forepaw."
+    },
+    {
+      "chapter_id": "chapter_01",
+      "shot_index": 2,
+      "movie_start_seconds": 3,
+      "movie_end_seconds": 6,
+      "start_frame": 90,
+      "end_frame_exclusive": 180,
+      "action": "@Tine lowers a forepaw onto @ball and gently nudges it along the gravel path; @Tart tilts the head in delight.",
+      "camera": "50mm medium two-shot; paws and faces in one coherent composition",
+      "audio_direction": "Soft rubber tap and gravel tick; pizzicato joins piano.",
+      "end_state": "The ball starts rolling east, screen-left to screen-right."
+    },
+    {
+      "chapter_id": "chapter_01",
+      "shot_index": 3,
+      "movie_start_seconds": 6,
+      "movie_end_seconds": 10,
+      "start_frame": 180,
+      "end_frame_exclusive": 300,
+      "action": "@Tart and @Tine trot after @ball through @garden toward the near bridge ramp. @Tine leads by half a body length.",
+      "camera": "35mm lateral tracking, consistent left-to-right travel",
+      "audio_direction": "Light paw patter; vest cloth flutter; upbeat motif.",
+      "end_state": "Ball reaches the near bridge ramp; both dogs are approaching behind it."
+    },
+    {
+      "chapter_id": "chapter_02",
+      "shot_index": 1,
+      "movie_start_seconds": 10,
+      "movie_end_seconds": 13,
+      "start_frame": 300,
+      "end_frame_exclusive": 390,
+      "action": "@ball rolls slowly over the low wooden bridge in @garden and settles in grass beside the far-side daisies.",
+      "camera": "50mm ground-level follow; show near ramp, bridge crown, far ramp and destination",
+      "audio_direction": "Gentle wood roll, then soft grass rustle.",
+      "end_state": "Ball is stationary beside the far ramp, on the right."
+    },
+    {
+      "chapter_id": "chapter_02",
+      "shot_index": 2,
+      "movie_start_seconds": 13,
+      "movie_end_seconds": 16,
+      "start_frame": 390,
+      "end_frame_exclusive": 480,
+      "action": "@Tine crosses the bridge confidently and stops beside @ball. @Tart reaches the near ramp and slows.",
+      "camera": "35mm wide side view; both ramps visible; no axis crossing",
+      "audio_direction": "Paw taps on wood; piano skips upward.",
+      "end_state": "Tine stands at the far ramp; Tart remains at the near ramp."
+    },
+    {
+      "chapter_id": "chapter_02",
+      "shot_index": 3,
+      "movie_start_seconds": 16,
+      "movie_end_seconds": 20,
+      "start_frame": 480,
+      "end_frame_exclusive": 600,
+      "action": "@Tart places one paw on the first bridge plank in @garden, hears a tiny creak, and withdraws the paw. Ears droop; eyes look across toward @Tine.",
+      "camera": "65mm close-up from near-side three-quarter view; bridge stays low and safe",
+      "audio_direction": "A small wood creak; a soft canine breath; score thins to two piano notes.",
+      "end_state": "Tart has all four paws on near-side gravel, hesitant but safe."
+    },
+    {
+      "chapter_id": "chapter_03",
+      "shot_index": 1,
+      "movie_start_seconds": 20,
+      "movie_end_seconds": 23,
+      "start_frame": 600,
+      "end_frame_exclusive": 690,
+      "action": "@Tine looks from stationary @ball to @Tart across the bridge in @garden. Playful expression softens into concern.",
+      "camera": "65mm medium close-up; rack focus from ball to Tart across bridge",
+      "audio_direction": "Bird ambience; piano holds a warm chord.",
+      "end_state": "Tine turns body toward Tart."
+    },
+    {
+      "chapter_id": "chapter_03",
+      "shot_index": 2,
+      "movie_start_seconds": 23,
+      "movie_end_seconds": 26,
+      "start_frame": 690,
+      "end_frame_exclusive": 780,
+      "action": "@Tine walks back across the bridge in @garden, right to left, slowing as the puppy reaches @Tart on near-side gravel.",
+      "camera": "35mm wide profile maintains the established axis; return direction visibly motivated",
+      "audio_direction": "Measured wooden paw taps; gentle pizzicato pulse.",
+      "end_state": "Both puppies are together at the near ramp; ball remains far-side."
+    },
+    {
+      "chapter_id": "chapter_03",
+      "shot_index": 3,
+      "movie_start_seconds": 26,
+      "movie_end_seconds": 30,
+      "start_frame": 780,
+      "end_frame_exclusive": 900,
+      "action": "@Tine gently touches noses with @Tart and waits. @Tart raises the ears, takes a steadying breath and returns the nose touch.",
+      "camera": "85mm close two-shot at nose height; tiny slow push",
+      "audio_direction": "Quiet sniff and soft exhale; a tender original piano phrase.",
+      "end_state": "Both turn to face the bridge, Tart left and Tine right, shoulder to shoulder."
+    },
+    {
+      "chapter_id": "chapter_04",
+      "shot_index": 1,
+      "movie_start_seconds": 30,
+      "movie_end_seconds": 33,
+      "start_frame": 900,
+      "end_frame_exclusive": 990,
+      "action": "@Tine places a paw onto the first plank in @garden and waits for @Tart to match the step. Both then advance slowly.",
+      "camera": "50mm low medium two-shot includes both faces and front paws",
+      "audio_direction": "Two gentle synchronized taps; encouraging piano phrase.",
+      "end_state": "Both puppies have their front paws on the bridge."
+    },
+    {
+      "chapter_id": "chapter_04",
+      "shot_index": 2,
+      "movie_start_seconds": 33,
+      "movie_end_seconds": 36,
+      "start_frame": 990,
+      "end_frame_exclusive": 1080,
+      "action": "At the bridge crown in @garden, @Tart glances at @Tine, then straight ahead. Their ears lift and tails begin to wag as they keep walking.",
+      "camera": "65mm eye-level moving two-shot; subtle background parallax",
+      "audio_direction": "Soft wood taps and fur movement; pizzicato grows warmer.",
+      "end_state": "Both puppies pass the midpoint, continuing left to right."
+    },
+    {
+      "chapter_id": "chapter_04",
+      "shot_index": 3,
+      "movie_start_seconds": 36,
+      "movie_end_seconds": 40,
+      "start_frame": 1080,
+      "end_frame_exclusive": 1200,
+      "action": "@Tart and @Tine step off the far ramp onto grass beside @ball in @garden. @Tart straightens proudly; @Tine gives a little happy bounce.",
+      "camera": "35mm wider side view; small upward camera settle at landing",
+      "audio_direction": "Grass pawfalls and one happy woof; score opens into a bright chord.",
+      "end_state": "Both stand safely on far-side grass; ball sits ahead beside daisies."
+    },
+    {
+      "chapter_id": "chapter_05",
+      "shot_index": 1,
+      "movie_start_seconds": 40,
+      "movie_end_seconds": 43,
+      "start_frame": 1200,
+      "end_frame_exclusive": 1290,
+      "action": "@Tine leans toward fragrant daisies in @garden, captivated by the flowers. @Tart looks at @Tine, then at @ball with a knowing smile.",
+      "camera": "50mm medium two-shot; flowers foreground, ball lower center",
+      "audio_direction": "Sniff-sniff, leaf rustle; playful flute-like score accent without speech.",
+      "end_state": "Tine faces daisies; Tart steps closer to ball."
+    },
+    {
+      "chapter_id": "chapter_05",
+      "shot_index": 2,
+      "movie_start_seconds": 43,
+      "movie_end_seconds": 46,
+      "start_frame": 1290,
+      "end_frame_exclusive": 1380,
+      "action": "@Tart nudges @ball gently into @Tine’s field of view. @Tine notices, turns back, and touches a paw to the ball beside Tart’s paw.",
+      "camera": "65mm close view of noses, ball and paws; tilt up to their expressions",
+      "audio_direction": "Rubber brushing grass, surprised sniff; familiar piano motif returns.",
+      "end_state": "Both puppies are focused together again, ball between their paws."
+    },
+    {
+      "chapter_id": "chapter_05",
+      "shot_index": 3,
+      "movie_start_seconds": 46,
+      "movie_end_seconds": 50,
+      "start_frame": 1380,
+      "end_frame_exclusive": 1500,
+      "action": "@Tart and @Tine exchange a delighted look, then gently roll @ball together toward the oak tree in @garden.",
+      "camera": "35mm lateral follow resumes left-to-right travel; no fast chase",
+      "audio_direction": "Two soft happy woofs; paw patter; lively but tender score.",
+      "end_state": "Ball rolls toward tree; both puppies follow side by side."
+    },
+    {
+      "chapter_id": "chapter_06",
+      "shot_index": 1,
+      "movie_start_seconds": 50,
+      "movie_end_seconds": 53,
+      "start_frame": 1500,
+      "end_frame_exclusive": 1590,
+      "action": "@ball settles beneath the oak in @garden. @Tart and @Tine arrive together and slow to a stop, breathing lightly after their small adventure.",
+      "camera": "35mm wide eye-level; oak frames the pair and bridge remains visible behind",
+      "audio_direction": "Soft grass steps; piano cadence begins; garden ambience continues.",
+      "end_state": "Ball rests before both puppies; Tart left, Tine right."
+    },
+    {
+      "chapter_id": "chapter_06",
+      "shot_index": 2,
+      "movie_start_seconds": 53,
+      "movie_end_seconds": 56,
+      "start_frame": 1590,
+      "end_frame_exclusive": 1680,
+      "action": "@Tart and @Tine sit with shoulders touching in @garden. @Tart rests the head lightly against @Tine; Tine leans back in return. Tails wag softly.",
+      "camera": "65mm medium two-shot, gentle push; cream and brown faces clearly distinct",
+      "audio_direction": "Tiny contented sighs, soft vest fabric; original piano resolves.",
+      "end_state": "Both rest together peacefully; ball stationary at their paws."
+    },
+    {
+      "chapter_id": "chapter_06",
+      "shot_index": 3,
+      "movie_start_seconds": 56,
+      "movie_end_seconds": 60,
+      "start_frame": 1680,
+      "end_frame_exclusive": 1800,
+      "action": "Hold @Tart and @Tine together under the oak in @garden with @ball at their feet. Camera eases back to reveal the little bridge they crossed; warm light catches their orange vests.",
+      "camera": "35mm slow pullback; last composition holds during the final second",
+      "audio_direction": "Last piano chord rings and fades naturally; birds and breeze continue.",
+      "end_state": "Calm wide final frame with both puppies together; no fade or title changes the runtime."
+    }
+  ],
+  "continuity_review": [
+    "Single enclosed garden and one consistent late-afternoon light state throughout",
+    "Near bridge ramp screen-left; far ramp screen-right; daisies immediately far-side; oak beyond",
+    "The blue ball rolls visibly, then stays at far-side daisies during Tine’s return and the shared bridge crossing",
+    "Tine returns right-to-left before both puppies cross left-to-right; camera remains on one side of action axis",
+    "Tart remains beige; Tine remains brown with pale right rear heart patch; vests consistent",
+    "Reference sheet duplicate views must not become extra on-screen dogs",
+    "Six times 10 seconds; every chapter has consecutive 3, 3, 4-second shots",
+    "No dialogue; original score and scene Foley remain directions pending audio production"
+  ],
+  "raster_verification": [
+    {
+      "path": "assets/asset_ball/ball_c01.png",
+      "dimensions": [
+        1374,
+        1145
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "daea2d318862bc40ba7289bdc533dbb3115d7b8f82ff7fc96f189f33c03def9e"
+    },
+    {
+      "path": "assets/asset_garden/garden_c01.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "c1488292ea6de7435772d70fb48c358d37a7160a7e3fc6f1d969107221485255"
+    },
+    {
+      "path": "assets/asset_tart/reference_01.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "d307d557a4ef96deee622d2f9de047df248740b3340f55781e96780a75912480"
+    },
+    {
+      "path": "assets/asset_tine/reference_01.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7"
+    },
+    {
+      "path": "chapters/chapter_01/storyboards/chapter_01_sb01.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "bbdd3d2efa8d56002b7fe4d1f5a3bb89ef33692e089bad572c973e141d5b38a1"
+    },
+    {
+      "path": "chapters/chapter_02/storyboards/chapter_02_sb01.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "ae494a7355953c5992ca364a2152782e7716db9c3c7ff03daf46153848e4dc16"
+    },
+    {
+      "path": "chapters/chapter_02/storyboards/chapter_02_sb02.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "456de93bb44b238faf55a869bc5e9185af0add83abadb98f56b4320e71550aa8"
+    },
+    {
+      "path": "chapters/chapter_03/storyboards/chapter_03_sb01.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "f4a940e794bef31410ef1a3b89f62328ab5fd4bce9dd6ed27a7fc5d7927310ac"
+    },
+    {
+      "path": "chapters/chapter_03/storyboards/chapter_03_sb02.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "1239fc7704a4718da331659a1c51166f83901191266b96a3c7fb1c20d03b1fe5"
+    },
+    {
+      "path": "chapters/chapter_04/storyboards/chapter_04_sb01.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "4655727020c9b8c013de3e18d983f61a2c3030c61000b8d3e43dbe8a1a9e602d"
+    },
+    {
+      "path": "chapters/chapter_05/storyboards/chapter_05_sb01.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "427fda03ad3c970683307cc5e41203d67df913cb6323bbcba9d77164caff64fd"
+    },
+    {
+      "path": "chapters/chapter_06/storyboards/chapter_06_sb01.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "4e519c3271f5337bdec9f1688a7d6acdbeec1b12cc81d0caa2d7cd01dfe452c7"
+    }
+  ],
+  "verified_at": "2026-10-08T07:26:11.300795+00:00",
+  "verification_scope": "Planned timeline, file existence, raster decoding and hashes. No video duration, motion, audio or decode verification is possible before rendering."
+}

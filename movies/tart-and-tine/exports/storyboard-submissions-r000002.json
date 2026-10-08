@@ -1,0 +1,122 @@
+[
+  {
+    "chapter_id": "chapter_01",
+    "id": "chapter_01_sb01",
+    "grid": "2x2",
+    "panel_descriptions": [
+      "@Tart and @Tine sit together in @garden, ears perked. @Tart glances shyly at @Tine; @Tine answers with a bright tail wag. Framing: 35mm wide at puppy eye height; slow push toward both puppies",
+      "@Tine lowers a forepaw onto @ball and gently nudges it along the gravel path; @Tart tilts the head in delight. Framing: 50mm medium two-shot; paws and faces in one coherent composition",
+      "@Tart and @Tine trot after @ball through @garden toward the near bridge ramp. @Tine leads by half a body length. Framing: 35mm lateral tracking, consistent left-to-right travel",
+      "Ball reaches the near bridge ramp; both dogs are approaching behind it. Final beat of the chapter; emotional eye acting, same geography and props."
+    ],
+    "prompt": "Use case: illustration-story. Asset type: cinematic chapter storyboard for a 60-second movie, Two little trainees, movie seconds 0-10. Primary request: Generate one 2x2 storyboard canvas, four equal wide rectangular cinematic panels touching seamlessly, read left-to-right then top-to-bottom. Overall canvas near 16:9; each panel cinematic and wide. NO outer frame, gutters, divider lines, text, captions, panel numbers, subtitles, speech bubbles or watermarks.\nInput images: Image 1 supplies ONLY Tart identity and orange training vest, beige puppy. Image 2 supplies ONLY Tine identity and orange vest, brown puppy with pale heart-shaped patch on right rear haunch. Each sheet is three views of ONE dog; never put multiple copies of one dog into a scene. Image 3 is the environment geometry and lighting reference: same low wooden bridge, dry gravel bed, near ramp left, far ramp right, daisies beside far ramp, rounded oak farther right. Image 4 supplies ONLY the small sky-blue ball with its single cream stripe; keep it small relative to puppies, approximately paw-sized, not gigantic.\nStyle: Warm whimsical feature-film CGI like Up, rounded shapes, charming expressive eyes, soft tactile fur, colorful teal foliage and honey light. Match the supplied dog designs. Orange gray-edged training vests with blue round patches remain; do not add narrative text. Same late-afternoon sun from upper left, same yard, no weather or time changes.\nStarting geography: Tart sits left, Tine right, blue ball between them on the near side of the bridge.\nPanel 1: @Tart and @Tine sit together in @garden, ears perked. @Tart glances shyly at @Tine; @Tine answers with a bright tail wag. Framing: 35mm wide at puppy eye height; slow push toward both puppies\nPanel 2: @Tine lowers a forepaw onto @ball and gently nudges it along the gravel path; @Tart tilts the head in delight. Framing: 50mm medium two-shot; paws and faces in one coherent composition\nPanel 3: @Tart and @Tine trot after @ball through @garden toward the near bridge ramp. @Tine leads by half a body length. Framing: 35mm lateral tracking, consistent left-to-right travel\nPanel 4: Ball reaches the near bridge ramp; both dogs are approaching behind it. Final beat of the chapter; emotional eye acting, same geography and props.\nContinuity: exactly one beige Tart and one brown Tine whenever both are visible; a close-up may show only the named subject. Four paws per dog, anatomically plausible motion, no morphing, no floating objects. Travel left to right except Tine's motivated return right to left. No water or dangerous height beneath bridge. Warm emotional visual storytelling, no anthropomorphic hands, no franchise characters. The @tags above are metadata and must NOT appear as text in the raster.",
+    "reference_paths": [
+      "assets/asset_tart/reference_01.png",
+      "assets/asset_tine/reference_01.png",
+      "assets/asset_garden/garden_c01.png",
+      "assets/asset_ball/ball_c01.png"
+    ],
+    "source_revision": 2,
+    "dependency_fingerprint": "2b245f0014b415c1617d69d1d2d28e61eb7615080a790359b78e30d2281ae85c"
+  },
+  {
+    "chapter_id": "chapter_02",
+    "id": "chapter_02_sb01",
+    "grid": "2x2",
+    "panel_descriptions": [
+      "@ball rolls slowly over the low wooden bridge in @garden and settles in grass beside the far-side daisies. Framing: 50mm ground-level follow; show near ramp, bridge crown, far ramp and destination",
+      "@Tine crosses the bridge confidently and stops beside @ball. @Tart reaches the near ramp and slows. Framing: 35mm wide side view; both ramps visible; no axis crossing",
+      "@Tart places one paw on the first bridge plank in @garden, hears a tiny creak, and withdraws the paw. Ears droop; eyes look across toward @Tine. Framing: 65mm close-up from near-side three-quarter view; bridge stays low and safe",
+      "Tart has all four paws on near-side gravel, hesitant but safe. Final beat of the chapter; emotional eye acting, same geography and props."
+    ],
+    "prompt": "Use case: illustration-story. Asset type: cinematic chapter storyboard for a 60-second movie, A tiny big obstacle, movie seconds 10-20. Primary request: Generate one 2x2 storyboard canvas, four equal wide rectangular cinematic panels touching seamlessly, read left-to-right then top-to-bottom. Overall canvas near 16:9; each panel cinematic and wide. NO outer frame, gutters, divider lines, text, captions, panel numbers, subtitles, speech bubbles or watermarks.\nInput images: Image 1 supplies ONLY Tart identity and orange training vest, beige puppy. Image 2 supplies ONLY Tine identity and orange vest, brown puppy with pale heart-shaped patch on right rear haunch. Each sheet is three views of ONE dog; never put multiple copies of one dog into a scene. Image 3 is the environment geometry and lighting reference: same low wooden bridge, dry gravel bed, near ramp left, far ramp right, daisies beside far ramp, rounded oak farther right. Image 4 supplies ONLY the small sky-blue ball with its single cream stripe; keep it small relative to puppies, approximately paw-sized, not gigantic.\nStyle: Warm whimsical feature-film CGI like Up, rounded shapes, charming expressive eyes, soft tactile fur, colorful teal foliage and honey light. Match the supplied dog designs. Orange gray-edged training vests with blue round patches remain; do not add narrative text. Same late-afternoon sun from upper left, same yard, no weather or time changes.\nStarting geography: Ball rolls onto the low bridge; both puppies approach from screen-left.\nPanel 1: @ball rolls slowly over the low wooden bridge in @garden and settles in grass beside the far-side daisies. Framing: 50mm ground-level follow; show near ramp, bridge crown, far ramp and destination\nPanel 2: @Tine crosses the bridge confidently and stops beside @ball. @Tart reaches the near ramp and slows. Framing: 35mm wide side view; both ramps visible; no axis crossing\nPanel 3: @Tart places one paw on the first bridge plank in @garden, hears a tiny creak, and withdraws the paw. Ears droop; eyes look across toward @Tine. Framing: 65mm close-up from near-side three-quarter view; bridge stays low and safe\nPanel 4: Tart has all four paws on near-side gravel, hesitant but safe. Final beat of the chapter; emotional eye acting, same geography and props.\nContinuity: exactly one beige Tart and one brown Tine whenever both are visible; a close-up may show only the named subject. Four paws per dog, anatomically plausible motion, no morphing, no floating objects. Travel left to right except Tine's motivated return right to left. No water or dangerous height beneath bridge. Warm emotional visual storytelling, no anthropomorphic hands, no franchise characters. The @tags above are metadata and must NOT appear as text in the raster.",
+    "reference_paths": [
+      "assets/asset_tart/reference_01.png",
+      "assets/asset_tine/reference_01.png",
+      "assets/asset_garden/garden_c01.png",
+      "assets/asset_ball/ball_c01.png"
+    ],
+    "source_revision": 2,
+    "dependency_fingerprint": "51fc43f3821abb11bfea71a089e1790631aa61cc48621d0a503f4a3119705518"
+  },
+  {
+    "chapter_id": "chapter_03",
+    "id": "chapter_03_sb01",
+    "grid": "2x2",
+    "panel_descriptions": [
+      "@Tine looks from stationary @ball to @Tart across the bridge in @garden. Playful expression softens into concern. Framing: 65mm medium close-up; rack focus from ball to Tart across bridge",
+      "@Tine walks back across the bridge in @garden, right to left, slowing as the puppy reaches @Tart on near-side gravel. Framing: 35mm wide profile maintains the established axis; return direction visibly motivated",
+      "@Tine gently touches noses with @Tart and waits. @Tart raises the ears, takes a steadying breath and returns the nose touch. Framing: 85mm close two-shot at nose height; tiny slow push",
+      "Both turn to face the bridge, Tart left and Tine right, shoulder to shoulder. Final beat of the chapter; emotional eye acting, same geography and props."
+    ],
+    "prompt": "Use case: illustration-story. Asset type: cinematic chapter storyboard for a 60-second movie, Coming back, movie seconds 20-30. Primary request: Generate one 2x2 storyboard canvas, four equal wide rectangular cinematic panels touching seamlessly, read left-to-right then top-to-bottom. Overall canvas near 16:9; each panel cinematic and wide. NO outer frame, gutters, divider lines, text, captions, panel numbers, subtitles, speech bubbles or watermarks.\nInput images: Image 1 supplies ONLY Tart identity and orange training vest, beige puppy. Image 2 supplies ONLY Tine identity and orange vest, brown puppy with pale heart-shaped patch on right rear haunch. Each sheet is three views of ONE dog; never put multiple copies of one dog into a scene. Image 3 is the environment geometry and lighting reference: same low wooden bridge, dry gravel bed, near ramp left, far ramp right, daisies beside far ramp, rounded oak farther right. Image 4 supplies ONLY the small sky-blue ball with its single cream stripe; keep it small relative to puppies, approximately paw-sized, not gigantic.\nStyle: Warm whimsical feature-film CGI like Up, rounded shapes, charming expressive eyes, soft tactile fur, colorful teal foliage and honey light. Match the supplied dog designs. Orange gray-edged training vests with blue round patches remain; do not add narrative text. Same late-afternoon sun from upper left, same yard, no weather or time changes.\nStarting geography: Tine at far ramp right, Tart at near ramp left; ball remains by daisies.\nPanel 1: @Tine looks from stationary @ball to @Tart across the bridge in @garden. Playful expression softens into concern. Framing: 65mm medium close-up; rack focus from ball to Tart across bridge\nPanel 2: @Tine walks back across the bridge in @garden, right to left, slowing as the puppy reaches @Tart on near-side gravel. Framing: 35mm wide profile maintains the established axis; return direction visibly motivated\nPanel 3: @Tine gently touches noses with @Tart and waits. @Tart raises the ears, takes a steadying breath and returns the nose touch. Framing: 85mm close two-shot at nose height; tiny slow push\nPanel 4: Both turn to face the bridge, Tart left and Tine right, shoulder to shoulder. Final beat of the chapter; emotional eye acting, same geography and props.\nContinuity: exactly one beige Tart and one brown Tine whenever both are visible; a close-up may show only the named subject. Four paws per dog, anatomically plausible motion, no morphing, no floating objects. Travel left to right except Tine's motivated return right to left. No water or dangerous height beneath bridge. Warm emotional visual storytelling, no anthropomorphic hands, no franchise characters. The @tags above are metadata and must NOT appear as text in the raster.",
+    "reference_paths": [
+      "assets/asset_tart/reference_01.png",
+      "assets/asset_tine/reference_01.png",
+      "assets/asset_garden/garden_c01.png",
+      "assets/asset_ball/ball_c01.png"
+    ],
+    "source_revision": 2,
+    "dependency_fingerprint": "ab33a750c8154a89df499c104095025de40362f136d091d5a1fcc9ca5974b4e2"
+  },
+  {
+    "chapter_id": "chapter_04",
+    "id": "chapter_04_sb01",
+    "grid": "2x2",
+    "panel_descriptions": [
+      "@Tine places a paw onto the first plank in @garden and waits for @Tart to match the step. Both then advance slowly. Framing: 50mm low medium two-shot includes both faces and front paws",
+      "At the bridge crown in @garden, @Tart glances at @Tine, then straight ahead. Their ears lift and tails begin to wag as they keep walking. Framing: 65mm eye-level moving two-shot; subtle background parallax",
+      "@Tart and @Tine step off the far ramp onto grass beside @ball in @garden. @Tart straightens proudly; @Tine gives a little happy bounce. Framing: 35mm wider side view; small upward camera settle at landing",
+      "Both stand safely on far-side grass; ball sits ahead beside daisies. Final beat of the chapter; emotional eye acting, same geography and props."
+    ],
+    "prompt": "Use case: illustration-story. Asset type: cinematic chapter storyboard for a 60-second movie, One paw at a time, movie seconds 30-40. Primary request: Generate one 2x2 storyboard canvas, four equal wide rectangular cinematic panels touching seamlessly, read left-to-right then top-to-bottom. Overall canvas near 16:9; each panel cinematic and wide. NO outer frame, gutters, divider lines, text, captions, panel numbers, subtitles, speech bubbles or watermarks.\nInput images: Image 1 supplies ONLY Tart identity and orange training vest, beige puppy. Image 2 supplies ONLY Tine identity and orange vest, brown puppy with pale heart-shaped patch on right rear haunch. Each sheet is three views of ONE dog; never put multiple copies of one dog into a scene. Image 3 is the environment geometry and lighting reference: same low wooden bridge, dry gravel bed, near ramp left, far ramp right, daisies beside far ramp, rounded oak farther right. Image 4 supplies ONLY the small sky-blue ball with its single cream stripe; keep it small relative to puppies, approximately paw-sized, not gigantic.\nStyle: Warm whimsical feature-film CGI like Up, rounded shapes, charming expressive eyes, soft tactile fur, colorful teal foliage and honey light. Match the supplied dog designs. Orange gray-edged training vests with blue round patches remain; do not add narrative text. Same late-afternoon sun from upper left, same yard, no weather or time changes.\nStarting geography: Both puppies at near ramp facing east; Tine leads by only a paw length.\nPanel 1: @Tine places a paw onto the first plank in @garden and waits for @Tart to match the step. Both then advance slowly. Framing: 50mm low medium two-shot includes both faces and front paws\nPanel 2: At the bridge crown in @garden, @Tart glances at @Tine, then straight ahead. Their ears lift and tails begin to wag as they keep walking. Framing: 65mm eye-level moving two-shot; subtle background parallax\nPanel 3: @Tart and @Tine step off the far ramp onto grass beside @ball in @garden. @Tart straightens proudly; @Tine gives a little happy bounce. Framing: 35mm wider side view; small upward camera settle at landing\nPanel 4: Both stand safely on far-side grass; ball sits ahead beside daisies. Final beat of the chapter; emotional eye acting, same geography and props.\nContinuity: exactly one beige Tart and one brown Tine whenever both are visible; a close-up may show only the named subject. Four paws per dog, anatomically plausible motion, no morphing, no floating objects. Travel left to right except Tine's motivated return right to left. No water or dangerous height beneath bridge. Warm emotional visual storytelling, no anthropomorphic hands, no franchise characters. The @tags above are metadata and must NOT appear as text in the raster.",
+    "reference_paths": [
+      "assets/asset_tart/reference_01.png",
+      "assets/asset_tine/reference_01.png",
+      "assets/asset_garden/garden_c01.png",
+      "assets/asset_ball/ball_c01.png"
+    ],
+    "source_revision": 2,
+    "dependency_fingerprint": "c30d749bf3bad104b86a4082808905224f35641b9ccc185c50f42e51e2046236"
+  },
+  {
+    "chapter_id": "chapter_05",
+    "id": "chapter_05_sb01",
+    "grid": "2x2",
+    "panel_descriptions": [
+      "@Tine leans toward fragrant daisies in @garden, captivated by the flowers. @Tart looks at @Tine, then at @ball with a knowing smile. Framing: 50mm medium two-shot; flowers foreground, ball lower center",
+      "@Tart nudges @ball gently into @Tine’s field of view. @Tine notices, turns back, and touches a paw to the ball beside Tart’s paw. Framing: 65mm close view of noses, ball and paws; tilt up to their expressions",
+      "@Tart and @Tine exchange a delighted look, then gently roll @ball together toward the oak tree in @garden. Framing: 35mm lateral follow resumes left-to-right travel; no fast chase",
+      "Ball rolls toward tree; both puppies follow side by side. Final beat of the chapter; emotional eye acting, same geography and props."
+    ],
+    "prompt": "Use case: illustration-story. Asset type: cinematic chapter storyboard for a 60-second movie, Your turn to help, movie seconds 40-50. Primary request: Generate one 2x2 storyboard canvas, four equal wide rectangular cinematic panels touching seamlessly, read left-to-right then top-to-bottom. Overall canvas near 16:9; each panel cinematic and wide. NO outer frame, gutters, divider lines, text, captions, panel numbers, subtitles, speech bubbles or watermarks.\nInput images: Image 1 supplies ONLY Tart identity and orange training vest, beige puppy. Image 2 supplies ONLY Tine identity and orange vest, brown puppy with pale heart-shaped patch on right rear haunch. Each sheet is three views of ONE dog; never put multiple copies of one dog into a scene. Image 3 is the environment geometry and lighting reference: same low wooden bridge, dry gravel bed, near ramp left, far ramp right, daisies beside far ramp, rounded oak farther right. Image 4 supplies ONLY the small sky-blue ball with its single cream stripe; keep it small relative to puppies, approximately paw-sized, not gigantic.\nStyle: Warm whimsical feature-film CGI like Up, rounded shapes, charming expressive eyes, soft tactile fur, colorful teal foliage and honey light. Match the supplied dog designs. Orange gray-edged training vests with blue round patches remain; do not add narrative text. Same late-afternoon sun from upper left, same yard, no weather or time changes.\nStarting geography: Both at far ramp; ball stationary nearby; daisies on the path edge.\nPanel 1: @Tine leans toward fragrant daisies in @garden, captivated by the flowers. @Tart looks at @Tine, then at @ball with a knowing smile. Framing: 50mm medium two-shot; flowers foreground, ball lower center\nPanel 2: @Tart nudges @ball gently into @Tine’s field of view. @Tine notices, turns back, and touches a paw to the ball beside Tart’s paw. Framing: 65mm close view of noses, ball and paws; tilt up to their expressions\nPanel 3: @Tart and @Tine exchange a delighted look, then gently roll @ball together toward the oak tree in @garden. Framing: 35mm lateral follow resumes left-to-right travel; no fast chase\nPanel 4: Ball rolls toward tree; both puppies follow side by side. Final beat of the chapter; emotional eye acting, same geography and props.\nContinuity: exactly one beige Tart and one brown Tine whenever both are visible; a close-up may show only the named subject. Four paws per dog, anatomically plausible motion, no morphing, no floating objects. Travel left to right except Tine's motivated return right to left. No water or dangerous height beneath bridge. Warm emotional visual storytelling, no anthropomorphic hands, no franchise characters. The @tags above are metadata and must NOT appear as text in the raster.",
+    "reference_paths": [
+      "assets/asset_tart/reference_01.png",
+      "assets/asset_tine/reference_01.png",
+      "assets/asset_garden/garden_c01.png",
+      "assets/asset_ball/ball_c01.png"
+    ],
+    "source_revision": 2,
+    "dependency_fingerprint": "ed369a75da09c1d93c51a46a8ef61d3b9be907885219945466729b0cd380ebca"
+  },
+  {
+    "chapter_id": "chapter_06",
+    "id": "chapter_06_sb01",
+    "grid": "2x2",
+    "panel_descriptions": [
+      "@ball settles beneath the oak in @garden. @Tart and @Tine arrive together and slow to a stop, breathing lightly after their small adventure. Framing: 35mm wide eye-level; oak frames the pair and bridge remains visible behind",
+      "@Tart and @Tine sit with shoulders touching in @garden. @Tart rests the head lightly against @Tine; Tine leans back in return. Tails wag softly. Framing: 65mm medium two-shot, gentle push; cream and brown faces clearly distinct",
+      "Hold @Tart and @Tine together under the oak in @garden with @ball at their feet. Camera eases back to reveal the little bridge they crossed; warm light catches their orange vests. Framing: 35mm slow pullback; last composition holds during the final second",
+      "Calm wide final frame with both puppies together; no fade or title changes the runtime. Final beat of the chapter; emotional eye acting, same geography and props."
+    ],
+    "prompt": "Use case: illustration-story. Asset type: cinematic chapter storyboard for a 60-second movie, A little braver together, movie seconds 50-60. Primary request: Generate one 2x2 storyboard canvas, four equal wide rectangular cinematic panels touching seamlessly, read left-to-right then top-to-bottom. Overall canvas near 16:9; each panel cinematic and wide. NO outer frame, gutters, divider lines, text, captions, panel numbers, subtitles, speech bubbles or watermarks.\nInput images: Image 1 supplies ONLY Tart identity and orange training vest, beige puppy. Image 2 supplies ONLY Tine identity and orange vest, brown puppy with pale heart-shaped patch on right rear haunch. Each sheet is three views of ONE dog; never put multiple copies of one dog into a scene. Image 3 is the environment geometry and lighting reference: same low wooden bridge, dry gravel bed, near ramp left, far ramp right, daisies beside far ramp, rounded oak farther right. Image 4 supplies ONLY the small sky-blue ball with its single cream stripe; keep it small relative to puppies, approximately paw-sized, not gigantic.\nStyle: Warm whimsical feature-film CGI like Up, rounded shapes, charming expressive eyes, soft tactile fur, colorful teal foliage and honey light. Match the supplied dog designs. Orange gray-edged training vests with blue round patches remain; do not add narrative text. Same late-afternoon sun from upper left, same yard, no weather or time changes.\nStarting geography: Both puppies reach grass beneath the oak; ball rolls to a gentle stop.\nPanel 1: @ball settles beneath the oak in @garden. @Tart and @Tine arrive together and slow to a stop, breathing lightly after their small adventure. Framing: 35mm wide eye-level; oak frames the pair and bridge remains visible behind\nPanel 2: @Tart and @Tine sit with shoulders touching in @garden. @Tart rests the head lightly against @Tine; Tine leans back in return. Tails wag softly. Framing: 65mm medium two-shot, gentle push; cream and brown faces clearly distinct\nPanel 3: Hold @Tart and @Tine together under the oak in @garden with @ball at their feet. Camera eases back to reveal the little bridge they crossed; warm light catches their orange vests. Framing: 35mm slow pullback; last composition holds during the final second\nPanel 4: Calm wide final frame with both puppies together; no fade or title changes the runtime. Final beat of the chapter; emotional eye acting, same geography and props.\nContinuity: exactly one beige Tart and one brown Tine whenever both are visible; a close-up may show only the named subject. Four paws per dog, anatomically plausible motion, no morphing, no floating objects. Travel left to right except Tine's motivated return right to left. No water or dangerous height beneath bridge. Warm emotional visual storytelling, no anthropomorphic hands, no franchise characters. The @tags above are metadata and must NOT appear as text in the raster.",
+    "reference_paths": [
+      "assets/asset_tart/reference_01.png",
+      "assets/asset_tine/reference_01.png",
+      "assets/asset_garden/garden_c01.png",
+      "assets/asset_ball/ball_c01.png"
+    ],
+    "source_revision": 2,
+    "dependency_fingerprint": "4437362fcd79c587c2e7bc44fe99bcc7cfe1af9f99b66a9b8b308407f44377fc"
+  }
+]
