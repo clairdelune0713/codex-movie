@@ -103,12 +103,12 @@ def main():
     # Paths resolve inside a known local staging directory; no shell interpolation.
     manifest = staging / 'concat.txt'
     manifest.write_text(''.join("file '" + item.name + "'\n" for item in normalized), encoding='utf-8')
-    output = ROOT / 'exports/tart-and-tine-60s-v02.mp4'
+    output = ROOT / 'exports/tart-and-tine-60s-final.mp4'
     if output.exists():
         raise RuntimeError('Final movie already exists; use a versioned output for new assembly.')
     # The concat demuxer offsets video by AAC priming (~21 ms). Reset both
     # streams explicitly so the delivered container also lasts exactly 60 s.
-    run(['-f', 'concat', '-safe', '1', '-i', str(manifest), '-map', '0:v:0', '-map', '0:a:0', '-vf', 'setpts=PTS-STARTPTS', '-c:v', 'libx264', '-preset', 'medium', '-crf', '18', '-pix_fmt', 'yuv420p', '-af', 'atrim=duration=60,asetpts=PTS-STARTPTS', '-t', '60', '-c:a', 'aac', '-b:a', '192k', '-ar', '48000', '-ac', '2', '-movflags', '+faststart', str(output)])
+    run(['-f', 'concat', '-safe', '1', '-i', str(manifest), '-map', '0:v:0', '-map', '0:a:0', '-vf', 'setpts=N/(30*TB)', '-r', '30', '-fps_mode', 'cfr', '-c:v', 'libx264', '-preset', 'medium', '-crf', '18', '-pix_fmt', 'yuv420p', '-af', 'atrim=duration=60,asetpts=PTS-STARTPTS', '-t', '60', '-c:a', 'aac', '-b:a', '192k', '-ar', '48000', '-ac', '2', '-movflags', '+faststart', str(output)])
     result = probe(output)
     result.update(decode(output))
     if result['frame_count'] != 1800 or result['fps'] != 30 or result['resolution'] != [854,480] or abs(result['duration_seconds']-60) > 0.05:
