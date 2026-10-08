@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 3,
+    "action": "@Tart and @Tine sit together in @garden, ears perked. @Tart glances shyly at @Tine; @Tine answers with a bright tail wag.",
+    "camera": "35mm wide at puppy eye height; slow push toward both puppies",
+    "audio": "Soft breeze, distant birds; original playful piano motif begins.",
+    "end_state": "Tart looks toward the ball; Tine lifts one forepaw."
+  },
+  {
+    "start": 3,
+    "end": 6,
+    "action": "@Tine lowers a forepaw onto @ball and gently nudges it along the gravel path; @Tart tilts the head in delight.",
+    "camera": "50mm medium two-shot; paws and faces in one coherent composition",
+    "audio": "Soft rubber tap and gravel tick; pizzicato joins piano.",
+    "end_state": "The ball starts rolling east, screen-left to screen-right."
+  },
+  {
+    "start": 6,
+    "end": 10,
+    "action": "@Tart and @Tine trot after @ball through @garden toward the near bridge ramp. @Tine leads by half a body length.",
+    "camera": "35mm lateral tracking, consistent left-to-right travel",
+    "audio": "Light paw patter; vest cloth flutter; upbeat motif.",
+    "end_state": "Ball reaches the near bridge ramp; both dogs are approaching behind it."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 3,
+    "action": "@Tine leans toward fragrant daisies in @garden, captivated by the flowers. @Tart looks at @Tine, then at @ball with a knowing smile.",
+    "camera": "50mm medium two-shot; flowers foreground, ball lower center",
+    "audio": "Sniff-sniff, leaf rustle; playful flute-like score accent without speech.",
+    "end_state": "Tine faces daisies; Tart steps closer to ball."
+  },
+  {
+    "start": 3,
+    "end": 6,
+    "action": "@Tart nudges @ball gently into @Tine’s field of view. @Tine notices, turns back, and touches a paw to the ball beside Tart’s paw.",
+    "camera": "65mm close view of noses, ball and paws; tilt up to their expressions",
+    "audio": "Rubber brushing grass, surprised sniff; familiar piano motif returns.",
+    "end_state": "Both puppies are focused together again, ball between their paws."
+  },
+  {
+    "start": 6,
+    "end": 10,
+    "action": "@Tart and @Tine exchange a delighted look, then gently roll @ball together toward the oak tree in @garden.",
+    "camera": "35mm lateral follow resumes left-to-right travel; no fast chase",
+    "audio": "Two soft happy woofs; paw patter; lively but tender score.",
+    "end_state": "Ball rolls toward tree; both puppies follow side by side."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 3,
+    "action": "@Tine places a paw onto the first plank in @garden and waits for @Tart to match the step. Both then advance slowly.",
+    "camera": "50mm low medium two-shot includes both faces and front paws",
+    "audio": "Two gentle synchronized taps; encouraging piano phrase.",
+    "end_state": "Both puppies have their front paws on the bridge."
+  },
+  {
+    "start": 3,
+    "end": 6,
+    "action": "At the bridge crown in @garden, @Tart glances at @Tine, then straight ahead. Their ears lift and tails begin to wag as they keep walking.",
+    "camera": "65mm eye-level moving two-shot; subtle background parallax",
+    "audio": "Soft wood taps and fur movement; pizzicato grows warmer.",
+    "end_state": "Both puppies pass the midpoint, continuing left to right."
+  },
+  {
+    "start": 6,
+    "end": 10,
+    "action": "@Tart and @Tine step off the far ramp onto grass beside @ball in @garden. @Tart straightens proudly; @Tine gives a little happy bounce.",
+    "camera": "35mm wider side view; small upward camera settle at landing",
+    "audio": "Grass pawfalls and one happy woof; score opens into a bright chord.",
+    "end_state": "Both stand safely on far-side grass; ball sits ahead beside daisies."
+  }
+]

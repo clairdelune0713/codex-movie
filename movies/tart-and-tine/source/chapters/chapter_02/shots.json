@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 3,
+    "action": "@ball rolls slowly over the low wooden bridge in @garden and settles in grass beside the far-side daisies.",
+    "camera": "50mm ground-level follow; show near ramp, bridge crown, far ramp and destination",
+    "audio": "Gentle wood roll, then soft grass rustle.",
+    "end_state": "Ball is stationary beside the far ramp, on the right."
+  },
+  {
+    "start": 3,
+    "end": 6,
+    "action": "@Tine crosses the bridge confidently and stops beside @ball. @Tart reaches the near ramp and slows.",
+    "camera": "35mm wide side view; both ramps visible; no axis crossing",
+    "audio": "Paw taps on wood; piano skips upward.",
+    "end_state": "Tine stands at the far ramp; Tart remains at the near ramp."
+  },
+  {
+    "start": 6,
+    "end": 10,
+    "action": "@Tart places one paw on the first bridge plank in @garden, hears a tiny creak, and withdraws the paw. Ears droop; eyes look across toward @Tine.",
+    "camera": "65mm close-up from near-side three-quarter view; bridge stays low and safe",
+    "audio": "A small wood creak; a soft canine breath; score thins to two piano notes.",
+    "end_state": "Tart has all four paws on near-side gravel, hesitant but safe."
+  }
+]

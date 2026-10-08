@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 3,
+    "action": "@ball settles beneath the oak in @garden. @Tart and @Tine arrive together and slow to a stop, breathing lightly after their small adventure.",
+    "camera": "35mm wide eye-level; oak frames the pair and bridge remains visible behind",
+    "audio": "Soft grass steps; piano cadence begins; garden ambience continues.",
+    "end_state": "Ball rests before both puppies; Tart left, Tine right."
+  },
+  {
+    "start": 3,
+    "end": 6,
+    "action": "@Tart and @Tine sit with shoulders touching in @garden. @Tart rests the head lightly against @Tine; Tine leans back in return. Tails wag softly.",
+    "camera": "65mm medium two-shot, gentle push; cream and brown faces clearly distinct",
+    "audio": "Tiny contented sighs, soft vest fabric; original piano resolves.",
+    "end_state": "Both rest together peacefully; ball stationary at their paws."
+  },
+  {
+    "start": 6,
+    "end": 10,
+    "action": "Hold @Tart and @Tine together under the oak in @garden with @ball at their feet. Camera eases back to reveal the little bridge they crossed; warm light catches their orange vests.",
+    "camera": "35mm slow pullback; last composition holds during the final second",
+    "audio": "Last piano chord rings and fades naturally; birds and breeze continue.",
+    "end_state": "Calm wide final frame with both puppies together; no fade or title changes the runtime."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 3,
+    "action": "@Tine looks from stationary @ball to @Tart across the bridge in @garden. Playful expression softens into concern.",
+    "camera": "65mm medium close-up; rack focus from ball to Tart across bridge",
+    "audio": "Bird ambience; piano holds a warm chord.",
+    "end_state": "Tine turns body toward Tart."
+  },
+  {
+    "start": 3,
+    "end": 6,
+    "action": "@Tine walks back across the bridge in @garden, right to left, slowing as the puppy reaches @Tart on near-side gravel.",
+    "camera": "35mm wide profile maintains the established axis; return direction visibly motivated",
+    "audio": "Measured wooden paw taps; gentle pizzicato pulse.",
+    "end_state": "Both puppies are together at the near ramp; ball remains far-side."
+  },
+  {
+    "start": 6,
+    "end": 10,
+    "action": "@Tine gently touches noses with @Tart and waits. @Tart raises the ears, takes a steadying breath and returns the nose touch.",
+    "camera": "85mm close two-shot at nose height; tiny slow push",
+    "audio": "Quiet sniff and soft exhale; a tender original piano phrase.",
+    "end_state": "Both turn to face the bridge, Tart left and Tine right, shoulder to shoulder."
+  }
+]
