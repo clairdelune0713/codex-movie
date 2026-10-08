@@ -1,0 +1,23 @@
+{
+  "scope": "Twenty-four sampled frames at 0.25, 3.25, 6.25 and 9.5 seconds per take; all six decoded video takes.",
+  "reviewed_take_ids": [
+    "chapter_01_take01",
+    "chapter_02_take01",
+    "chapter_03_take01",
+    "chapter_04_take01",
+    "chapter_05_take01",
+    "chapter_06_take01"
+  ],
+  "accepted": true,
+  "observations": [
+    "The sampled frames show two distinct puppies: beige Tart and brown Tine, with consistent orange vests and blue patches.",
+    "Tine has a pale heart patch visible in several side views; its placement and shape have small generated variations.",
+    "The warm stylized 3D garden, wooden bridge, blue striped ball and oak tree are present throughout the intended story.",
+    "Chapter 2 shows Tart hesitating; chapter 3 shows the reassuring nose touch; chapter 4 shows both crossing; the closing chapter shows the pair resting together.",
+    "No storyboard grid or duplicated reference-sheet dogs appear in sampled frames."
+  ],
+  "limitations": [
+    "Sample inspection does not establish frame-perfect anatomy, costume lettering or prop continuity.",
+    "Audio presence and non-silence verified technically; no claim of word-for-word or musical continuity verification."
+  ]
+}

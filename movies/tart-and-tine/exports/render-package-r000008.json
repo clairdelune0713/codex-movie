@@ -14,7 +14,7 @@
     ]
   },
   "aspect_ratio": "16:9",
-  "status": "complete",
+  "status": "prepared",
   "warnings": [],
   "chapters": [
     {
@@ -74,35 +74,7 @@
         }
       ],
       "materials": [],
-      "dependency_fingerprint": "2b245f0014b415c1617d69d1d2d28e61eb7615080a790359b78e30d2281ae85c",
-      "title": "Two little trainees",
-      "movie_start_seconds": 0,
-      "movie_end_seconds": 10,
-      "handoff": {
-        "entry": "Tart sits left, Tine right, blue ball between them on the near side of the bridge.",
-        "exit": "Ball reaches the near bridge ramp; both dogs are approaching behind it."
-      },
-      "audio": {
-        "mode": "visual_story_no_dialogue",
-        "score": "Original piano and pizzicato; continuous across cuts",
-        "ambience": "Garden breeze and birds; wooden pawsteps, rubber ball and canine breaths"
-      },
-      "selected_storyboard": {
-        "id": "chapter_01_sb01",
-        "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\chapters\\chapter_01\\storyboards\\chapter_01_sb01.png",
-        "grid": "2x2",
-        "panel_descriptions": [
-          "@Tart and @Tine sit together in @garden, ears perked. @Tart glances shyly at @Tine; @Tine answers with a bright tail wag. Framing: 35mm wide at puppy eye height; slow push toward both puppies",
-          "@Tine lowers a forepaw onto @ball and gently nudges it along the gravel path; @Tart tilts the head in delight. Framing: 50mm medium two-shot; paws and faces in one coherent composition",
-          "@Tart and @Tine trot after @ball through @garden toward the near bridge ramp. @Tine leads by half a body length. Framing: 35mm lateral tracking, consistent left-to-right travel",
-          "Ball reaches the near bridge ramp; both dogs are approaching behind it. Final beat of the chapter; emotional eye acting, same geography and props."
-        ],
-        "inspection": {
-          "status": "visually_reviewed",
-          "notes": "Warm whimsical 3D look, distinct beige/brown puppies, consistent orange vests, readable chapter actions. Thin panel boundary lines remain in some previews."
-        },
-        "dependency_fingerprint": "2b245f0014b415c1617d69d1d2d28e61eb7615080a790359b78e30d2281ae85c"
-      }
+      "dependency_fingerprint": "2b245f0014b415c1617d69d1d2d28e61eb7615080a790359b78e30d2281ae85c"
     },
     {
       "id": "chapter_02",
@@ -161,35 +133,7 @@
         }
       ],
       "materials": [],
-      "dependency_fingerprint": "51fc43f3821abb11bfea71a089e1790631aa61cc48621d0a503f4a3119705518",
-      "title": "A tiny big obstacle",
-      "movie_start_seconds": 10,
-      "movie_end_seconds": 20,
-      "handoff": {
-        "entry": "Ball rolls onto the low bridge; both puppies approach from screen-left.",
-        "exit": "Tart has all four paws on near-side gravel, hesitant but safe."
-      },
-      "audio": {
-        "mode": "visual_story_no_dialogue",
-        "score": "Original piano and pizzicato; continuous across cuts",
-        "ambience": "Garden breeze and birds; wooden pawsteps, rubber ball and canine breaths"
-      },
-      "selected_storyboard": {
-        "id": "chapter_02_sb02",
-        "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\chapters\\chapter_02\\storyboards\\chapter_02_sb02.png",
-        "grid": "2x2",
-        "panel_descriptions": [
-          "@ball rolls slowly over the low wooden bridge in @garden and settles in grass beside the far-side daisies. Framing: 50mm ground-level follow; show near ramp, bridge crown, far ramp and destination",
-          "@Tine crosses the bridge confidently and stops beside @ball. @Tart reaches the near ramp and slows. Framing: 35mm wide side view; both ramps visible; no axis crossing",
-          "@Tart places one paw on the first bridge plank in @garden, hears a tiny creak, and withdraws the paw. Ears droop; eyes look across toward @Tine. Framing: 65mm close-up from near-side three-quarter view; bridge stays low and safe",
-          "Tart has all four paws on near-side gravel, hesitant but safe. Final beat of the chapter; emotional eye acting, same geography and props."
-        ],
-        "inspection": {
-          "status": "visually_reviewed",
-          "notes": "Extra ball removed; only the far-side ball remains in the first panel."
-        },
-        "dependency_fingerprint": "51fc43f3821abb11bfea71a089e1790631aa61cc48621d0a503f4a3119705518"
-      }
+      "dependency_fingerprint": "51fc43f3821abb11bfea71a089e1790631aa61cc48621d0a503f4a3119705518"
     },
     {
       "id": "chapter_03",
@@ -248,35 +192,7 @@
         }
       ],
       "materials": [],
-      "dependency_fingerprint": "ab33a750c8154a89df499c104095025de40362f136d091d5a1fcc9ca5974b4e2",
-      "title": "Coming back",
-      "movie_start_seconds": 20,
-      "movie_end_seconds": 30,
-      "handoff": {
-        "entry": "Tine at far ramp right, Tart at near ramp left; ball remains by daisies.",
-        "exit": "Both turn to face the bridge, Tart left and Tine right, shoulder to shoulder."
-      },
-      "audio": {
-        "mode": "visual_story_no_dialogue",
-        "score": "Original piano and pizzicato; continuous across cuts",
-        "ambience": "Garden breeze and birds; wooden pawsteps, rubber ball and canine breaths"
-      },
-      "selected_storyboard": {
-        "id": "chapter_03_sb02",
-        "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\chapters\\chapter_03\\storyboards\\chapter_03_sb02.png",
-        "grid": "2x2",
-        "panel_descriptions": [
-          "@Tine looks from stationary @ball to @Tart across the bridge in @garden. Playful expression softens into concern. Framing: 65mm medium close-up; rack focus from ball to Tart across bridge",
-          "@Tine walks back across the bridge in @garden, right to left, slowing as the puppy reaches @Tart on near-side gravel. Framing: 35mm wide profile maintains the established axis; return direction visibly motivated",
-          "@Tine gently touches noses with @Tart and waits. @Tart raises the ears, takes a steadying breath and returns the nose touch. Framing: 85mm close two-shot at nose height; tiny slow push",
-          "Both turn to face the bridge, Tart left and Tine right, shoulder to shoulder. Final beat of the chapter; emotional eye acting, same geography and props."
-        ],
-        "inspection": {
-          "status": "visually_reviewed",
-          "notes": "Final panel now shows both puppies standing at the near ramp, with one ball at far-side daisies."
-        },
-        "dependency_fingerprint": "ab33a750c8154a89df499c104095025de40362f136d091d5a1fcc9ca5974b4e2"
-      }
+      "dependency_fingerprint": "ab33a750c8154a89df499c104095025de40362f136d091d5a1fcc9ca5974b4e2"
     },
     {
       "id": "chapter_04",
@@ -335,35 +251,7 @@
         }
       ],
       "materials": [],
-      "dependency_fingerprint": "c30d749bf3bad104b86a4082808905224f35641b9ccc185c50f42e51e2046236",
-      "title": "One paw at a time",
-      "movie_start_seconds": 30,
-      "movie_end_seconds": 40,
-      "handoff": {
-        "entry": "Both puppies at near ramp facing east; Tine leads by only a paw length.",
-        "exit": "Both stand safely on far-side grass; ball sits ahead beside daisies."
-      },
-      "audio": {
-        "mode": "visual_story_no_dialogue",
-        "score": "Original piano and pizzicato; continuous across cuts",
-        "ambience": "Garden breeze and birds; wooden pawsteps, rubber ball and canine breaths"
-      },
-      "selected_storyboard": {
-        "id": "chapter_04_sb01",
-        "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\chapters\\chapter_04\\storyboards\\chapter_04_sb01.png",
-        "grid": "2x2",
-        "panel_descriptions": [
-          "@Tine places a paw onto the first plank in @garden and waits for @Tart to match the step. Both then advance slowly. Framing: 50mm low medium two-shot includes both faces and front paws",
-          "At the bridge crown in @garden, @Tart glances at @Tine, then straight ahead. Their ears lift and tails begin to wag as they keep walking. Framing: 65mm eye-level moving two-shot; subtle background parallax",
-          "@Tart and @Tine step off the far ramp onto grass beside @ball in @garden. @Tart straightens proudly; @Tine gives a little happy bounce. Framing: 35mm wider side view; small upward camera settle at landing",
-          "Both stand safely on far-side grass; ball sits ahead beside daisies. Final beat of the chapter; emotional eye acting, same geography and props."
-        ],
-        "inspection": {
-          "status": "visually_reviewed",
-          "notes": "Warm whimsical 3D look, distinct beige/brown puppies, consistent orange vests, readable chapter actions. Thin panel boundary lines remain in some previews."
-        },
-        "dependency_fingerprint": "c30d749bf3bad104b86a4082808905224f35641b9ccc185c50f42e51e2046236"
-      }
+      "dependency_fingerprint": "c30d749bf3bad104b86a4082808905224f35641b9ccc185c50f42e51e2046236"
     },
     {
       "id": "chapter_05",
@@ -422,35 +310,7 @@
         }
       ],
       "materials": [],
-      "dependency_fingerprint": "ed369a75da09c1d93c51a46a8ef61d3b9be907885219945466729b0cd380ebca",
-      "title": "Your turn to help",
-      "movie_start_seconds": 40,
-      "movie_end_seconds": 50,
-      "handoff": {
-        "entry": "Both at far ramp; ball stationary nearby; daisies on the path edge.",
-        "exit": "Ball rolls toward tree; both puppies follow side by side."
-      },
-      "audio": {
-        "mode": "visual_story_no_dialogue",
-        "score": "Original piano and pizzicato; continuous across cuts",
-        "ambience": "Garden breeze and birds; wooden pawsteps, rubber ball and canine breaths"
-      },
-      "selected_storyboard": {
-        "id": "chapter_05_sb01",
-        "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\chapters\\chapter_05\\storyboards\\chapter_05_sb01.png",
-        "grid": "2x2",
-        "panel_descriptions": [
-          "@Tine leans toward fragrant daisies in @garden, captivated by the flowers. @Tart looks at @Tine, then at @ball with a knowing smile. Framing: 50mm medium two-shot; flowers foreground, ball lower center",
-          "@Tart nudges @ball gently into @Tine�s field of view. @Tine notices, turns back, and touches a paw to the ball beside Tart�s paw. Framing: 65mm close view of noses, ball and paws; tilt up to their expressions",
-          "@Tart and @Tine exchange a delighted look, then gently roll @ball together toward the oak tree in @garden. Framing: 35mm lateral follow resumes left-to-right travel; no fast chase",
-          "Ball rolls toward tree; both puppies follow side by side. Final beat of the chapter; emotional eye acting, same geography and props."
-        ],
-        "inspection": {
-          "status": "visually_reviewed",
-          "notes": "Warm whimsical 3D look, distinct beige/brown puppies, consistent orange vests, readable chapter actions. Thin panel boundary lines remain in some previews."
-        },
-        "dependency_fingerprint": "ed369a75da09c1d93c51a46a8ef61d3b9be907885219945466729b0cd380ebca"
-      }
+      "dependency_fingerprint": "ed369a75da09c1d93c51a46a8ef61d3b9be907885219945466729b0cd380ebca"
     },
     {
       "id": "chapter_06",
@@ -509,245 +369,7 @@
         }
       ],
       "materials": [],
-      "dependency_fingerprint": "4437362fcd79c587c2e7bc44fe99bcc7cfe1af9f99b66a9b8b308407f44377fc",
-      "title": "A little braver together",
-      "movie_start_seconds": 50,
-      "movie_end_seconds": 60,
-      "handoff": {
-        "entry": "Both puppies reach grass beneath the oak; ball rolls to a gentle stop.",
-        "exit": "Calm wide final frame with both puppies together; no fade or title changes the runtime."
-      },
-      "audio": {
-        "mode": "visual_story_no_dialogue",
-        "score": "Original piano and pizzicato; continuous across cuts",
-        "ambience": "Garden breeze and birds; wooden pawsteps, rubber ball and canine breaths"
-      },
-      "selected_storyboard": {
-        "id": "chapter_06_sb01",
-        "path": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine\\chapters\\chapter_06\\storyboards\\chapter_06_sb01.png",
-        "grid": "2x2",
-        "panel_descriptions": [
-          "@ball settles beneath the oak in @garden. @Tart and @Tine arrive together and slow to a stop, breathing lightly after their small adventure. Framing: 35mm wide eye-level; oak frames the pair and bridge remains visible behind",
-          "@Tart and @Tine sit with shoulders touching in @garden. @Tart rests the head lightly against @Tine; Tine leans back in return. Tails wag softly. Framing: 65mm medium two-shot, gentle push; cream and brown faces clearly distinct",
-          "Hold @Tart and @Tine together under the oak in @garden with @ball at their feet. Camera eases back to reveal the little bridge they crossed; warm light catches their orange vests. Framing: 35mm slow pullback; last composition holds during the final second",
-          "Calm wide final frame with both puppies together; no fade or title changes the runtime. Final beat of the chapter; emotional eye acting, same geography and props."
-        ],
-        "inspection": {
-          "status": "visually_reviewed",
-          "notes": "Warm whimsical 3D look, distinct beige/brown puppies, consistent orange vests, readable chapter actions. Thin panel boundary lines remain in some previews."
-        },
-        "dependency_fingerprint": "4437362fcd79c587c2e7bc44fe99bcc7cfe1af9f99b66a9b8b308407f44377fc"
-      }
+      "dependency_fingerprint": "4437362fcd79c587c2e7bc44fe99bcc7cfe1af9f99b66a9b8b308407f44377fc"
     }
-  ],
-  "project_name": "Tart & Tine: A Little Braver Together",
-  "project_root": "C:\\Users\\admina\\Downloads\\project\\codex-movie\\movies\\tart-and-tine",
-  "total_duration_target": 60,
-  "output_goals": {
-    "duration_seconds": 60,
-    "resolution": [
-      854,
-      480
-    ],
-    "aspect_ratio": "16:9",
-    "fps": 30,
-    "frame_count": 1800,
-    "audio_channels": 2,
-    "audio_sample_rate": 48000,
-    "transitions": "Hard cuts, no runtime-changing crossfades",
-    "resolution_label": "480p"
-  },
-  "desired_output_filename": "tart-and-tine-60s-final.mp4",
-  "actual_video": {
-    "duration_seconds": 60.0,
-    "resolution": [
-      854,
-      480
-    ],
-    "fps": 30.0,
-    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480 [SAR 1:1 DAR 427:240], 1731 kb/s, 30 fps, 30 tbr, 15360 tbn (default)",
-    "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 193 kb/s (default)",
-    "decode_verified": true,
-    "frame_count": 1800,
-    "path": "exports/tart-and-tine-60s-final.mp4",
-    "input_take_ids": [
-      "chapter_01_take01",
-      "chapter_02_take01",
-      "chapter_03_take01",
-      "chapter_04_take01",
-      "chapter_05_take01",
-      "chapter_06_take01"
-    ],
-    "transitions": "Hard video cuts; 40 ms per-chapter audio edge fades; native music/Foley preserved",
-    "native_take_profiles": [
-      {
-        "duration_seconds": 10.08,
-        "resolution": [
-          854,
-          480
-        ],
-        "fps": 24.0,
-        "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 5003 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
-        "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 131 kb/s (default)",
-        "decode_verified": true,
-        "frame_count": 241,
-        "audio_max_volume_db": -17.2,
-        "chapter_id": "chapter_01",
-        "take_id": "chapter_01_take01",
-        "samples": [
-          "chapters/chapter_01/screenshots/chapter_01_take01_sample01.png",
-          "chapters/chapter_01/screenshots/chapter_01_take01_sample02.png",
-          "chapters/chapter_01/screenshots/chapter_01_take01_sample03.png",
-          "chapters/chapter_01/screenshots/chapter_01_take01_sample04.png"
-        ],
-        "contact_sheet": "chapters/chapter_01/screenshots/chapter_01_take01_contact.jpg",
-        "motion_difference": [
-          151.53883684621388,
-          164.89926814988291,
-          168.03442866900858
-        ]
-      },
-      {
-        "duration_seconds": 10.08,
-        "resolution": [
-          854,
-          480
-        ],
-        "fps": 24.0,
-        "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 3682 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
-        "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 130 kb/s (default)",
-        "decode_verified": true,
-        "frame_count": 241,
-        "audio_max_volume_db": -13.8,
-        "chapter_id": "chapter_02",
-        "take_id": "chapter_02_take01",
-        "samples": [
-          "chapters/chapter_02/screenshots/chapter_02_take01_sample01.png",
-          "chapters/chapter_02/screenshots/chapter_02_take01_sample02.png",
-          "chapters/chapter_02/screenshots/chapter_02_take01_sample03.png",
-          "chapters/chapter_02/screenshots/chapter_02_take01_sample04.png"
-        ],
-        "contact_sheet": "chapters/chapter_02/screenshots/chapter_02_take01_contact.jpg",
-        "motion_difference": [
-          197.00412763466042,
-          179.5801839383294,
-          189.20233948087431
-        ]
-      },
-      {
-        "duration_seconds": 10.08,
-        "resolution": [
-          854,
-          480
-        ],
-        "fps": 24.0,
-        "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 3664 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
-        "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 130 kb/s (default)",
-        "decode_verified": true,
-        "frame_count": 241,
-        "audio_max_volume_db": -21.8,
-        "chapter_id": "chapter_03",
-        "take_id": "chapter_03_take01",
-        "samples": [
-          "chapters/chapter_03/screenshots/chapter_03_take01_sample01.png",
-          "chapters/chapter_03/screenshots/chapter_03_take01_sample02.png",
-          "chapters/chapter_03/screenshots/chapter_03_take01_sample03.png",
-          "chapters/chapter_03/screenshots/chapter_03_take01_sample04.png"
-        ],
-        "contact_sheet": "chapters/chapter_03/screenshots/chapter_03_take01_contact.jpg",
-        "motion_difference": [
-          178.46735948477752,
-          153.90764783372364,
-          156.57989851678377
-        ]
-      },
-      {
-        "duration_seconds": 10.08,
-        "resolution": [
-          854,
-          480
-        ],
-        "fps": 24.0,
-        "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 4853 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
-        "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 128 kb/s (default)",
-        "decode_verified": true,
-        "frame_count": 241,
-        "audio_max_volume_db": -2.9,
-        "chapter_id": "chapter_04",
-        "take_id": "chapter_04_take01",
-        "samples": [
-          "chapters/chapter_04/screenshots/chapter_04_take01_sample01.png",
-          "chapters/chapter_04/screenshots/chapter_04_take01_sample02.png",
-          "chapters/chapter_04/screenshots/chapter_04_take01_sample03.png",
-          "chapters/chapter_04/screenshots/chapter_04_take01_sample04.png"
-        ],
-        "contact_sheet": "chapters/chapter_04/screenshots/chapter_04_take01_contact.jpg",
-        "motion_difference": [
-          190.57676131928181,
-          192.46707406323185,
-          183.50298838797812
-        ]
-      },
-      {
-        "duration_seconds": 10.08,
-        "resolution": [
-          854,
-          480
-        ],
-        "fps": 24.0,
-        "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 5521 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
-        "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 131 kb/s (default)",
-        "decode_verified": true,
-        "frame_count": 241,
-        "audio_max_volume_db": -9.7,
-        "chapter_id": "chapter_05",
-        "take_id": "chapter_05_take01",
-        "samples": [
-          "chapters/chapter_05/screenshots/chapter_05_take01_sample01.png",
-          "chapters/chapter_05/screenshots/chapter_05_take01_sample02.png",
-          "chapters/chapter_05/screenshots/chapter_05_take01_sample03.png",
-          "chapters/chapter_05/screenshots/chapter_05_take01_sample04.png"
-        ],
-        "contact_sheet": "chapters/chapter_05/screenshots/chapter_05_take01_contact.jpg",
-        "motion_difference": [
-          172.56133879781422,
-          162.02290202966432,
-          196.76939402810305
-        ]
-      },
-      {
-        "duration_seconds": 10.08,
-        "resolution": [
-          854,
-          480
-        ],
-        "fps": 24.0,
-        "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 3373 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
-        "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 130 kb/s (default)",
-        "decode_verified": true,
-        "frame_count": 241,
-        "audio_max_volume_db": -19.7,
-        "chapter_id": "chapter_06",
-        "take_id": "chapter_06_take01",
-        "samples": [
-          "chapters/chapter_06/screenshots/chapter_06_take01_sample01.png",
-          "chapters/chapter_06/screenshots/chapter_06_take01_sample02.png",
-          "chapters/chapter_06/screenshots/chapter_06_take01_sample03.png",
-          "chapters/chapter_06/screenshots/chapter_06_take01_sample04.png"
-        ],
-        "contact_sheet": "chapters/chapter_06/screenshots/chapter_06_take01_contact.jpg",
-        "motion_difference": [
-          159.54576258782203,
-          161.64154225214676,
-          159.68242096018736
-        ]
-      }
-    ],
-    "audio_max_volume_db": -2.9,
-    "file_size_bytes": 14505020,
-    "sha256": "41c9b94172f908db2e8f0169a5653eacc4d37509a4bc4f4c48e97476069241d6",
-    "visual_review_path": "exports/visual-review.json"
-  },
-  "pending_stages": [],
-  "storyboard_note": "Static concept images with four panels per chapter; not animated video and not a verified first/last frame. Source sheets remain the canonical character identity anchors."
+  ]
 }

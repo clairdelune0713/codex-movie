@@ -1,8 +1,8 @@
 {
   "project_name": "Tart & Tine: A Little Braver Together",
-  "source_revision": 5,
-  "status": "blocked_endpoint_authorization",
-  "desired_output_filename": "tart-and-tine-60s.mp4",
+  "source_revision": 8,
+  "status": "complete",
+  "desired_output_filename": "tart-and-tine-60s-final.mp4",
   "output_goals": {
     "duration_seconds": 60,
     "resolution": [
@@ -17,15 +17,200 @@
     "transitions": "Hard cuts, no runtime-changing crossfades",
     "resolution_label": "480p"
   },
-  "actual_video": null,
-  "generated_video_takes": 0,
-  "generated_audio_tracks": 0,
+  "actual_video": {
+    "duration_seconds": 60.0,
+    "resolution": [
+      854,
+      480
+    ],
+    "fps": 30.0,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480 [SAR 1:1 DAR 427:240], 1731 kb/s, 30 fps, 30 tbr, 15360 tbn (default)",
+    "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 193 kb/s (default)",
+    "decode_verified": true,
+    "frame_count": 1800,
+    "path": "exports/tart-and-tine-60s-final.mp4",
+    "input_take_ids": [
+      "chapter_01_take01",
+      "chapter_02_take01",
+      "chapter_03_take01",
+      "chapter_04_take01",
+      "chapter_05_take01",
+      "chapter_06_take01"
+    ],
+    "transitions": "Hard video cuts; 40 ms per-chapter audio edge fades; native music/Foley preserved",
+    "native_take_profiles": [
+      {
+        "duration_seconds": 10.08,
+        "resolution": [
+          854,
+          480
+        ],
+        "fps": 24.0,
+        "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 5003 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+        "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 131 kb/s (default)",
+        "decode_verified": true,
+        "frame_count": 241,
+        "audio_max_volume_db": -17.2,
+        "chapter_id": "chapter_01",
+        "take_id": "chapter_01_take01",
+        "samples": [
+          "chapters/chapter_01/screenshots/chapter_01_take01_sample01.png",
+          "chapters/chapter_01/screenshots/chapter_01_take01_sample02.png",
+          "chapters/chapter_01/screenshots/chapter_01_take01_sample03.png",
+          "chapters/chapter_01/screenshots/chapter_01_take01_sample04.png"
+        ],
+        "contact_sheet": "chapters/chapter_01/screenshots/chapter_01_take01_contact.jpg",
+        "motion_difference": [
+          151.53883684621388,
+          164.89926814988291,
+          168.03442866900858
+        ]
+      },
+      {
+        "duration_seconds": 10.08,
+        "resolution": [
+          854,
+          480
+        ],
+        "fps": 24.0,
+        "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 3682 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+        "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 130 kb/s (default)",
+        "decode_verified": true,
+        "frame_count": 241,
+        "audio_max_volume_db": -13.8,
+        "chapter_id": "chapter_02",
+        "take_id": "chapter_02_take01",
+        "samples": [
+          "chapters/chapter_02/screenshots/chapter_02_take01_sample01.png",
+          "chapters/chapter_02/screenshots/chapter_02_take01_sample02.png",
+          "chapters/chapter_02/screenshots/chapter_02_take01_sample03.png",
+          "chapters/chapter_02/screenshots/chapter_02_take01_sample04.png"
+        ],
+        "contact_sheet": "chapters/chapter_02/screenshots/chapter_02_take01_contact.jpg",
+        "motion_difference": [
+          197.00412763466042,
+          179.5801839383294,
+          189.20233948087431
+        ]
+      },
+      {
+        "duration_seconds": 10.08,
+        "resolution": [
+          854,
+          480
+        ],
+        "fps": 24.0,
+        "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 3664 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+        "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 130 kb/s (default)",
+        "decode_verified": true,
+        "frame_count": 241,
+        "audio_max_volume_db": -21.8,
+        "chapter_id": "chapter_03",
+        "take_id": "chapter_03_take01",
+        "samples": [
+          "chapters/chapter_03/screenshots/chapter_03_take01_sample01.png",
+          "chapters/chapter_03/screenshots/chapter_03_take01_sample02.png",
+          "chapters/chapter_03/screenshots/chapter_03_take01_sample03.png",
+          "chapters/chapter_03/screenshots/chapter_03_take01_sample04.png"
+        ],
+        "contact_sheet": "chapters/chapter_03/screenshots/chapter_03_take01_contact.jpg",
+        "motion_difference": [
+          178.46735948477752,
+          153.90764783372364,
+          156.57989851678377
+        ]
+      },
+      {
+        "duration_seconds": 10.08,
+        "resolution": [
+          854,
+          480
+        ],
+        "fps": 24.0,
+        "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 4853 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+        "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 128 kb/s (default)",
+        "decode_verified": true,
+        "frame_count": 241,
+        "audio_max_volume_db": -2.9,
+        "chapter_id": "chapter_04",
+        "take_id": "chapter_04_take01",
+        "samples": [
+          "chapters/chapter_04/screenshots/chapter_04_take01_sample01.png",
+          "chapters/chapter_04/screenshots/chapter_04_take01_sample02.png",
+          "chapters/chapter_04/screenshots/chapter_04_take01_sample03.png",
+          "chapters/chapter_04/screenshots/chapter_04_take01_sample04.png"
+        ],
+        "contact_sheet": "chapters/chapter_04/screenshots/chapter_04_take01_contact.jpg",
+        "motion_difference": [
+          190.57676131928181,
+          192.46707406323185,
+          183.50298838797812
+        ]
+      },
+      {
+        "duration_seconds": 10.08,
+        "resolution": [
+          854,
+          480
+        ],
+        "fps": 24.0,
+        "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 5521 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+        "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 131 kb/s (default)",
+        "decode_verified": true,
+        "frame_count": 241,
+        "audio_max_volume_db": -9.7,
+        "chapter_id": "chapter_05",
+        "take_id": "chapter_05_take01",
+        "samples": [
+          "chapters/chapter_05/screenshots/chapter_05_take01_sample01.png",
+          "chapters/chapter_05/screenshots/chapter_05_take01_sample02.png",
+          "chapters/chapter_05/screenshots/chapter_05_take01_sample03.png",
+          "chapters/chapter_05/screenshots/chapter_05_take01_sample04.png"
+        ],
+        "contact_sheet": "chapters/chapter_05/screenshots/chapter_05_take01_contact.jpg",
+        "motion_difference": [
+          172.56133879781422,
+          162.02290202966432,
+          196.76939402810305
+        ]
+      },
+      {
+        "duration_seconds": 10.08,
+        "resolution": [
+          854,
+          480
+        ],
+        "fps": 24.0,
+        "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 3373 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+        "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 130 kb/s (default)",
+        "decode_verified": true,
+        "frame_count": 241,
+        "audio_max_volume_db": -19.7,
+        "chapter_id": "chapter_06",
+        "take_id": "chapter_06_take01",
+        "samples": [
+          "chapters/chapter_06/screenshots/chapter_06_take01_sample01.png",
+          "chapters/chapter_06/screenshots/chapter_06_take01_sample02.png",
+          "chapters/chapter_06/screenshots/chapter_06_take01_sample03.png",
+          "chapters/chapter_06/screenshots/chapter_06_take01_sample04.png"
+        ],
+        "contact_sheet": "chapters/chapter_06/screenshots/chapter_06_take01_contact.jpg",
+        "motion_difference": [
+          159.54576258782203,
+          161.64154225214676,
+          159.68242096018736
+        ]
+      }
+    ],
+    "audio_max_volume_db": -2.9,
+    "file_size_bytes": 14505020,
+    "sha256": "41c9b94172f908db2e8f0169a5653eacc4d37509a4bc4f4c48e97476069241d6",
+    "visual_review_path": "exports/visual-review.json"
+  },
+  "generated_video_takes": 6,
+  "generated_audio_tracks": 6,
   "storyboard_note": "Static concept images with four panels per chapter; not animated video and not a verified first/last frame. Source sheets remain the canonical character identity anchors.",
-  "pending_stages": [
-    "Correct ark:GetApiKey permission or AK/SK/endpoint pairing",
-    "Render six 10-second chapters with native audio",
-    "Inspect selected takes, assemble and verify movie"
-  ],
+  "pending_stages": [],
   "shot_ledger": [
     {
       "chapter_id": "chapter_01",
@@ -252,7 +437,7 @@
     "Tart remains beige; Tine remains brown with pale right rear heart patch; vests consistent",
     "Reference sheet duplicate views must not become extra on-screen dogs",
     "Six times 10 seconds; every chapter has consecutive 3, 3, 4-second shots",
-    "No dialogue; original score and scene Foley remain directions pending audio production"
+    "No dialogue was requested. Native audio was generated and retained; audio stream presence and signal levels verified."
   ],
   "raster_verification": [
     {
@@ -296,6 +481,46 @@
       "sha256": "b8d52581058a009c374a09f021ad102932455adc0db32659d357d14dff1812b7"
     },
     {
+      "path": "chapters/chapter_01/screenshots/chapter_01_take01_sample01.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "44bb9f494a5f6a316b2d4f274ed0924f5a7c7cb64509e990f78f74d0c6d6722f"
+    },
+    {
+      "path": "chapters/chapter_01/screenshots/chapter_01_take01_sample02.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "1d42c874de839906d9a6e2367281cca78e69fd2d19165af9b3907dd4ddc40e01"
+    },
+    {
+      "path": "chapters/chapter_01/screenshots/chapter_01_take01_sample03.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "1ea09a08df696b2f340d1d13f31b4231a957c3c0520b452ff9a7596629ca1b4a"
+    },
+    {
+      "path": "chapters/chapter_01/screenshots/chapter_01_take01_sample04.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "47b2f77b8930fa95bb07349d8bafcfc83d07ed93f4a15c8a6e0613c65e8ebb74"
+    },
+    {
       "path": "chapters/chapter_01/storyboards/chapter_01_sb01.png",
       "dimensions": [
         1672,
@@ -304,6 +529,46 @@
       "mode": "RGB",
       "decoded": true,
       "sha256": "bbdd3d2efa8d56002b7fe4d1f5a3bb89ef33692e089bad572c973e141d5b38a1"
+    },
+    {
+      "path": "chapters/chapter_02/screenshots/chapter_02_take01_sample01.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "75baebaa15a4e62016931be774b4c266f24c2a3b4547e9834d40fcb87993178e"
+    },
+    {
+      "path": "chapters/chapter_02/screenshots/chapter_02_take01_sample02.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "28780820a8867572c9bc9b42c15f4886043d0ab8ded23fc1e8a582f8c4d7b2fb"
+    },
+    {
+      "path": "chapters/chapter_02/screenshots/chapter_02_take01_sample03.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "5090b00af56b55c81aa0b331df740fdb08b831410f2fc263e94a85356f940f67"
+    },
+    {
+      "path": "chapters/chapter_02/screenshots/chapter_02_take01_sample04.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "e637e90f196ec7c3638e6fe59f317f49aca94e06aa578ea9691115c574e1130d"
     },
     {
       "path": "chapters/chapter_02/storyboards/chapter_02_sb01.png",
@@ -326,6 +591,46 @@
       "sha256": "456de93bb44b238faf55a869bc5e9185af0add83abadb98f56b4320e71550aa8"
     },
     {
+      "path": "chapters/chapter_03/screenshots/chapter_03_take01_sample01.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "8cfb3f7752c85b53aee7540692de7c9807f094d80c826da3b34eacd84e2a44f2"
+    },
+    {
+      "path": "chapters/chapter_03/screenshots/chapter_03_take01_sample02.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "e7e69ea533fab385df21d9094646bbada64529296757bdcc882d75b58ef0c0dc"
+    },
+    {
+      "path": "chapters/chapter_03/screenshots/chapter_03_take01_sample03.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "ad46bf10a5bc0017f0cdc20ce5bad7452a10310b6bc3218f7fa56d5929425f11"
+    },
+    {
+      "path": "chapters/chapter_03/screenshots/chapter_03_take01_sample04.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "3056226993bbc0093e4b0856052ebec26da5e8cfe592c54e731eeeeb8a806ad8"
+    },
+    {
       "path": "chapters/chapter_03/storyboards/chapter_03_sb01.png",
       "dimensions": [
         1672,
@@ -346,6 +651,46 @@
       "sha256": "1239fc7704a4718da331659a1c51166f83901191266b96a3c7fb1c20d03b1fe5"
     },
     {
+      "path": "chapters/chapter_04/screenshots/chapter_04_take01_sample01.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "ecfd1fd15cd7caf065f66a0e210cf3155d1510a956e9769a0a45669690f4faf2"
+    },
+    {
+      "path": "chapters/chapter_04/screenshots/chapter_04_take01_sample02.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "9eef1e72c3a7ce1338141bd3c7eee0e79ed65767b3e22240a20b51d9e1ed5fbf"
+    },
+    {
+      "path": "chapters/chapter_04/screenshots/chapter_04_take01_sample03.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "fdec939ed5b0672a87524e01253f57f8a749701b0ad0a4878775bc35992d45f4"
+    },
+    {
+      "path": "chapters/chapter_04/screenshots/chapter_04_take01_sample04.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "ee54a55446f2563447ff3c350c34fcff91102936864fed4f581a694cd4cc39cf"
+    },
+    {
       "path": "chapters/chapter_04/storyboards/chapter_04_sb01.png",
       "dimensions": [
         1672,
@@ -354,6 +699,46 @@
       "mode": "RGB",
       "decoded": true,
       "sha256": "4655727020c9b8c013de3e18d983f61a2c3030c61000b8d3e43dbe8a1a9e602d"
+    },
+    {
+      "path": "chapters/chapter_05/screenshots/chapter_05_take01_sample01.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "a3136e3a31656c935bc8e0eadd76ff739f616ba74df0dbb7e064e41e61235af6"
+    },
+    {
+      "path": "chapters/chapter_05/screenshots/chapter_05_take01_sample02.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "090fa2f9b09e23d0c821f66cc580d065803626144909eacbc1867d176e9c41ae"
+    },
+    {
+      "path": "chapters/chapter_05/screenshots/chapter_05_take01_sample03.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "99ed3cd7a1e02dffc80092e23662d252fbc14d7ab11949264d6cfd2dcb480bdf"
+    },
+    {
+      "path": "chapters/chapter_05/screenshots/chapter_05_take01_sample04.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "87ab348a336e47d87a6d8917caf2657361ab5b0de67120efe6baacfc2cd50290"
     },
     {
       "path": "chapters/chapter_05/storyboards/chapter_05_sb01.png",
@@ -366,6 +751,46 @@
       "sha256": "427fda03ad3c970683307cc5e41203d67df913cb6323bbcba9d77164caff64fd"
     },
     {
+      "path": "chapters/chapter_06/screenshots/chapter_06_take01_sample01.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "3a3d803df6d3566ce1db4be98dbd52ae21640210affbf40b51ec6ccad43b8f01"
+    },
+    {
+      "path": "chapters/chapter_06/screenshots/chapter_06_take01_sample02.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "f40b1718afbcb57870f1a826e40121609a1f1aa951776fb1416eaf5f4b21dc48"
+    },
+    {
+      "path": "chapters/chapter_06/screenshots/chapter_06_take01_sample03.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "b52801a430963de2c950a82e4a847ecf77cfb2323191aafe01265ea2f198c083"
+    },
+    {
+      "path": "chapters/chapter_06/screenshots/chapter_06_take01_sample04.png",
+      "dimensions": [
+        854,
+        480
+      ],
+      "mode": "RGB",
+      "decoded": true,
+      "sha256": "fe063dc12667fa179c32de1d900f801492249719e81f75082340c2bf567ad069"
+    },
+    {
       "path": "chapters/chapter_06/storyboards/chapter_06_sb01.png",
       "dimensions": [
         1672,
@@ -376,6 +801,8 @@
       "sha256": "4e519c3271f5337bdec9f1688a7d6acdbeec1b12cc81d0caa2d7cd01dfe452c7"
     }
   ],
-  "verified_at": "2026-10-08T07:26:11.300795+00:00",
-  "verification_scope": "Planned timeline, file existence, raster decoding and hashes. No video duration, motion, audio or decode verification is possible before rendering."
+  "verified_at": "2026-10-08T07:50:01.188133+00:00",
+  "verification_scope": "All six original takes and final movie fully decoded; dimensions, runtime, frame count, FPS, non-silent audio and sampled visual motion checked. Twenty-four take frames inspected for character identity and story continuity.",
+  "audio_note": "Six native audio streams embedded in the takes, retained in the stereo movie; no separate audio files.",
+  "visual_review_path": "exports/visual-review.json"
 }

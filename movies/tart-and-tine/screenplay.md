@@ -1,6 +1,6 @@
 # Tart & Tine: A Little Braver Together
 
-**Prepared screenplay — animated video rendering is pending.**
+**Production screenplay — the completed movie is `exports/tart-and-tine-60s-final.mp4`.**
 
 60 seconds • 16:9 • warm whimsical 3D inspired by Up • no dialogue
 

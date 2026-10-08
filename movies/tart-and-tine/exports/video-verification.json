@@ -1,15 +1,15 @@
 {
-  "duration_seconds": 60.02,
+  "duration_seconds": 60.0,
   "resolution": [
     854,
     480
   ],
   "fps": 30.0,
-  "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480 [SAR 1:1 DAR 427:240], 1856 kb/s, 30 fps, 30 tbr, 15360 tbn (default)",
+  "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480 [SAR 1:1 DAR 427:240], 1731 kb/s, 30 fps, 30 tbr, 15360 tbn (default)",
   "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 193 kb/s (default)",
   "decode_verified": true,
   "frame_count": 1800,
-  "path": "exports/tart-and-tine-60s.mp4",
+  "path": "exports/tart-and-tine-60s-final.mp4",
   "input_take_ids": [
     "chapter_01_take01",
     "chapter_02_take01",
@@ -182,5 +182,9 @@
         159.68242096018736
       ]
     }
-  ]
+  ],
+  "audio_max_volume_db": -2.9,
+  "file_size_bytes": 14505020,
+  "sha256": "41c9b94172f908db2e8f0169a5653eacc4d37509a4bc4f4c48e97476069241d6",
+  "visual_review_path": "exports/visual-review.json"
 }
