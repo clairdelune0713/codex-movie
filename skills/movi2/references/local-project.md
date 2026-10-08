@@ -7,7 +7,7 @@ movies/<project>/
   project.json
   history/revision-000000.json
   assets/<asset-id>/<candidate-id>.<ext>
-  chapters/<chapter-id>/storyboards/<storyboard-id>.png
+  chapters/<chapter-id>/storyboards/<storyboard-id>.png  (optional requested review only)
   chapters/<chapter-id>/takes/<take-id>.mp4
   chapters/<chapter-id>/screenshots/<screenshot-id>.png
   exports/render-package-r000001.json
@@ -38,7 +38,7 @@ After `init`, copy the latest `project.json` to a working proposal JSON, modify 
 
 `status` also returns `current`, `stale`, or `unknown` freshness for candidates/storyboards/takes. `fingerprint` captures relevant current dependencies; save its returned string on an artifact **at generation/submission time**, not after later edits. Missing fingerprints yield `unknown`; never assign a current fingerprint to old media to conceal staleness. Chapter fingerprints include style, canonical prompt/shots/duration, aspect ratio, selected linked asset identity/file hash, and material files/roles. Unrelated unlinked asset edits do not stale a chapter. Candidate fingerprints cover style, description, category and supplied reference hashes. Original uploaded references can have unknown freshness because they were not generated from those definitions.
 
-`export` prepares a versioned, tool-neutral render package; it does not generate video. Add renderer-specific bindings, settings and submission payload beside it when a renderer is chosen. Material paths in the package remain project-relative and resolve against ROOT; selected asset paths are absolute. Keep credentials outside project/history/exports.
+`export` prepares a versioned, tool-neutral render package; it does not generate video. Add renderer-specific bindings, settings and submission payload beside it when a renderer is chosen. Generate from the chapter prompt and selected linked assets/supplied materials, without requiring or attaching a storyboard. Material paths in the package remain project-relative and resolve against ROOT; selected asset paths are absolute. Keep credentials outside project/history/exports.
 
 ## State conventions
 
@@ -107,7 +107,7 @@ Link resolution: explicit delink wins; then explicit asset ID link; then exact c
 
 Reference `materials` use `{ "id": "ref_01", "path": "assets/reference/frame.png", "media_type": "Image", "role": "first_frame", "tag": "@reference-frame" }`. Supported role meanings depend on the renderer; record `first_frame`, `last_frame`, `reference_image`, `reference_video` or `reference_audio` deliberately. Material tags used in a prompt must also be registered as `reference` assets.
 
-Storyboards use `{ "id", "path", "grid", "panel_descriptions", "prompt", "source_revision", "dependency_fingerprint", "created_at" }`. Grid is `2x2`, `3x3` or `4x4`.
+The optional `storyboards` and `selected_storyboard_id` fields remain for requested review previews and compatibility with prior projects; leave them empty/null or omit them when no preview was requested. They are not prerequisites, asset bindings or Seedance inputs. Review records use `{ "id", "path", "grid", "panel_descriptions", "prompt", "source_revision", "dependency_fingerprint", "created_at" }`. Grid is `2x2`, `3x3` or `4x4`.
 
 Takes use `{ "id", "take_number", "status", "task_id", "prompt", "submitted_prompt", "bindings", "duration", "resolution", "model", "source_revision", "dependency_fingerprint", "created_at" }`, plus `path` after success, optional `last_frame_path`, `error`, and `verification`. Status is `pending`, `processing`, `succeeded` or `failed`; only succeeded takes can be selected. Record actual generation facts, not invented model/task identifiers. Screenshots use `{ "id", "path", "timestamp", "source_take_id" }`.
 

@@ -1,4 +1,4 @@
-# Assets, storyboards, takes and delivery
+# Assets, takes and delivery
 
 Adapted from Movi2 `generate-asset-image`, `save-asset-candidates`, `select-asset-image`, `generate-storyboard`, `generate`, `status/[taskId]`, `select-chapter-take`, `upload-screenshot`, and screenshot/playblast UI behavior. Do not run those routes; use Codex tools and local files.
 
@@ -19,11 +19,13 @@ Image tool aspect ratios may differ from requested composition. Record actual di
 
 Inspect image results for requested panel structure, identity and wardrobe, empty environment constraints, prop state, style, and obvious defects. Refine with the selected reference rather than generating unrelated identities. A selection updates `selected_candidate_id`; leave old candidates and their files intact.
 
-## Storyboard previews
+## Optional storyboard previews for user review
+
+There is no storyboard stage in the normal generation workflow. AIFX Movi2's `generate/route.ts` constructs video content from the text prompt, linked Atelier assets and explicitly supplied image/video/audio materials; `generate-storyboard/route.ts` is a separate preview operation. Generate a storyboard only when the user explicitly requests a review preview. Do not upload that preview to Seedance, append it as a reference, use it as an implicit first frame, or require a selected storyboard before rendering. Keep any existing preview records and files as history.
 
 Choose 2x2 for a simple short sequence, 3x3 for more progression, or 4x4 for dense coverage; let content and user choice determine layout. Write the panel action list in local metadata, ordered left-to-right/top-to-bottom. Generate one continuous canvas of equal rectangular panels with no outer frame, gutters, divider lines, text, labels, watermarks, subtitles, or speech bubbles. Use the same style as the movie.
 
-Resolve reference assets with exact-tag matching and explicit link/delink precedence (see local-project.md). Use their selected candidates; list which reference supplies face/wardrobe, prop shape/state, or environment geometry. Only pass relevant chapter references within the tool's limit. If a reference is unavailable, record it and avoid claiming fully grounded identity. Use separate storyboard images or a locally prepared contact sheet if reference limits require a smaller set, without silently dropping critical subjects.
+For an explicitly requested preview, resolve reference assets with exact-tag matching and explicit link/delink precedence (see local-project.md). Use their selected candidates; list which reference supplies face/wardrobe, prop shape/state, or environment geometry. Only pass relevant references within the image tool's limit. If a reference is unavailable, record it and avoid claiming fully grounded identity. These references construct the review image; the resulting image is not added to the video request.
 
 Capture the chapter `fingerprint` before rendering. Save each storyboard with that `dependency_fingerprint`, its grid, panel descriptions, prompt, media path and created time. A newer prompt or selected asset can make it stale; do not automatically delete it.
 
@@ -35,6 +37,7 @@ For an available renderer:
 
 1. Resolve actual supported duration, resolution, aspect ratio, reference formats/count and first/last-frame mode. Repartition or clarify conflicts before submission; do not silently clamp duration or omit references. A filesystem path is not a public provider URL; use the tool's documented local-file mechanism or explicitly supported transient upload.
 2. Compile stable @tags into the tool's documented bindings. When it uses numbered references, save a deterministic binding table and translated prompt separate from the canonical @tag prompt. Match complete tags, so @Tom does not capture @Tom-hat. Delinked assets are excluded. If an active tag has no render reference, surface the missing grounding rather than stripping the @ sign to conceal it.
+   Build that table from selected active assets and explicitly supplied reference materials only. Exclude chapter storyboard previews and contact sheets; their existence or selection does not make them generation inputs. Do not replace linked asset references with storyboard collages to fit a reference limit.
 3. Keep first-frame/last-frame inputs distinct from identity/environment references. Movi2's source first-frame branch discarded other reference types; preserve only inputs actually supported by the current tool and disclose consequential exclusions.
 4. Save a pending take with provider task ID, source revision, exact submitted prompt, settings and fingerprint. Poll that same job using the tool's documented status mechanism; timeouts are pending, not grounds for submitting a duplicate paid job. Record failures and stop retries that risk duplicate jobs until submission state is known.
 5. On success retain the returned local clip (or save via documented export), actual metadata, last-frame image if available, and separate take ID. Update selection after success; a failed render must not replace a working selected take. Store any output URL as provenance, with local media as the durable result.

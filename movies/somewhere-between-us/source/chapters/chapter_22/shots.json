@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 6,
+    "action": "@Tart 坐在长椅旁左側，看向維港；@Owner 在椅子上陪伴。",
+    "camera": "35mm 侧后人犬景",
+    "audio": "浪声，原創鋼琴",
+    "end_state": "@Tart 坐在长椅旁左側，看向維港；@Owner 在椅子上陪伴。；最後一秒保留自然呼吸的穩定剪接姿態。"
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "action": "硬切 @Handler 帶 @Tine 從右側沿同一海旁步道向左走。",
+    "camera": "35mm 侧面跟拍",
+    "audio": "爪步、衣料、城市晚聲",
+    "end_state": "硬切 @Handler 帶 @Tine 從右側沿同一海旁步道向左走。；最後一秒保留自然呼吸的穩定剪接姿態。"
+  },
+  {
+    "start": 13,
+    "end": 20,
+    "action": "@Tine 停步望左，@Handler 順著牠目光停下。",
+    "camera": "65mm 犬中近景",
+    "audio": "音樂停留兩音；狗不叫",
+    "end_state": "@Tine 停步望左，@Handler 順著牠目光停下。；最後一秒保留自然呼吸的穩定剪接姿態。"
+  }
+]

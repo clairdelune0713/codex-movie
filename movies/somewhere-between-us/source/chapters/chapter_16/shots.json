@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 6,
+    "action": "@Tart 與 @Owner 從碼頭左側出口走出；@Tine 與 @Handler 在右側等候區。",
+    "camera": "24mm 全景顯示至少十米距離",
+    "audio": "港口、船笛、腳步",
+    "end_state": "@Tart 與 @Owner 從碼頭左側出口走出；@Tine 與 @Handler 在右側等候區。；最後一秒保留自然呼吸的穩定剪接姿態。"
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "action": "遊客群從前景左向右经过，短暫遮住犬的視線與鏡頭。",
+    "camera": "35mm 同一軸線，前景遮擋",
+    "audio": "人潮腳步、人語",
+    "end_state": "遊客群從前景左向右经过，短暫遮住犬的視線與鏡頭。；最後一秒保留自然呼吸的穩定剪接姿態。"
+  },
+  {
+    "start": 13,
+    "end": 20,
+    "action": "人潮散去，@Tart 已離開左側出口；@Tine 随 @Handler 登船。",
+    "camera": "35mm 原構圖重新可見",
+    "audio": "小輪船身輕響",
+    "end_state": "人潮散去，@Tart 已離開左側出口；@Tine 随 @Handler 登船。；最後一秒保留自然呼吸的穩定剪接姿態。"
+  }
+]

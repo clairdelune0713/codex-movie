@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 6,
+    "action": "@Handler 蹲下接回牽繩，@Tine 緩緩起身，老人手回到膝上。",
+    "camera": "50mm 中景",
+    "audio": "牽繩扣聲",
+    "end_state": "@Handler 蹲下接回牽繩，@Tine 緩緩起身，老人手回到膝上。；最後一秒保留自然呼吸的穩定剪接姿態。"
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "action": "@Tine 走兩步再停下，@Elder 望著門口，開口不夸張。",
+    "camera": "65mm 老人近景",
+    "audio": "老人：{這麼快就走了？}",
+    "end_state": "@Tine 走兩步再停下，@Elder 望著門口，開口不夸張。；最後一秒保留自然呼吸的穩定剪接姿態。"
+  },
+  {
+    "start": 13,
+    "end": 20,
+    "action": "@Handler 點頭微笑，@Tine 轉頭輕搖尾巴；留下回訪的期待。",
+    "camera": "50mm 門口反打",
+    "audio": "溫柔一聲犬鼻息、原創鋼琴",
+    "end_state": "@Handler 點頭微笑，@Tine 轉頭輕搖尾巴；留下回訪的期待。；最後一秒保留自然呼吸的穩定剪接姿態。"
+  }
+]

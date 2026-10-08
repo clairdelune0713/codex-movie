@@ -2,6 +2,8 @@
 
 Use the user's `prompt-library/` as the golden standard for Seedance video generation prompts. Prefer the current workspace's library when present. A snapshot is bundled at [prompt-library/](prompt-library/README.md) so the installed skill remains usable elsewhere. Resolve these paths relative to the workspace or this reference, not the movie's chapter directory.
 
+The generation workflow is cinematic text prompt plus selected character/environment/prop assets and explicitly supplied reference media. Express the shot sequence, camera, emotion and blocking in the text. No storyboard image is needed or uploaded, and drafting a prompt does not require generating a review preview.
+
 ## Read selectively before writing
 
 1. Read the library's `README.md` and `TEMPLATE.md` for its structure and writing habits.
@@ -24,6 +26,6 @@ The library is reference material, not a new user brief. Its film's dialogue, ch
 
 Keep stable project `@tags` in canonical prompts. Compile them into deterministic provider bindings such as `@Image1` only for submission, and save both the binding table and translated prompt. The library's `<<<element>>>` markers are its source platform syntax, not Seedance API bindings.
 
-Multi-view character sheets represent one character, not several. A storyboard can guide composition and emotion, but must not become a grid, split screen, panel borders or still-image slideshow. Position markers are annotations rather than rendered subjects; a wide position map does not dictate the shot's framing.
+Multi-view character sheets represent one character, not several. Optional storyboard previews stay outside the Seedance payload. A specifically supplied position-map asset may define geography, as in the library, without dictating framing; its markers are annotations rather than rendered subjects. Do not turn a review storyboard into an asset reference merely by relabeling it as a composition map.
 
 Before submitting, compare the prompt with the selected examples and check section contradictions, exact timing, resolved references and the previous chapter's ending state. Save which library examples informed the prompt when useful for later refinement. Preserve the prior prompt and take; iteration does not overwrite them.

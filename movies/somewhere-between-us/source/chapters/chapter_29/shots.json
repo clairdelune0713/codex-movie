@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 6,
+    "action": "@Tart 與 @Tine 并肩坐下看海，@Owner 与 @Handler 在远景长椅安静谈话。",
+    "camera": "50mm 犬侧后雙主體",
+    "audio": "海浪、软钢琴",
+    "end_state": "@Tart 與 @Tine 并肩坐下看海，@Owner 与 @Handler 在远景长椅安静谈话。；最後一秒保留自然呼吸的穩定剪接姿態。"
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "action": "@Tine 挨近 @Tart，后者挪开半掌；@Tine 再靠近一次。",
+    "camera": "65mm 二犬中景，完整保留爪与肩接触",
+    "audio": "两次爪步，俏皮单音",
+    "end_state": "@Tine 挨近 @Tart，后者挪开半掌；@Tine 再靠近一次。；最後一秒保留自然呼吸的穩定剪接姿態。"
+  },
+  {
+    "start": 13,
+    "end": 20,
+    "action": "@Tart 微微侧眼，終於不再挪開，讓 @Tine 靠在肩旁。",
+    "camera": "85mm 犬雙表情",
+    "audio": "轻叹鼻息、弦乐舒展",
+    "end_state": "@Tart 微微侧眼，終於不再挪開，讓 @Tine 靠在肩旁。；最後一秒保留自然呼吸的穩定剪接姿態。"
+  }
+]
