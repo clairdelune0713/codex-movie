@@ -1,3 +1,4 @@
 __pycache__/
 *.pyc
 .validation-deps/
+.DS_Store
