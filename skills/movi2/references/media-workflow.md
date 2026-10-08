@@ -29,7 +29,7 @@ Capture the chapter `fingerprint` before rendering. Save each storyboard with th
 
 ## Video and audio tools
 
-Discover callable video/audio tools and inspect their schemas. The source app submitted asynchronous Seedance jobs, with image/video/audio references, optional first/last frames, and per-chapter takes. Those APIs and app credentials are not carried into this skill. If no suitable tool is available, write `exports/render-package.json` with chapter prompts, durations, aspect ratio, selected local references, media roles, intended audio, and output goals. State that rendering is pending. If the user explicitly requests a new service integration, handle that as separate configuration work rather than silently using AIFX secrets.
+Discover callable video/audio tools and inspect their schemas. The source app submitted asynchronous Seedance jobs, with image/video/audio references, optional first/last frames, and per-chapter takes. This skill includes no credentials. When the user authorizes direct Seedance generation using named environment settings, follow [seedance-api.md](seedance-api.md); consult [seedance-prompts.md](seedance-prompts.md) before writing the submitted prompt. If neither a suitable tool nor an authorized direct API route is available, write `exports/render-package.json` with chapter prompts, durations, aspect ratio, selected local references, media roles, intended audio, and output goals. State that rendering is pending. Do not silently use AIFX secrets or its application services.
 
 For an available renderer:
 
