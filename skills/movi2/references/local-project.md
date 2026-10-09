@@ -30,6 +30,9 @@ PYTHON HELPER fingerprint ROOT --chapter chapter_02
 PYTHON HELPER fingerprint ROOT --chapter chapter_02 --from proposal.json
 PYTHON HELPER restore ROOT --revision 3 --reason "Return to previous visual style"
 PYTHON HELPER export ROOT
+PYTHON HELPER review-assets ROOT
+PYTHON HELPER approve-assets ROOT --review REVIEW_ID --confirmation "Actual user approval text"
+PYTHON HELPER render-ready ROOT
 ```
 
 After `init`, copy the latest `project.json` to a working proposal JSON, modify the proposal, check it, then commit. Do not hand-edit the live `project.json` or snapshots. A proposal must preserve project `id` and the current `revision`; a stale base revision is rejected. Commit writes the next snapshot and atomically replaces the live JSON. If writing live state fails after reserving a history revision, keep the snapshot and reconcile it with the live JSON; do not delete history and retry blindly. The helper rejects concurrent commits reserving the same revision. Restoring creates a new revision, leaving all earlier snapshots/media available.
@@ -40,9 +43,17 @@ After `init`, copy the latest `project.json` to a working proposal JSON, modify 
 
 `export` prepares a versioned, tool-neutral render package; it does not generate video. Add renderer-specific bindings, settings and submission payload beside it when a renderer is chosen. Generate from the chapter prompt and selected linked assets/supplied materials, without requiring or attaching a storyboard. Material paths in the package remain project-relative and resolve against ROOT; selected asset paths are absolute. Keep credentials outside project/history/exports.
 
+## Persistent asset review
+
+`review-assets` requires selected local image candidates for all characters, environments and main props, and for supplied image reference assets. It records a new `asset_review` with an ID, `awaiting_user` status, fingerprint, source revision and preparation time, then returns a gallery manifest of the selected paths/IDs. Also display explicitly supplied image materials in that manifest. Resolve these relative paths to absolute paths for inline images in chat. The command prepares review; it cannot prove the images were displayed or the user saw them, so Codex must actually show the gallery and end the turn waiting for approval.
+
+Only after explicit human confirmation, run `approve-assets` with that exact review ID and actual confirmation text. It verifies that the set has not changed and commits an `approved` review with timestamp and confirmation. Never call it simply to make a check pass. `status` reports effective review state as `incomplete`, `awaiting_user`, `approved` or `stale`. Existing projects with no approval remain editable and exportable; they are not eligible for a new render until reviewed.
+
+`render-ready` exits nonzero unless the approved review matches the current asset definitions, selected candidate IDs, image paths/bytes, supplied image material roles and overall style, and final chapter prompts exist. Call it against committed current state immediately before each new video submission. Adding an unselected candidate or changing only chapter prompts/timing does not revoke image approval. Selection changes, file modifications, new/removed image assets or a style change do. The helper is a local preflight; adapters/connectors must invoke it and respect its result rather than bypass it. Exports retain review state and remain labeled `prepared` regardless of readiness. Polling/downloading previously accepted jobs is unaffected.
+
 ## State conventions
 
-The initializer creates common metadata, empty `asset_list`/`chapters`, a `style` object, 16:9 aspect ratio, adaptive timing, and historical Movi2 chapter limits `{ "min": 4, "max": 30 }`. Override them when user intent/current tools require it. Set `duration_mode` to `fixed` and `total_duration_target` to the requested seconds for an exact runtime. Chapter sums determine `total_estimated_duration` on commit.
+The initializer creates common metadata, empty `asset_list`/`chapters`, a `style` object, 16:9 aspect ratio, adaptive timing, and historical Movi2 chapter limits `{ "min": 4, "max": 30 }`. Override them when user intent/current tools require it. Set `duration_mode` to `fixed` and `total_duration_target` to the requested seconds for an exact runtime. Chapter sums determine `total_estimated_duration` on commit. Individual chapter durations follow story beats; the helper accepts mixed lengths such as 6 and 29 seconds without normalizing them to equal lengths. Record `pacing_reason` per chapter; keep original script wording in `source_text`, adapted screenplay in `detailed_script`, and substantive fixes in `script_changes`.
 
 Use `source_text`, `input_mode` (`idea` or `script`), `language`, `high_level_idea`, `detailed_script`, `master_prompt_raw`, and `style` for the production bible. Preserve source wording and user instructions. The helper retains additional fields, so narrative decisions, continuity notes and verified output metadata may be recorded without a database migration.
 

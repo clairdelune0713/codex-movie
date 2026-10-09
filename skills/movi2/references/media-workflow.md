@@ -4,6 +4,8 @@ Adapted from Movi2 `generate-asset-image`, `save-asset-candidates`, `select-asse
 
 ## Asset generation and edits
 
+The generated image inventory consists of **characters, environments and main props**. Extract recurring or narratively important props (a hero vehicle, a message-bearing object, an object whose state affects the plot); ordinary furniture, pavement, background clutter and incidental objects stay in environment/set-dressing descriptions. Keep every explicitly requested asset. `reference` is reserved for separately supplied guidance media, not a fourth class of automatic prop generation. These compositions were rechecked against AIFX Movi2 `generate-asset-image/route.ts` on 2026-10-09.
+
 Use the imagegen skill and tool actually present in the session. Before editing a local reference, inspect it with the image-viewing tool. Use local reference paths for edits when supported; use recent conversation images only according to the tool's rules. If an image tool returns an in-chat image without a local path, follow its documented save/export behavior; do not pretend a file was saved. Never create a fake path or replace a failed image with text-only success.
 
 Save the exact submitted prompt, requested style, input reference paths and source revision beside the candidate metadata. Copy a returned local file into a unique project candidate path. Keep all successful candidates, including those not selected. Honor the number of variations requested; a single request does not imply a large batch.
@@ -12,12 +14,18 @@ Default Movi2 asset composition, overridable by the user:
 
 - **Character:** horizontal 16:9, three side-by-side panels on a clean neutral studio background. Left is front wardrobe from neck/collar to shoes with no head; middle is back wardrobe with no head; right is the only face/head, a detailed portrait. Keep costume, materials, identity, and lighting coherent across panels. Use the project's medium, including stylized rendering.
 - **Environment:** a wide establishing plate of architecture/landscape/layout, ambient dressing, lighting and weather. No people, silhouettes or crowds; no featured story props or hero objects. Environment descriptions should separate setting from people and props so later composition remains controllable.
-- **Prop:** a clear hero view on a neutral backdrop, belonging to the story's design language, with readable shape/material/scale and wear. For state variants use consistent multi-view/state sheets or distinct tagged candidates, as requested.
+- **Main prop:** a clear high-detail hero view in horizontal 16:9 on a seamless neutral light studio backdrop, belonging to the story's design language, with readable shape/material/scale and wear. Match the movie's design language, palette and motivated key/fill/rim lighting. For state variants use consistent multi-view/state sheets or distinct tagged candidates, as requested.
 - **Reference:** preserve user-provided Image/Video/Audio and its intended role. A reference is not automatically a character or prop sheet.
 
 Image tool aspect ratios may differ from requested composition. Record actual dimensions; do not claim exact 16:9 if the returned raster differs. Use normal local cropping/padding only when suitable and authorized; use the image tool for semantic visual edits.
 
 Inspect image results for requested panel structure, identity and wardrobe, empty environment constraints, prop state, style, and obvious defects. Refine with the selected reference rather than generating unrelated identities. A selection updates `selected_candidate_id`; leave old candidates and their files intact.
+
+## Required visual review before further production
+
+Complete the whole planned character/environment/main-prop image set, inspect it, select proposed candidates, then run `review-assets` and display all selected images in chat with labels and IDs. Stop for explicit user confirmation as described in SKILL.md. This is a review of the actual images, not just their descriptions or a statement that generation succeeded. Use ordinary local contact-sheet composition only if it helps display a large set; also link originals, and keep the sheet out of video inputs. Do not substitute a generated storyboard for asset review.
+
+Record approval using `approve-assets --review REVIEW_ID --confirmation "user's actual confirmation"` only after the user approves the displayed set. The helper persists the exact definitions, selections and file hashes via a review fingerprint. Do not auto-approve on the user's behalf. A change to that set or its style requires a new review; failed/missing images cannot be approved. After an asset revision, preserve existing candidates and show the replacement candidates before resuming. Check `render-ready` before any new video-generation submission, including a direct API call; the check does not call the provider.
 
 ## Optional storyboard previews for user review
 
@@ -34,6 +42,8 @@ Capture the chapter `fingerprint` before rendering. Save each storyboard with th
 Discover callable video/audio tools and inspect their schemas. The source app submitted asynchronous Seedance jobs, with image/video/audio references, optional first/last frames, and per-chapter takes. This skill includes no credentials. When the user authorizes direct Seedance generation using named environment settings, follow [seedance-api.md](seedance-api.md); consult [seedance-prompts.md](seedance-prompts.md) before writing the submitted prompt. If neither a suitable tool nor an authorized direct API route is available, write `exports/render-package.json` with chapter prompts, durations, aspect ratio, selected local references, media roles, intended audio, and output goals. State that rendering is pending. Do not silently use AIFX secrets or its application services.
 
 For an available renderer:
+
+Pass `render-ready` for the latest local state and confirm generation is within the user's requested scope before submitting. Perform this again if asset selection/style/materials change during a batch. Preparation/export may continue to exist while review is pending; pending approval never authorizes a POST.
 
 1. Resolve actual supported duration, resolution, aspect ratio, reference formats/count and first/last-frame mode. Repartition or clarify conflicts before submission; do not silently clamp duration or omit references. A filesystem path is not a public provider URL; use the tool's documented local-file mechanism or explicitly supported transient upload.
 2. Compile stable @tags into the tool's documented bindings. When it uses numbered references, save a deterministic binding table and translated prompt separate from the canonical @tag prompt. Match complete tags, so @Tom does not capture @Tom-hat. Delinked assets are excluded. If an active tag has no render reference, surface the missing grounding rather than stripping the @ sign to conceal it.

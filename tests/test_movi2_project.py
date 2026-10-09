@@ -148,6 +148,70 @@ class ProjectTests(unittest.TestCase):
         self.assertTrue(all(Path(r["path"]).is_file() for r in refs))
         self.command("init", expected=1)
 
+    def prepare_review(self):
+        self.command("commit", "--from", self.proposal())
+        return self.command("review-assets")
+
+    def approve_review(self):
+        review = self.prepare_review()
+        self.command("approve-assets", "--review", review["review_id"], "--confirmation", "Approved these images.")
+        return review
+
+    def test_review_blocks_render_until_explicit_current_confirmation(self):
+        review = self.prepare_review()
+        self.assertEqual(len(review["gallery"]["images"]), 3)
+        self.assertEqual(review["status"], "awaiting_user")
+        self.command("render-ready", expected=1)
+        self.command("approve-assets", "--review", "wrong-review", "--confirmation", "Approved", expected=1)
+        self.command("approve-assets", "--review", review["review_id"], expected=1)
+        self.command("approve-assets", "--review", review["review_id"], "--confirmation", "Approved these images.")
+        self.assertTrue(self.command("render-ready")["ready"])
+
+    def test_prompt_edit_and_unselected_candidate_preserve_approval(self):
+        self.approve_review()
+        current = module.read(self.root / "project.json")
+        current["chapters"][0]["prompt"] += " Camera: closer."
+        current["asset_list"][0]["candidates"].append({"id": "tom_2", "path": "assets/hat.bin"})
+        self.command("commit", "--from", self.proposal(current))
+        self.assertTrue(self.command("render-ready")["ready"])
+
+    def test_selected_image_bytes_and_style_revoke_approval(self):
+        self.approve_review()
+        (self.root / "assets/tom.bin").write_bytes(b"new image fixture")
+        self.assertEqual(self.command("status")["asset_review"]["status"], "stale")
+        self.command("render-ready", expected=1)
+        review = self.command("review-assets")
+        self.command("approve-assets", "--review", review["review_id"], "--confirmation", "Approve revised Tom.")
+        current = module.read(self.root / "project.json")
+        current["style"]["medium"] = "watercolor"
+        self.command("commit", "--from", self.proposal(current))
+        self.command("render-ready", expected=1)
+
+    def test_changed_selection_cannot_use_old_review_confirmation(self):
+        review = self.prepare_review()
+        current = module.read(self.root / "project.json")
+        current["asset_list"][0]["candidates"].append({"id": "tom_2", "path": "assets/hat.bin"})
+        current["asset_list"][0]["selected_candidate_id"] = "tom_2"
+        self.command("commit", "--from", self.proposal(current))
+        self.command("approve-assets", "--review", review["review_id"], "--confirmation", "Approved", expected=1)
+
+    def test_missing_image_selection_prevents_review(self):
+        self.project["asset_list"][0]["selected_candidate_id"] = None
+        self.command("commit", "--from", self.proposal())
+        self.command("review-assets", expected=1)
+        self.command("render-ready", expected=1)
+
+    def test_mixed_six_and_twenty_nine_second_chapters_remain_unchanged(self):
+        self.project["total_duration_target"] = 35
+        for chapter, duration in zip(self.project["chapters"], (6, 29)):
+            chapter["duration"] = duration
+            chapter["prompt"] = chapter["prompt"].replace("3-8s", f"3-{duration}s")
+            chapter["shots"][1]["end"] = duration
+        self.command("commit", "--from", self.proposal())
+        current = module.read(self.root / "project.json")
+        self.assertEqual([c["duration"] for c in current["chapters"]], [6, 29])
+        self.assertEqual(current["total_estimated_duration"], 35)
+
 
 if __name__ == "__main__":
     unittest.main()

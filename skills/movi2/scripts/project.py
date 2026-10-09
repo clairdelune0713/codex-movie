@@ -107,6 +107,54 @@ def chapter_fingerprint(root, project, chapter):
                                  for item in chapter.get("materials", [])]})
 
 
+def review_manifest(root, project):
+    """Exact image set the user must see; unselected candidate additions do not affect it."""
+    images, missing, materials = [], [], []
+    for asset in sorted(project["asset_list"], key=lambda item: item["id"]):
+        if asset["category"] == "reference" and asset.get("media_type", "Image") != "Image":
+            continue
+        selected = selected_media(asset)
+        if not selected or not selected.get("path"):
+            missing.append(asset["tag"])
+            continue
+        stamp = file_stamp(root, selected["path"])
+        if stamp["sha256"] is None:
+            missing.append(asset["tag"])
+        images.append({"asset_id": asset["id"], "tag": asset["tag"], "name": asset.get("name", asset["tag"]),
+                       "category": asset["category"], "candidate_id": selected["id"],
+                       "definition_fingerprint": asset_fingerprint(root, project, asset), **stamp})
+    for chapter in project["chapters"]:
+        for material in chapter.get("materials", []):
+            if material.get("media_type", material.get("type", "Image")) != "Image":
+                continue
+            stamp = file_stamp(root, material["path"])
+            if stamp["sha256"] is None:
+                missing.append(material.get("id", material["path"]))
+            entry = {**stamp, "role": material.get("role"), "tag": material.get("tag")}
+            if entry not in materials:
+                materials.append(entry)
+    if not images and not materials:
+        missing.append("No image assets prepared")
+    materials.sort(key=lambda item: (item["path"], item.get("role") or "", item.get("tag") or ""))
+    return {"images": images, "materials": materials, "missing": missing,
+            "fingerprint": digest({"style": project.get("style"), "images": images, "materials": materials})}
+
+
+def review_state(root, project):
+    manifest = review_manifest(root, project)
+    recorded = project.get("asset_review") or {}
+    if manifest["missing"]:
+        status = "incomplete"
+    elif not recorded:
+        status = "awaiting_user"
+    elif recorded.get("fingerprint") != manifest["fingerprint"]:
+        status = "stale"
+    else:
+        status = recorded.get("status", "awaiting_user")
+    return {"status": status, "ready": status == "approved", "review_id": recorded.get("id"),
+            "fingerprint": manifest["fingerprint"], "missing": manifest["missing"]}
+
+
 def number(value):
     return isinstance(value, (int, float)) and not isinstance(value, bool) and math.isfinite(value)
 
@@ -280,17 +328,21 @@ def report(root, project):
                 add(item, stamp, chapter["id"], kind)
     return {"project": project["project_name"], "revision": project["revision"],
             "duration": sum(c["duration"] for c in project["chapters"]),
-            "errors": errors, "warnings": warnings, "artifacts": artifacts}
+            "errors": errors, "warnings": warnings, "artifacts": artifacts,
+            "asset_review": review_state(root, project)}
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("command", choices=["init", "check", "status", "commit", "restore", "fingerprint", "export"])
+    parser.add_argument("command", choices=["init", "check", "status", "commit", "restore", "fingerprint", "export",
+                                            "review-assets", "approve-assets", "render-ready"])
     parser.add_argument("root", type=Path)
     parser.add_argument("--name")
     parser.add_argument("--from", dest="source", type=Path)
     parser.add_argument("--reason", default="Project update")
     parser.add_argument("--revision", type=int)
+    parser.add_argument("--review", help="ID of the image review explicitly approved by the user")
+    parser.add_argument("--confirmation", help="User's actual approval text; never fabricate or infer it")
     selection = parser.add_mutually_exclusive_group()
     selection.add_argument("--chapter")
     selection.add_argument("--asset")
@@ -315,6 +367,41 @@ def main():
         return {"project": str(root / "project.json"), "revision": 0}
     current = read(root / "project.json")
     project = read(args.source) if args.source else current
+    if args.command in ("review-assets", "approve-assets", "render-ready"):
+        if args.source:
+            raise ValueError("Asset review commands use committed state; commit the proposal first")
+        errors, _ = validate(root, current)
+        if errors:
+            raise ValueError("Validation failed:\n" + "\n".join(errors))
+        manifest = review_manifest(root, current)
+        if args.command == "render-ready":
+            state = review_state(root, current)
+            if not state["ready"]:
+                raise ValueError(f"Asset review is {state['status']}; display current images and wait for explicit approval")
+            if not current["chapters"] or any(not c.get("prompt") for c in current["chapters"]):
+                raise ValueError("Final chapter prompts are required before video submission")
+            return {"ready": True, "asset_review": state, "source_revision": current["revision"]}
+        if manifest["missing"]:
+            raise ValueError("Complete the image set before review: " + ", ".join(manifest["missing"]))
+        proposal = copy.deepcopy(current)
+        if args.command == "review-assets":
+            proposal["asset_review"] = {"id": "review_" + uuid4().hex,
+                                        "status": "awaiting_user", "fingerprint": manifest["fingerprint"],
+                                        "presented_revision": current["revision"],
+                                        "prepared_at": datetime.now(timezone.utc).isoformat()}
+            result = save(root, current, proposal, "Prepare image set for user review")
+            return {**result, "review_id": proposal["asset_review"]["id"], "status": "awaiting_user",
+                    "gallery": manifest, "next_step": "Display every image, then stop for user approval"}
+        recorded = current.get("asset_review") or {}
+        if not args.review or args.review != recorded.get("id"):
+            raise ValueError("Approval must name the current presented review ID")
+        if recorded.get("fingerprint") != manifest["fingerprint"]:
+            raise ValueError("Image set changed after review; prepare and display a new review")
+        if not args.confirmation or not args.confirmation.strip():
+            raise ValueError("Explicit user confirmation text is required")
+        proposal["asset_review"].update(status="approved", confirmation=args.confirmation.strip(),
+                                       approved_at=datetime.now(timezone.utc).isoformat())
+        return {**save(root, current, proposal, "Record explicit user asset approval"), "status": "approved"}
     if args.command in ("check", "status"):
         result = report(root, project)
         print(encoded(result), end="")
@@ -343,7 +430,8 @@ def main():
             raise ValueError("Validation failed:\n" + "\n".join(errors))
         package = {"project_id": project["id"], "source_revision": project["revision"],
                    "style": project["style"], "aspect_ratio": project["aspect_ratio"],
-                   "status": "prepared", "warnings": warnings, "chapters": []}
+                   "status": "prepared", "asset_review": review_state(root, project),
+                   "warnings": warnings, "chapters": []}
         for chapter in project["chapters"]:
             references = []
             for asset in active_assets(project, chapter):
