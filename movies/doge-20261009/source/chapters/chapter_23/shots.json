@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 7,
+    "action": "@Harbour 的 @Tart-rest 坐左、@Tine-rest 坐右，@MrChan 與 @Ching 在長椅附近保持鬆牽繩。Tine 以肩輕靠 Tart；Tart 用半個屁股挪左。",
+    "camera": "50mm 低位雙犬中景，鏡頭固定，欄杆海面在後。",
+    "audio": "毛接觸、石地小爪聲，撥弦玩笑節奏。",
+    "end_state": "兩犬間開了一點縫。"
+  },
+  {
+    "start": 7,
+    "end": 13,
+    "action": "同一鏡頭：@Tine-rest 只再往左挪同樣距離，重新靠上；@Tart-rest 給側眼，再小挪半步。動作有重量與停頓。",
+    "camera": "50mm 固定，不加第三隻犬、不拉長腿或變形尾巴。",
+    "audio": "兩次小腳步，音樂先停一拍，再一粒撥弦。",
+    "end_state": "Tart 已無意繼續挪。"
+  },
+  {
+    "start": 13,
+    "end": 22,
+    "action": "同一鏡頭：@Tine-rest 最後靠近；@Tart-rest 鼻子長呼一口氣，終於接受。兩犬肩貼肩；背景兩人聽到鼻息，輕笑，不打斷。",
+    "camera": "50mm 最後微推到溫柔雙近景，末尾留兩秒真實呼吸。",
+    "audio": "Tart 長鼻息；兩人很小自然笑，鋼琴由喜劇和弦回溫暖。",
+    "end_state": "兩犬安穩相靠，不再挪動。"
+  }
+]

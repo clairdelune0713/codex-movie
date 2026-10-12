@@ -1,5 +1,20 @@
 __pycache__/
 *.pyc
+movies/little-star-home/.media-tools/
 .validation-deps/
 .DS_Store
 movies/somewhere-between-us/exports/somewhere-between-us-10min-720p-21x9.mp4
+
+# Movie source archives and production code only; retain all local output files.
+/movies/*
+!/movies/README.md
+!/movies/*/
+/movies/*/*
+!/movies/*/README.md
+!/movies/*/*.py
+!/movies/*/*.cjs
+!/movies/*/source/
+!/movies/*/source/**
+!/movies/*/production/
+!/movies/*/production/**
+/movies/.git-maintenance/

@@ -1,0 +1,34 @@
+[
+  {
+    "start": 0,
+    "end": 3,
+    "action": "@Tiggy proudly plants both feet, raises @GoldenStar in both paws and makes a confident grin. The other four friends lean forward expectantly.",
+    "camera": "35mm full-body group framing, slight brisk push, no shake.",
+    "audio": "@Tiggy, brave bouncy little lower-pitched tiger voice, 0.5-2s: {I will throw it back!} Playful drum tap.",
+    "end_state": "@Tiggy prepares the spin, still gripping one star."
+  },
+  {
+    "start": 3,
+    "end": 7,
+    "action": "@Tiggy spins around exactly THREE complete turns with quick foot pivots, three readable revolutions in three seconds. After the third turn @Tiggy releases @GoldenStar straight upward at 6s. Star separates visibly from both paws and shoots up. The four watchers remain clear of the spinning area.",
+    "camera": "35mm steady medium-wide keeps feet and launch arc readable; tilt up only after release.",
+    "audio": "Three short comic whooshes, one per turn, then a bright launch WHOOSH at 6s. No speech.",
+    "end_state": "Star travels above @Tiggy; empty paws remain raised."
+  },
+  {
+    "start": 7,
+    "end": 11,
+    "action": "@GoldenStar completes a small vertical arc, drops under normal gravity and gently bops @Tiggy’s soft head at 9s. A harmless plush squash, no pain or injury. @Tiggy wobbles once in surprise; @Lulu steps in and catches the bouncing star with both paws at 10s.",
+    "camera": "Hard cut to 50mm medium at head height, follow the one star down, no slow-motion tracking.",
+    "audio": "A single tiny soft BONK at 9s and a surprised cute squeak. Laughter begins.",
+    "end_state": "Star in @Lulu’s paws, @Tiggy recovering balance."
+  },
+  {
+    "start": 11,
+    "end": 16,
+    "action": "All five burst into affectionate giggles. @Tiggy sheepishly rubs the head and smiles too. @Lulu gently lifts @GoldenStar, then turns toward @Bubbles with an encouraging nod. Final second is a lively breathing pause with smiles, no frozen pose.",
+    "camera": "Hard cut to 50mm medium group, subtle lateral move 30cm.",
+    "audio": "@Lulu, tender bright kitten voice, 12-14.5s: {Maybe we need a better plan!} Happy giggles and light woodblock comedy beat.",
+    "end_state": "@Lulu offers star toward @Bubbles for the next attempt."
+  }
+]

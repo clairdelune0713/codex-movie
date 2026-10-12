@@ -1,0 +1,25 @@
+SCENE CONTEXT
+A patient therapy dog gives a lonely elderly man time to choose connection. This is one quiet continuous 20-second shot, following the man's guarded reaction and preceding his first head stroke.
+OUTPUT SETTINGS
+20 seconds, 720p, 21:9, warm expressive original cinematic 3D animation, soft detailed fur, natural weight and subtle performance. No titles, captions, subtitles, credits, signatures, watermark or narration.
+ACTIVE REFERENCES
+@Tine is ONE normal adult brown Labrador with floppy ears, orange vest and blue round badge. Use his identity, not the reference-sheet background. His pale heart is only on the anatomical right rear haunch; do not add shoulder markings.
+@Elder is ONE elderly man with silver hair, spectacles and dusty blue cardigan. Use his face, age, outfit and normal human proportions.
+@centre supplies the community room walls, windows, warm sunlight, chairs and background layout only. Its table remains FAR IN THE BACKGROUND and is irrelevant to the dog.
+LOCATION MAP
+The elderly man sits in a simple chair at screen right. Both his shoes touch the tiled floor. The chair seat is about 0.45 meters above the floor. The dog is entirely on the tiled floor at screen left, just forward of the man's shoes and about 0.7 meters away. Normal Labrador scale: lying dog's chin is at floor level, and the seated man's face is much higher. The clear FLOOR occupies the bottom half of the image. No table, platform, sofa, bench or other raised surface in this foreground.
+FIRST FRAME AND SPATIAL BLOCKING
+Start with a WIDE full-body view of the entire seated man including shoes, all visible chair legs and the entire dog sitting on floor tiles. Camera height 1.3 meters, tilted slightly DOWN to show floor contacts. Leave visible empty floor all around the dog. Do not place the dog next to the man's chest or face.
+FORMAT MODE
+One continuous locked wide shot. No closeups, no cuts, no push-in, no zoom or change in angle. Keep all floor-contact points visible throughout.
+ACTION TIMING
+Shot 1 (0s-20s): A normal-size adult brown Tine sits on the tiled FLOOR to the left of a seated elderly man. Tine quietly lowers his body until his belly and chin rest on the tiled floor. He blinks and breathes while waiting. The elder glances down, then slowly relaxes his hands without touching yet.
+Camera: 28mm locked wide shot from 1.3 meters above the floor, looking slightly down; the entire dog, entire chair, chair legs, human shoes and surrounding floor remain visible throughout.
+Audio: Only quiet room ambience, distant birds, dog breathing and soft clothing rustle. No speech or music.
+End state: Dog lying on the floor beside the chair; elder beginning to soften.
+ACTION DETAILS
+0-4 seconds: Dog lowers onto the floor without approaching or touching the elder. 4-10 seconds: Dog quietly watches then rests chin on front paws. 10-16 seconds: Elder looks DOWN at dog and loosens his closed hands. 16-20 seconds: Dog waits patiently and breathes; elder gives a tiny almost-smile. No extra gestures or added people.
+PHYSICS AND CONTINUITY
+Natural quadruped dog. All paws, belly and chin contact floor tiles normally. The chair supports only the elderly human. The dog's entire body always remains below the chair seat level once lying down. Stable daylight and room geography. Animate only subtle breaths, blinks, lowering posture, eyeline and hands. No dog on a tabletop and no enlarged dog. Never transform the floor into a tabletop.
+POSITIVE CONSTRAINTS
+Full-screen genuine motion, original characters, no split screen or contact sheet. ONE dog, ONE elderly man, full-body WIDE framing throughout. Clear visible floor tiles and chair legs prove the physical arrangement. Emotional patient companionship, no text at any timestamp.

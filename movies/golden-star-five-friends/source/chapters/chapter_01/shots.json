@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 4,
+    "action": "@Pip does two quick curious hops along the pebble path, then points toward the clearing. @Mochi bounds beside @Pip with an infectious laughing grin; the other three friends follow. All five are full complete little plush characters, not disconnected sheet parts.",
+    "camera": "35mm wide lateral tracking at walking speed, keep faces readable.",
+    "audio": "Narrator, lively warm English story voice, 0.5-4s: {In Sunshine Valley lived five little friends.} Tiny foot pats and two chick chirps.",
+    "end_state": "All five gather around the clearing."
+  },
+  {
+    "start": 4,
+    "end": 8,
+    "action": "@Tiggy playfully puffs out the little chest and flexes rounded arms, then does a springy tiny victory hop. @Bubbles slips smoothly through the edge of the mossy boulder and pops back into view at regular real-time speed. @Pip tilts the head with curiosity.",
+    "camera": "Hard cut to 50mm medium group, quick gentle pan across @Tiggy and @Bubbles.",
+    "audio": "Narrator, 4-8s: {Mochi, Tiggy, Pip, Bubbles, and Lulu!} Soft boing and ghost flutter.",
+    "end_state": "@Bubbles rejoins the other four, exactly five friends."
+  },
+  {
+    "start": 8,
+    "end": 12,
+    "action": "@Lulu opens both arms and gives @Mochi a quick warm hug; @Tiggy, @Pip and @Bubbles bob happily. @Pip then spots a tiny golden reflection beneath the boulder, perks up and takes one eager step toward it. Finish with one second of bright attentive expressions, breathing and blinking.",
+    "camera": "Hard cut to 50mm medium group; steady brisk composition, not a long beauty shot.",
+    "audio": "Narrator, 8-10s: {Always ready for an adventure!} Small happy giggles.",
+    "end_state": "@Pip faces screen-left toward the boulder; all five follow the eyeline."
+  }
+]

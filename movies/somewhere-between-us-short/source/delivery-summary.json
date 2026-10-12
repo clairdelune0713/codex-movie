@@ -1,0 +1,13 @@
+{
+  "project": "SOMEWHERE BETWEEN US - New Short Film",
+  "planned_duration_seconds": 352,
+  "media_storage": "Generated movies, takes and full verification logs are retained locally and excluded from Git.",
+  "observed_delivery_checks": [
+    {
+      "duration_seconds": 352.0,
+      "frame_count": 10560,
+      "fps": 30.0,
+      "local_report": "exports/video-verification.json"
+    }
+  ]
+}

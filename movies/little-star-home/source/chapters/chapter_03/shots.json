@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 5,
+    "action": "@Mochi offers @Star level. @Tora carefully receives it with BOTH paws from below before @Mochi lets go. @Tora looks toward the high sky and squares its short feet, determined to help.",
+    "camera": "Medium two-shot, 50mm, fixed and level; transfer fully in frame.",
+    "audio": "A tiny bright pizzicato accent, felt paw contact.",
+    "end_state": "@Tora owns the star in both paws; @Mochi is ready nearby."
+  },
+  {
+    "start": 5,
+    "end": 10,
+    "action": "@Tora makes ONE tiny hop, feet lifting only a few centimeters. At the top it opens its paws and lets @Star rise only a paw-height. The star gently descends like a feather. @Mochi immediately cups it safely in both paws. @Tora lands softly and steadies.",
+    "camera": "Same medium axis; slight wider framing at the cut, 45mm. Full bodies and one star visible throughout the attempt.",
+    "audio": "Soft hop puff, light rising then falling celesta notes, gentle felt catch. No alarm or thud.",
+    "end_state": "@Mochi safely holds the star; @Tora’s feet are on grass."
+  },
+  {
+    "start": 10,
+    "end": 14,
+    "action": "@Tora lowers its ears slightly and tilts its head in bashful disappointment. @Mochi keeps @Star in its left paw and chest, nudges @Tora’s shoulder with its right paw, then returns that paw to support the star. @Tora relaxes and leans into the reassurance.",
+    "camera": "Hard cut to close two-shot, 75mm; calm fixed camera, shoulder contact and star clear.",
+    "audio": "A sweet nonverbal chuckle, soft cloth brush, no words.",
+    "end_state": "No failure feels hurtful: the star remains safe with @Mochi."
+  }
+]

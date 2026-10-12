@@ -1,0 +1,34 @@
+[
+  {
+    "start": 0,
+    "end": 3,
+    "action": "@Bubbles gently accepts @GoldenStar from @Lulu with both small side flippers, hugs it against the front and gives one shy but determined nod. @Lulu releases only once the star is secure.",
+    "camera": "50mm medium two-shot, other friends behind and softly readable.",
+    "audio": "@Bubbles, soft airy high ghost voice, 1-2s: {I can try!} A tiny airy flutter.",
+    "end_state": "Star held securely by @Bubbles."
+  },
+  {
+    "start": 3,
+    "end": 7,
+    "action": "@Bubbles rises briskly three body heights above the garden, passing the curved tree’s lower canopy in regular real-time motion, the star snug against the body. Camera tilts upward with the ascent. @Bubbles looks upward at the huge distant sky and reaches a flipper out, but stays far below the clouds.",
+    "camera": "35mm vertical follow at normal speed; ground friends remain small in lower frame.",
+    "audio": "Quick rising airy swoosh. @Bubbles, 5-7s: {Oh... still too far.}",
+    "end_state": "@Bubbles at modest height near tree crown."
+  },
+  {
+    "start": 7,
+    "end": 10,
+    "action": "@Bubbles descends promptly and safely to the same clearing with the star. The other four step in, relieved. @Pip notices the peach horizon and points.",
+    "camera": "Hard cut to 50mm eye-level garden group, boulder left and tree right.",
+    "audio": "@Pip, 8-10s: {The sun is setting!} Subtle urgent pizzicato pickup.",
+    "end_state": "@Bubbles returns, all five beside the star."
+  },
+  {
+    "start": 10,
+    "end": 12,
+    "action": "@Lulu perks up with a clear idea, touches the chest, then opens both paws toward the friends. @Bubbles lowers the star toward the moss. Finish with a one-second attentive reaction.",
+    "camera": "Hard cut to 65mm @Lulu close-up, gray side pads and flower cheeks visible.",
+    "audio": "One small hopeful music chime. No new words.",
+    "end_state": "@Lulu ready to suggest a shared wish."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 3,
+    "action": "@Pip pops the head up out of the cozy group cuddle and looks eagerly from friend to friend. @Tiggy gives one brisk cheerful nod and raises a paw, then squeezes back into the cuddle. Others smile and bob softly.",
+    "camera": "50mm close-medium group at plush eye height.",
+    "audio": "@Pip 0.3-1.7s: {Same time tomorrow?} @Tiggy 1.8-2.7s: {Of course!}",
+    "end_state": "All five in happy close cuddle."
+  },
+  {
+    "start": 3,
+    "end": 9,
+    "action": "@Mochi turns the laughing face toward @Tiggy, gestures playfully upward with one paw then hugs the group again. @Tiggy reacts with an embarrassed tiny grin while @Lulu’s pink flower cheeks crinkle in a smile, @Pip giggles and @Bubbles does a gentle bob.",
+    "camera": "Hard cut to 50mm friendly group two-thirds frame, no languid camera drift.",
+    "audio": "@Mochi, brisk playful delivery 3-8.4s: {Next time, let us find something that does not need to be thrown into space!} At 8.4-9s the friends begin laughing.",
+    "end_state": "All five laugh together, no new objects."
+  },
+  {
+    "start": 9,
+    "end": 12,
+    "action": "One bright burst of shared giggles, then tilt briskly to the high sky. The little @GoldenStar gives one clear friendly eye wink at 10.5s and a tiny sparkle. Hold only the final second on the star with natural twinkle and a musical button. Finish directly on the picture, with no end card or fade to text.",
+    "camera": "Hard cut to 65mm sky insert of the same distant star against periwinkle; steady final second.",
+    "audio": "Laughter fades naturally by 10s; one small wink chime and cheerful music closing button. No spoken The End.",
+    "end_state": "Golden star winks overhead, no typography."
+  }
+]

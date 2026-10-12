@@ -1,0 +1,33 @@
+SCENE CONTEXT
+Mochi kneels beside the dim star and cups it softly. The star tilts one point toward the sky, where there is a small gap among distant points of light. Mochi cuddles it; Hina touches its side. Its first tiny pulse answers their care. The point is a gentle act of shared care, readable through physical action and expressive posture.
+
+OUTPUT SETTINGS
+Exactly 14 seconds, 21:9, 720p native output. Premium stylized 3D PLUSH ANIMATION, tactile microfiber characters, handcrafted miniature felt environment, rounded original cartoon proportions. Fluid small real-time movement, gentle expressive squash-and-stretch. No live-action people. Wordless. No titles, subtitles, captions, text, logos, watermarks or credits.
+
+ACTIVE REFERENCES
+@Mochi: One cheerful WHITE plush friend. Preserve the rounded white silhouette, small pink-interior ears, curved black happy eyes, oval black nose, pink-tongue smile and round blush cheeks. Compact short limbs. This sheet gives body and face views of ONE assembled living plush, not three objects or detached anatomy. Personality through gentle head tilts and caring paw movements.
+@Hina: One BUTTER-YELLOW plush friend. Preserve two round head nubs, black highlighted oval eyes, orange triangular embroidered beak, round pink cheeks, yellow wing-arms and orange feet. One assembled living plush. Never replace the round nubs with a comb or pointed ears.
+@Star: Exactly ONE small creamy-gold felt baby star with FIVE rounded points, two black dot eyes, curved stitched mouth and subtle blush. Canonical prop shape/material from the reference, with emission state controlled by the timeline. One third of a friend’s head width. No limbs. It floats gently by fairytale physics; never transforms, splits or grows. Its three-note chime is C5–E5–G5.
+@Meadow: Environment geometry and tactile materials only: felt clover clearing, shallow moss hollow near screen-left foreground, low grassy slope and rounded crest screen-right, distant rounded trees left, open lavender sky. Use the same meadow at the progressively later evening time specified here. Do not reproduce the empty plate as a still frame or copy its 16:9 crop; compose this action in 21:9.
+Character sheets control identity, facial embroidery and assembled anatomy ONLY. Never render their studio backgrounds, panel arrangement, detached body/head views or additional copies. No keychains, rings, hanging loops, fabric product labels or writing. The two original photographs already grounded these selected sheets and are not scene compositions.
+
+LOCATION MAP / FIRST FRAME AND SPATIAL BLOCKING
+Medium composition at the same hollow. @Mochi kneels screen-left and @Hina stands screen-right close enough to help. @Star lies between them in moss, dim gold. The other three friends are outside this crop and do not appear. The slope remains soft at right. Camera is a third-person plush-eye-level view; left sunset key and right slope maintain the established geography.
+
+FORMAT MODE / ACTION TIMING
+Three consecutive timed shots with the explicitly described hard cuts. No extra montage, flashback, added scene or unplanned transition.
+Shot 1 (0-5s): CAMERA / OPTICS: Medium close 65mm at plush chest level, camera nearly fixed with a tiny motivated tilt upward. VISUALS & ACTION: @Mochi slides BOTH tiny paws beneath @Star, compressing its soft points a little, and lifts it level to chest height. @Mochi looks down tenderly. @Hina leans closer. Preserve paw contact and one star through the lift. AUDIO: Soft felt rub, moss rustle, no background music. END STATE: @Mochi holds the dim star in both paws.
+Shot 2 (5-9s): CAMERA / OPTICS: Hard cut to close 85mm on the star and supporting paws with @Mochi’s lower face visible, then a gentle upward eyeline reframe that keeps both friends grounded. VISUALS & ACTION: Held safely in @Mochi’s paws, @Star slowly tilts its upper point skyward. @Mochi glances up, then back to it. A few distant sky lights become visible behind them, leaving a little empty gap above the slope. AUDIO: A small questioning two-note chime and gentle breeze; no speech. END STATE: Its upward tilt makes the wish for home readable.
+Shot 3 (9-14s): CAMERA / OPTICS: Hard cut to a warm medium two-shot, 65mm; fixed camera. VISUALS & ACTION: @Mochi brings @Star softly against its chest without covering the star’s face. @Hina touches one edge with a wing. The star answers with ONE weak warm pulse. Both friends smile through tiny head inclinations. End with @Star supported in @Mochi’s paws, not transferred. AUDIO: Soft cuddling cloth, one faint original unpitched glassy sparkle, no background music. END STATE: @Mochi holds the star; @Hina’s wing rests gently beside it.
+
+PHYSICS
+Soft stuffed bodies have contact, weight and slightly compressible plush surfaces. Short feet plant on grass; only the blue teardrop naturally hovers low. Supporting paws touch the star before a transfer releases it. The star obeys the exact gentle fairytale floating described above, never teleporting. No snapping, limb growth, anatomical fusing, bouncing camera or uncontrolled throws. All short limbs remain plush paws/flippers, no human fingers. Preserve one star and its five points.
+
+LIGHTING
+Same peach sunset, slightly later. Soft star emission is initially barely visible; its care-response is a single restrained pulse. Soft tactile fiber highlights, pastel saturation, gentle contrast; preserve white, yellow, orange and blue character colors. Star bloom remains controlled so face embroidery is legible. No flashes, flare, strobe or neon.
+
+AUDIO
+Native synchronized sound.Native synchronized sound. The complete audio layers are soft evening breeze, grass/felt Foley and isolated original non-melodic glassy sparkle sounds for the star pulses. No background music, no identifiable melody, no tune imitation, no artist style, no recording references. No voices, narration, spoken dialogue or sung lyrics. All sound is freshly generated for this original scene.
+
+POSITIVE CONSTRAINTS / CONTINUITY LOCKS
+Exactly 2 named friends exist in this scene, each ONCE, plus ONE baby-star prop. Only the subjects named in this chapter appear. Every friend is one complete living plush with connected head/body, the canonical facial embroidery, colors and short limbs. No duplicate identities or reference-sheet triplets. Warm cooperative tone throughout, no distress or injury. Keep the same meadow geography, current evening light and precise prop ownership. Maintain all shot intervals exactly and a usable final hold. Full-width 21:9 image with no artificial black bars. No text of any kind, title cards, subtitles or end credits.

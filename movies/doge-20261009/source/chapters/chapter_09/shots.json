@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 4,
+    "action": "@Central 行人路上 @Tart-work 左前、@MrChan 右後向右走；@Tram 已在中景軌道由左向右緩過。先清楚見車及街。",
+    "camera": "28mm 固定廣景，鏡頭在行人路對面，交通與人行區分離。",
+    "audio": "電車叮叮、慢輪軌聲、爪步。",
+    "end_state": "兩犬的近距離路徑已建立。"
+  },
+  {
+    "start": 4,
+    "end": 9,
+    "action": "Hard cut：@Tine-work 和 @Ching 已坐在 @Tram 上層前方，犬在內側安全座位。Tine 正看向另一邊玻璃，錯過下方 Tart。",
+    "camera": "50mm 上層窗內側中景，外面街道向左移；不讓狗跳窗。",
+    "audio": "電車鈴、義工小聲「望吓嗰邊。」；Tine 興奮鼻息。",
+    "end_state": "犬仍望向另一側。"
+  },
+  {
+    "start": 9,
+    "end": 14,
+    "action": "Hard cut：回 @Central 原固定廣景，@Tram 過去後 @Tart-work 與 @MrChan 還在行人路，向右離開；互不回頭。",
+    "camera": "28mm 同軸固定廣景，不突然變到鏡像另一街。",
+    "audio": "電車聲漸遠，音樂做一個沒落下的半終止。",
+    "end_state": "行人路空出，仍沒有相遇。"
+  }
+]

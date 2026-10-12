@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 7,
+    "action": "Handler{佢由澳洲嚟。} Owner{蛋撻都係。邊度呀？} Handler{Victoria。} Owner停半拍{Victoria？}；犬安靜坐。",
+    "camera": "50mm两人犬中景，固定",
+    "audio": "逐位發聲、自然廣東話，0-7秒四句；海風，低鋼琴",
+    "end_state": "Handler驚訝，看向手中的手機"
+  },
+  {
+    "start": 7,
+    "end": 16,
+    "action": "Handler查犬舍舊資料後翻到無字幼犬合照，低聲{同一個犬舍……原來佢哋細個已經一齊。}；螢幕只見幼犬合照。",
+    "camera": "70mm手機與Handler手近景，之後柔回人臉",
+    "audio": "Handler8-15秒廣東話、指觸玻璃、海水；原創弦樂溫暖展開",
+    "end_state": "手機仍在Handler掌中，照片左右犬身份正確"
+  },
+  {
+    "start": 16,
+    "end": 22,
+    "action": "Owner{原來你哋識咗咁耐。}，轻碰Tart背，Tart望向他再望Tine；Handler把手機收低。",
+    "camera": "65mm人手与双犬中景，固定",
+    "audio": "Owner17-20秒廣東話、毛觸聲，柔弦樂",
+    "end_state": "兩犬安靜並肩，主人的手停在Tart背"
+  }
+]

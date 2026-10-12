@@ -1,0 +1,63 @@
+SCENE CONTEXT
+Tiggy boasts, spins exactly three times, throws the star straight upward, and gets a soft harmless bonk. His surprised wobble makes everyone giggle; Lulu catches the falling star. This is an energetic, lovely friendship adventure for young viewers, carried by readable playful performances.
+
+OUTPUT SETTINGS
+16 seconds. 16:9, 720p. Soft 3D plush animation, tactile short velvet fur and embroidered facial features, warm pastel miniature world. Full generated character motion, normal-speed animation, lively and buoyant. REAL-TIME ONLY. Absolutely no slow motion, no speed ramp, no time stretch, no frame blending, no dreamy drifting action. Quick natural reactions and springy toy-scale movement. The gentle moments use normal-speed acting too.
+
+ACTIVE REFERENCES
+@Mochi: Cheerful white plush kitten; pink inner ears, circular pink cheeks, closed happy curved eyes, tiny black nose, embroidered laughing mouth with a pink tongue, white rounded paws and short white tail. Identity/material reference only. Sheet body and portrait views together describe ONE COMPLETE living character with an attached head and normal plush toy proportions. Never show detached heads, headless torsos, panels, studio backdrop or multiple clones. Preserve plush identity exactly; expressive embroidered faces may blink and speak.
+@Tiggy: Brave orange plush tiger; rounded ears, three black oval forehead markings, black cheek spots, black arm stripes, dark paw accents, small white muzzle, determined cute eyes, striped short tail. Identity/material reference only. Sheet body and portrait views together describe ONE COMPLETE living character with an attached head and normal plush toy proportions. Never show detached heads, headless torsos, panels, studio backdrop or multiple clones. Preserve plush identity exactly; expressive embroidered faces may blink and speak.
+@Pip: Curious bright yellow plush chick; rounded head tufts, oval black eyes with tiny white highlights, orange triangular beak, circular pink cheeks, tiny wings and two orange feet. Identity/material reference only. Sheet body and portrait views together describe ONE COMPLETE living character with an attached head and normal plush toy proportions. Never show detached heads, headless torsos, panels, studio backdrop or multiple clones. Preserve plush identity exactly; expressive embroidered faces may blink and speak.
+@Bubbles: Shy pale blue plush ghost; rounded teardrop silhouette, pointed tapered bottom, tiny side flippers, black dot eyes and gentle curved smile, round pink cheeks. No legs, tail or bunny ears. Identity/material reference only. Sheet body and portrait views together describe ONE COMPLETE living character with an attached head and normal plush toy proportions. Never show detached heads, headless torsos, panels, studio backdrop or multiple clones. Preserve plush identity exactly; expressive embroidered faces may blink and speak.
+@Lulu: Hug-loving fluffy white plush kitten; pink flower-shaped cheeks, open black dot eyes, tiny black nose and mouth, gray outer ears with pink centers and soft round gray ear pads with pink interiors. Identity/material reference only. Sheet body and portrait views together describe ONE COMPLETE living character with an attached head and normal plush toy proportions. Never show detached heads, headless torsos, panels, studio backdrop or multiple clones. Preserve plush identity exactly; expressive embroidered faces may blink and speak.
+@SunshineValley: Pastel miniature garden valley: grass clearing, winding pebble path, mossy rose-gray rounded boulder on left, flowers, distant rounded hills and one curved tree. Stable geography; daylight can progress to sunset and night. Landscape/material/geography reference only; adapt light to the timed sunset or night indicated here. Do not copy plate as a static photo. Cloud stars awaken only at the restoration beat.
+@GoldenStar: Palm-sized friendly golden five-point plush star with tiny black dot eyes, shy curved smile, soft pink blush and a warm honey luminous center; five rounded tips. Shape/material/face reference only. ONE continuous star; prop ownership changes only as timed. Never inflate to friend size.
+
+LOCATION MAP / FIRST FRAME AND SPATIAL BLOCKING
+@Tiggy is center in the same clearing holding @GoldenStar at chest height. @Mochi is far left, @Pip left-rear, @Bubbles right-rear, @Lulu right, each at least two small body widths away. Camera faces them with boulder left and curved tree right. Keep complete heads attached to complete bodies. Exactly the five individual friends, no duplicated sheet views. No reference-sheet composition in the movie.
+
+FORMAT MODE / FRAMING
+Explicit story-driven hard cuts only at listed shot boundaries. No dissolves or slow-motion montage. Medium and wide coverage keep action and reactions readable; close-ups only for the timed important beats. Begin already in the described action and composition, no separate empty opening shot.
+
+OPTICS / CAMERA
+Use the focal lengths and movements per shot, camera at toy eye level unless the overhead circle or aerial geography calls for a height change. Moderate depth of field so faces and important props remain clear. Smooth brisk tracking, no wandering gimbal float, no fisheye, no unnecessary spin, no lens warping, no accidental focus hunts. All physical camera travel at normal speed.
+
+ACTION TIMING / SHOT SEQUENCE
+Shot 1 (0s-3s):
+ACTION: @Tiggy proudly plants both feet, raises @GoldenStar in both paws and makes a confident grin. The other four friends lean forward expectantly.
+CAMERA: 35mm full-body group framing, slight brisk push, no shake.
+AUDIO / DIALOGUE: @Tiggy, brave bouncy little lower-pitched tiger voice, 0.5-2s: {I will throw it back!} Playful drum tap.
+END STATE: @Tiggy prepares the spin, still gripping one star.
+
+Shot 2 (3s-7s):
+ACTION: @Tiggy spins around exactly THREE complete turns with quick foot pivots, three readable revolutions in three seconds. After the third turn @Tiggy releases @GoldenStar straight upward at 6s. Star separates visibly from both paws and shoots up. The four watchers remain clear of the spinning area.
+CAMERA: 35mm steady medium-wide keeps feet and launch arc readable; tilt up only after release.
+AUDIO / DIALOGUE: Three short comic whooshes, one per turn, then a bright launch WHOOSH at 6s. No speech.
+END STATE: Star travels above @Tiggy; empty paws remain raised.
+
+Shot 3 (7s-11s):
+ACTION: @GoldenStar completes a small vertical arc, drops under normal gravity and gently bops @Tiggy’s soft head at 9s. A harmless plush squash, no pain or injury. @Tiggy wobbles once in surprise; @Lulu steps in and catches the bouncing star with both paws at 10s.
+CAMERA: Hard cut to 50mm medium at head height, follow the one star down, no slow-motion tracking.
+AUDIO / DIALOGUE: A single tiny soft BONK at 9s and a surprised cute squeak. Laughter begins.
+END STATE: Star in @Lulu’s paws, @Tiggy recovering balance.
+
+Shot 4 (11s-16s):
+ACTION: All five burst into affectionate giggles. @Tiggy sheepishly rubs the head and smiles too. @Lulu gently lifts @GoldenStar, then turns toward @Bubbles with an encouraging nod. Final second is a lively breathing pause with smiles, no frozen pose.
+CAMERA: Hard cut to 50mm medium group, subtle lateral move 30cm.
+AUDIO / DIALOGUE: @Lulu, tender bright kitten voice, 12-14.5s: {Maybe we need a better plan!} Happy giggles and light woodblock comedy beat.
+END STATE: @Lulu offers star toward @Bubbles for the next attempt.
+
+PHYSICS / PERFORMANCE
+Paws visibly contact the moss with quick soft plush compression and rebound. No moonwalking, slipping, impossible grips, growing fingers or stretched bodies. Cloth fibers follow brisk motion and settle promptly. The only magic is the floating ghost, living star and rainbow cushion. Rainbow flight is quick, joyful and safe, NOT suspended slow motion. Existing paws, wings and flippers touch naturally; no extra hands. Maintain lively blinking, short breaths, tiny ear twitches and postural motion during the final brief edit hold.
+
+LIGHTING
+Warm garden sunlight from upper-left, same soft exposure. Preserve pastel colors and gentle dimensional plush texture. No harsh flicker, horror lighting, blown-out faces or unrelated strobes.
+
+AUDIO
+Native generated synchronized English dialogue exactly as timed in the shot sequence. Bright warm character voices, distinct per speaker: cheerful laughing kitten @Mochi; brave slightly lower little tiger @Tiggy; curious chirpy chick @Pip; airy shy ghost @Bubbles; tender bright kitten @Lulu; tiny bell-like star when present. Warm lively narrator only where explicitly timed. A playful 116 BPM major-key pizzicato, glockenspiel, light ukulele and soft tap-percussion underscore, low under speech. Sunny cheerful adventure music throughout; no sleepy lullaby, sustained ambient drone or lyrics. Permitted layers: timed spoken lines, timed laughs and small gasps, soft footsteps/plush contact, light garden or cloud wind, specified magic/comedy effects and this cheerful score. This is the complete sound list; no additional narration, unrequested dialogue or loud scary sounds.
+
+IDENTITY / TEXT / SPEED LOCKS
+Mochi circular cheek blush and laughing face stay distinct from Lulu flower cheeks and gray ear pads. Tiggy stays orange with black tiger markings; Pip stays yellow with an orange beak; Bubbles stays blue, tapered and legless, without hanging loops. No key rings, fabric tags, studio sheets, labels, extra figures, costumes, face swaps or anatomy changes. No written words anywhere, including constellations. No titles, subtitles, captions, credits, text cards, speech bubbles, logos or watermark. No slow motion under any name.
+
+POSITIVE CONSTRAINTS
+Exactly five unique adorable complete friends, plus one living star only when the chapter links it. One cohesive soft plush visual style and stable garden geography. Every timed action is shown at normal real-time speed with energetic readable performance. Meaning conveyed by acting and spoken English, never typography. Timed shots span the entire clip; last state matches the next chapter. End without an end card.

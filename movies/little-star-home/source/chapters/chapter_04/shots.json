@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 5,
+    "action": "@Sora tilts its domed top toward @Mochi invitingly. @Mochi carefully places @Star level on @Sora’s top, keeping both paws under it until its lower points sit securely on the soft blue plush. @Sora spreads its two flippers to balance.",
+    "camera": "Medium three-shot, 55mm, fixed. Show the full transfer and contact.",
+    "audio": "Quiet felt contact, soft evening breeze. No music, melody or voices.",
+    "end_state": "One star sits on @Sora’s rounded top, @Mochi’s paws clear."
+  },
+  {
+    "start": 5,
+    "end": 11,
+    "action": "@Sora rises slowly to roughly ONE friend-height above the grass, carrying the star steadily. @Star tilts toward the vastly higher sky. @Sora looks up, then gently descends again, never dropping or ejecting the star. @Hina waits with wings open.",
+    "camera": "Hard cut to wide 40mm; small vertical camera tilt follows the lift and return, maintaining grass as a scale anchor.",
+    "audio": "Soft air movement and felt rustle during the gentle lift. No music, melody or voices.",
+    "end_state": "@Sora returns to low hovering height; @Star is still supported."
+  },
+  {
+    "start": 11,
+    "end": 16,
+    "action": "@Hina lifts @Star from @Sora with both wing-arms from below and holds it against its warm yellow chest. The star emits one restrained gold pulse and a soft chime. @Sora watches with a shy hopeful tilt. @Mochi smiles at left.",
+    "camera": "Hard cut to medium close 70mm, keep @Hina and the star sharp, @Sora readable.",
+    "audio": "Soft cloth cuddle and one isolated original unpitched glassy sparkle. No music, melody or voices.",
+    "end_state": "@Hina owns the star safely at chest level; the glow subsides to dim."
+  }
+]

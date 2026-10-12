@@ -1,0 +1,64 @@
+SCENE CONTEXT
+During the last peach edge of sunset, the star floats from the rainbow to its place overhead. Sunset ends, thousands of tiny stars awaken, and the rainbow gently carries all five back to the same clearing. No stars form letters. This is an energetic, lovely friendship adventure for young viewers, carried by readable playful performances.
+
+OUTPUT SETTINGS
+18 seconds. 16:9, 720p. Soft 3D plush animation, tactile short velvet fur and embroidered facial features, warm pastel miniature world. Full generated character motion, normal-speed animation, lively and buoyant. REAL-TIME ONLY. Absolutely no slow motion, no speed ramp, no time stretch, no frame blending, no dreamy drifting action. Quick natural reactions and springy toy-scale movement. The gentle moments use normal-speed acting too.
+
+ACTIVE REFERENCES
+@Mochi: Cheerful white plush kitten; pink inner ears, circular pink cheeks, closed happy curved eyes, tiny black nose, embroidered laughing mouth with a pink tongue, white rounded paws and short white tail. Identity/material reference only. Sheet body and portrait views together describe ONE COMPLETE living character with an attached head and normal plush toy proportions. Never show detached heads, headless torsos, panels, studio backdrop or multiple clones. Preserve plush identity exactly; expressive embroidered faces may blink and speak.
+@Tiggy: Brave orange plush tiger; rounded ears, three black oval forehead markings, black cheek spots, black arm stripes, dark paw accents, small white muzzle, determined cute eyes, striped short tail. Identity/material reference only. Sheet body and portrait views together describe ONE COMPLETE living character with an attached head and normal plush toy proportions. Never show detached heads, headless torsos, panels, studio backdrop or multiple clones. Preserve plush identity exactly; expressive embroidered faces may blink and speak.
+@Pip: Curious bright yellow plush chick; rounded head tufts, oval black eyes with tiny white highlights, orange triangular beak, circular pink cheeks, tiny wings and two orange feet. Identity/material reference only. Sheet body and portrait views together describe ONE COMPLETE living character with an attached head and normal plush toy proportions. Never show detached heads, headless torsos, panels, studio backdrop or multiple clones. Preserve plush identity exactly; expressive embroidered faces may blink and speak.
+@Bubbles: Shy pale blue plush ghost; rounded teardrop silhouette, pointed tapered bottom, tiny side flippers, black dot eyes and gentle curved smile, round pink cheeks. No legs, tail or bunny ears. Identity/material reference only. Sheet body and portrait views together describe ONE COMPLETE living character with an attached head and normal plush toy proportions. Never show detached heads, headless torsos, panels, studio backdrop or multiple clones. Preserve plush identity exactly; expressive embroidered faces may blink and speak.
+@Lulu: Hug-loving fluffy white plush kitten; pink flower-shaped cheeks, open black dot eyes, tiny black nose and mouth, gray outer ears with pink centers and soft round gray ear pads with pink interiors. Identity/material reference only. Sheet body and portrait views together describe ONE COMPLETE living character with an attached head and normal plush toy proportions. Never show detached heads, headless torsos, panels, studio backdrop or multiple clones. Preserve plush identity exactly; expressive embroidered faces may blink and speak.
+@SunshineValley: Pastel miniature garden valley: grass clearing, winding pebble path, mossy rose-gray rounded boulder on left, flowers, distant rounded hills and one curved tree. Stable geography; daylight can progress to sunset and night. Landscape/material/geography reference only; adapt light to the timed sunset or night indicated here. Do not copy plate as a static photo. Cloud stars awaken only at the restoration beat.
+@CloudSky: Empty sea of cream-lavender cloud cushions under a deep periwinkle night sky, tiny scattered stars, faint peach horizon. No letter-shaped constellations. Landscape/material/geography reference only; adapt light to the timed sunset or night indicated here. Do not copy plate as a static photo. Cloud stars awaken only at the restoration beat.
+@GoldenStar: Palm-sized friendly golden five-point plush star with tiny black dot eyes, shy curved smile, soft pink blush and a warm honey luminous center; five rounded tips. Shape/material/face reference only. ONE continuous star; prop ownership changes only as timed. Never inflate to friend size.
+
+LOCATION MAP / FIRST FRAME AND SPATIAL BLOCKING
+All five on the broad rainbow cushion above @CloudSky; @Lulu front-right holds @GoldenStar high toward upper-right. @Mochi left, @Tiggy left-center, @Pip center, @Bubbles right-center. Last golden sunset sliver on horizon. Open star slot upper-right; tiny background stars are initially dim. Keep complete heads attached to complete bodies. Exactly the five individual friends, no duplicated sheet views. No reference-sheet composition in the movie.
+
+FORMAT MODE / FRAMING
+Explicit story-driven hard cuts only at listed shot boundaries. No dissolves or slow-motion montage. Medium and wide coverage keep action and reactions readable; close-ups only for the timed important beats. Begin already in the described action and composition, no separate empty opening shot.
+
+OPTICS / CAMERA
+Use the focal lengths and movements per shot, camera at toy eye level unless the overhead circle or aerial geography calls for a height change. Moderate depth of field so faces and important props remain clear. Smooth brisk tracking, no wandering gimbal float, no fisheye, no unnecessary spin, no lens warping, no accidental focus hunts. All physical camera travel at normal speed.
+
+ACTION TIMING / SHOT SEQUENCE
+Shot 1 (0s-5s):
+ACTION: @Lulu opens both paws. @GoldenStar separates completely, flies upward in one brisk smooth arc and clicks gently into its own sky position by 4s, before the final sunset edge disappears. All five wave upward happily. The star stays the same five-point character and shrinks only with distance.
+CAMERA: 35mm medium-wide from rainbow; tilt toward the ascending star at normal speed, no slowed hover.
+AUDIO / DIALOGUE: @GoldenStar, same tiny warm English voice, 1-4.5s: {Friendship makes the world brighter.} Soft ascending chime and tiny sparkling click.
+END STATE: Star returned before sunset ends; five friends safe on rainbow.
+
+Shot 2 (5s-9s):
+ACTION: Thousands of tiny natural star dots twinkle on in lively cascading clusters. They form only random sparkling patterns, NEVER LETTERS, words, symbols or a title. The five friends clap their existing paws, wings or flippers with quick delighted gestures, then hug their nearest neighbor.
+CAMERA: Hard cut to 35mm group and wide starry sky, clear faces in foreground.
+AUDIO / DIALOGUE: @Lulu 6-8s: {Together, we did it!} Joyful short sparkle cascade and warm upbeat score.
+END STATE: Night sky bright, friends celebrating.
+
+Shot 3 (9s-14s):
+ACTION: The rainbow swoops promptly down through the same cloud sea toward @SunshineValley. All five ride safely, grouped together; no teleport. Show a brief continuous descent with passing fluffy cloud layers, then the recognizable clearing, boulder left and curved tree right below.
+CAMERA: Hard cut to 28mm side tracking for energetic descent; readable stable horizon, no spin.
+AUDIO / DIALOGUE: Breezy returning WHOOSH and happy chuckles. No new dialogue.
+END STATE: Rainbow reaches garden clearing at night.
+
+Shot 4 (14s-18s):
+ACTION: Rainbow gently lowers the five onto soft moss, knees and soft paws giving one quick little landing bounce. They step off together, rainbow curls away as glitter then disappears. @Lulu beckons them into a cuddle; @GoldenStar is visible far overhead, not in anyone’s paws. Finish one second with friends gathered on ground.
+CAMERA: Hard cut to 35mm original garden eye-level axis: boulder left, tree right.
+AUDIO / DIALOGUE: Five soft landing pats and small relieved giggles. Score returns to its light garden theme.
+END STATE: All five on moss in home clearing, empty paws, star overhead.
+
+PHYSICS / PERFORMANCE
+Paws visibly contact the moss with quick soft plush compression and rebound. No moonwalking, slipping, impossible grips, growing fingers or stretched bodies. Cloth fibers follow brisk motion and settle promptly. The only magic is the floating ghost, living star and rainbow cushion. Rainbow flight is quick, joyful and safe, NOT suspended slow motion. Existing paws, wings and flippers touch naturally; no extra hands. Maintain lively blinking, short breaths, tiny ear twitches and postural motion during the final brief edit hold.
+
+LIGHTING
+First part: peach horizon and periwinkle sky. After the star reaches its slot, tiny starlight awakens and sky shifts to early night. Only story-motivated transition; no unrelated color flashes. Preserve pastel colors and gentle dimensional plush texture. No harsh flicker, horror lighting, blown-out faces or unrelated strobes.
+
+AUDIO
+Native generated synchronized English dialogue exactly as timed in the shot sequence. Bright warm character voices, distinct per speaker: cheerful laughing kitten @Mochi; brave slightly lower little tiger @Tiggy; curious chirpy chick @Pip; airy shy ghost @Bubbles; tender bright kitten @Lulu; tiny bell-like star when present. Warm lively narrator only where explicitly timed. A playful 116 BPM major-key pizzicato, glockenspiel, light ukulele and soft tap-percussion underscore, low under speech. Sunny cheerful adventure music throughout; no sleepy lullaby, sustained ambient drone or lyrics. Permitted layers: timed spoken lines, timed laughs and small gasps, soft footsteps/plush contact, light garden or cloud wind, specified magic/comedy effects and this cheerful score. This is the complete sound list; no additional narration, unrequested dialogue or loud scary sounds.
+
+IDENTITY / TEXT / SPEED LOCKS
+Mochi circular cheek blush and laughing face stay distinct from Lulu flower cheeks and gray ear pads. Tiggy stays orange with black tiger markings; Pip stays yellow with an orange beak; Bubbles stays blue, tapered and legless, without hanging loops. No key rings, fabric tags, studio sheets, labels, extra figures, costumes, face swaps or anatomy changes. No written words anywhere, including constellations. No titles, subtitles, captions, credits, text cards, speech bubbles, logos or watermark. No slow motion under any name.
+
+POSITIVE CONSTRAINTS
+Exactly five unique adorable complete friends, plus one living star only when the chapter links it. One cohesive soft plush visual style and stable garden geography. Every timed action is shown at normal real-time speed with energetic readable performance. Meaning conveyed by acting and spoken English, never typography. Timed shots span the entire clip; last state matches the next chapter. End without an end card.

@@ -1,0 +1,34 @@
+[
+  {
+    "start": 0,
+    "end": 4,
+    "action": "@GoldenStar flashes once softly, then a rainbow unfurls upward from the star and loops into a broad cushion under the circle. @Lulu picks up @GoldenStar and holds it at the chest while the rainbow lifts everyone together, a buoyant quick rise with a small friendly bounce. All five remain safely seated or braced on the rainbow.",
+    "camera": "35mm full group, slight crane matching brisk lift; no dreamy suspended motion.",
+    "audio": "Bright sparkle POP, friendly magic flourish, no frightening boom. Friends together at 2.5-4s: {Wheeee!}",
+    "end_state": "Five plus star supported by a broad rainbow ribbon."
+  },
+  {
+    "start": 4,
+    "end": 8,
+    "action": "Rainbow accelerates smoothly at ordinary real-time speed up above the tree and past fluffy clouds. @Mochi laughs, @Tiggy spreads paws, @Pip flutters wings, @Bubbles hovers just above the ribbon, @Lulu hugs the star securely. No airborne tumbling or character splitting.",
+    "camera": "Hard cut to 28mm side tracking beside the rainbow flight, upbeat controlled travel.",
+    "audio": "Cheerful wind whoosh, giggles, bright playful score. Narrator 5-8s: {Five little wishes became one wonderful rainbow!}",
+    "end_state": "Group enters the lower cloud sea."
+  },
+  {
+    "start": 8,
+    "end": 13,
+    "action": "Above @CloudSky, all five ride across a wide sea of rounded cream-lavender clouds. Ribbon makes one sweeping upward curve. @Pip points at the sky and @Tiggy gives a delighted quick paw wave. @Lulu still carries the golden star. Clouds slide past briskly with parallax.",
+    "camera": "Hard cut to 35mm front three-quarter tracking medium-wide; frame all five clearly, dynamic but stable.",
+    "audio": "Happy breathy laughs, breezy rush, glockenspiel and pizzicato adventure theme. No new spoken lines.",
+    "end_state": "All five approach open sky above the highest cloud cushions."
+  },
+  {
+    "start": 13,
+    "end": 17,
+    "action": "Rainbow levels above the clouds for the arrival. @Lulu raises the star toward open upper-right sky. Star gives a hopeful smile; friends lean in with delighted anticipation. Keep regular body motion and lively expressions through the last one-second edit hold.",
+    "camera": "Hard cut to 50mm group close-medium, cloud horizon low, open sky upper-right.",
+    "audio": "Soft star chime, excited small giggles, music prepares a bright resolution.",
+    "end_state": "@Lulu holds star ready to release; all five on rainbow above clouds."
+  }
+]

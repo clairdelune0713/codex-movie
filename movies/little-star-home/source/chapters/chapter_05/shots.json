@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 4,
+    "action": "@Hina transfers @Star gently into @Mimi’s two paws from below. @Mimi draws one headphone cushion close to the star by tilting its head, keeping the headphones worn; no hand removes them. @Mochi watches quietly.",
+    "camera": "Medium close 65mm, fixed; paws, star and headphone cushion visible.",
+    "audio": "Soft felt transfer. Instrumental score drops to near silence to reveal the clue.",
+    "end_state": "@Mimi holds the star close to its left headphone cushion."
+  },
+  {
+    "start": 4,
+    "end": 8,
+    "action": "@Star plays a tiny three-note C5–E5–G5 bell pattern, separated and gentle. @Mimi pauses to listen, ears perking through a small head tilt. Then @Mimi hums the SAME three-note contour very softly, with closed-mouth wordless mmm sounds only.",
+    "camera": "Hard cut to close 85mm on @Mimi’s face, headphone and supported star. No visible words or sung syllables.",
+    "audio": "Star bell C5–E5–G5, then a soft matching wordless hum. No spoken language.",
+    "end_state": "The cat has discovered a musical response."
+  },
+  {
+    "start": 8,
+    "end": 12,
+    "action": "As @Mimi hums, @Star brightens and floats a finger-width ABOVE its open paws, clearly separating by only two centimeters. @Mochi leans in with delighted recognition. @Mimi then lowers its open paws toward a flat moss patch and lets @Star settle there. Hold on its faint glow.",
+    "camera": "Hard cut to medium 65mm with the moss patch in view; tiny camera tilt follows the controlled placement.",
+    "audio": "One warm reply chime and a quiet delighted breath, no words.",
+    "end_state": "@Star rests on flat moss near the lower slope; @Mimi is beside it."
+  }
+]

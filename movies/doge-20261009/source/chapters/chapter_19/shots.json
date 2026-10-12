@@ -1,0 +1,34 @@
+[
+  {
+    "start": 0,
+    "end": 7,
+    "action": "@Harbour 長椅旁 @Ching 在右、@MrChan 在左，兩犬坐在前景。阿晴自然開口「Tine 係澳洲嚟嘅。」",
+    "camera": "50mm 平視雙人中景，兩犬輪廓在下方；不讓人盯鏡頭。",
+    "audio": "@Ching 粵語：「Tine 係澳洲嚟嘅。」海水及溫暖低鋼琴。",
+    "end_state": "陳先生聆聽，輕轉向她。"
+  },
+  {
+    "start": 7,
+    "end": 13,
+    "action": "Hard cut：@MrChan 露意外的小笑，回「Tart 都係。邊度？」話後留一個自然空拍。",
+    "camera": "65mm 陳先生中近鏡，墨鏡保持，視線方向不假裝視讀。",
+    "audio": "@MrChan 粵語：「Tart 都係。邊度？」自然低暖男性聲。",
+    "end_state": "他等待回答。"
+  },
+  {
+    "start": 13,
+    "end": 17,
+    "action": "Hard cut：@Ching 答「Victoria。」再看一眼兩犬，沒有搶著解釋。",
+    "camera": "65mm 阿晴中近鏡，保持與前場同軸。",
+    "audio": "@Ching 以自然粵語語境說：「Victoria。」海聲。",
+    "end_state": "她注意到對方反應。"
+  },
+  {
+    "start": 17,
+    "end": 22,
+    "action": "Hard cut：@MrChan 稍頓，笑說「咁啱？Tart 都係嗰度。」兩犬在下方仍坐著，身世轉折由人自然交談帶出。",
+    "camera": "50mm 回雙人中景，末尾停在二人的相似驚喜。",
+    "audio": "@MrChan 粵語：「咁啱？Tart 都係嗰度。」原創鋼琴小小開闊。",
+    "end_state": "兩人想確認紀錄。"
+  }
+]

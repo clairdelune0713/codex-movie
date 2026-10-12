@@ -48,3 +48,13 @@ One first pilot request was rejected before acceptance because a generated human
 Native generated audio is kept, with hard cuts, 40ms audio edge fades and final loudness normalization. Readable title, shared-origin record and closing source lines are composited after generation. Three confirmed audio-filter failures were replaced with location ambience and Foley. A ferry take that prematurely reunited the dogs was replaced with Tine and her handler alone on the boat. Unwanted generated closing-footer lettering is covered by a dark lower band; the native frame dimensions are retained.
 
 Review frames from the final file are in `exports/final-review/`; `exports/poster.jpg` is an actual movie frame. Costume lettering, harness shape, heart-patch placement and minor body details vary in some shots. The opening city montage shifts from morning to night before the daytime work scenes. Exact spoken wording was not independently transcribed, and native music varies across some cuts. The detailed review and its scope are recorded in `exports/visual-review.json`.
+
+
+<!-- movie-source-archive -->
+## Versioned source archive
+
+`source/` contains the current creative plan, original story, screenplay, final chapter prompts, shot timing, selected asset images and supplied reference media. `source/delivery-summary.json` records compact observed delivery checks.
+
+Production scripts beside this README are retained. Live `project.json`, local revisions, proposals, rendered takes, exports, review images, downloaded tools and task journals are ignored and remain on disk.
+
+On a fresh checkout, run `python restore_local_project.py` with a working Python interpreter to initialize local state and copy the versioned media references into their working locations. The command preserves an existing local project and never submits a render. New generation requires asset review and explicit authorization for provider credentials.

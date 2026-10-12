@@ -1,0 +1,13 @@
+{
+  "project": "SOMEWHERE BETWEEN US｜我們之間",
+  "planned_duration_seconds": 600,
+  "media_storage": "Generated movies, takes and full verification logs are retained locally and excluded from Git.",
+  "observed_delivery_checks": [
+    {
+      "duration_seconds": 600.0,
+      "frame_count": 18000,
+      "fps": 30.0,
+      "local_report": "exports/video-verification.json"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 6,
+    "action": "@MrChan 與 @Ching 在 @Harbour 安全步道允許兩犬慢慢走近，鬆牽繩仍握在手；@Tart-rest 左、@Tine-rest 右，互嗅肩頸，不拉扯。",
+    "camera": "50mm 低位雙犬中景，兩人下半身在後景，不跨軸。",
+    "audio": "鼻嗅、爪步、海水，音樂只一個稀疏鋼琴和弦。",
+    "end_state": "兩犬近距離平靜並立。"
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "action": "Hard cut：@Tine-rest 坐下，尾巴在石地輕拍一下、停一拍、再一下，望著 Tart；笑意含在小鼻息。",
+    "camera": "65mm Tine 側面中近景，尾巴與臉都可見，固定。",
+    "audio": "兩聲相隔的尾巴拍地；沒有說話或擬人笑声。",
+    "end_state": "Tine 坐定等回應。"
+  },
+  {
+    "start": 13,
+    "end": 20,
+    "action": "Hard cut：@Tart-rest 看一眼 Tine 的尾巴再看臉，停頓後自己的尾巴輕動一下；兩犬鼻尖緩近，不碰撞。",
+    "camera": "65mm Tart 與 Tine 雙近景，慢微推後停住，末尾保持兩秒。",
+    "audio": "第三聲很輕拍地；兩個主題首次共享三音。",
+    "end_state": "兩犬相望，熟悉先於解釋。"
+  }
+]

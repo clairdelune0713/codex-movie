@@ -49,3 +49,13 @@ The adapter reads the four named values at runtime without persisting secrets. `
 Use the installed `movi2/scripts/project.py` helper with a verified Python interpreter. Load the current `project.json`, edit a new current-base proposal, run `check`, then `commit` and `export`. Never hand-edit canonical state or overwrite existing candidates, takes, or history snapshots. Capture dependency fingerprints before new media generation.
 
 Authentication was also checked by executing the actual signing helper from `../aifx-studio/src/lib/volcengine.ts` in an isolated harness, with only the four named values and external logging disabled. Its signed request matches the local Python adapter, and its live call to the original mismatched endpoint reproduced the 403 before endpoint resolution. Evidence: `exports/aifx-auth-comparison.json`.
+
+
+<!-- movie-source-archive -->
+## Versioned source archive
+
+`source/` contains the current creative plan, original story, screenplay, final chapter prompts, shot timing, selected asset images and supplied reference media. `source/delivery-summary.json` records compact observed delivery checks.
+
+Production scripts beside this README are retained. Live `project.json`, local revisions, proposals, rendered takes, exports, review images, downloaded tools and task journals are ignored and remain on disk.
+
+On a fresh checkout, run `python restore_local_project.py` with a working Python interpreter to initialize local state and copy the versioned media references into their working locations. The command preserves an existing local project and never submits a render. New generation requires asset review and explicit authorization for provider credentials.

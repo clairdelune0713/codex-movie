@@ -1,0 +1,34 @@
+[
+  {
+    "start": 0,
+    "end": 4,
+    "action": "@Pip leans forward, spots @GoldenStar under the mossy rock and flutters two tiny wings with excitement. @Tiggy crouches, slides a paw under the star and carefully draws it into the open.",
+    "camera": "50mm medium-low group on the boulder opening, short eager push of 30cm.",
+    "audio": "@Pip, bright curious chirpy childlike voice, 1-2s: {A golden star!} Soft sparkle tinkle.",
+    "end_state": "@Tiggy holds the one star at chest height."
+  },
+  {
+    "start": 4,
+    "end": 11,
+    "action": "@GoldenStar opens its tiny hopeful face in @Tiggy’s two paws. Its five rounded tips make little animated gestures. @Tiggy stops boasting and listens; @Pip watches with widened eyes. Keep the star palm-sized, smaller than a friend’s head.",
+    "camera": "Hard cut to 65mm star close-up with @Tiggy’s paws; no changing focus plane during dialogue.",
+    "audio": "@GoldenStar, tiny warm bell-like English voice, 4-11s: {Help! I fell from the sky. Return me before sunset, or tonight the stars will vanish!} Music becomes gently urgent, still sweet.",
+    "end_state": "Star remains safely cupped in @Tiggy’s paws."
+  },
+  {
+    "start": 11,
+    "end": 15,
+    "action": "@Mochi does one quick surprised hop, face turning toward the sky. @Lulu places a reassuring paw on @Mochi; @Bubbles hovers close with a shy concerned tilt. @Pip points upward.",
+    "camera": "Hard cut to 50mm medium reaction group, eyelines up-left.",
+    "audio": "@Mochi, playful warm high kitten voice, 11.2-14.5s: {A sky without stars? Oh no!} One small collective gasp.",
+    "end_state": "All five understand the sunset deadline."
+  },
+  {
+    "start": 15,
+    "end": 18,
+    "action": "@Tiggy’s expression brightens with an overly confident plan. @Tiggy steps to center clearing and raises the star, while the other four clear a small safe space. Finish the final second with @Tiggy braced and the star held securely.",
+    "camera": "Hard cut to 35mm full group from the established garden axis.",
+    "audio": "Upbeat pizzicato pickup; tiny foot pats. No new spoken lines.",
+    "end_state": "@Tiggy center, holding star; four friends in a semicircle beyond."
+  }
+]

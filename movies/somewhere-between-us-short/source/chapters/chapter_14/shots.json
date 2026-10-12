@@ -1,0 +1,18 @@
+[
+  {
+    "start": 0,
+    "end": 3,
+    "action": "Tine與Handler從畫左走至右邊轉角並消失；空場半拍。",
+    "camera": "35mm固定廣角",
+    "audio": "爪步和城市聲，短木管",
+    "end_state": "Tine已完全離開"
+  },
+  {
+    "start": 3,
+    "end": 6,
+    "action": "明確剪到數分鐘後同一構圖，Tart與主人正從畫左走過，無Tine在場。",
+    "camera": "35mm相同固定廣角",
+    "audio": "另一次爪步與城市聲",
+    "end_state": "Tart向右轉角走去；兩犬未相遇"
+  }
+]

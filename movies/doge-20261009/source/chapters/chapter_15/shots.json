@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 5,
+    "action": "@Community 同一下午，@Ching 正把鬆牽繩輕收，@Tine-work 已離開林伯膝旁一步。@UncleLam 主動問「咁快就走？」",
+    "camera": "50mm 中景，林伯右、義工犬左，留距離。",
+    "audio": "@UncleLam 粵語：「咁快就走？」帶一點捨不得。",
+    "end_state": "義工和犬都回看林伯。"
+  },
+  {
+    "start": 5,
+    "end": 10,
+    "action": "Hard cut：@Ching 溫柔回答「我哋會再嚟。」不是空泛說教；@Tine-work 用安靜的目光望林伯。",
+    "camera": "65mm 義工中近鏡，犬頭前景，陽光維持。",
+    "audio": "@Ching 溫柔粵語：「我哋會再嚟。」原創鋼琴主題柔和。",
+    "end_state": "義工向林伯輕點頭。"
+  },
+  {
+    "start": 10,
+    "end": 14,
+    "action": "Hard cut：@UncleLam 回一個小笑；@Tine-work 只搖一下尾巴，跟 @Ching 往後左门離開，沒有狂跳或哀鳴。",
+    "camera": "50mm 林伯近鏡含犬離開的柔焦輪廓，最後留他的笑。",
+    "audio": "爪步漸遠，老人的慢呼氣，溫柔弦樂。",
+    "end_state": "林伯看著門口，眼神已多一點連結。"
+  }
+]

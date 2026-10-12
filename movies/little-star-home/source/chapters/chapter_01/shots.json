@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 4,
+    "action": "The five finish a playful gentle sway in their loose arc, tiny limbs moving naturally; @Mochi notices a distant golden glimmer above screen-left and lifts its face. The others follow the same eyeline without changing places.",
+    "camera": "Wide, 35mm equivalent, fixed plush-eye-level camera; enough depth of field for all five.",
+    "audio": "Soft grass footsteps, faint breeze, a quiet celesta and pizzicato phrase. No voices.",
+    "end_state": "All five look up toward the arriving point."
+  },
+  {
+    "start": 4,
+    "end": 8,
+    "action": "@Star drifts slowly down diagonally from upper-left to the moss hollow, its five-point form becoming visible. It settles softly into the hollow with one gentle bounce and remains dim. No impact, crater, dust burst or distress.",
+    "camera": "Hard cut to a low medium-wide 50mm view of the hollow; small downward tilt follows only the last part of descent.",
+    "audio": "One delicate descending bell shimmer, soft felt landing.",
+    "end_state": "One dim star lies safely in the moss hollow."
+  },
+  {
+    "start": 8,
+    "end": 12,
+    "action": "@Mochi takes two small steps and kneels beside the hollow, lowering its face toward @Star with a caring tilt. The other four watch in the background in their established order. Hold the affectionate discovery for the last second.",
+    "camera": "Hard cut to medium 65mm; @Mochi and the hollow sharp, the four friends softly readable behind.",
+    "audio": "Felt footsteps and a tiny breathy nonverbal wonder sound without syllables.",
+    "end_state": "@Mochi kneels beside the dim star; the others remain close."
+  }
+]

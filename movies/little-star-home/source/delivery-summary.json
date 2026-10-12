@@ -1,0 +1,13 @@
+{
+  "project": "A Little Star Finds Home",
+  "planned_duration_seconds": 120,
+  "media_storage": "Generated movies, takes and full verification logs are retained locally and excluded from Git.",
+  "observed_delivery_checks": [
+    {
+      "fps": 30.0,
+      "width": 1470,
+      "height": 630,
+      "local_report": "exports/video-verification.json"
+    }
+  ]
+}

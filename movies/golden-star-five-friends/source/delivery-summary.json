@@ -1,0 +1,23 @@
+{
+  "project": "The Five Little Friends and the Secret of the Golden Star",
+  "planned_duration_seconds": 120,
+  "media_storage": "Generated movies, takes and full verification logs are retained locally and excluded from Git.",
+  "observed_delivery_checks": [
+    {
+      "duration_seconds": 120.0,
+      "video_duration_seconds": 120.0,
+      "frame_count": 3600,
+      "fps": 30,
+      "width": 1280,
+      "height": 720,
+      "audio_channels": 2,
+      "audio_sample_rate": 48000,
+      "size_bytes": 45926231,
+      "full_decode": {
+        "passed": true,
+        "diagnostic": ""
+      },
+      "local_report": "exports/final-verification.json"
+    }
+  ]
+}

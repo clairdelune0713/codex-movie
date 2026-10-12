@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 4,
+    "action": "@Ching 與 @Tine-work 在 @Central 外座旁沿行人路向右走；畫外有人叫「蛋撻！」，Tine 高興轉耳、尾巴開始搖。",
+    "camera": "35mm 行人路中景，義工與犬同框，不走到軌道。",
+    "audio": "畫外粵語：「蛋撻！」；輕街聲、撥弦。",
+    "end_state": "犬原地停半步等待義工。"
+  },
+  {
+    "start": 4,
+    "end": 7,
+    "action": "Hard cut：@Ching 彎一點腰，帶笑提醒「你係阿華田呀。」@Tine-work 抬眼，頭只歪一次，好像名字都可以。",
+    "camera": "65mm 兩者中近鏡，義工右、犬左。",
+    "audio": "@Ching 粵語：「你係阿華田呀。」犬不回話。",
+    "end_state": "犬歪頭而尾巴不停。"
+  },
+  {
+    "start": 7,
+    "end": 10,
+    "action": "Hard cut：@Tine-work 步伐輕快地繼續跟著 @Ching；開心來自被叫，不是食物。",
+    "camera": "50mm 犬眼高度側移，最後保持同行。",
+    "audio": "義工小笑，兩下爪步加原創撥弦尾音。",
+    "end_state": "犬和義工同向出畫。"
+  }
+]

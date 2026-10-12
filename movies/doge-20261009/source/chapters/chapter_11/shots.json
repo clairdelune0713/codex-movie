@@ -1,0 +1,34 @@
+[
+  {
+    "start": 0,
+    "end": 6,
+    "action": "@Pier 的 @Ferry 停在左方斜道旁；@Tart-work 領 @MrChan 安全踏上碼頭，從左前往右側出口。@Ching 與 @Tine-work 在右後方走向上船區。",
+    "camera": "28mm 廣景，先保留兩組相隔十米的實際空間。",
+    "audio": "船纜、水聲、爪步，人群低聲。",
+    "end_state": "兩組路線即將靠近。"
+  },
+  {
+    "start": 6,
+    "end": 11,
+    "action": "Hard cut：@Tart-work 只看主人安全路線；@Tine-work 被旁邊普通旅行箱輪聲吸引，轉頭半秒，尚未看見 Tart。",
+    "camera": "50mm 碼頭低位中景，把犬距離保留在同一深度軸。",
+    "audio": "箱輪聲、犬鼻息；音樂輕輕期待。",
+    "end_state": "兩犬即將擦身但未認出。"
+  },
+  {
+    "start": 11,
+    "end": 17,
+    "action": "Hard cut：六位普通動畫遊客在前景向左自然走過，短暫遮住兩組；不變成真人、不複製主角。",
+    "camera": "35mm 固定廣景，以人群實際走動作遮擋，沒有黑屏或假轉場。",
+    "audio": "步聲、普通人群模糊談話，不加可辨台詞。",
+    "end_state": "前景遮擋正在散開。"
+  },
+  {
+    "start": 17,
+    "end": 22,
+    "action": "同一鏡頭人群散開：@Tart-work 與 @MrChan 已離開右側出口；@Ching 及 @Tine-work 已在 @Ferry 安全船艙，小輪慢慢向左離岸。",
+    "camera": "35mm 同軸固定廣景，兩組按實際時間走位，不瞬移。",
+    "audio": "船鳴與水聲，音樂小小落空。",
+    "end_state": "碼頭通道空出，船與岸分離。"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "start": 0,
+    "end": 6,
+    "action": "下午 @Community 同一布局。@UncleLam 在右方藍椅，看見 @Ching 帶 @Tine-work 由後左門進來，先輕叫「阿華田。」",
+    "camera": "35mm 固定中廣景，光比上午稍暖，地理不變。",
+    "audio": "@UncleLam 低沙啞粵語：「阿華田。」輕房間声，沒有大音樂。",
+    "end_state": "犬在原來一米半位置停下。"
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "action": "Hard cut：@UncleLam 右手從膝上慢慢伸出，指尖放鬆；@Tine-work 先看手，再看林伯。@Ching 只安靜守在犬後。",
+    "camera": "65mm 手與犬目光中近鏡，慢節奏，沒有突然推鏡。",
+    "audio": "老人衣料、呼吸、犬鼻息；鋼琴單音不催促。",
+    "end_state": "伸出的手成為邀請。"
+  },
+  {
+    "start": 12,
+    "end": 18,
+    "action": "Hard cut：@Tine-work 用四個小步慢慢跨過距離，鼻尖先輕嗅手背，不舔或跳起；林伯第一下輕摸犬頭。",
+    "camera": "50mm 犬眼高度側面中景，手、頭接觸及爪落地清楚。",
+    "audio": "四下小爪步、皮膚與毛輕接觸；溫暖弦樂很低。",
+    "end_state": "手真實貼住犬頭。"
+  },
+  {
+    "start": 18,
+    "end": 24,
+    "action": "Hard cut：@UncleLam 手停在犬頭上，長呼一口氣，嘴角只一點點上揚；@Tine-work 安心坐好，尾巴輕掃地一次。",
+    "camera": "65mm 林伯與犬的雙近景，最後兩秒安靜。",
+    "audio": "長呼氣，尾巴掃地；音樂含蓄，不加奇蹟鐘聲。",
+    "end_state": "雙方舒適停留，不宣稱孤獨已治好。"
+  }
+]

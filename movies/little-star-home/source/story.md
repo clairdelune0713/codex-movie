@@ -1,0 +1,1 @@
+user movi2 skill. make a 2min movie (do not ref any existing projects in moves/). the story is based on the 5 cute cartoon figures (the two uploaded images are for your reference). Please design the story plot. Please choose the optimal style. the story has to be lovely and cute. if dialogues are included, please be in Japanese. no titles or subtitles.

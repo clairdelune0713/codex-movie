@@ -1,0 +1,18 @@
+[
+  {
+    "start": 0,
+    "end": 5,
+    "action": "@Harbour 暮色安全步道左方長椅，@MrChan 坐著，@Tart-work 面向他。主人解扣並把完整橙背心連導盲柄移離犬身，放到椅上，細灰項圈留著。",
+    "camera": "50mm 近中景，完整看見裝備被手拿走；動作後才成為 @Tart-rest。",
+    "audio": "扣具 Click、衣料；街音轉成平靜海水，音樂鬆開。",
+    "end_state": "@Tart-rest 已無背心與握柄，裝備確實在椅上。"
+  },
+  {
+    "start": 5,
+    "end": 10,
+    "action": "Hard cut：步道另一端 @Ching 從 @Tine-work 身上卸下軟背心收进手提袋，留細灰項圈及鬆牽繩，成為 @Tine-rest；犬輕伸前腿。",
+    "camera": "50mm 近中景；只呈現同一隻犬的前後裝備狀態，不同時複製兩隻。",
+    "audio": "一聲細扣具 Click、袋布、舒展鼻息。",
+    "end_state": "@Tine-rest 裝備已收起，義工準備散步。"
+  }
+]

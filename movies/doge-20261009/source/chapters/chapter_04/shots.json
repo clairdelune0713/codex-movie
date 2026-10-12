@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 5,
+    "action": "@Ching 牽著 @Tine-work 由 @Community 後左門口進入。左方活動桌只有兩位普通風格一致的背景長者，不具名、不搶鏡。",
+    "camera": "28mm 正向中廣景，鏡頭自活動區看向門口。",
+    "audio": "門聲、爪步；背景兩人自然說「阿華田嚟喇！」。",
+    "end_state": "Tine 停在中央空地。"
+  },
+  {
+    "start": 5,
+    "end": 10,
+    "action": "Hard cut：@Tine-work 尾巴快搖，眼睛亮起，前腳短短一小步但沒有撲人；@Ching 彎腰提示慢下來。",
+    "camera": "50mm 犬與義工中景，右方窗光，輕推近。",
+    "audio": "@Ching 溫柔粵語：「阿華田，慢慢嚟。」輕撥弦節奏。",
+    "end_state": "犬停住，四足踏地。"
+  },
+  {
+    "start": 10,
+    "end": 14,
+    "action": "Hard cut：@Tine-work 乖乖坐下，尾巴仍歡快；@Ching 露出會心微笑，鬆牽繩在她手上而非飄空。",
+    "camera": "65mm 犬胸以上與義工近景，末尾停兩秒。",
+    "audio": "犬鼻息、房間自然聲，笑意只在臉上。",
+    "end_state": "犬已坐好、尾巴還搖。"
+  }
+]

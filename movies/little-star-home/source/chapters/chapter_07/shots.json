@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 8,
+    "action": "The five advance with tiny gentle steps UP the short slope toward screen-right. @Sora glides at the same pace just above the grass. @Star floats a half friend-length in front, at chest height, never racing away. Their wordless hum continues, and the friends settle shoulder to shoulder at the crest.",
+    "camera": "Wide 35mm, slow lateral track right parallel to their path; full bodies visible and horizon stable.",
+    "audio": "Soft felt footsteps, five-voice three-note humming, sparse celesta and plucked strings.",
+    "end_state": "All five are seated/settled together at the crest, star hovering in front."
+  },
+  {
+    "start": 8,
+    "end": 14,
+    "action": "From chest height, @Star rises gently ABOVE the seated row, then makes ONE slow small gratitude arc in front of them from left to right, maintaining its shape and scale. Each friend follows it with a face tilt; @Mochi and @Hina raise small paws.",
+    "camera": "Hard cut to medium-wide 50mm at crest, camera fixed; star’s entire small arc remains in view.",
+    "audio": "The wordless hum softens; the star answers C5–E5–G5 softly.",
+    "end_state": "Star floats above center of the five-friend row; they are waving."
+  },
+  {
+    "start": 14,
+    "end": 20,
+    "action": "@Star ascends slowly into the open lavender sky, becoming smaller with distance. All five lift their little arms or flippers in a gentle goodbye and remain together, looking up. End with the star a small gold point high above them, still separate from distant lights.",
+    "camera": "Hard cut to wider 30mm; slow upward tilt leaves the five at the lower third and star above; stop tilt by 18s and hold.",
+    "audio": "Soft ascending celesta arpeggio, warm instrumental resolution, wordless hum fades naturally.",
+    "end_state": "Five friends at crest lower third; tiny golden star nearing its sky home."
+  }
+]

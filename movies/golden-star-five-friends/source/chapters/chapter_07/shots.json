@@ -1,0 +1,34 @@
+[
+  {
+    "start": 0,
+    "end": 5,
+    "action": "@Lulu opens both paws. @GoldenStar separates completely, flies upward in one brisk smooth arc and clicks gently into its own sky position by 4s, before the final sunset edge disappears. All five wave upward happily. The star stays the same five-point character and shrinks only with distance.",
+    "camera": "35mm medium-wide from rainbow; tilt toward the ascending star at normal speed, no slowed hover.",
+    "audio": "@GoldenStar, same tiny warm English voice, 1-4.5s: {Friendship makes the world brighter.} Soft ascending chime and tiny sparkling click.",
+    "end_state": "Star returned before sunset ends; five friends safe on rainbow."
+  },
+  {
+    "start": 5,
+    "end": 9,
+    "action": "Thousands of tiny natural star dots twinkle on in lively cascading clusters. They form only random sparkling patterns, NEVER LETTERS, words, symbols or a title. The five friends clap their existing paws, wings or flippers with quick delighted gestures, then hug their nearest neighbor.",
+    "camera": "Hard cut to 35mm group and wide starry sky, clear faces in foreground.",
+    "audio": "@Lulu 6-8s: {Together, we did it!} Joyful short sparkle cascade and warm upbeat score.",
+    "end_state": "Night sky bright, friends celebrating."
+  },
+  {
+    "start": 9,
+    "end": 14,
+    "action": "The rainbow swoops promptly down through the same cloud sea toward @SunshineValley. All five ride safely, grouped together; no teleport. Show a brief continuous descent with passing fluffy cloud layers, then the recognizable clearing, boulder left and curved tree right below.",
+    "camera": "Hard cut to 28mm side tracking for energetic descent; readable stable horizon, no spin.",
+    "audio": "Breezy returning WHOOSH and happy chuckles. No new dialogue.",
+    "end_state": "Rainbow reaches garden clearing at night."
+  },
+  {
+    "start": 14,
+    "end": 18,
+    "action": "Rainbow gently lowers the five onto soft moss, knees and soft paws giving one quick little landing bounce. They step off together, rainbow curls away as glitter then disappears. @Lulu beckons them into a cuddle; @GoldenStar is visible far overhead, not in anyone’s paws. Finish one second with friends gathered on ground.",
+    "camera": "Hard cut to 35mm original garden eye-level axis: boulder left, tree right.",
+    "audio": "Five soft landing pats and small relieved giggles. Score returns to its light garden theme.",
+    "end_state": "All five on moss in home clearing, empty paws, star overhead."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "start": 0,
+    "end": 4,
+    "action": "@Lulu gestures warmly to the circle. The five connect their existing paws, wings or flippers, each to the adjacent friend; @Bubbles stays at everyone’s paw height. No extra fingers or stretched limbs. The star sits in the center untouched.",
+    "camera": "35mm eye-level medium-wide around the circle; closed rounded heads and attached bodies, no steep overhead view.",
+    "audio": "@Lulu, tender but energetic, 0.5-3s: {What if we all wish together?} Soft paw-touch Foley.",
+    "end_state": "All five form a linked circle around one star."
+  },
+  {
+    "start": 4,
+    "end": 8,
+    "action": "Quick sequential face reactions in the same group shot: @Mochi beams, @Tiggy nods bravely, @Pip bounces once with excitement; each speaks only the own wish. The others smile and listen while retaining the linked circle.",
+    "camera": "50mm medium group with slight pan left to center; no long dreamy close-up.",
+    "audio": "@Mochi 4-5s: {Happiness!} @Tiggy 5-6.2s: {Courage!} @Pip 6.3-7.5s: {Adventure!}",
+    "end_state": "Circle intact, three wishes spoken."
+  },
+  {
+    "start": 8,
+    "end": 12,
+    "action": "@Bubbles lifts the head hopefully, then @Lulu gives the whole circle a loving glance and gently squeezes adjacent paws. The star’s five tips start to sparkle only after @Lulu’s line.",
+    "camera": "Hard cut to 50mm @Bubbles and @Lulu medium two-shot; star at lower-center.",
+    "audio": "@Bubbles 8-9s: {Hope!} @Lulu 9-12s, clear loving whisper at normal pace: {I wish we will always be friends.}",
+    "end_state": "Five wishes complete, star begins to brighten."
+  },
+  {
+    "start": 12,
+    "end": 15,
+    "action": "The one star emits tiny upward rainbow sparkles. All five do a quick surprised head lift, then grin. A broad rainbow ribbon begins beneath the circle. Final one second holds their ready excited expressions with natural bobbing.",
+    "camera": "Hard cut to 35mm whole circle, no explosive shake or blinding bloom.",
+    "audio": "Gentle rising sparkle chimes and delighted tiny gasps. No further speech.",
+    "end_state": "Rainbow starts forming under all five; no one leaves the circle."
+  }
+]

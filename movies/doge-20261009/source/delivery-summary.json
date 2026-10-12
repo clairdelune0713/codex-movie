@@ -1,0 +1,13 @@
+{
+  "project": "doge-20261009",
+  "planned_duration_seconds": 390,
+  "media_storage": "Generated movies, takes and full verification logs are retained locally and excluded from Git.",
+  "observed_delivery_checks": [
+    {
+      "fps": 30.0,
+      "width": 1470,
+      "height": 630,
+      "local_report": "exports/video-verification.json"
+    }
+  ]
+}

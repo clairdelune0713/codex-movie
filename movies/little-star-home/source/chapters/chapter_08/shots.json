@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 5,
+    "action": "@Star reaches its small gap and settles among the distant sky lights. It twinkles ONCE in thanks, still one star; distant lights remain background only, without faces or limbs. The five look up together.",
+    "camera": "Wide 30mm sky-and-friends frame, fixed.",
+    "audio": "A distant delicate C5–E5–G5 star chime, quiet evening air.",
+    "end_state": "Star safely at home; five friends remain below."
+  },
+  {
+    "start": 5,
+    "end": 10,
+    "action": "@Tora leans affectionately against @Mochi; @Hina nestles close on the other side. @Mimi smiles with a tiny head tilt and @Sora gently bobs beside them. All five fit comfortably in frame, heads and bodies fully assembled. Their shoulders touch without merging.",
+    "camera": "Hard cut to medium-wide 65mm frontal at plush eye-level, five faces clear, no excluded friend; twilight sky softly behind.",
+    "audio": "Soft cloth brushing, one tiny nonverbal contented sigh, quiet celesta. No words.",
+    "end_state": "All five share a relaxed cuddle at the crest."
+  },
+  {
+    "start": 10,
+    "end": 14,
+    "action": "A final restrained gold twinkle lights the five cheeks. They keep a tiny living sway and relaxed smiles, looking toward their star. Hold this completed image for the final two seconds. End on the picture, without fading into credits or any graphic.",
+    "camera": "Same medium-wide composition, camera locked, shallow depth of field but all five faces on the focus plane.",
+    "audio": "Three-note instrumental motif resolves gently into soft evening room tone. No speech, no lyrics.",
+    "end_state": "A quiet five-friend cuddle is the final visible image."
+  }
+]

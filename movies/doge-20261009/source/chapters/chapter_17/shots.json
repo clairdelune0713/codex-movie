@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 6,
+    "action": "@Tine-rest 隨 @Ching 由 @Harbour 右側沿寬步道走向左側長椅；牽繩鬆，人在旁，與水邊有欄杆隔開。犬忽然停下。",
+    "camera": "35mm 中廣景，海在後景、長椅左、兩犬實際距離約六米。",
+    "audio": "犬步聲停、海水、原創鋼琴留下懸念單音。",
+    "end_state": "犬望向左方 Tart。"
+  },
+  {
+    "start": 6,
+    "end": 11,
+    "action": "Hard cut：@Tart-rest 本來在長椅前坐看海，聽到腳步後緩緩回頭，看見 Tine；@MrChan 坐在椅上手持鬆牽繩。",
+    "camera": "65mm Tart 犬眼高度近鏡，沒有突然驚叫表情。",
+    "audio": "項圈微聲、犬短鼻息、海水。",
+    "end_state": "Tart 視線落在右方 Tine。"
+  },
+  {
+    "start": 11,
+    "end": 16,
+    "action": "Hard cut：@Tine-rest 表情從好奇變得安靜，沒有立刻衝過去；@Ching 輕停腳步，順著牠目光看向 Tart。",
+    "camera": "65mm Tine 臉部近鏡，背景燈光溫暖。",
+    "audio": "很低鋼琴與一聲短呼氣；沒有對白。",
+    "end_state": "Tine 安靜等待，尾巴由快變慢。"
+  }
+]
