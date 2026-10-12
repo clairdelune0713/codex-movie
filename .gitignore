@@ -18,3 +18,4 @@ movies/somewhere-between-us/exports/somewhere-between-us-10min-720p-21x9.mp4
 !/movies/*/production/
 !/movies/*/production/**
 /movies/.git-maintenance/
+.env
