@@ -45,6 +45,7 @@ def save_take(entry,status,path=None):
         take={'id':entry['take_id'],'take_number':entry['take_number'],'status':'pending','prompt':entry['canonical_prompt'],'submitted_prompt':entry['submitted_prompt'],'bindings':entry['bindings'],'duration':c['duration'],'resolution':'720p','model':entry['model'],'source_revision':entry['source_revision'],'dependency_fingerprint':entry['dependency_fingerprint'],'created_at':entry['created_at']}
         c['takes'].append(take)
     take['status']=status
+    take['generate_audio']=entry['settings'].get('generate_audio',True)
     if entry.get('task_id'):
         take['task_id']=entry['task_id']
     if path:
@@ -58,6 +59,8 @@ def save_take(entry,status,path=None):
 
 def build_entry(p,c,client,take_number):
     active=helper.active_assets(p,c)
+    priorities={tag.casefold():i for i,tag in enumerate(c.get('reference_priority',[]))}
+    active=sorted(active,key=lambda a:priorities.get(a['tag'].casefold(),len(priorities)))
     bindings=[]
     for i,a in enumerate(active,1):
         selected=helper.selected_media(a)
@@ -68,6 +71,9 @@ def build_entry(p,c,client,take_number):
     mapping={b['tag'].casefold():b['provider_tag'] for b in bindings}
     translated=re.sub(r'@[\w-]+',lambda m:mapping[m.group().casefold()],c['prompt'])
     entry={'chapter_id':c['id'],'take_id':f"{c['id']}_take_{take_number:02d}",'take_number':take_number,'status':'prepared','created_at':now(),'source_revision':p['revision'],'dependency_fingerprint':helper.chapter_fingerprint(ROOT,p,c),'model':client.endpoint,'canonical_prompt':c['prompt'],'submitted_prompt':translated,'bindings':bindings,'settings':{'duration':c['duration'],'ratio':'16:9','resolution':'720p','generate_audio':True,'watermark':False,'return_last_frame':True,'output_format':'mp4','omni_reference_task_type':'reference','seed':41009+int(c['chapter_index'])*37}}
+    if c.get('generation_seed') is not None:
+        entry['settings']['seed']=c['generation_seed']
+    entry['settings']['generate_audio']=c.get('generate_audio',True)
     payload={'model':client.endpoint,'content':[{'type':'text','text':translated}],**entry['settings']}
     for binding in bindings:
         raw=(ROOT/binding['path']).read_bytes()

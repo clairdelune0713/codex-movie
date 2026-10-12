@@ -18,6 +18,24 @@
         "diagnostic": ""
       },
       "local_report": "exports/final-verification.json"
+    },
+    {
+      "duration_seconds": 120.0,
+      "video_duration_seconds": 120.0,
+      "frame_count": 3600,
+      "fps": 30,
+      "width": 1280,
+      "height": 720,
+      "audio_channels": 2,
+      "audio_sample_rate": 48000,
+      "size_bytes": 42678219,
+      "full_decode": {
+        "passed": true,
+        "diagnostic": ""
+      },
+      "original_soundtrack_preserved_exactly": true,
+      "version": 2,
+      "local_report": "exports/pip-fix-20261012/final-verification-v02.json"
     }
   ]
 }

@@ -1,34 +1,10 @@
 [
   {
     "start": 0,
-    "end": 4,
-    "action": "@GoldenStar flashes once softly, then a rainbow unfurls upward from the star and loops into a broad cushion under the circle. @Lulu picks up @GoldenStar and holds it at the chest while the rainbow lifts everyone together, a buoyant quick rise with a small friendly bounce. All five remain safely seated or braced on the rainbow.",
-    "camera": "35mm full group, slight crane matching brisk lift; no dreamy suspended motion.",
-    "audio": "Bright sparkle POP, friendly magic flourish, no frightening boom. Friends together at 2.5-4s: {Wheeee!}",
-    "end_state": "Five plus star supported by a broad rainbow ribbon."
-  },
-  {
-    "start": 4,
-    "end": 8,
-    "action": "Rainbow accelerates smoothly at ordinary real-time speed up above the tree and past fluffy clouds. @Mochi laughs, @Tiggy spreads paws, @Pip flutters wings, @Bubbles hovers just above the ribbon, @Lulu hugs the star securely. No airborne tumbling or character splitting.",
-    "camera": "Hard cut to 28mm side tracking beside the rainbow flight, upbeat controlled travel.",
-    "audio": "Cheerful wind whoosh, giggles, bright playful score. Narrator 5-8s: {Five little wishes became one wonderful rainbow!}",
-    "end_state": "Group enters the lower cloud sea."
-  },
-  {
-    "start": 8,
-    "end": 13,
-    "action": "Above @CloudSky, all five ride across a wide sea of rounded cream-lavender clouds. Ribbon makes one sweeping upward curve. @Pip points at the sky and @Tiggy gives a delighted quick paw wave. @Lulu still carries the golden star. Clouds slide past briskly with parallax.",
-    "camera": "Hard cut to 35mm front three-quarter tracking medium-wide; frame all five clearly, dynamic but stable.",
-    "audio": "Happy breathy laughs, breezy rush, glockenspiel and pizzicato adventure theme. No new spoken lines.",
-    "end_state": "All five approach open sky above the highest cloud cushions."
-  },
-  {
-    "start": 13,
     "end": 17,
-    "action": "Rainbow levels above the clouds for the arrival. @Lulu raises the star toward open upper-right sky. Star gives a hopeful smile; friends lean in with delighted anticipation. Keep regular body motion and lively expressions through the last one-second edit hold.",
-    "camera": "Hard cut to 50mm group close-medium, cloud horizon low, open sky upper-right.",
-    "audio": "Soft star chime, excited small giggles, music prepares a bright resolution.",
-    "end_state": "@Lulu holds star ready to release; all five on rainbow above clouds."
+    "action": "0-4s: Lulu picks up the one golden star from beside her feet. A soft sparkle flash unfurls a broad rainbow under the five. All five make one buoyant little lift-off bounce and stand safely on the rainbow in their fixed left-to-right places. 4-8s: The rainbow travels briskly upward past the tree and into fluffy clouds, camera tracking at the same speed directly in front of the group. 8-13s: The rainbow sweeps along one clear rising arc above a cream-lavender cloud sea. All five remain in the same single row; Pip waves its TWO tiny wings from the sides of its visible long yellow torso. 13-17s: The rainbow levels out. Lulu raises the one star at far right. Pip plants its two orange feet on the rainbow and gives an excited head bob, without changing anatomy. End with a one-second lively anticipation hold, everyone complete and upright. Exactly ONE Pip occupies center throughout, including the ascent, cloud passage and final pose. Mochi and Tiggy never change places; Bubbles never overlaps or hides Pip; Lulu never stands in front of Pip. No sixth friend appears.",
+    "camera": "ONE continuous 35mm front three-quarter medium-wide tracking shot. Camera flies at the same brisk real-time speed as the rainbow. All five fill 75% of the frame width; all heads, long torsos and feet remain in frame. No internal cuts, distant miniature wide shot or reordering.",
+    "audio": "Friends 2.5-4s: {Wheeee!} Narrator 5-8s: {Five little wishes became one wonderful rainbow!} Cheerful 116 BPM adventure score, quick breezy swooshes and little giggles.",
+    "end_state": "The same five stand in one fixed row on the rainbow, Lulu far right raises the star; one full-bodied Pip stands center."
   }
 ]
