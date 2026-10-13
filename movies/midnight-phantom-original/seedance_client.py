@@ -137,21 +137,44 @@ class Client:
                 out.write(block)
         partial.replace(destination)
 
-def bind(project,chapter):
+def bind(project,chapter,client=None):
     assets=prepare.helper.active_assets(project,chapter)
     bindings=[]
     mapping={}
     content=[]
-    for i,asset in enumerate(assets,1):
+    image_number=0
+    audio_number=0
+    audio_seconds=0
+    video_number=0
+    for asset in assets:
         candidate=prepare.helper.selected_media(asset)
         path=ROOT/candidate['path']
         data=path.read_bytes()
-        if len(data)>30*1024*1024: raise RuntimeError('Reference exceeds image-size limit')
-        provider_tag=f'@Image{i}'
+        is_audio=asset.get('media_type')=='Audio'
+        is_video=asset.get('media_type')=='Video'
+        if is_video:
+            if not client:raise RuntimeError('Existing provider video must be resolved in memory')
+            if len(data)>200*1024*1024:raise RuntimeError('Video source exceeds documented size limit')
+            source=client.task('/'+urllib.parse.quote(candidate['provider_task_id'],safe=''))
+            if source.get('status')!='succeeded':raise RuntimeError('Video edit source is not a successful task')
+            video_number+=1;provider_tag=f'@Video{video_number}';role='reference_video';kind='video_url';mime=None
+            video_url=source['content']['video_url']
+        elif is_audio:
+            import wave
+            if path.suffix.lower()!='.wav':raise RuntimeError('Audio reference must be inspected WAV')
+            with wave.open(str(path),'rb') as recording:seconds=recording.getnframes()/recording.getframerate()
+            if not 2<=seconds<=30 or len(data)>15*1024*1024:raise RuntimeError('Invalid reference audio duration/size')
+            audio_seconds+=seconds;audio_number+=1
+            if audio_number>10 or audio_seconds>30:raise RuntimeError('Reference audio aggregate limit exceeded')
+            provider_tag=f'@Audio{audio_number}';role='reference_audio';mime='audio/wav';kind='audio_url'
+        else:
+            if len(data)>30*1024*1024: raise RuntimeError('Reference exceeds image-size limit')
+            image_number+=1
+            if image_number>30:raise RuntimeError('Too many image references')
+            provider_tag=f'@Image{image_number}';role='reference_image';mime='image/png' if path.suffix.lower()=='.png' else 'image/jpeg';kind='image_url'
         mapping[asset['tag'].casefold()]=provider_tag
-        bindings.append({'asset_id':asset['id'],'tag':asset['tag'],'provider_tag':provider_tag,'candidate_id':candidate['id'],'path':candidate['path'],'role':'reference_image','sha256':hashlib.sha256(data).hexdigest()})
-        mime='image/png' if path.suffix.lower()=='.png' else 'image/jpeg'
-        content.append({'type':'image_url','image_url':{'url':f'data:{mime};base64,'+base64.b64encode(data).decode()},'role':'reference_image'})
+        bindings.append({'asset_id':asset['id'],'tag':asset['tag'],'provider_tag':provider_tag,'candidate_id':candidate['id'],'path':candidate['path'],'role':role,'sha256':hashlib.sha256(data).hexdigest()})
+        content.append({'type':kind,kind:{'url':video_url if is_video else f'data:{mime};base64,'+base64.b64encode(data).decode()},'role':role})
     prompt=prepare.helper.TAG.sub(lambda m:mapping[m[0].casefold()],chapter['prompt'])
     return prompt,bindings,[{'type':'text','text':prompt}]+content
 
@@ -184,11 +207,14 @@ def submit(client,chapter_ids=None,retry=False):
             raise RuntimeError(f'{chapter_id} has an uncertain submission. Reconcile before any new POST.')
         ready=subprocess.run([sys.executable,str(prepare.HELPER),'render-ready',str(ROOT)],capture_output=True,text=True)
         if ready.returncode: raise RuntimeError('Asset/render preflight failed: '+ready.stdout[:700])
-        prompt,bindings,content=bind(project,chapter)
+        prompt,bindings,content=bind(project,chapter,client)
         payload={'model':client.endpoint,'content':content,'duration':chapter['duration'],'ratio':'21:9','resolution':'720p','generate_audio':True,'watermark':False,'return_last_frame':True,'output_format':'mp4','omni_reference_task_type':'reference','seed':261009+chapter['chapter_index']+1000*(number-1)}
+        if chapter.get('generation_mode')=='edit':
+            if not any(c['type']=='video_url' for c in content):raise RuntimeError('Edit mode requires source video')
+            payload.update(duration=-1,ratio='adaptive',omni_reference_task_type='edit')
         serialized=json.dumps(payload,separators=(',',':'),ensure_ascii=False).encode()
         if len(serialized)>64*1024*1024: raise RuntimeError('Serialized request exceeds 64 MB')
-        take={'id':take_id,'take_number':number,'status':'pending','prompt':chapter['prompt'],'submitted_prompt':prompt,'bindings':bindings,'duration':chapter['duration'],'resolution':'720p','ratio':'21:9','model':client.endpoint,'source_revision':project['revision'],'dependency_fingerprint':prepare.helper.chapter_fingerprint(ROOT,project,chapter),'created_at':datetime.now(timezone.utc).isoformat(),'settings':{k:v for k,v in payload.items() if k not in ('content','model')},'request_bytes':len(serialized)}
+        take={'id':take_id,'take_number':number,'status':'pending','prompt':chapter['prompt'],'submitted_prompt':prompt,'bindings':bindings,'duration':chapter['duration'],'resolution':'720p','ratio':'21:9','model':client.endpoint,'source_revision':project['revision'],'dependency_fingerprint':prepare.helper.chapter_fingerprint(ROOT,project,chapter),'continuity_revision':project.get('continuity_revision',{}).get('id'),'created_at':datetime.now(timezone.utc).isoformat(),'settings':{k:v for k,v in payload.items() if k not in ('content','model')},'request_bytes':len(serialized)}
         record={'submission_state':'submitting','chapter_id':chapter_id,'take':take}
         prepare.write_json(journal,record)
         register_take(chapter_id,take)
