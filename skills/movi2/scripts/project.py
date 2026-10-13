@@ -104,7 +104,34 @@ def chapter_fingerprint(root, project, chapter):
                                ("prompt", "shots", "duration", "resolution", "audio", "handoff")},
                    "references": references,
                    "materials": [{**item, "file": file_stamp(root, item["path"])}
-                                 for item in chapter.get("materials", [])]})
+                                 for item in chapter.get("materials", [])],
+                   **({"continuity_references": [{**item, "file": file_stamp(root, item["path"])}
+                                                 for item in chapter["continuity_references"]]}
+                      if chapter.get("continuity_references") else {})})
+
+
+def continuity_errors(root, project, chapter):
+    errors = []
+    for reference in chapter.get("continuity_references", []):
+        source = next((c for c in project["chapters"] if c["id"] == reference.get("source_chapter_id")), None)
+        take = next((t for t in (source or {}).get("takes", []) if t["id"] == reference.get("source_take_id")), None)
+        label = reference.get("id", chapter["id"])
+        if not source or source["chapter_index"] >= chapter["chapter_index"]:
+            errors.append(f"{label}: continuity source must be an earlier chapter")
+            continue
+        if not take or take.get("status") != "succeeded" or source.get("active_take_id") != take["id"] or not take.get("path"):
+            errors.append(f"{label}: continuity source must be the successful selected take")
+            continue
+        if take.get("dependency_fingerprint") != chapter_fingerprint(root, project, source):
+            errors.append(f"{label}: source take is stale or its dependency provenance is unknown")
+        if not reference.get("source_sha256") or reference["source_sha256"] != file_stamp(root, take["path"])["sha256"]:
+            errors.append(f"{label}: source take file changed or its hash is missing")
+        if reference.get("inspected") is not True or not reference.get("reason"):
+            errors.append(f"{label}: inspect the reference and record why it is useful")
+        role = reference.get("role")
+        if (reference.get("media_type"), role) not in (("Image", "reference_image"), ("Image", "first_frame"), ("Video", "reference_video")):
+            errors.append(f"{label}: invalid continuity media type/role")
+    return errors
 
 
 def review_manifest(root, project):
@@ -258,6 +285,7 @@ def validate(root, project):
         for asset in active_assets(project, chapter):
             if not selected_media(asset):
                 warnings.append(f"{label}: {asset['tag']} has no selected local reference")
+        warnings.extend(continuity_errors(root, project, chapter))
 
     target = project.get("total_duration_target")
     if project.get("duration_mode") == "fixed":
@@ -380,6 +408,14 @@ def main():
                 raise ValueError(f"Asset review is {state['status']}; display current images and wait for explicit approval")
             if not current["chapters"] or any(not c.get("prompt") for c in current["chapters"]):
                 raise ValueError("Final chapter prompts are required before video submission")
+            targets = current["chapters"]
+            if args.chapter:
+                targets = [c for c in targets if c["id"] == args.chapter]
+                if not targets:
+                    raise ValueError("Requested chapter was not found")
+            continuity = [issue for c in targets for issue in continuity_errors(root, current, c)]
+            if continuity:
+                raise ValueError("Continuity references need updating:\n" + "\n".join(continuity))
             return {"ready": True, "asset_review": state, "source_revision": current["revision"]}
         if manifest["missing"]:
             raise ValueError("Complete the image set before review: " + ", ".join(manifest["missing"]))
@@ -442,6 +478,7 @@ def main():
             package["chapters"].append({"id": chapter["id"], "duration": chapter["duration"],
                                         "prompt": chapter.get("prompt", ""), "shots": chapter.get("shots", []),
                                         "references": references, "materials": chapter.get("materials", []),
+                                        "continuity_references": chapter.get("continuity_references", []),
                                         "dependency_fingerprint": chapter_fingerprint(root, project, chapter)})
         path = root / "exports" / f"render-package-r{project['revision']:06d}.json"
         atomic_write(path, package)

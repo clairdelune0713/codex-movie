@@ -15,6 +15,8 @@ Read [local-project.md](references/local-project.md) when creating or modifying 
 
 For new work, infer language, story core, style, aspect ratio, and requested duration from the user. Record reasonable defaults when absent: cinematic realism, 16:9, and adaptive pacing. Preserve the user's style over these defaults. Ask only for details that materially block progress. Save the original idea/script as source material before adapting it.
 
+For movie production or a requested revision, start or resume a local production session using [usage-reporting.md](references/usage-reporting.md) before doing work. Track every Seedance generation attempt and its usage/cost as it happens; retain the ledger across chats, revisions and project restores.
+
 ## Creative workflow
 
 Enter at the stage requested; an asset edit does not require rebuilding the script.
@@ -27,6 +29,12 @@ Enter at the stage requested; an asset edit does not require rebuilding the scri
 For user-authorized direct Seedance 2.5 generation, read [seedance-api.md](references/seedance-api.md). It records the working BytePlus authentication/signing route, credential variable names, endpoint/project checks, reference payloads, task journaling, and exact-runtime assembly. Use the requested resolution; 480p is supported by the verified route. Do not assume that a missing video connector prevents an explicitly authorized direct API workflow.
 
 Create storyboard previews only when the user explicitly requests them for review. Keep those optional review files separate from generation inputs; they are not Seedance reference assets or first-frame inputs. Existing storyboard records may remain for history and compatibility without becoming render dependencies.
+
+## Continuity between clips
+
+For multiple clips in the same environment, plan compatible geography, screen direction, lighting, prop state, action and audio handoffs. Refer to an earlier inspected, successful selected take only when it materially helps continuity or stitching; sharing a location alone does not justify adding video inputs. Read [clip-continuity.md](references/clip-continuity.md) when deciding whether to carry over a frame, short video segment or written end state. Use the smallest useful, supported input with an explicit role; do not feed every previous clip or stack redundant/conflicting references.
+
+Record derived inputs under chapter `continuity_references` with their source take and file hashes, and compile only the chosen inputs into the renderer's documented roles. A continuity reference from an inspected take of the existing approved assets does not require repeating the asset gallery; a new identity, environment, prop or changed visual style still does. Check `render-ready --chapter CHAPTER_ID` immediately before submission. If a source take changes during revisions, reconsider dependent clips and update or regenerate only the affected ones; never silently submit against a superseded or stale reference.
 
 ## Asset approval pause
 
@@ -50,4 +58,4 @@ Use Codex reasoning for planning/refinement and Codex media tools or a user-auth
 
 Generation availability is a runtime fact. Inspect the available tool schemas rather than inventing a video or audio tool. A raster image tool does not generate video. If the requested capability is missing, complete all feasible preparation, save a tool-neutral render package under `exports/`, and state precisely what is awaiting a tool; never label a prompt, storyboard, or still-image animatic as a generated movie. Do not upload files or invoke a paid third-party fallback simply because the original app did so. A requested and available media connector may accept references transiently, but canonical assets and project storage remain local.
 
-Before reporting completion, run the helper checks, inspect generated images, and verify actual video duration/resolution/decoding when video exists. Explain what changed, show useful images or links to the local result, and distinguish completed media from prepared or outdated artifacts. No application UI is required.
+Before reporting completion, run the helper checks, inspect generated images, and verify actual video duration/resolution/decoding when video exists. Explain what changed, show useful images or links to the local result, and distinguish completed media from prepared or outdated artifacts. For **every delivered final full video**, including each revised delivery, finish the production session and include a small table of **Seedance API cost** and **elapsed time**, each with **this session** and **project total** columns, following [usage-reporting.md](references/usage-reporting.md). Show actual versus estimated/pending costs explicitly; do not omit the table for re-edits that use no new API calls. No application UI is required.

@@ -2,6 +2,8 @@
 
 `project.json` is canonical structured state. The helper uses Python's standard library and no network. Media, project JSON, history and exports live inside the user's chosen project directory, not inside the installed skill.
 
+Usage/session accounting lives separately in `usage.json`, managed by `scripts/usage.py` as described in [usage-reporting.md](usage-reporting.md). Keep it outside creative restore operations so previously incurred costs and elapsed sessions remain counted. Serialize ledger writes through one coordinator to avoid simultaneous updates overwriting each other.
+
 ```text
 movies/<project>/
   project.json
@@ -33,6 +35,7 @@ PYTHON HELPER export ROOT
 PYTHON HELPER review-assets ROOT
 PYTHON HELPER approve-assets ROOT --review REVIEW_ID --confirmation "Actual user approval text"
 PYTHON HELPER render-ready ROOT
+PYTHON HELPER render-ready ROOT --chapter chapter_02
 ```
 
 After `init`, copy the latest `project.json` to a working proposal JSON, modify the proposal, check it, then commit. Do not hand-edit the live `project.json` or snapshots. A proposal must preserve project `id` and the current `revision`; a stale base revision is rejected. Commit writes the next snapshot and atomically replaces the live JSON. If writing live state fails after reserving a history revision, keep the snapshot and reconcile it with the live JSON; do not delete history and retry blindly. The helper rejects concurrent commits reserving the same revision. Restoring creates a new revision, leaving all earlier snapshots/media available.
@@ -52,6 +55,8 @@ Only after explicit human confirmation, run `approve-assets` with that exact rev
 `render-ready` exits nonzero unless the approved review matches the current asset definitions, selected candidate IDs, image paths/bytes, supplied image material roles and overall style, and final chapter prompts exist. Call it against committed current state immediately before each new video submission. Adding an unselected candidate or changing only chapter prompts/timing does not revoke image approval. Selection changes, file modifications, new/removed image assets or a style change do. The helper is a local preflight; adapters/connectors must invoke it and respect its result rather than bypass it. Exports retain review state and remain labeled `prepared` regardless of readiness. Polling/downloading previously accepted jobs is unaffected.
 
 ## State conventions
+
+Derived same-location handoff media lives in receiving chapter `continuity_references`, not the approved asset inventory. See [clip-continuity.md](clip-continuity.md) for its schema and minimal-input choices. File paths remain project-relative; source IDs must point to an earlier successful selected take with a current dependency fingerprint, matching source SHA-256, and an actual inspection/reason record. `check` warns about outdated provenance while allowing creative edits; `render-ready --chapter ID` rejects outdated continuity inputs for that receiving clip. A replaced source does not block regeneration of an unrelated/source clip when a chapter ID is provided. Export includes these inputs separately; the adapter must compile the chosen roles explicitly. Existing chapter fingerprints are preserved when no continuity input is added. Do not use this category to bypass approval for changed cast, environment, props or style.
 
 The initializer creates common metadata, empty `asset_list`/`chapters`, a `style` object, 16:9 aspect ratio, adaptive timing, and historical Movi2 chapter limits `{ "min": 4, "max": 30 }`. Override them when user intent/current tools require it. Set `duration_mode` to `fixed` and `total_duration_target` to the requested seconds for an exact runtime. Chapter sums determine `total_estimated_duration` on commit. Individual chapter durations follow story beats; the helper accepts mixed lengths such as 6 and 29 seconds without normalizing them to equal lengths. Record `pacing_reason` per chapter; keep original script wording in `source_text`, adapted screenplay in `detailed_script`, and substantive fixes in `script_changes`.
 

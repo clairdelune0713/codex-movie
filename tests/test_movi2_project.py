@@ -212,6 +212,53 @@ class ProjectTests(unittest.TestCase):
         self.assertEqual([c["duration"] for c in current["chapters"]], [6, 29])
         self.assertEqual(current["total_estimated_duration"], 35)
 
+    def continuity_fixture(self):
+        first, second = self.project["chapters"]
+        first["takes"] = [{"id": "source_take", "status": "succeeded", "path": "assets/tom.bin",
+                           "dependency_fingerprint": module.chapter_fingerprint(self.root, self.project, first)}]
+        first["active_take_id"] = "source_take"
+        second["continuity_references"] = [{"id": "handoff", "path": "assets/hat.bin", "media_type": "Image",
+                                            "role": "reference_image", "source_chapter_id": first["id"],
+                                            "source_take_id": "source_take", "inspected": True,
+                                            "reason": "Retain doorway geometry",
+                                            "source_sha256": module.file_stamp(self.root, "assets/tom.bin")["sha256"]}]
+        return first, second
+
+    def test_inspected_continuity_reference_preserves_asset_approval(self):
+        self.approve_review()
+        self.project = module.read(self.root / "project.json")
+        self.continuity_fixture()
+        self.command("commit", "--from", self.proposal())
+        self.assertTrue(self.command("render-ready", "--chapter", "chapter_02")["ready"])
+        package = module.read(self.command("export")["render_package"])
+        self.assertEqual(package["chapters"][1]["continuity_references"][0]["id"], "handoff")
+
+    def test_superseded_source_blocks_receiving_clip_but_not_source_clip(self):
+        self.approve_review()
+        self.project = module.read(self.root / "project.json")
+        first, _ = self.continuity_fixture()
+        replacement = {**first["takes"][0], "id": "replacement_take"}
+        first["takes"].append(replacement)
+        first["active_take_id"] = replacement["id"]
+        self.command("commit", "--from", self.proposal())
+        self.command("render-ready", "--chapter", "chapter_02", expected=1)
+        self.assertTrue(self.command("render-ready", "--chapter", "chapter_01")["ready"])
+
+    def test_reference_bytes_change_receiving_fingerprint_and_source_edits_reject(self):
+        first, second = self.continuity_fixture()
+        before = module.chapter_fingerprint(self.root, self.project, second)
+        (self.root / "assets/hat.bin").write_bytes(b"different derived input")
+        self.assertNotEqual(before, module.chapter_fingerprint(self.root, self.project, second))
+        first["prompt"] += " Camera: new axis."
+        self.assertTrue(any("stale" in e for e in module.continuity_errors(self.root, self.project, second)))
+
+    def test_future_self_and_uninspected_continuity_sources_fail(self):
+        first, second = self.continuity_fixture()
+        second["continuity_references"][0]["inspected"] = False
+        self.assertTrue(any("inspect" in e for e in module.continuity_errors(self.root, self.project, second)))
+        first["continuity_references"] = second.pop("continuity_references")
+        self.assertTrue(any("earlier" in e for e in module.continuity_errors(self.root, self.project, first)))
+
 
 if __name__ == "__main__":
     unittest.main()
