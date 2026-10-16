@@ -4,14 +4,14 @@ This authentication and task route produced six successful 10-second, native 480
 
 ## Settings and source implementation
 
-When authorized by the user, read these four settings from the specified environment file; the working workspace used `../aifx-studio/.env`:
+For an authorized video-generation request, read these four settings from **the current workspace root's `.env`** by default. An explicitly specified environment-file path takes precedence. Using that `.env` for the requested calls is the user's standing preference; do not ask them to paste credentials or reconfirm the same configuration on every run. Historical runs used a sibling AIFX environment file; that is not a fallback or the current default.
 
 - `VOLC_ACCESS_KEY`
 - `VOLC_SECRET_KEY_RAW`
 - `VOLC_PROJECT_NAME`
 - `VOLC_ENDPOINT_SEEDANCE_25`
 
-Resolve the environment path from the workspace, not by guessing relative to a deeply nested chapter. Parse quotes, comments, optional `export` and UTF-8 BOM correctly. Retain only the authorized settings in memory. Report presence and equality booleans for diagnostics, never their values. Do not print `.env`, request authorization headers, signed canonical requests or token responses.
+Resolve the environment path from the workspace, not by guessing relative to a deeply nested chapter or the installed skill. Load it inside the API client using a dotenv-compatible parser; parse quotes, comments, optional `export` and UTF-8 BOM correctly without executing its contents as shell code. Pass the selected settings explicitly into the client/signing code, overriding stale inherited process values for those keys; do not mix missing keys from another file or shell account. Reload at the start of a new production session or when the user changes the file, and refresh temporary tokens when the effective route changes. Retain only the required settings in memory. Report the selected file path, missing key names, and presence/equality booleans for diagnostics, never their values. Do not print `.env`, request authorization headers, signed canonical requests or token responses. If the selected file or any required setting is missing/empty, resolve it before video submission; do not scan sibling projects for replacement credentials or modify `.env` automatically.
 
 If AIFX Studio is present, inspect `src/lib/volcengine.ts`, especially `makeSignedVolcRequest`, `getVolcCredentials`, `getTemporaryApiKeyForEndpoint` and the Ark auth headers. Read its environment loader only when parsing or overrides are in doubt. These source files are useful read-only implementation evidence; do not invoke application routes, API loggers, databases, credit accounting or storage services.
 
