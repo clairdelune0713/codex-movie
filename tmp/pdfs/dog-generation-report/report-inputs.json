@@ -1,0 +1,1144 @@
+{
+  "project_revision": 32,
+  "report_date": "2026-10-16",
+  "report_timezone": "Asia/Taipei",
+  "usd_hkd_reporting_assumption": "7.80",
+  "completion_tokens": 31745925,
+  "usd": "371.4273225",
+  "hkd": "2897.133115500",
+  "rows": [
+    {
+      "number": 1,
+      "id": "s01_c01",
+      "title": "Bench puzzle and Tine's stuck-bottom gag",
+      "seconds": 9,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s01_c01/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s01_c01/takes/take_01.mp4",
+      "usd": "5.1412725",
+      "hkd": "40.101925500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 2,
+      "id": "s01_c02",
+      "title": "Two squeaks, contrasting bows, accidental sit and sharing",
+      "seconds": 10,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s01_c02/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s01_c02/takes/take_01.mp4",
+      "usd": "5.7098925",
+      "hkd": "44.537161500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 3,
+      "id": "s01_c03",
+      "title": "Brisk run and wet-paw reaction",
+      "seconds": 7,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s01_c03/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s01_c03/takes/take_01.mp4",
+      "usd": "4.0040325",
+      "hkd": "31.231453500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 4,
+      "id": "s01_c04",
+      "title": "Rain, failed dry spot, cuddle and canonical photograph",
+      "seconds": 11,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s01_c04/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s01_c04/takes/take_01.mp4",
+      "usd": "6.2785125",
+      "hkd": "48.972397500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 5,
+      "id": "s01_c05",
+      "title": "Months later: contact, separate crates and departures",
+      "seconds": 11,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s01_c05/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s01_c05/takes/take_01.mp4",
+      "usd": "6.2785125",
+      "hkd": "48.972397500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 6,
+      "id": "s02_c01",
+      "title": "Tart learns to clear a route for two bodies",
+      "seconds": 8,
+      "attempts": 2,
+      "videos": 2,
+      "history": "SS",
+      "files": [
+        "chapters/s02_c01/takes/take_01.mp4",
+        "chapters/s02_c01/takes/take_02.mp4"
+      ],
+      "selected": "chapters/s02_c01/takes/take_02.mp4",
+      "usd": "9.1453050",
+      "hkd": "71.333379000",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 7,
+      "id": "s02_c02",
+      "title": "Tine learns to respect a withdrawn hand",
+      "seconds": 7,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s02_c02/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s02_c02/takes/take_01.mp4",
+      "usd": "4.0040325",
+      "hkd": "31.231453500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 8,
+      "id": "s02_c03",
+      "title": "Ah Ming and May introductions; chin-on-knee compromise",
+      "seconds": 10,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s02_c03/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s02_c03/takes/take_01.mp4",
+      "usd": "5.7098925",
+      "hkd": "44.537161500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 9,
+      "id": "s02_c04",
+      "title": "May receives the same print; young-to-adult paw match",
+      "seconds": 5,
+      "attempts": 3,
+      "videos": 1,
+      "history": "FFS",
+      "files": [
+        "chapters/s02_c04/takes/take_03.mp4"
+      ],
+      "selected": "chapters/s02_c04/takes/take_03.mp4",
+      "usd": "2.8667925",
+      "hkd": "22.360981500",
+      "first_success_attempt": 3
+    },
+    {
+      "number": 10,
+      "id": "s03_c01",
+      "title": "Touch-led morning routine, harness excitement and work cue",
+      "seconds": 11,
+      "attempts": 2,
+      "videos": 2,
+      "history": "SS",
+      "files": [
+        "chapters/s03_c01/takes/take_01.mp4",
+        "chapters/s03_c01/takes/take_02.mp4"
+      ],
+      "selected": "chapters/s03_c01/takes/take_02.mp4",
+      "usd": "12.5570250",
+      "hkd": "97.944795000",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 11,
+      "id": "s03_c02",
+      "title": "Neighbour trolley clears the lift",
+      "seconds": 5,
+      "attempts": 2,
+      "videos": 2,
+      "history": "SS",
+      "files": [
+        "chapters/s03_c02/takes/take_01.mp4",
+        "chapters/s03_c02/takes/take_02.mp4"
+      ],
+      "selected": "chapters/s03_c02/takes/take_02.mp4",
+      "usd": "5.7335850",
+      "hkd": "44.721963000",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 12,
+      "id": "s03_c03",
+      "title": "Stationary tram recording interrupted by delivery trolley",
+      "seconds": 6,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s03_c03/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s03_c03/takes/take_01.mp4",
+      "usd": "3.4354125",
+      "hkd": "26.796217500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 13,
+      "id": "s03_c04",
+      "title": "Stationary reply and breakfast anticipation",
+      "seconds": 6,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s03_c04/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s03_c04/takes/take_01.mp4",
+      "usd": "3.4354125",
+      "hkd": "26.796217500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 14,
+      "id": "s04_c01",
+      "title": "Match footsteps across two jobs; both complete a task",
+      "seconds": 7,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s04_c01/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s04_c01/takes/take_01.mp4",
+      "usd": "4.0040325",
+      "hkd": "31.231453500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 15,
+      "id": "s04_c02",
+      "title": "Suitcase clearance matched to Lok's peekaboo",
+      "seconds": 7,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s04_c02/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s04_c02/takes/take_01.mp4",
+      "usd": "4.0040325",
+      "hkd": "31.231453500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 16,
+      "id": "s04_c03",
+      "title": "Toast and crumb temptation, restraint and untidy leg",
+      "seconds": 6,
+      "attempts": 2,
+      "videos": 2,
+      "history": "SS",
+      "files": [
+        "chapters/s04_c03/takes/take_01.mp4",
+        "chapters/s04_c03/takes/take_02.mp4"
+      ],
+      "selected": "chapters/s04_c03/takes/take_02.mp4",
+      "usd": "6.8708250",
+      "hkd": "53.592435000",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 17,
+      "id": "s04_c04",
+      "title": "Cafe name mix-up, payment and clear departure",
+      "seconds": 10,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s04_c04/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s04_c04/takes/take_01.mp4",
+      "usd": "5.7098925",
+      "hkd": "44.537161500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 18,
+      "id": "s04_c05",
+      "title": "Minutes-later takeaway and first missed encounter",
+      "seconds": 8,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s04_c05/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s04_c05/takes/take_01.mp4",
+      "usd": "4.5726525",
+      "hkd": "35.666689500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 19,
+      "id": "s04_c06",
+      "title": "Route opens; invited touch; newspaper foreshadowing",
+      "seconds": 4,
+      "attempts": 2,
+      "videos": 2,
+      "history": "SS",
+      "files": [
+        "chapters/s04_c06/takes/take_01.mp4",
+        "chapters/s04_c06/takes/take_02.mp4"
+      ],
+      "selected": "chapters/s04_c06/takes/take_02.mp4",
+      "usd": "4.5963450",
+      "hkd": "35.851491000",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 20,
+      "id": "s05_c01",
+      "title": "Establish van hazard; cue, refusal and creeping wheel",
+      "seconds": 8,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s05_c01/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s05_c01/takes/take_01.mp4",
+      "usd": "4.5726525",
+      "hkd": "35.666689500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 21,
+      "id": "s05_c02",
+      "title": "Pedestrian confirms hazard; van clears; choose next phase",
+      "seconds": 9,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s05_c02/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s05_c02/takes/take_01.mp4",
+      "usd": "5.1412725",
+      "hkd": "40.101925500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 22,
+      "id": "s05_c03",
+      "title": "Fresh signal, complete crossing and shoulder-rub payoff",
+      "seconds": 8,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s05_c03/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s05_c03/takes/take_01.mp4",
+      "usd": "4.5726525",
+      "hkd": "35.666689500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 23,
+      "id": "s06_c01",
+      "title": "Refusal respected; Tine chooses mat and rest",
+      "seconds": 10,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s06_c01/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s06_c01/takes/take_01.mp4",
+      "usd": "5.7098925",
+      "hkd": "44.537161500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 24,
+      "id": "s06_c02",
+      "title": "Fallen flyer tests Tine's restraint without intrusion",
+      "seconds": 5,
+      "attempts": 2,
+      "videos": 2,
+      "history": "SS",
+      "files": [
+        "chapters/s06_c02/takes/take_01.mp4",
+        "chapters/s06_c02/takes/take_02.mp4"
+      ],
+      "selected": "chapters/s06_c02/takes/take_02.mp4",
+      "usd": "5.7335850",
+      "hkd": "44.721963000",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 25,
+      "id": "s06_c03",
+      "title": "Rest-as-work exchange, funny name and open hand",
+      "seconds": 15,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s06_c03/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s06_c03/takes/take_01_detailcrop03.mp4",
+      "usd": "8.5529925",
+      "hkd": "66.713341500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 26,
+      "id": "s06_c04",
+      "title": "Invitation, shoulder contact and reluctant goodbye",
+      "seconds": 13,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s06_c04/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s06_c04/takes/take_01.mp4",
+      "usd": "7.4157525",
+      "hkd": "57.842869500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 27,
+      "id": "s07_c01",
+      "title": "Harness off, whole-body shake and impatient toy delivery",
+      "seconds": 7,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s07_c01/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s07_c01/takes/take_01.mp4",
+      "usd": "4.0040325",
+      "hkd": "31.231453500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 28,
+      "id": "s07_c02",
+      "title": "Knee-switch squeak and determined tug",
+      "seconds": 6,
+      "attempts": 3,
+      "videos": 1,
+      "history": "FFS",
+      "files": [
+        "chapters/s07_c02/takes/take_03.mp4"
+      ],
+      "selected": "chapters/s07_c02/takes/take_03.mp4",
+      "usd": "3.4354125",
+      "hkd": "26.796217500",
+      "first_success_attempt": 3
+    },
+    {
+      "number": 29,
+      "id": "s07_c03",
+      "title": "Cushion collision, laugh and returned toy",
+      "seconds": 5,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s07_c03/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s07_c03/takes/take_01_roomtone01.mp4",
+      "usd": "2.8667925",
+      "hkd": "22.360981500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 30,
+      "id": "s07_c04",
+      "title": "Seated editing and quiet dog-to-foot contact",
+      "seconds": 4,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s07_c04/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s07_c04/takes/take_01.mp4",
+      "usd": "2.2981725",
+      "hkd": "17.925745500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 31,
+      "id": "s08_c01",
+      "title": "Establish public routes and wall occlusion",
+      "seconds": 6,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s08_c01/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s08_c01/takes/take_01.mp4",
+      "usd": "3.4354125",
+      "hkd": "26.796217500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 32,
+      "id": "s08_c02",
+      "title": "Ear response, fleeting cream coat and second near miss",
+      "seconds": 5,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s08_c02/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s08_c02/takes/take_01.mp4",
+      "usd": "2.8667925",
+      "hkd": "22.360981500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 33,
+      "id": "s08_c03",
+      "title": "Unopened newspaper and two umbrella-stand clangs",
+      "seconds": 7,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s08_c03/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s08_c03/takes/take_01.mp4",
+      "usd": "4.0040325",
+      "hkd": "31.231453500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 34,
+      "id": "s08_c04",
+      "title": "Chan calls Tine; exuberance eases into careful approach",
+      "seconds": 6,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s08_c04/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s08_c04/takes/take_01.mp4",
+      "usd": "3.4354125",
+      "hkd": "26.796217500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 35,
+      "id": "s09_c01",
+      "title": "Remembered touch; puppy print appears and is put away",
+      "seconds": 9,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s09_c01/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s09_c01/takes/take_01.mp4",
+      "usd": "5.1412725",
+      "hkd": "40.101925500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 36,
+      "id": "s09_c02",
+      "title": "Offer-withdraw toy gag resolves with a squeak and bow",
+      "seconds": 7,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s09_c02/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s09_c02/takes/take_01.mp4",
+      "usd": "4.0040325",
+      "hkd": "31.231453500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 37,
+      "id": "s09_c03",
+      "title": "Lok asks, waits, strokes and withdraws",
+      "seconds": 7,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s09_c03/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s09_c03/takes/take_01.mp4",
+      "usd": "4.0040325",
+      "hkd": "31.231453500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 38,
+      "id": "s09_c04",
+      "title": "Separate old photograph, slipper joke and towel memory",
+      "seconds": 19,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s09_c04/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s09_c04/takes/take_01.mp4",
+      "usd": "10.8274725",
+      "hkd": "84.454285500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 39,
+      "id": "s09_c05",
+      "title": "Harbour invitation leaves Chan an independent choice",
+      "seconds": 7,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s09_c05/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s09_c05/takes/take_01.mp4",
+      "usd": "4.0040325",
+      "hkd": "31.231453500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 40,
+      "id": "s10_c01",
+      "title": "Listening game: tram, trolley and one-ear reaction",
+      "seconds": 12,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s10_c01/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s10_c01/takes/take_01.mp4",
+      "usd": "6.8471325",
+      "hkd": "53.407633500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 41,
+      "id": "s10_c02",
+      "title": "Ferry recording connects to Chan's former work",
+      "seconds": 10,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s10_c02/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s10_c02/takes/take_01.mp4",
+      "usd": "5.7098925",
+      "hkd": "44.537161500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 42,
+      "id": "s10_c03",
+      "title": "Home-toy joke opens into the harbour invitation",
+      "seconds": 12,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s10_c03/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s10_c03/takes/take_01.mp4",
+      "usd": "6.8471325",
+      "hkd": "53.407633500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 43,
+      "id": "s10_c04",
+      "title": "Brief chosen pause; Tine matters; Chan signs up",
+      "seconds": 12,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s10_c04/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s10_c04/takes/take_01.mp4",
+      "usd": "6.8471325",
+      "hkd": "53.407633500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 44,
+      "id": "s10_c05",
+      "title": "Agree ferry arrival and meeting point; sleeping-paw button",
+      "seconds": 8,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s10_c05/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s10_c05/takes/take_01.mp4",
+      "usd": "4.5726525",
+      "hkd": "35.666689500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 45,
+      "id": "s11_c01",
+      "title": "Independent evening: kettle, hat, packed bag and phone",
+      "seconds": 12,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s11_c01/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s11_c01/takes/take_01.mp4",
+      "usd": "6.8471325",
+      "hkd": "53.407633500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 46,
+      "id": "s11_c02",
+      "title": "Saturday match on hat; Tine waits for Chan to settle",
+      "seconds": 8,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s11_c02/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s11_c02/takes/take_01.mp4",
+      "usd": "4.5726525",
+      "hkd": "35.666689500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 47,
+      "id": "s12_c01",
+      "title": "13:00 group check, bowl clip and short public walking route",
+      "seconds": 6,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s12_c01/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s12_c01/takes/take_01.mp4",
+      "usd": "3.4354125",
+      "hkd": "26.796217500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 48,
+      "id": "s12_c02",
+      "title": "Afternoon ferry child asks and offers a morning greeting",
+      "seconds": 14,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s12_c02/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s12_c02/takes/take_01.mp4",
+      "usd": "7.9843725",
+      "hkd": "62.278105500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 49,
+      "id": "s12_c03",
+      "title": "One eye opens; leaf temptation returns to Chan's pace",
+      "seconds": 5,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s12_c03/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s12_c03/takes/take_01.mp4",
+      "usd": "2.8667925",
+      "hkd": "22.360981500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 50,
+      "id": "s12_c04",
+      "title": "Moored-ferry call, phone packed, cue and disembarkation",
+      "seconds": 10,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s12_c04/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s12_c04/takes/take_01.mp4",
+      "usd": "5.7098925",
+      "hkd": "44.537161500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 51,
+      "id": "s13_c01",
+      "title": "Public forecourt routes bring both dogs into one frame",
+      "seconds": 6,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s13_c01/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s13_c01/takes/take_01.mp4",
+      "usd": "3.4354125",
+      "hkd": "26.796217500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 52,
+      "id": "s13_c02",
+      "title": "Suitcase gap, tentative step and interrupted safe route",
+      "seconds": 6,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s13_c02/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s13_c02/takes/take_01.mp4",
+      "usd": "3.4354125",
+      "hkd": "26.796217500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 53,
+      "id": "s13_c03",
+      "title": "Group turns inland; Tart clears route east; third near miss",
+      "seconds": 6,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s13_c03/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s13_c03/takes/take_01.mp4",
+      "usd": "3.4354125",
+      "hkd": "26.796217500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 54,
+      "id": "s13_c04",
+      "title": "Water break carries the cut into the seating bay",
+      "seconds": 4,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s13_c04/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s13_c04/takes/take_01.mp4",
+      "usd": "2.2981725",
+      "hkd": "17.925745500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 55,
+      "id": "s14_c01",
+      "title": "Shake anticipation, one drop, tissue and exaggerated wipe",
+      "seconds": 7,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s14_c01/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s14_c01/takes/take_01.mp4",
+      "usd": "4.0040325",
+      "hkd": "31.231453500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 56,
+      "id": "s14_c02",
+      "title": "Horn changes Chan's expression; Tine turns back; May listens",
+      "seconds": 10,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s14_c02/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s14_c02/takes/take_01.mp4",
+      "usd": "5.7098925",
+      "hkd": "44.537161500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 57,
+      "id": "s14_c03",
+      "title": "Shoulder in reach and group chooses to remain",
+      "seconds": 4,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s14_c03/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s14_c03/takes/take_01.mp4",
+      "usd": "2.2981725",
+      "hkd": "17.925745500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 58,
+      "id": "s14_c04",
+      "title": "Stationary call relocates meeting; open hand ends the beat",
+      "seconds": 14,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s14_c04/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s14_c04/takes/take_01.mp4",
+      "usd": "7.9843725",
+      "hkd": "62.278105500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 59,
+      "id": "s15_c01",
+      "title": "Stationary phone away and guided return",
+      "seconds": 5,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s15_c01/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s15_c01/takes/take_01.mp4",
+      "usd": "2.8667925",
+      "hkd": "22.360981500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 60,
+      "id": "s15_c02",
+      "title": "Narrow entrance, spoken help and suitcase clearance",
+      "seconds": 12,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s15_c02/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s15_c02/takes/take_01.mp4",
+      "usd": "6.8471325",
+      "hkd": "53.407633500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 61,
+      "id": "s15_c03",
+      "title": "First sensory contact; task comes first; secure seating",
+      "seconds": 11,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s15_c03/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s15_c03/takes/take_01.mp4",
+      "usd": "6.2785125",
+      "hkd": "48.972397500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 62,
+      "id": "s15_c04",
+      "title": "Harness fully off, then brown lead clipped; off-duty shake",
+      "seconds": 10,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s15_c04/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s15_c04/takes/take_01.mp4",
+      "usd": "5.7098925",
+      "hkd": "44.537161500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 63,
+      "id": "s16_c01",
+      "title": "Permission, curved approach and reciprocal sniffing",
+      "seconds": 11,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s16_c01/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s16_c01/takes/take_01.mp4",
+      "usd": "6.2785125",
+      "hkd": "48.972397500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 64,
+      "id": "s16_c02",
+      "title": "Tine waits; squeak invites Tart to the free toy end",
+      "seconds": 8,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s16_c02/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s16_c02/takes/take_01.mp4",
+      "usd": "4.5726525",
+      "hkd": "35.666689500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 65,
+      "id": "s16_c03",
+      "title": "Accidental sit, returned toy, matching bows and ear gag",
+      "seconds": 10,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s16_c03/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s16_c03/takes/take_01.mp4",
+      "usd": "5.7098925",
+      "hkd": "44.537161500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 66,
+      "id": "s16_c04",
+      "title": "Humans hear generosity; keep dogs playing underneath",
+      "seconds": 9,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s16_c04/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s16_c04/takes/take_01.mp4",
+      "usd": "5.1412725",
+      "hkd": "40.101925500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 67,
+      "id": "s16_c05",
+      "title": "May connects names, same print and Victoria origin",
+      "seconds": 17,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s16_c05/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s16_c05/takes/take_01.mp4",
+      "usd": "9.6902325",
+      "hkd": "75.583813500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 68,
+      "id": "s16_c06",
+      "title": "Describe puppy pose to Ah Ming; confirmation after behaviour",
+      "seconds": 12,
+      "attempts": 2,
+      "videos": 1,
+      "history": "FS",
+      "files": [
+        "chapters/s16_c06/takes/take_02.mp4"
+      ],
+      "selected": "chapters/s16_c06/takes/take_02.mp4",
+      "usd": "6.8471325",
+      "hkd": "53.407633500",
+      "first_success_attempt": 2
+    },
+    {
+      "number": 69,
+      "id": "s16_c07",
+      "title": "Chan chooses longer rest and makes room for family",
+      "seconds": 7,
+      "attempts": 1,
+      "videos": 1,
+      "history": "S",
+      "files": [
+        "chapters/s16_c07/takes/take_01.mp4"
+      ],
+      "selected": "chapters/s16_c07/takes/take_01.mp4",
+      "usd": "4.0040325",
+      "hkd": "31.231453500",
+      "first_success_attempt": 1
+    },
+    {
+      "number": 70,
+      "id": "s16_c08",
+      "title": "Offer room, settle into puppy pose; live harbour and brief fade",
+      "seconds": 11,
+      "attempts": 2,
+      "videos": 2,
+      "history": "SS",
+      "files": [
+        "chapters/s16_c08/takes/take_01.mp4",
+        "chapters/s16_c08/takes/take_02.mp4"
+      ],
+      "selected": "chapters/s16_c08/takes/take_02.mp4",
+      "usd": "12.5570250",
+      "hkd": "97.944795000",
+      "first_success_attempt": 1
+    }
+  ],
+  "source_hashes": {
+    "project.json": "3ee2815649926cb46962630112001b17d23021327bca27f79c6d38670b0f4cfe",
+    "usage.json": "da5f26845c46903306af10809fabd05ea104884af9082f28432d199f28c81597",
+    "exports/task-journal.json": "936703543e1d1355c96ca01afd9db5ebfa12e0a4c726aa63310a44a97e7eb1d6",
+    "exports/verification.json": "622fe3acca7098961280eb6041589228e9fa55ad3f11113653a8237a62748d5f"
+  }
+}

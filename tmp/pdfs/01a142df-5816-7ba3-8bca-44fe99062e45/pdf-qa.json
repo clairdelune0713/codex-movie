@@ -1,0 +1,25 @@
+{
+  "pdf": "C:\\Users\\Admin 3\\Downloads\\codex-movie\\output\\pdf\\01a142df-5816-7ba3-8bca-44fe99062e45\\dog-20261014-production-report.pdf",
+  "pages": 12,
+  "final_movie_filename": "dog-20261014-480p.mp4",
+  "planned_segments": 70,
+  "requests": 96,
+  "generated_video_filenames": 91,
+  "unique_selected_or_generated_paths": 93,
+  "all_video_paths_present_in_pdf": true,
+  "production_sources_unchanged": true,
+  "page_text_lengths": [
+    1685,
+    2612,
+    2445,
+    2385,
+    2259,
+    879,
+    2764,
+    2589,
+    2545,
+    2614,
+    1058,
+    2846
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "scan": {
+    "recordCount": 1,
+    "truncated": false,
+    "metadata": {
+      "revision": "8th5f9",
+      "target": {
+        "id": "wb/oitf2f",
+        "beforeLines": 0,
+        "afterLines": 0
+      },
+      "kind": {
+        "requested": "match",
+        "tokens": [
+          "match"
+        ]
+      },
+      "include": {
+        "tokens": []
+      },
+      "exclude": {
+        "tokens": []
+      },
+      "notices": []
+    }
+  },
+  "overview": {
+    "recordCount": 1,
+    "truncated": false,
+    "metadata": {
+      "revision": "hb9qn5",
+      "target": {
+        "id": "wb/ra8mp5",
+        "beforeLines": 0,
+        "afterLines": 0
+      },
+      "kind": {
+        "requested": "region",
+        "tokens": [
+          "region"
+        ]
+      },
+      "include": {
+        "tokens": []
+      },
+      "exclude": {
+        "tokens": []
+      },
+      "notices": []
+    }
+  },
+  "fxTest": {
+    "before": 1264.6926925822,
+    "changed": 1289.3515407999996,
+    "restored": 1264.6926925822
+  },
+  "all70SegmentRowsReconciled": true
+}

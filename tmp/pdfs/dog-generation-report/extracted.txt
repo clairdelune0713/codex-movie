@@ -1,0 +1,819 @@
+DOG-20261015  /  SEEDANCE GENERATION AUDIT
+16 OCT 2026  |  PROJECT SNAPSHOT r32
+HKD uses assumed USD/HKD 7.80. All API costs are estimates, not an invoice.
+1 / 6
+Generation and cost report
+Complete 70-segment register with generated filenames, selected edit filenames and retry outcomes.
+70
+planned segments
+82
+API requests
+77
+returned videos
+5
+failed requests
+HK$2,897.13
+Estimated total Seedance API cost
+US$371.43 converted at the explicit reporting assumption of US$1 = HK$7.80.
+Model - every request
+Seedance 2.5 / dreamina-seedance-2-5-260628
+Resolution / frame format
+1080p / 1920 x 1080 / 16:9 / 24 fps. All 77 returned videos match.
+Planned duration
+16 scenes; 70 segments; 600 seconds (10:00). Per-request clips range from 4 to 19 seconds.
+Request totals
+60 segments used 1 request; 8 used 2; 2 used 3. All attempts requested 684 seconds in total.
+Successful request duration
+650 seconds, including discarded takes. Raw files can contain a few extra frames; final cut is exactly 600 seconds.
+Usage / price basis
+31,745,925 completion tokens x US$11.70 per million = US$371.4273225.
+Final movie filename dog-20261015-1080p.mp4
+C:/Users/Admin 3/Downloads/codex-movie/movies/dog-20261015/exports/dog-20261015-1080p.mp4
+Cost scope: this new movie only, including discarded successful retakes. Previously created dog-20261014 assets/audio are reused; their historical production costs are not included. Local edits and assembly add
+no Seedance calls. No account invoice, tax or card FX charge has been verified.
+FX context: HKMA describes a HK$7.75-7.85 per US dollar linked-rate band. The 7.80 used here is a reporting assumption, not a spot or settlement quote. HKMA reference.
+
+DOG-20261015  /  SEEDANCE GENERATION AUDIT
+16 OCT 2026  |  PROJECT SNAPSHOT r32
+HKD uses assumed USD/HKD 7.80. All API costs are estimates, not an invoice.
+2 / 6
+Segment register | 01-18
+S = returned video; F = failed request with no video file. History is chronological. Costs include all takes for the segment.
+Files below are inside chapters/<segment ID>/takes/ under the project folder. The selected file may be a local edit of a returned video.
+No
+.
+Segment
+Sec /
+try
+API
+tries
+Video
+files
+History
+Generated video filename(s)
+Selected movie-input filename
+Est.
+HK$
+1
+s01_c01
+9
+1
+1
+S
+take_01.mp4
+take_01.mp4
+40.10
+2
+s01_c02
+10
+1
+1
+S
+take_01.mp4
+take_01.mp4
+44.54
+3
+s01_c03
+7
+1
+1
+S
+take_01.mp4
+take_01.mp4
+31.23
+4
+s01_c04
+11
+1
+1
+S
+take_01.mp4
+take_01.mp4
+48.97
+5
+s01_c05
+11
+1
+1
+S
+take_01.mp4
+take_01.mp4
+48.97
+6
+s02_c01
+8
+2
+2
+SS
+take_01.mp4
+take_02.mp4
+take_02.mp4
+71.33
+7
+s02_c02
+7
+1
+1
+S
+take_01.mp4
+take_01.mp4
+31.23
+8
+s02_c03
+10
+1
+1
+S
+take_01.mp4
+take_01.mp4
+44.54
+9
+s02_c04
+5
+3
+1
+FFS
+take_03.mp4
+take_03.mp4
+22.36
+10
+s03_c01
+11
+2
+2
+SS
+take_01.mp4
+take_02.mp4
+take_02.mp4
+97.94
+11
+s03_c02
+5
+2
+2
+SS
+take_01.mp4
+take_02.mp4
+take_02.mp4
+44.72
+12
+s03_c03
+6
+1
+1
+S
+take_01.mp4
+take_01.mp4
+26.80
+13
+s03_c04
+6
+1
+1
+S
+take_01.mp4
+take_01.mp4
+26.80
+14
+s04_c01
+7
+1
+1
+S
+take_01.mp4
+take_01.mp4
+31.23
+15
+s04_c02
+7
+1
+1
+S
+take_01.mp4
+take_01.mp4
+31.23
+16
+s04_c03
+6
+2
+2
+SS
+take_01.mp4
+take_02.mp4
+take_02.mp4
+53.59
+17
+s04_c04
+10
+1
+1
+S
+take_01.mp4
+take_01.mp4
+44.54
+18
+s04_c05
+8
+1
+1
+S
+take_01.mp4
+take_01.mp4
+35.67
+Project folder: C:/Users/Admin 3/Downloads/codex-movie/movies/dog-20261015/
+Example: s02_c04 + take_03.mp4 resolves to chapters/s02_c04/takes/take_03.mp4. Failed requests have no invented filename. Totals use unrounded values; rounding the 70 rows independently creates a HK$0.04
+difference.
+
+DOG-20261015  /  SEEDANCE GENERATION AUDIT
+16 OCT 2026  |  PROJECT SNAPSHOT r32
+HKD uses assumed USD/HKD 7.80. All API costs are estimates, not an invoice.
+3 / 6
+Segment register | 19-36
+S = returned video; F = failed request with no video file. History is chronological. Costs include all takes for the segment.
+Files below are inside chapters/<segment ID>/takes/ under the project folder. The selected file may be a local edit of a returned video.
+No
+.
+Segment
+Sec /
+try
+API
+tries
+Video
+files
+History
+Generated video filename(s)
+Selected movie-input filename
+Est.
+HK$
+19
+s04_c06
+4
+2
+2
+SS
+take_01.mp4
+take_02.mp4
+take_02.mp4
+35.85
+20
+s05_c01
+8
+1
+1
+S
+take_01.mp4
+take_01.mp4
+35.67
+21
+s05_c02
+9
+1
+1
+S
+take_01.mp4
+take_01.mp4
+40.10
+22
+s05_c03
+8
+1
+1
+S
+take_01.mp4
+take_01.mp4
+35.67
+23
+s06_c01
+10
+1
+1
+S
+take_01.mp4
+take_01.mp4
+44.54
+24
+s06_c02
+5
+2
+2
+SS
+take_01.mp4
+take_02.mp4
+take_02.mp4
+44.72
+25
+s06_c03
+15
+1
+1
+S
+take_01.mp4
+take_01_detailcrop03.mp4
+66.71
+26
+s06_c04
+13
+1
+1
+S
+take_01.mp4
+take_01.mp4
+57.84
+27
+s07_c01
+7
+1
+1
+S
+take_01.mp4
+take_01.mp4
+31.23
+28
+s07_c02
+6
+3
+1
+FFS
+take_03.mp4
+take_03.mp4
+26.80
+29
+s07_c03
+5
+1
+1
+S
+take_01.mp4
+take_01_roomtone01.mp4
+22.36
+30
+s07_c04
+4
+1
+1
+S
+take_01.mp4
+take_01.mp4
+17.93
+31
+s08_c01
+6
+1
+1
+S
+take_01.mp4
+take_01.mp4
+26.80
+32
+s08_c02
+5
+1
+1
+S
+take_01.mp4
+take_01.mp4
+22.36
+33
+s08_c03
+7
+1
+1
+S
+take_01.mp4
+take_01.mp4
+31.23
+34
+s08_c04
+6
+1
+1
+S
+take_01.mp4
+take_01.mp4
+26.80
+35
+s09_c01
+9
+1
+1
+S
+take_01.mp4
+take_01.mp4
+40.10
+36
+s09_c02
+7
+1
+1
+S
+take_01.mp4
+take_01.mp4
+31.23
+Project folder: C:/Users/Admin 3/Downloads/codex-movie/movies/dog-20261015/
+Example: s02_c04 + take_03.mp4 resolves to chapters/s02_c04/takes/take_03.mp4. Failed requests have no invented filename. Totals use unrounded values; rounding the 70 rows independently creates a HK$0.04
+difference.
+
+DOG-20261015  /  SEEDANCE GENERATION AUDIT
+16 OCT 2026  |  PROJECT SNAPSHOT r32
+HKD uses assumed USD/HKD 7.80. All API costs are estimates, not an invoice.
+4 / 6
+Segment register | 37-54
+S = returned video; F = failed request with no video file. History is chronological. Costs include all takes for the segment.
+Files below are inside chapters/<segment ID>/takes/ under the project folder. The selected file may be a local edit of a returned video.
+No
+.
+Segment
+Sec /
+try
+API
+tries
+Video
+files
+History
+Generated video filename(s)
+Selected movie-input filename
+Est.
+HK$
+37
+s09_c03
+7
+1
+1
+S
+take_01.mp4
+take_01.mp4
+31.23
+38
+s09_c04
+19
+1
+1
+S
+take_01.mp4
+take_01.mp4
+84.45
+39
+s09_c05
+7
+1
+1
+S
+take_01.mp4
+take_01.mp4
+31.23
+40
+s10_c01
+12
+1
+1
+S
+take_01.mp4
+take_01.mp4
+53.41
+41
+s10_c02
+10
+1
+1
+S
+take_01.mp4
+take_01.mp4
+44.54
+42
+s10_c03
+12
+1
+1
+S
+take_01.mp4
+take_01.mp4
+53.41
+43
+s10_c04
+12
+1
+1
+S
+take_01.mp4
+take_01.mp4
+53.41
+44
+s10_c05
+8
+1
+1
+S
+take_01.mp4
+take_01.mp4
+35.67
+45
+s11_c01
+12
+1
+1
+S
+take_01.mp4
+take_01.mp4
+53.41
+46
+s11_c02
+8
+1
+1
+S
+take_01.mp4
+take_01.mp4
+35.67
+47
+s12_c01
+6
+1
+1
+S
+take_01.mp4
+take_01.mp4
+26.80
+48
+s12_c02
+14
+1
+1
+S
+take_01.mp4
+take_01.mp4
+62.28
+49
+s12_c03
+5
+1
+1
+S
+take_01.mp4
+take_01.mp4
+22.36
+50
+s12_c04
+10
+1
+1
+S
+take_01.mp4
+take_01.mp4
+44.54
+51
+s13_c01
+6
+1
+1
+S
+take_01.mp4
+take_01.mp4
+26.80
+52
+s13_c02
+6
+1
+1
+S
+take_01.mp4
+take_01.mp4
+26.80
+53
+s13_c03
+6
+1
+1
+S
+take_01.mp4
+take_01.mp4
+26.80
+54
+s13_c04
+4
+1
+1
+S
+take_01.mp4
+take_01.mp4
+17.93
+Project folder: C:/Users/Admin 3/Downloads/codex-movie/movies/dog-20261015/
+Example: s02_c04 + take_03.mp4 resolves to chapters/s02_c04/takes/take_03.mp4. Failed requests have no invented filename. Totals use unrounded values; rounding the 70 rows independently creates a HK$0.04
+difference.
+
+DOG-20261015  /  SEEDANCE GENERATION AUDIT
+16 OCT 2026  |  PROJECT SNAPSHOT r32
+HKD uses assumed USD/HKD 7.80. All API costs are estimates, not an invoice.
+5 / 6
+Segment register | 55-70
+S = returned video; F = failed request with no video file. History is chronological. Costs include all takes for the segment.
+Files below are inside chapters/<segment ID>/takes/ under the project folder. The selected file may be a local edit of a returned video.
+No
+.
+Segment
+Sec /
+try
+API
+tries
+Video
+files
+History
+Generated video filename(s)
+Selected movie-input filename
+Est.
+HK$
+55
+s14_c01
+7
+1
+1
+S
+take_01.mp4
+take_01.mp4
+31.23
+56
+s14_c02
+10
+1
+1
+S
+take_01.mp4
+take_01.mp4
+44.54
+57
+s14_c03
+4
+1
+1
+S
+take_01.mp4
+take_01.mp4
+17.93
+58
+s14_c04
+14
+1
+1
+S
+take_01.mp4
+take_01.mp4
+62.28
+59
+s15_c01
+5
+1
+1
+S
+take_01.mp4
+take_01.mp4
+22.36
+60
+s15_c02
+12
+1
+1
+S
+take_01.mp4
+take_01.mp4
+53.41
+61
+s15_c03
+11
+1
+1
+S
+take_01.mp4
+take_01.mp4
+48.97
+62
+s15_c04
+10
+1
+1
+S
+take_01.mp4
+take_01.mp4
+44.54
+63
+s16_c01
+11
+1
+1
+S
+take_01.mp4
+take_01.mp4
+48.97
+64
+s16_c02
+8
+1
+1
+S
+take_01.mp4
+take_01.mp4
+35.67
+65
+s16_c03
+10
+1
+1
+S
+take_01.mp4
+take_01.mp4
+44.54
+66
+s16_c04
+9
+1
+1
+S
+take_01.mp4
+take_01.mp4
+40.10
+67
+s16_c05
+17
+1
+1
+S
+take_01.mp4
+take_01.mp4
+75.58
+68
+s16_c06
+12
+2
+1
+FS
+take_02.mp4
+take_02.mp4
+53.41
+69
+s16_c07
+7
+1
+1
+S
+take_01.mp4
+take_01.mp4
+31.23
+70
+s16_c08
+11
+2
+2
+SS
+take_01.mp4
+take_02.mp4
+take_02.mp4
+97.94
+Project folder: C:/Users/Admin 3/Downloads/codex-movie/movies/dog-20261015/
+Example: s02_c04 + take_03.mp4 resolves to chapters/s02_c04/takes/take_03.mp4. Failed requests have no invented filename. Totals use unrounded values; rounding the 70 rows independently creates a HK$0.04
+difference.
+
+DOG-20261015  /  SEEDANCE GENERATION AUDIT
+16 OCT 2026  |  PROJECT SNAPSHOT r32
+HKD uses assumed USD/HKD 7.80. All API costs are estimates, not an invoice.
+6 / 6
+Retakes, failures and audit notes
+Segment
+History
+Reason / resolution
+s02_c01
+SS
+Rural-geography correction; both requests returned videos.
+s02_c04
+FFS
+Two output-audio rejections. Third request returned silent picture; local training-room ambience supplied.
+s03_c01
+SS
+Dialogue-performance retake; both requests returned videos.
+s03_c02
+SS
+Dialogue-performance retake; both requests returned videos.
+s04_c03
+SS
+Correct dog/table and floor-toast placement; both requests returned videos.
+s04_c06
+SS
+Correct dog placement on the floor; both requests returned videos.
+s06_c02
+SS
+Correct dog/mat placement beside Chan; both requests returned videos.
+s07_c02
+FFS
+One output-audio rejection, then one output-video rejection. Third request returned silent picture; finalized original local audio supplied.
+s16_c06
+FS
+Output-audio rejection. Second request returned silent picture; finalized original local audio supplied.
+s16_c08
+SS
+First output put dogs on the bench. Second output corrected the ground-level ending.
+API success vs. final selection. 67 segments returned a video on their first request; one first returned on request 2 and two on request 3. Seven returned videos were subsequently replaced for creative review. A
+returned video is not a guarantee of perfect continuity or dialogue.
+Local selected edits. s06_c03 uses take_01_detailcrop03.mp4 (hand/eye reframing); s07_c03 uses take_01_roomtone01.mp4 (local audio edit). These are derivatives, not extra API generations. Picture-only
+selected takes are s02_c04/take_03.mp4, s07_c02/take_03.mp4 and s16_c06/take_02.mp4; local audio is attached during assembly.
+Failure accounting. The five failed requests comprise four output-audio rejections and one output-video rejection. They have no returned video files and are recorded at estimated zero cost under the ledger pricing
+assumption. All 82 attempts are resolved; none have pending/unknown usage charges in the report. Actual billing remains unverified.
+Sources and reproducibility. Read from project snapshot r32: project.json (plan and selected files), usage.json (82 attempts, measured tokens and cost estimates), exports/task-journal.json (take histories and real
+generated paths), exports/verification.json (600-second final technical profile), and exports/assembly-settings.json (movie inputs). All source movie records were read only.
+Pricing reference recorded in the ledger: BytePlus model pricing, checked during production on 15 October 2026. The recorded rate is a list-price estimate; it is not an account invoice.
