@@ -1,0 +1,1057 @@
+{
+  "screenplay": "00_SCRIPT/Somewhere_Between_Us_Revised_Screenplay.pdf",
+  "revision": "2026-10-14",
+  "asset_count": 72,
+  "scene_count": 16,
+  "pdf_pages": 30,
+  "original_character_bytes_preserved": {
+    "Ah_Ming_阿明_Dark_Glasses.png": true,
+    "May_阿May.png": true,
+    "Uncle_Chan_陳伯.png": true
+  },
+  "assets": [
+    {
+      "file": "01_CHARACTERS/Ah_Ming_阿明_Dark_Glasses.png",
+      "script_scenes": [
+        "02",
+        "03",
+        "04",
+        "05",
+        "07",
+        "08",
+        "10",
+        "12",
+        "13",
+        "15",
+        "16"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "f6656d39b967e4c6675feaada3f57df7ab9d55b939109b5960ed2de6deea3600",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "01_CHARACTERS/Auntie_Lan_Cafe_Worker.png",
+      "script_scenes": [
+        "04"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "60872ccbd1897dda74da2e2cdfa050057e357ee22447ec26d7dbd1d034363b59",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "01_CHARACTERS/Bo_Centre_Worker.png",
+      "script_scenes": [
+        "06",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "5213497ffa735ec5b11b87e1e0018ad5fefe71312608bdd67c26b6f22758c6cc",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "01_CHARACTERS/Centre_Colleague_and_Members.png",
+      "script_scenes": [
+        "04",
+        "06",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "0ad06bfb2b9bdc43f0f5d0cc48835c984bbed801bc4c09f0a895692cc17587a7",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "01_CHARACTERS/Growing_Tart_and_Tine.png",
+      "script_scenes": [
+        "01",
+        "02"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "3593a901d1b3d1d43521c2eaef927efaabfa87033623cf7355c746927c564382",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "01_CHARACTERS/Lok_and_Mother.png",
+      "script_scenes": [
+        "04",
+        "09",
+        "10",
+        "12",
+        "13",
+        "14",
+        "16"
+      ],
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "sha256": "d3c7bbea140d35b80605637f55cc562b1f7ff9a0518d981e95e7359c06d48552",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "01_CHARACTERS/May_阿May.png",
+      "script_scenes": [
+        "02",
+        "04",
+        "06",
+        "08",
+        "09",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "104f16008d08d36db00de5d76e5f60b5256c99255a8d94e2f9882d01af96be55",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "01_CHARACTERS/Street_and_Ferry_Supporting_Cast.png",
+      "script_scenes": [
+        "03",
+        "04",
+        "05",
+        "12",
+        "13",
+        "15"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "4c0fb0ac5fdd3adbcb25c7598578ae6766c354c60c676e6831998c7992d177b3",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "01_CHARACTERS/Tart_Adult_Off_Duty_Attached_Lead.png",
+      "script_scenes": [
+        "15",
+        "16"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "bacef91b3f5f82ac162fb024d2cdc29675c612b0f047735f93615c6e3c7749e4",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "01_CHARACTERS/Tart_Adult_Working_Harness_No_Leash.png",
+      "script_scenes": [
+        "02",
+        "03",
+        "04",
+        "05",
+        "08",
+        "10",
+        "12",
+        "13",
+        "15"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "512ecb64eb8c462469400b78e3b24895282b3fa6a4f9b7cb6b634e108d7086fd",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "01_CHARACTERS/Tart_Home_Collar_Separate_Lead.png",
+      "script_scenes": [
+        "03",
+        "07"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "4e2a511d483438adf270e30ece04f50430a4c3cdec0974fa7301dd72f014e8eb",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "01_CHARACTERS/Tart_蛋撻_Puppy.png",
+      "script_scenes": [
+        "01"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "8118c84af6f281870af993379ce056b8898ac3ce5de85aa1ff0b4e8246164506",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "01_CHARACTERS/Tine_阿華田_Adult_Bandanna_Collar_Lead.png",
+      "script_scenes": [
+        "02",
+        "04",
+        "06",
+        "08",
+        "09",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "1800247d35dd971f9a3afbd350ccb93b90304c829c35e0cc458544e044a4ffb1",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "01_CHARACTERS/Tine_阿華田_Puppy.png",
+      "script_scenes": [
+        "01"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "33422d3fb0cee09898774297c2eae1ea6eac402b7389fcbab6d401bb1b92eacb",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "01_CHARACTERS/Training_Handlers_and_Volunteer.png",
+      "script_scenes": [
+        "01",
+        "02"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "35c23821a53e7b3f7808ccab1a3947858b6adcf35a552771a5dd78ca8ae800c4",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "01_CHARACTERS/Uncle_Chan_陳伯.png",
+      "script_scenes": [
+        "04",
+        "06",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "33733a9a60b0df3523c00cbdf4f9d2d13877037e0bbb17249759724fd9050383",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S01_Victoria_Puppy_Yard_Morning.png",
+      "script_scenes": [
+        "01"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "a50ede8ddf604ad85d787ebec2e1f478251c5ddfb193288ad3f668b88925d376",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S02_Guide_Training_Path.png",
+      "script_scenes": [
+        "02"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "064a13f6dfc4e233092e94aba0f8cf6d5b3f4aa78f3b074452b3838dad8ddfdb",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S02_Hong_Kong_Practice_and_Introductions.png",
+      "script_scenes": [
+        "02"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "e461921c6d5629861fe7b3db644ea232a386f9285a49075d4e835f0ed229f4cd",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S03_Residential_Lift_Lobby.png",
+      "script_scenes": [
+        "03"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "f92c52a4153487e7d0bbc0b0529f4c8cca577d67a430560d46f1647b7aa46186",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S03_S04_Central_Lan_Kee_Cha_Chaan_Teng.png",
+      "script_scenes": [
+        "03",
+        "04"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "004d915c01bd474663bebe14c373707933186c19e26b789f674f7cba13622669",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S03_S07_Ah_Ming_Flat.png",
+      "script_scenes": [
+        "03",
+        "07"
+      ],
+      "dimensions": [
+        1671,
+        941
+      ],
+      "sha256": "7c95c1594e440b39b8edf6b47c3924331a6ef4c8c3815694365f65fe390df129",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S04_Centre_Room_Morning.png",
+      "script_scenes": [
+        "04"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "5ea420d31a85ebcc3b0607e77c9e2747519b20d7fd9428b8e2e5d741798d8179",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S04_Station_Lift.png",
+      "script_scenes": [
+        "04"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "5d83bb8601ed318f13d88bdc692a3bd0f4d9d093fdf667c378745c8cef4b711e",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S05_Central_Signalled_Crossing.png",
+      "script_scenes": [
+        "05"
+      ],
+      "dimensions": [
+        1956,
+        804
+      ],
+      "sha256": "223563b5777586baa8041b898464d32f8b10897611be76f1821c4df9a92990a1",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S08_Tsim_Sha_Tsui_Public_Station_Exit.png",
+      "script_scenes": [
+        "08"
+      ],
+      "dimensions": [
+        1671,
+        941
+      ],
+      "sha256": "e4471de6c801481c0553aa652b18ffad820f470ab551a4c26f2b15c3dc4be3a1",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S11_S12_Centre_Entrance_and_Walking_Route.png",
+      "script_scenes": [
+        "11",
+        "12"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "a7376af9ac189801343d77c44c6b17d0d4aa564233944908095aebfe8aa53dbc",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S11_Uncle_Chan_Flat.png",
+      "script_scenes": [
+        "11"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "3af9e3cd420672a7a06f6eef73163e7f48bfce71dc43acf1522afe5c564a989f",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S13_S16_Harbour_Geography_Afternoon.png",
+      "script_scenes": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "86efa275f5cf18737bdc2560cb6502c288461cd577970b8062462d24288c89eb",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S14_S16_Nearer_Seating_Bay.png",
+      "script_scenes": [
+        "14",
+        "15",
+        "16"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "8babc479b5af3ab542dc89b57b353ff680fbc8ba3c7bdb0ac566b67f6dbbfb99",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S15_Farther_Meeting_Bench.png",
+      "script_scenes": [
+        "15"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "201a17d9d656ba58d58488d9db3630fd800fd4529471296685a0eecbe7b76db8",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Ah_Ming_Folding_White_Cane.png",
+      "script_scenes": [
+        "03"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "af59c5904da57010fd55bb91bcbc0129741a0690dec3259a159765a8039eaf7b",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Ah_Ming_Recording_Equipment.png",
+      "script_scenes": [
+        "03",
+        "07",
+        "10",
+        "12",
+        "15"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "a09f3005be85d281846e6b6e1628b89f52fdaf8d67e2df06f64bfc61e7148c30",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Canonical_Puppy_Photograph.png",
+      "script_scenes": [
+        "01",
+        "02",
+        "09",
+        "16"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "c4e7cdd4e72d7833bf3a686bd9a201e747d0efa8d99bc699b7c8471693e3eb58",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Centre_Furnishings.png",
+      "script_scenes": [
+        "04",
+        "06",
+        "08",
+        "09",
+        "10"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "f85a790328d659dbcb95e93985112a6fbe81d871fa3164f4e3f1affc86a3b2fa",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Centre_Listening_and_Outing_Papers.png",
+      "script_scenes": [
+        "06",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "652493c5258ab496e2404dc5265a9f58ff6a61c3852a394bbe1c7d9024ae90bb",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Home_Play_Furnishings.png",
+      "script_scenes": [
+        "03",
+        "07"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "c2d147f8b66dfc773275e509fc937a7edea24ab6841d144999c2b71231480309",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/May_Water_Bottle.png",
+      "script_scenes": [
+        "06",
+        "12",
+        "13",
+        "14",
+        "16"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "8f6126077f990a10609824ba2ef8e7ccdfe89b82709cfeceafb36a36d6fd1079",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Newspaper_Readable.png",
+      "script_scenes": [
+        "04",
+        "06",
+        "08"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "d152a2217eab8c6f2bea0aaecdaa99f0a5bb49bb6085b0aaa190568dba437a6e",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Puppy_Bench_and_Transport_Crates.png",
+      "script_scenes": [
+        "01"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "b44dc1422a460a655451b1ff87c148927f5de0b530d48df9a2a5877e9e8e75c9",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/S01_Puppies_Shallow_Water_Bowl.png",
+      "script_scenes": [
+        "01"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "aab4b6679557caa0aad01fecb710d44ff1aad7a5221d259c2bff221ace4c5b34",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/S03_Ah_Ming_Cup.png",
+      "script_scenes": [
+        "03"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "cfc929a8e2b0d9fc566b872cf4d32e962604a618369677a2d22666230034197d",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/S03_Ah_Ming_Radio.png",
+      "script_scenes": [
+        "03"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "c50e2c73799d7cb56cddb7c6b11cf89d3ea784482d9895e1654ba02be085d446",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/S03_Neighbour_Shopping_Trolley.png",
+      "script_scenes": [
+        "03"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "7a7e9c6b9c5bcb8d7b62deb1279279234856d2390698f76ca3e6bb792faddc43",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/S03_S07_Ah_Ming_Keys.png",
+      "script_scenes": [
+        "03",
+        "07"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "a8bf166b7a2365d7f108f1f0555d6c8ab6470218834b52d11df2a7a392050d06",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/S04_Lan_Kee_Breakfast_Toast_and_Tableware.png",
+      "script_scenes": [
+        "04"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "567de501577ec3ef22ab134b602dc28eb7e140ed7bbdea4e713e23dd59d4454d",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/S04_S13_S15_Passenger_Suitcase.png",
+      "script_scenes": [
+        "04",
+        "13",
+        "15"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "8337a242f1da2634d5713274dc28a10acf4f5da80a701339a9fc1d569b3a586e",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/S11_Uncle_Chan_Kettle.png",
+      "script_scenes": [
+        "11"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "8bb716450348a85e40059484ade2ce542cbe0b6af275e54bb06abb8c6fa97180",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Street_Obstructions_and_Cafe_Takeaway.png",
+      "script_scenes": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "08",
+        "11",
+        "12",
+        "15"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "2367cf5930a5c3717c1ce29d9c82d2447e16eb7408546ca8cf366334707dff71",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Tart_Brown_Leather_Guide_Harness_Worn_and_Removed.png",
+      "script_scenes": [
+        "02",
+        "03",
+        "04",
+        "05",
+        "07",
+        "08",
+        "10",
+        "12",
+        "13",
+        "15"
+      ],
+      "dimensions": [
+        1677,
+        938
+      ],
+      "sha256": "6d3651ce987656b4a687b7582e0e14ae998e3c4107aafd4d36fcf15eb9911099",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Tine_Bowl_With_Carrying_Clip.png",
+      "script_scenes": [
+        "06",
+        "09",
+        "12",
+        "13",
+        "14"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "69805af211976f993818f00c79a939b02526ab04ebfebe700a812b5597c04de3",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Tine_Orange_Bandanna_with_Emblem.png",
+      "script_scenes": [
+        "02",
+        "04",
+        "06",
+        "08",
+        "09",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "dimensions": [
+        1447,
+        1087
+      ],
+      "sha256": "246c5812951e11abdb60552513694e6d06f7976495801fd79be63f4be14ce959",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Tine_Orange_Collar_and_Lead.png",
+      "script_scenes": [
+        "02",
+        "04",
+        "06",
+        "08",
+        "09",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "a9d2e44934b92993d8e0180500deca742e1bd953e274cbece2d34bc198cdec93",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Tine_Rest_Mat_and_May_Bag.png",
+      "script_scenes": [
+        "02",
+        "04",
+        "06",
+        "08",
+        "09",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "2527acfc88e2d0aef45e20a9f43193b8bae7340349331a6041a57a214a6aedfb",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Two_Ended_Squeaky_Toy_Worn_and_New.png",
+      "script_scenes": [
+        "01",
+        "07",
+        "09",
+        "16"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "47d1349c29a16049661a07a26982dbefc8f7f902821e94de7984e1d27012f0a0",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Uncle_Chan_Bag.png",
+      "script_scenes": [
+        "06",
+        "08",
+        "11",
+        "12",
+        "13",
+        "14",
+        "16"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "985f023cf1ee780b4c194eb656f808d288c4f79c941959b2a1f773d49a219ce2",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Uncle_Chan_Personal_Effects.png",
+      "script_scenes": [
+        "09",
+        "11",
+        "12",
+        "14",
+        "16"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "6854b3ac28f889e716c279c1d15588494c4fb08c5d0b41d58697d2e8ca2c5d70",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "03_PROPS/Uncle_Chan_Wife_and_Ah_Wong_Photo.png",
+      "script_scenes": [
+        "09",
+        "11"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "4468fe4aec5127218554fab3573b76792dff23ddde52858a9d0bc730f3b84267",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S01_Victoria_Bench_Rain_Shelter.png",
+      "script_scenes": [
+        "01"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "1b9b26b1d96083d1194d2b0b9544089eb658650539ea9d05badb6c4cbc484477",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S01_Covered_Departure_Yard.png",
+      "script_scenes": [
+        "01"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "589988e7a1d378a3748a511628a7dc4a82045f0f320bd691cef5588fe23844ba",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "04_VEHICLES/S01_Puppy_Transport_Vehicles.png",
+      "script_scenes": [
+        "01"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "63657d3c3a0a6f9be1f9b5e5c1a462341e32912879bc48e7c51c0dbcefbedc4f",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "04_VEHICLES/S04_Prearranged_Pet_Friendly_Car.png",
+      "script_scenes": [
+        "04"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "269ed7ed27cedae81253abfc45cdc06a6af07c9dc290b82534a2eae47b377909",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "04_VEHICLES/S05_Van_and_Queued_Car_With_Drivers.png",
+      "script_scenes": [
+        "05"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "cacc6e8d28200ac21390838d0ea44e672bba5e09daf4333bfdbe3cb61323288d",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "04_VEHICLES/S12_Star_Ferry_Exterior_Lights_Off_People.png",
+      "script_scenes": [
+        "12"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "b3ef148509d68b9b6bc81f82fb1447554252fa9fc5ecf479d0b19fef4bf4a096",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "04_VEHICLES/S12_Star_Ferry_Interior_Afternoon_Passengers.png",
+      "script_scenes": [
+        "12"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "69db357f60c6503abdd4b28d00e4c0fc6f9afe66dfb4a5dc01ee87b8a7cfd6e0",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "04_VEHICLES/S12_Star_Ferry_Gangway_Afternoon_People.png",
+      "script_scenes": [
+        "12"
+      ],
+      "dimensions": [
+        1670,
+        942
+      ],
+      "sha256": "b4a647d65fc4389c9dbcfb428fc42a9bea3fa5024f66dee9bd14772c741d8563",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "05_STAGING/S05_Crossing_Hold_and_Clear.png",
+      "script_scenes": [
+        "05"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "993fbec5abff075bfb5867a736fff0afa2f4a8cdfd5173d62d4191170753e18b",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "05_STAGING/S15_Harness_Off_Then_Lead_On.png",
+      "script_scenes": [
+        "15"
+      ],
+      "dimensions": [
+        1752,
+        898
+      ],
+      "sha256": "3cb96c6aeb377b1f2eb72ccd1ce5e21ce3b9bcf4ec18eb245ee6afe4c09c980c",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "05_STAGING/S16_Reunion_Tug_and_Final_Rest.png",
+      "script_scenes": [
+        "16"
+      ],
+      "dimensions": [
+        1374,
+        1145
+      ],
+      "sha256": "3cdb0ca794c89e1329bda1a3effeceb1100cde228ffaa793e3c22a0d799fcfe7",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "04_VEHICLES/S03_Central_Tram_With_Driver.png",
+      "script_scenes": [
+        "03",
+        "10"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "2eadaedd7e68719f27c88f60dbce6e626feaea00ec2f382739dfc5297e43558c",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S13_Public_Ferry_Forecourt_Junction.png",
+      "script_scenes": [
+        "13"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "e87ec30d5d1f17790ff245afcd15f6dc873d7ed67c7c0cce0acf7817f41bc77c",
+      "status": "selected_finished_raster"
+    },
+    {
+      "file": "02_LOCATIONS/S06_S08_S09_S10_Centre_Room_Afternoon.png",
+      "script_scenes": [
+        "06",
+        "08",
+        "09",
+        "10"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "e2d6dbc448147dcfaee48b760c59e1b9157c77fb9d33829ff112bbb69a6dd1ff",
+      "status": "selected_finished_raster"
+    }
+  ],
+  "scope": "Finished PNG design sheets, environment plates and staging references for the revised screenplay; not rigged 3D models or rendered animation."
+}

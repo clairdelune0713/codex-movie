@@ -1,0 +1,13 @@
+{
+  "path": "source/finalized_audio/s07_c02_original_cantonese_6s.wav",
+  "sha256": "8cdf8a97fa4f5475fabb1dbc85cf4559b83f616c1e0ff9bc34e9a21721f50b44",
+  "source_project": "dog-20261014",
+  "source_project_revision": 57,
+  "source_chapter_id": "s07_c02",
+  "source_take_id": "take_01",
+  "source_origin": "chapters/s07_c02/takes/take_01.mp4",
+  "source_video_sha256": "a83b51486a477f477a66ebb59d0b212a0ed58aa4d66a1bea8fc507d97e71e538",
+  "source_start": 11.05,
+  "source_end": 17.05,
+  "reason": "Reuse original finalized Cantonese performance and native room/toy Foley from the exact successful selected dog-20261014 take, as requested for finalized assets. Two new audio generations were rejected. New picture is generated silently; existing original dialogue occurs locally at approximately 3.62-5.98s. No audio is uploaded as a generation input."
+}

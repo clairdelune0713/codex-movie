@@ -1,0 +1,40 @@
+VEHICLE ASSET AUDIT — v7 — 13 October 2026
+All five vehicle types previously listed as missing now have dedicated references in 05_VEHICLES.
+15 PNGs cover identity, interiors, geography, action states and ferry lighting. These are visual reference assets; motion and characters are added when making shots.
+
+BUS / scene 04
+場04_巴士_外觀.png — canonical yellow three-axle double-decker, left passenger doors.
+場04_巴士_茶餐廳遮擋與離開.png — stopped and departing, near-side lane travelling LEFT, same cafe viewpoint. Revised to preserve left-hand traffic and visible passenger-door side.
+
+MTR / scene 06
+場06_港鐵列車_車門與車窗.png — silver carriage, red door surrounds, exterior and door detail.
+場06_港鐵列車_車廂內.png — matching interior, standing space by door, stainless benches/turquoise grips.
+場06_港鐵月台_升降機與車門.png — lift/train reverse views across one platform, screen doors closed, departure to left. Add commuters, Lam/Tart and Ching/Tine in shots. Do not use tram interior.
+
+VAN AND CAR / scene 07
+場07_客貨車_外觀.png — silver compact van.
+場07_前方車輛_外觀.png — dark teal hatchback ahead of van.
+場07_客貨車與前車_阻擋及駛離.png — corrected blocked/clear states. Road runs left-right; yellow crossing connects near and opposite pavement. Both vehicles in near lane head LEFT; hatchback remains ahead. Lower panel van clears crossing fully.
+02_LOCATIONS/場07_香港街道_行人通道_日.png — matching clean road plate.
+Signals are unlit in references. Animate script phases separately: blocked during initial crossing cue; vehicle clears as cue changes; Lam waits; cross on NEXT cue. No immediate crossing just because van moves.
+The earlier sheet with vehicles sideways across a receding avenue is rejected and archived outside final pack.
+
+STAR FERRY / scenes 01, 09, 12
+天星小輪_船身外觀.png — canonical green/cream two-deck vessel, green-star funnel.
+天星小輪_船艙座位與窗.png — lower cabin, wooden benches, dusk.
+天星小輪_船艙_清晨.png — matching opening cabin lighting.
+天星小輪_船艙_返程夜景.png — matching return cabin lighting.
+天星小輪_登船口與跳板.png — lower-deck boarding threshold and gangplank detail.
+天星小輪_傍晚航行.png — dusk exterior transition.
+天星小輪_夜間航行.png — return/ending exterior.
+Existing dawn harbour plate remains opening environment. Same vessel family throughout; minor window details in generated scene plates should follow the exterior master at shot construction.
+
+FERRY CONTINUITY FIX — scene 09, PDF p11; production appendix p17
+Lam disembarks at Tsim Sha Tsui from Central while Ching boards toward Central.
+Ching explicitly says she is taking a round trip. Lam says goodbye to his friend and rests on the Tsim Sha Tsui bench.
+A short montage shows Ching disembarking at Central, leaving the exit and re-entering to board a return sailing. Dusk becomes night; a bench cutaway establishes elapsed time.
+Ching then exits Tsim Sha Tsui pier and walks along the waterfront to the SAME bench. Scene 10 follows there.
+120 seconds is screen-time allocation, not real ferry journey duration. No real timetable is asserted.
+
+SCOPE
+These are matching stylized production designs, not surveyed road/station/ship engineering plans. Full terminal-specific wides, cast/crowds, animation, sound and per-shot compositions remain in the broader film audit; the previously missing vehicle references have been supplied.

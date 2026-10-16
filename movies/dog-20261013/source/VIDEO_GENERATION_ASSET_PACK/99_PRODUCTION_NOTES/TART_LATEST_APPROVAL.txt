@@ -1,0 +1,8 @@
+TART — CURRENT USER DIRECTION, 13 October 2026
+The supplied TART.png defines FACE, FUR AND PHYSIQUE ONLY. Do not copy its orange training vest.
+Retain the brown leather guide harness, silver handle and brown grip.
+Working reference: 01_CHARACTERS/DOGS/蛋撻_成年_導盲鞍項圈牽繩.png
+Off-duty reference: 01_CHARACTERS/DOGS/蛋撻_成年_休息_項圈與牽繩.png
+Both have a collar and lead. Remove the harness for the waterfront rest; retain the collar and lead.
+Dog sheet layout: seated front, seated rear, standing side body with head omitted. No oval portrait.
+This supersedes earlier notes that incorrectly treated the orange vest as approved. Historical generation prompts are a record, not current directions.

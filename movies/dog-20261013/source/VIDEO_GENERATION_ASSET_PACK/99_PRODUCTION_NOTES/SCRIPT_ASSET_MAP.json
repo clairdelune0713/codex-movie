@@ -1,0 +1,663 @@
+[
+  {
+    "file": "01_CHARACTERS/DOGS/蛋撻_幼犬_Baby_Tart.png",
+    "script_name_and_variant": "蛋撻_幼犬_Baby_Tart",
+    "scenes": [
+      1,
+      11
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "01_CHARACTERS/DOGS/蛋撻_成年_休息_項圈與牽繩.png",
+    "script_name_and_variant": "蛋撻_成年_休息_項圈與牽繩",
+    "scenes": [
+      2,
+      9,
+      10,
+      11,
+      12
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "01_CHARACTERS/DOGS/蛋撻_成年_導盲鞍項圈牽繩.png",
+    "script_name_and_variant": "蛋撻_成年_導盲鞍項圈牽繩",
+    "scenes": [
+      2,
+      4,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "01_CHARACTERS/DOGS/阿華田_幼犬_Baby_Tine.png",
+    "script_name_and_variant": "阿華田_幼犬_Baby_Tine",
+    "scenes": [
+      1,
+      11
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "01_CHARACTERS/DOGS/阿華田_成年_橙色領巾項圈牽繩.png",
+    "script_name_and_variant": "阿華田_成年_橙色領巾項圈牽繩",
+    "scenes": [
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "01_CHARACTERS/HUMANS/林先生_深色眼鏡.png",
+    "script_name_and_variant": "林先生_深色眼鏡",
+    "scenes": [
+      2,
+      4,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "01_CHARACTERS/HUMANS/美姐.png",
+    "script_name_and_variant": "美姐",
+    "scenes": [
+      3,
+      5,
+      6,
+      8
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "01_CHARACTERS/HUMANS/阿晴.png",
+    "script_name_and_variant": "阿晴",
+    "scenes": [
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "01_CHARACTERS/HUMANS/陳伯.png",
+    "script_name_and_variant": "陳伯",
+    "scenes": [
+      3,
+      5,
+      6,
+      8
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "02_LOCATIONS/場01_11_澳洲Victoria_犬舍草地.png",
+    "script_name_and_variant": "場01_11_澳洲Victoria_犬舍草地",
+    "scenes": [
+      1,
+      11
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "02_LOCATIONS/場01_澳洲Victoria_草地_清晨.png",
+    "script_name_and_variant": "場01_澳洲Victoria_草地_清晨",
+    "scenes": [
+      1,
+      11
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "02_LOCATIONS/場01_香港維多利亞港_清晨.png",
+    "script_name_and_variant": "場01_香港維多利亞港_清晨",
+    "scenes": [
+      1
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "02_LOCATIONS/場03_05_06_08_社區中心_活動室.png",
+    "script_name_and_variant": "場03_05_06_08_社區中心_活動室",
+    "scenes": [
+      3,
+      5,
+      6,
+      8
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "02_LOCATIONS/場07_香港街道_行人通道_日.png",
+    "script_name_and_variant": "場07_香港街道_行人通道_日",
+    "scenes": [
+      7
+    ],
+    "status": "available_reference",
+    "note": "v7 corrected traffic geometry; clean plate matches new van/car staging."
+  },
+  {
+    "file": "02_LOCATIONS/場10_11_12_尖沙咀海旁_長椅_夜.png",
+    "script_name_and_variant": "場10_11_12_尖沙咀海旁_長椅_夜",
+    "scenes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/住宅門外_貨物箱.png",
+    "script_name_and_variant": "住宅門外_貨物箱",
+    "scenes": [
+      2
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/天星碼頭_行李.png",
+    "script_name_and_variant": "天星碼頭_行李",
+    "scenes": [
+      9
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/幼犬_舊皮球.png",
+    "script_name_and_variant": "幼犬_舊皮球",
+    "scenes": [
+      1,
+      11
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/幼犬_金屬碗.png",
+    "script_name_and_variant": "幼犬_金屬碗",
+    "scenes": [
+      1,
+      11
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/幼犬歷史照片_蛋撻與阿華田.png",
+    "script_name_and_variant": "幼犬歷史照片_蛋撻與阿華田",
+    "scenes": [
+      12
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/晶片認證卡與App/App_01_感應卡片.png",
+    "script_name_and_variant": "App_01_感應卡片",
+    "scenes": [
+      11
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/晶片認證卡與App/App_02_蛋撻檔案.png",
+    "script_name_and_variant": "App_02_蛋撻檔案",
+    "scenes": [
+      11
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/晶片認證卡與App/App_03_蛋撻來源.png",
+    "script_name_and_variant": "App_03_蛋撻來源",
+    "scenes": [
+      11
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/晶片認證卡與App/App_04_阿華田檔案.png",
+    "script_name_and_variant": "App_04_阿華田檔案",
+    "scenes": [
+      11
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/晶片認證卡與App/App_05_共同來源.png",
+    "script_name_and_variant": "App_05_共同來源",
+    "scenes": [
+      11
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/晶片認證卡與App/App_06_幼犬歷史照片.png",
+    "script_name_and_variant": "App_06_幼犬歷史照片",
+    "scenes": [
+      12
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/晶片認證卡與App/蛋撻_晶片認證卡.png",
+    "script_name_and_variant": "蛋撻_晶片認證卡",
+    "scenes": [
+      2,
+      11,
+      12
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/林先生_卡套.png",
+    "script_name_and_variant": "林先生_卡套",
+    "scenes": [
+      2,
+      11,
+      12
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/林先生_折疊白手杖.png",
+    "script_name_and_variant": "林先生_折疊白手杖",
+    "scenes": [
+      2,
+      4,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/林先生_鎖匙.png",
+    "script_name_and_variant": "林先生_鎖匙",
+    "scenes": [
+      2
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/林先生家_收音機.png",
+    "script_name_and_variant": "林先生家_收音機",
+    "scenes": [
+      2
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/林先生家_杯.png",
+    "script_name_and_variant": "林先生家_杯",
+    "scenes": [
+      2
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/林先生家_水煲.png",
+    "script_name_and_variant": "林先生家_水煲",
+    "scenes": [
+      2
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/茶餐廳_早餐餐具與多士.png",
+    "script_name_and_variant": "茶餐廳_早餐餐具與多士",
+    "scenes": [
+      4
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/蛋撻_棕色皮革導盲鞍_佩戴與卸下.png",
+    "script_name_and_variant": "蛋撻_棕色皮革導盲鞍_佩戴與卸下",
+    "scenes": [
+      2,
+      4,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/鄰居_購物車.png",
+    "script_name_and_variant": "鄰居_購物車",
+    "scenes": [
+      2
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/阿晴_手機_藍色保護殼.png",
+    "script_name_and_variant": "阿晴_手機_藍色保護殼",
+    "scenes": [
+      9,
+      11,
+      12
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/阿晴_水瓶.png",
+    "script_name_and_variant": "阿晴_水瓶",
+    "scenes": [
+      5
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/阿華田_橙色三角領巾.png",
+    "script_name_and_variant": "阿華田_橙色三角領巾",
+    "scenes": [
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/阿華田_水碗.png",
+    "script_name_and_variant": "阿華田_水碗",
+    "scenes": [
+      5
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/阿華田_項圈與牽繩.png",
+    "script_name_and_variant": "阿華田_項圈與牽繩",
+    "scenes": [
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/陳伯_報紙.png",
+    "script_name_and_variant": "陳伯_報紙",
+    "scenes": [
+      3,
+      5,
+      6,
+      8
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "03_PROPS/陳伯_舊相片_阿黃.png",
+    "script_name_and_variant": "陳伯_舊相片_阿黃",
+    "scenes": [
+      8
+    ],
+    "status": "available_reference",
+    "note": "Latest user correction: no dog eyebrows, narrow slit-shaped smiling eyes; young man unchanged."
+  },
+  {
+    "file": "03_PROPS/陳伯_袋子.png",
+    "script_name_and_variant": "陳伯_袋子",
+    "scenes": [
+      6,
+      8
+    ],
+    "status": "available_reference",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "04_STAGING_REFERENCES/場12_海旁_雙犬休息牽繩連戲.png",
+    "script_name_and_variant": "場12_海旁_雙犬休息牽繩連戲",
+    "scenes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "status": "staging_only",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "05_VEHICLES/場04_巴士_外觀.png",
+    "script_name_and_variant": "場04_巴士_外觀",
+    "scenes": [
+      4
+    ],
+    "status": "available_reference",
+    "note": "v7 vehicle reference; multi-view/action sheets are not literal final video frames."
+  },
+  {
+    "file": "05_VEHICLES/場04_巴士_茶餐廳遮擋與離開.png",
+    "script_name_and_variant": "場04_巴士_茶餐廳遮擋與離開",
+    "scenes": [
+      4
+    ],
+    "status": "available_reference",
+    "note": "v7 vehicle reference; multi-view/action sheets are not literal final video frames."
+  },
+  {
+    "file": "05_VEHICLES/場06_港鐵列車_車廂內.png",
+    "script_name_and_variant": "場06_港鐵列車_車廂內",
+    "scenes": [
+      6
+    ],
+    "status": "available_reference",
+    "note": "v7 vehicle reference; multi-view/action sheets are not literal final video frames."
+  },
+  {
+    "file": "05_VEHICLES/場06_港鐵列車_車門與車窗.png",
+    "script_name_and_variant": "場06_港鐵列車_車門與車窗",
+    "scenes": [
+      6
+    ],
+    "status": "available_reference",
+    "note": "v7 vehicle reference; multi-view/action sheets are not literal final video frames."
+  },
+  {
+    "file": "05_VEHICLES/場06_港鐵月台_升降機與車門.png",
+    "script_name_and_variant": "場06_港鐵月台_升降機與車門",
+    "scenes": [
+      6
+    ],
+    "status": "available_reference",
+    "note": "v7 vehicle reference; multi-view/action sheets are not literal final video frames."
+  },
+  {
+    "file": "05_VEHICLES/場07_前方車輛_外觀.png",
+    "script_name_and_variant": "場07_前方車輛_外觀",
+    "scenes": [
+      7
+    ],
+    "status": "available_reference",
+    "note": "v7 vehicle reference; multi-view/action sheets are not literal final video frames."
+  },
+  {
+    "file": "05_VEHICLES/場07_客貨車_外觀.png",
+    "script_name_and_variant": "場07_客貨車_外觀",
+    "scenes": [
+      7
+    ],
+    "status": "available_reference",
+    "note": "v7 vehicle reference; multi-view/action sheets are not literal final video frames."
+  },
+  {
+    "file": "05_VEHICLES/場07_客貨車與前車_阻擋及駛離.png",
+    "script_name_and_variant": "場07_客貨車與前車_阻擋及駛離",
+    "scenes": [
+      7
+    ],
+    "status": "available_reference",
+    "note": "v7 vehicle reference; multi-view/action sheets are not literal final video frames."
+  },
+  {
+    "file": "05_VEHICLES/天星小輪_傍晚航行.png",
+    "script_name_and_variant": "天星小輪_傍晚航行",
+    "scenes": [
+      9
+    ],
+    "status": "available_reference",
+    "note": "v7 vehicle reference; multi-view/action sheets are not literal final video frames."
+  },
+  {
+    "file": "05_VEHICLES/天星小輪_夜間航行.png",
+    "script_name_and_variant": "天星小輪_夜間航行",
+    "scenes": [
+      9,
+      12
+    ],
+    "status": "available_reference",
+    "note": "v7 vehicle reference; multi-view/action sheets are not literal final video frames."
+  },
+  {
+    "file": "05_VEHICLES/天星小輪_登船口與跳板.png",
+    "script_name_and_variant": "天星小輪_登船口與跳板",
+    "scenes": [
+      1,
+      9,
+      12
+    ],
+    "status": "available_reference",
+    "note": "v7 vehicle reference; multi-view/action sheets are not literal final video frames."
+  },
+  {
+    "file": "05_VEHICLES/天星小輪_船艙_清晨.png",
+    "script_name_and_variant": "天星小輪_船艙_清晨",
+    "scenes": [
+      1
+    ],
+    "status": "available_reference",
+    "note": "v7 vehicle reference; multi-view/action sheets are not literal final video frames."
+  },
+  {
+    "file": "05_VEHICLES/天星小輪_船艙_返程夜景.png",
+    "script_name_and_variant": "天星小輪_船艙_返程夜景",
+    "scenes": [
+      9
+    ],
+    "status": "available_reference",
+    "note": "v7 vehicle reference; multi-view/action sheets are not literal final video frames."
+  },
+  {
+    "file": "05_VEHICLES/天星小輪_船艙座位與窗.png",
+    "script_name_and_variant": "天星小輪_船艙座位與窗",
+    "scenes": [
+      9
+    ],
+    "status": "available_reference",
+    "note": "v7 vehicle reference; multi-view/action sheets are not literal final video frames."
+  },
+  {
+    "file": "05_VEHICLES/天星小輪_船身外觀.png",
+    "script_name_and_variant": "天星小輪_船身外觀",
+    "scenes": [
+      1,
+      9,
+      12
+    ],
+    "status": "available_reference",
+    "note": "v7 vehicle reference; multi-view/action sheets are not literal final video frames."
+  },
+  {
+    "file": "90_REFERENCE_ONLY_NEEDS_REVIEW/舊晶片卡與手機_資料錯誤_勿用.png",
+    "script_name_and_variant": "舊晶片卡與手機_資料錯誤_勿用",
+    "scenes": [],
+    "status": "reference_only_do_not_use",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "90_REFERENCE_ONLY_NEEDS_REVIEW/舊橡膠球_不符劇本_勿用.png",
+    "script_name_and_variant": "舊橡膠球_不符劇本_勿用",
+    "scenes": [],
+    "status": "reference_only_do_not_use",
+    "note": "Scene association; does not imply completed shot coverage."
+  },
+  {
+    "file": "90_REFERENCE_ONLY_NEEDS_REVIEW/電車車廂_非劇本場景.png",
+    "script_name_and_variant": "電車車廂_非劇本場景",
+    "scenes": [],
+    "status": "reference_only_do_not_use",
+    "note": "Scene association; does not imply completed shot coverage."
+  }
+]

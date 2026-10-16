@@ -1,0 +1,43 @@
+SCRIPT / ASSET CONTINUITY AUDIT — v7 — 13 October 2026
+This supersedes the previous missing lists. Available references do not equal completed shot coverage.
+
+NOW INCLUDED
+Working Tart and off-duty collar/lead Tart; Tine collar/lead and orange bandana; backup folding white cane; separate harness reference; dark-glasses Lam.
+Old photograph with younger Chan and stylized village dog Ah Wong (different breed intentional; no brows, slit-shaped eyes); puppy archive photo; card sleeve; blue phone; readable corrected card and six app screens.
+Water bowl/bottle, metal puppy bowl, old leather ball, newspaper, Chan's bag, keys, kettle/cup/radio, shopping trolley, delivery box, breakfast dishes/toast and luggage.
+Night harbour restyle and two-lead ending staging reference.
+
+UNRESOLVED CONTINUITY / ACTION COVERAGE
+- VEHICLES NOW INCLUDED: bus, MTR train, van, car ahead and Star Ferry references plus action/layout/cabin variants. See VEHICLE_ASSET_AUDIT.txt. Motion, characters and signals still need per-shot staging.
+- FERRY ROUTE RESOLVED: scene 09 specifies Tsim Sha Tsui -> Central -> Tsim Sha Tsui, disembark/reboard montage and dusk-to-night elapsed time. Lam remains at the bench; Ching exits Tsim Sha Tsui before approaching it.
+- DOG EQUIPMENT: references establish intended setup, but harness dressing/removal, handle/buckle mechanics, lead attachment and lead handoffs need shot staging. Do not let leads disappear during card/phone handling.
+- TINE MARKINGS: lock the anatomical side of the cream heart patch from the approved design; rear references alone do not settle every angle. Do not mirror. Staging image is not badge-detail authority (its emblem differs); use character/prop references for the actual badge.
+- SCALE/IDENTITY: create human-dog relative-scale staging; preserve puppy-to-adult fur/markings without making puppies miniature adults. Lam's dark glasses persist at night. Young Chan retains recognizable facial traits in the old photo.
+- BENCH: lock handler/dog positions, folded harness placement, lead paths and card/phone hands across angles. Current staging is guidance, not final identity-locked frames.
+- APP: corrected text is now authored. v7 appendix defines fictional card records (phone senses card, not implanted animal chip). Profile IDs differ; origin kennel matches. Screens still need placement/tracking into blue phone and timing with dialogue. Names on older reference image are wrong; do not use it.
+- HOME/PROPS: lock tactile household arrangement, cane pocket fit, card chest-pocket placement, newspaper folded/open, bag chair/floor, bowl water level and toast falling/removal. Individual prop designs alone do not demonstrate these actions.
+- STYLE: old photograph dog now has no brows and slit-shaped eyes. Vehicle references follow the established 3D style. Main exterior sheets govern small equipment/window details in scene plates; do not treat generative multi-view art as a mechanical 3D model.
+
+SCENE COVERAGE / STILL REQUIRED
+01 — Australia grass/kennel and dawn harbour bases, ball/bowl now available. Missing matching kennel door/threshold, worker/boots, other puppy action, pier gates/crew/passenger action shots and opening graphics. Ferry exterior, boarding/gangplank and dawn cabin references are included.
+02 — Lam/Tart/household props/cane/trolley/carton now available. Missing home kitchen/entrance/drawer, corridor/lift, neighbour/child, harness dressing and movement staging.
+03 — Main cast and community room available. Missing connected glass entrance/reverse angles, fixed window-seat geography, grandmother/girl/elderly extras and interactions.
+04 — Main cast and breakfast props available. Missing narrow pavement/barriers, cafe interior/exterior/table underside/window geography, 阿強/child/pedestrian, dropped-toast and under-table dog staging. Bus design and cafe-window stopped/departing reference now included.
+05 — Newspaper/water bowl/bottle now available. Missing consistent chair layout, reverse views and drinking/rest/petting actions.
+06 — Bag/newspaper now available. Missing newsstand/owner, MTR door/reflection action sequence with characters (train, cabin and platform/lift references now included); preserve bag moving from chair to floor.
+07 — Crossing base available. Van/car-ahead and corrected blocked/clear crossing reference now included. Still missing driver/speaking pedestrian and animated stop-wait-next-signal staging. Preserve no heroic music direction.
+08 — Corrected old photo available. Missing hand/photo insert, consistent seating and dog-between-chairs interaction. Ah Wong/young Chan only need photo appearance; separate animated flashback or wife character not required.
+09 — Luggage/phone/off-duty Tart/harness available. Ferry cabin/exterior/gangplank references and script travel transition now included. Still missing terminal-specific wide geography/crew/crowds/friend, voice-message phone state, dusk bench views and harness removal action.
+10 — Two-lead staging available. Missing identity-accurate greeting/movement views, reverse/night/dog-height coverage.
+11 — Card/app/sleeve/puppies/ball/bowl available. Missing card-and-phone hand insert with leads retained; matching kennel doorway, two workers, other puppies and chase/parting shots.
+12 — Archive photo/history screen/ending staging available. Missing screen interaction, consistent leaning/lying pose, wide ending/ferry movement, final text and sound.
+
+SUPPORTING CAST STILL MISSING
+Newspaper-stall owner, cafe worker 阿強, Lam's friend, neighbour with trolley, lift child, cafe child, speaking elderly visitors, grandmother/girl, speaking pedestrians and kennel workers. Background crew/commuters/tourists/driver/other puppies can be staged collectively as needed. Musician can remain off-screen.
+
+PRODUCTION DELIVERABLES
+Voice recordings, ambience/foley/music, timed subtitles/titles/credits, shot list, per-shot prompts/start frames and animatic remain. The 17-minute duration is a target, not verified by a timed read/edit.
+Minor set dressing (leaves, ropes, paper breakfast bags) can be incorporated in shots; not every object requires a standalone PNG.
+
+NEXT PRIORITIES
+Use the corrected vehicle references and v7 route -> finish missing home/cafe/terminal-specific geography -> supporting cast -> character action views -> timed animatic/audio.

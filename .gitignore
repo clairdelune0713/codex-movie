@@ -21,3 +21,6 @@ movies/somewhere-between-us/exports/somewhere-between-us-10min-720p-21x9.mp4
 
 .env
 .env.local
+
+/VIDEO_GENERATION_ASSET_PACK
+/SOMEWHERE_BETWEEN_US_READY

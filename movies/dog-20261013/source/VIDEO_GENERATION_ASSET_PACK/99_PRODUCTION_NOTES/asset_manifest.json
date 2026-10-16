@@ -1,0 +1,637 @@
+{
+  "script": "00_SCRIPT/我們之間_17分鐘劇本_v7.pdf",
+  "files": [
+    {
+      "file": "00_SCRIPT/我們之間_17分鐘劇本_v7.pdf",
+      "bytes": 1271508,
+      "sha256": "e7cd764462044504b8b4dfef648ff8d09bf8400752a70490784768d74856fa74"
+    },
+    {
+      "file": "01_CHARACTERS/DOGS/蛋撻_幼犬_Baby_Tart.png",
+      "bytes": 126170,
+      "sha256": "8118c84af6f281870af993379ce056b8898ac3ce5de85aa1ff0b4e8246164506",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "01_CHARACTERS/DOGS/蛋撻_成年_休息_項圈與牽繩.png",
+      "bytes": 1875753,
+      "sha256": "4e2a511d483438adf270e30ece04f50430a4c3cdec0974fa7301dd72f014e8eb",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "01_CHARACTERS/DOGS/蛋撻_成年_導盲鞍項圈牽繩.png",
+      "bytes": 1971833,
+      "sha256": "2e914c0af0dc02129f5a0105687c4df85cd17611bae5e349aca1f1b5688a6a39",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "01_CHARACTERS/DOGS/阿華田_幼犬_Baby_Tine.png",
+      "bytes": 131959,
+      "sha256": "33422d3fb0cee09898774297c2eae1ea6eac402b7389fcbab6d401bb1b92eacb",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "01_CHARACTERS/DOGS/阿華田_成年_橙色領巾項圈牽繩.png",
+      "bytes": 1968988,
+      "sha256": "1800247d35dd971f9a3afbd350ccb93b90304c829c35e0cc458544e044a4ffb1",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "01_CHARACTERS/HUMANS/林先生_深色眼鏡.png",
+      "bytes": 1917517,
+      "sha256": "f6656d39b967e4c6675feaada3f57df7ab9d55b939109b5960ed2de6deea3600",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "01_CHARACTERS/HUMANS/美姐.png",
+      "bytes": 2079934,
+      "sha256": "9deb75567d7ce72b3e9c86c0bea4176dcc47882a932b3e94f32547e1e59e610f",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "01_CHARACTERS/HUMANS/阿晴.png",
+      "bytes": 1943178,
+      "sha256": "104f16008d08d36db00de5d76e5f60b5256c99255a8d94e2f9882d01af96be55",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "01_CHARACTERS/HUMANS/陳伯.png",
+      "bytes": 2167299,
+      "sha256": "33733a9a60b0df3523c00cbdf4f9d2d13877037e0bbb17249759724fd9050383",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "02_LOCATIONS/場01_11_澳洲Victoria_犬舍草地.png",
+      "bytes": 2274359,
+      "sha256": "ce61d3a14374ad8dfc03e314c1b0d2141465579510bb7d21efb48ad91aa72739",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "02_LOCATIONS/場01_澳洲Victoria_草地_清晨.png",
+      "bytes": 2124692,
+      "sha256": "99891e00e3eec16ebe41550eaa6df520885c97fafa6533baa89ec1431f777030",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "02_LOCATIONS/場01_香港維多利亞港_清晨.png",
+      "bytes": 1802609,
+      "sha256": "446cf12d40290659bdc79511701170adba0b07beecb14921827facdad34a6b84",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "02_LOCATIONS/場03_05_06_08_社區中心_活動室.png",
+      "bytes": 1669564,
+      "sha256": "0bdc0e490f10a9a614d52b78bc0ffb489a207e20f0af4f549dceea64d85fb200",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "02_LOCATIONS/場07_香港街道_行人通道_日.png",
+      "bytes": 2643133,
+      "sha256": "8b7b511b5528a117754c5e13f8eec8a4f86a3bd726a5ce6642986206cca8ec40",
+      "dimensions": [
+        1956,
+        804
+      ]
+    },
+    {
+      "file": "02_LOCATIONS/場10_11_12_尖沙咀海旁_長椅_夜.png",
+      "bytes": 1971177,
+      "sha256": "42af8122db72ceea12b0eecce4bc63d0aa398be5c0231465bd5e7157911f3dac",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "03_PROPS/住宅門外_貨物箱.png",
+      "bytes": 1978299,
+      "sha256": "cb2aef672f5d03442ec91d9c8fd991f723f5581da9b343a52d5947c56ca61300",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "03_PROPS/天星碼頭_行李.png",
+      "bytes": 1903842,
+      "sha256": "8337a242f1da2634d5713274dc28a10acf4f5da80a701339a9fc1d569b3a586e",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "03_PROPS/幼犬_舊皮球.png",
+      "bytes": 1827063,
+      "sha256": "2b019d7f86c72b1398a86a9994e38273c6a4d4fb25276d43ad1e0958ce3c0b3a",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "03_PROPS/幼犬_金屬碗.png",
+      "bytes": 1658020,
+      "sha256": "aab4b6679557caa0aad01fecb710d44ff1aad7a5221d259c2bff221ace4c5b34",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "03_PROPS/幼犬歷史照片_蛋撻與阿華田.png",
+      "bytes": 2408397,
+      "sha256": "7996d30f6c8dd9e71c744c012079111c0b68fd77017f8617163bb8858b0eb409",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "03_PROPS/晶片認證卡與App/App_01_感應卡片.png",
+      "bytes": 100258,
+      "sha256": "a79118f40b02d240814007deddbd0111c50180bb72e12e59546119b7027a5d39",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "file": "03_PROPS/晶片認證卡與App/App_02_蛋撻檔案.png",
+      "bytes": 412163,
+      "sha256": "a27e0e22e0f3100ddc3d7bc5938aece0835c8e3ecff0ede26e673dbbed06baa7",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "file": "03_PROPS/晶片認證卡與App/App_03_蛋撻來源.png",
+      "bytes": 117085,
+      "sha256": "1b2d19530fb20b69b54d41f9f131b147907d7a85b78d713d0b790cec3258de1c",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "file": "03_PROPS/晶片認證卡與App/App_04_阿華田檔案.png",
+      "bytes": 402377,
+      "sha256": "99f14e9013e00819dc1fe4bc14705f88a7d7ff86bfc7bd7fdd5c98db8b5354c5",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "file": "03_PROPS/晶片認證卡與App/App_05_共同來源.png",
+      "bytes": 116357,
+      "sha256": "d0392bb675bea31e84e2da0a023834bceca09c5f1adfd27fa5d802c3f039c409",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "file": "03_PROPS/晶片認證卡與App/App_06_幼犬歷史照片.png",
+      "bytes": 968174,
+      "sha256": "2bf2ef8c1e8d2e7a91c569a9a699fbcb281c0fedebaf8ce4de9e2d8c58efd922",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "file": "03_PROPS/晶片認證卡與App/app_records.json",
+      "bytes": 382,
+      "sha256": "450d0f3bebd7c2a50706d01d26987f477d038abea4f3894ff326b7236ea89367"
+    },
+    {
+      "file": "03_PROPS/晶片認證卡與App/蛋撻_晶片認證卡.png",
+      "bytes": 349114,
+      "sha256": "ee8280ea906ceb5f29b8da3af126091d119ee12d71d99adf4c865b1af0a200a5",
+      "dimensions": [
+        1600,
+        1000
+      ]
+    },
+    {
+      "file": "03_PROPS/林先生_卡套.png",
+      "bytes": 2327712,
+      "sha256": "fbab749ad83057f2756f1a0452f2c520bfdd4f2513f99e3c0653570b37db5a90",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "03_PROPS/林先生_折疊白手杖.png",
+      "bytes": 1611435,
+      "sha256": "af59c5904da57010fd55bb91bcbc0129741a0690dec3259a159765a8039eaf7b",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "03_PROPS/林先生_鎖匙.png",
+      "bytes": 1899471,
+      "sha256": "a8bf166b7a2365d7f108f1f0555d6c8ab6470218834b52d11df2a7a392050d06",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "03_PROPS/林先生家_收音機.png",
+      "bytes": 2340270,
+      "sha256": "c50e2c73799d7cb56cddb7c6b11cf89d3ea784482d9895e1654ba02be085d446",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "03_PROPS/林先生家_杯.png",
+      "bytes": 1664576,
+      "sha256": "cfc929a8e2b0d9fc566b872cf4d32e962604a618369677a2d22666230034197d",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "03_PROPS/林先生家_水煲.png",
+      "bytes": 1543832,
+      "sha256": "8bb716450348a85e40059484ade2ce542cbe0b6af275e54bb06abb8c6fa97180",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "03_PROPS/茶餐廳_早餐餐具與多士.png",
+      "bytes": 1959064,
+      "sha256": "0db940896d38a90c1a818ccb964e27d99d3cf99dc8243b5c6aded145dc1ba234",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "03_PROPS/蛋撻_棕色皮革導盲鞍_佩戴與卸下.png",
+      "bytes": 1533931,
+      "sha256": "6d3651ce987656b4a687b7582e0e14ae998e3c4107aafd4d36fcf15eb9911099",
+      "dimensions": [
+        1677,
+        938
+      ]
+    },
+    {
+      "file": "03_PROPS/鄰居_購物車.png",
+      "bytes": 2040291,
+      "sha256": "7a7e9c6b9c5bcb8d7b62deb1279279234856d2390698f76ca3e6bb792faddc43",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "03_PROPS/阿晴_手機_藍色保護殼.png",
+      "bytes": 1636599,
+      "sha256": "0c9554c09288e7bc3ca3c60060a50840cbfbced43e96453e8c84b9db43667d21",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "03_PROPS/阿晴_水瓶.png",
+      "bytes": 1713170,
+      "sha256": "8f6126077f990a10609824ba2ef8e7ccdfe89b82709cfeceafb36a36d6fd1079",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "03_PROPS/阿華田_橙色三角領巾.png",
+      "bytes": 179622,
+      "sha256": "246c5812951e11abdb60552513694e6d06f7976495801fd79be63f4be14ce959",
+      "dimensions": [
+        1447,
+        1087
+      ]
+    },
+    {
+      "file": "03_PROPS/阿華田_水碗.png",
+      "bytes": 1702065,
+      "sha256": "0ac45f92dcf8031e606367cf261251da15e92e8765893c004c6c8891b0610bfc",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "03_PROPS/阿華田_項圈與牽繩.png",
+      "bytes": 1927987,
+      "sha256": "a9d2e44934b92993d8e0180500deca742e1bd953e274cbece2d34bc198cdec93",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "03_PROPS/陳伯_報紙.png",
+      "bytes": 2362259,
+      "sha256": "85727c0b74c75a45109326184b9ee043adda3dec3e7a5c4f85569a099498e0a6",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "03_PROPS/陳伯_舊相片_阿黃.png",
+      "bytes": 2265192,
+      "sha256": "6dabce7e9b3cb93410ccb71c3b6743ffa050e09eeedfcc2b2b957ff538a57382",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "03_PROPS/陳伯_袋子.png",
+      "bytes": 2390547,
+      "sha256": "985f023cf1ee780b4c194eb656f808d288c4f79c941959b2a1f773d49a219ce2",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "04_STAGING_REFERENCES/場12_海旁_雙犬休息牽繩連戲.png",
+      "bytes": 2267390,
+      "sha256": "608f65918b263a56a65163494c98407cfe604b6f1eb2c7f83b3e5a0afe4e80c5",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "05_VEHICLES/場04_巴士_外觀.png",
+      "bytes": 1698503,
+      "sha256": "ea1899f8b116c1c4c8c1ff3d0ffc823d8bb2a9d0b8bf0d1cd35ff82044bbe0ec",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "05_VEHICLES/場04_巴士_茶餐廳遮擋與離開.png",
+      "bytes": 2120342,
+      "sha256": "5984c65fb9208a63f097bf567b0031df4301182870e0fbb265d0fb3d3fa3fa8d",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "05_VEHICLES/場06_港鐵列車_車廂內.png",
+      "bytes": 2076809,
+      "sha256": "1f684fa9c62059db8798ea27abcc3399980c8e4d1a72ce67a0e5dc1a49266cc0",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "05_VEHICLES/場06_港鐵列車_車門與車窗.png",
+      "bytes": 1676918,
+      "sha256": "e15126034d742c2c32688c23391362a815f3652d709b25da5640132318ed4574",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "05_VEHICLES/場06_港鐵月台_升降機與車門.png",
+      "bytes": 2003966,
+      "sha256": "be1af86ff80d4eea9e9482cf7e9f27e8198c8562c7efd1f755531b3077e72dbb",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "05_VEHICLES/場07_前方車輛_外觀.png",
+      "bytes": 1884550,
+      "sha256": "24134e4ed72d603e34f466559cea1b490697b9974e5174fc2bee4276164e8c4f",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "05_VEHICLES/場07_客貨車_外觀.png",
+      "bytes": 1724850,
+      "sha256": "2798ea8c6924d3106bfe8b185d593ee0fa5ee3fa5c39e8fc53a0a10b52755f2e",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "05_VEHICLES/場07_客貨車與前車_阻擋及駛離.png",
+      "bytes": 2643576,
+      "sha256": "1d8068228d916b9765b02c01637a3301465e75755c4d344615d713b6e9c32daf",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "05_VEHICLES/天星小輪_傍晚航行.png",
+      "bytes": 2164625,
+      "sha256": "0073caa2cd3e19cad2bcca333a95bc2e87aea2c173544462c67cd84da243e5f6",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "05_VEHICLES/天星小輪_夜間航行.png",
+      "bytes": 2169365,
+      "sha256": "f9ceb28ec0b08822ff9a42d6821284cc8a6e728e5983a5f24e2313746342fa42",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "05_VEHICLES/天星小輪_登船口與跳板.png",
+      "bytes": 2403027,
+      "sha256": "4a77f54849ee6bf09a210d2c81d881fa8e33e55c19bff202fe8e2dfa18f68f83",
+      "dimensions": [
+        1671,
+        941
+      ]
+    },
+    {
+      "file": "05_VEHICLES/天星小輪_船艙_清晨.png",
+      "bytes": 2294295,
+      "sha256": "6cb88460dfbc9d5de91fc71e5419ac2a055d0eee06171f7158854159035ae84d",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "05_VEHICLES/天星小輪_船艙_返程夜景.png",
+      "bytes": 2290824,
+      "sha256": "b415c49212914e2340293a310ce4ee0101ceb2bf70ee1f349ec6571616ac9ff1",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "05_VEHICLES/天星小輪_船艙座位與窗.png",
+      "bytes": 2350385,
+      "sha256": "ff7e42c7b89f821f08bfb5fbe6544071e5a76f91d2277b6d0d19d2ad1f22165e",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "05_VEHICLES/天星小輪_船身外觀.png",
+      "bytes": 1868807,
+      "sha256": "c38b0cfead90a7f976860e1d5aa1e20f730a632391e0abb96e2d77e62b6a784d",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "90_REFERENCE_ONLY_NEEDS_REVIEW/舊晶片卡與手機_資料錯誤_勿用.png",
+      "bytes": 196145,
+      "sha256": "1447cc26a1df22072222d923ff7d035dbe39acc62cb0ee18f5687d03ad51bab8",
+      "dimensions": [
+        1677,
+        938
+      ]
+    },
+    {
+      "file": "90_REFERENCE_ONLY_NEEDS_REVIEW/舊橡膠球_不符劇本_勿用.png",
+      "bytes": 1028254,
+      "sha256": "0ed29f9ec90a984d67de4574099134957fd0f78fe3fae59bc1c1008f35fe1e93",
+      "dimensions": [
+        1376,
+        768
+      ]
+    },
+    {
+      "file": "90_REFERENCE_ONLY_NEEDS_REVIEW/電車車廂_非劇本場景.png",
+      "bytes": 1772335,
+      "sha256": "f2a2c85ee4f5a5a3af281db7845070b1643eefdfa3e74c0d196b0c45e6e95797",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "99_PRODUCTION_NOTES/MISSING_ASSETS_AND_SCENE_AUDIT.txt",
+      "bytes": 6365,
+      "sha256": "2674c50a18f688f8ec2e10076f239198e49782617ca5e45095ea5bfeffc0cb3c"
+    },
+    {
+      "file": "99_PRODUCTION_NOTES/SCRIPT_ASSET_MAP.json",
+      "bytes": 18440,
+      "sha256": "980d903239df1af091c2eadc373eb5481aa964306c1f6c3ea0377eec5696f967"
+    },
+    {
+      "file": "99_PRODUCTION_NOTES/SCRIPT_ASSET_MAP.txt",
+      "bytes": 9684,
+      "sha256": "2d5d54d8742582fcd2ebf277c18f2b3e5d8e6aa8152c018b33cfb47ae4a1e1da"
+    },
+    {
+      "file": "99_PRODUCTION_NOTES/TART_LATEST_APPROVAL.txt",
+      "bytes": 728,
+      "sha256": "34027589e51ac6318be17b4aeb3769f18fcbf552ce0ea79888cfc25d258cc9db"
+    },
+    {
+      "file": "99_PRODUCTION_NOTES/V7_CHANGELOG.txt",
+      "bytes": 721,
+      "sha256": "ee0667a774a6d93c2edc6ff17fc6a3347616670fdd268c02250b5733e95f0063"
+    },
+    {
+      "file": "99_PRODUCTION_NOTES/VEHICLE_ASSET_AUDIT.txt",
+      "bytes": 3548,
+      "sha256": "94eee89b38ab6280c8ba882a2182cb6af4a3df9b9ebad12dff83ccec4c1f0cb9"
+    },
+    {
+      "file": "99_PRODUCTION_NOTES/generation_prompt_history.json",
+      "bytes": 12334,
+      "sha256": "a4f96f9f2f5436f9c12df3f7eccf0106d45547f36203d4f83c658a8a1329ea9c"
+    },
+    {
+      "file": "99_PRODUCTION_NOTES/image_revision_prompts.json",
+      "bytes": 2247,
+      "sha256": "71ed2c154936c9c1d43d2a1950f6f5eb18d77613ce4e9cd6bc661d238887f1bf"
+    },
+    {
+      "file": "99_PRODUCTION_NOTES/latest_generation_prompts.json",
+      "bytes": 18963,
+      "sha256": "c8da1b2a352532a1c48484cb93ea883be08e20d1b67b43a5ffb70691422dc799"
+    },
+    {
+      "file": "99_PRODUCTION_NOTES/vehicle_and_photo_prompts_v7.json",
+      "bytes": 30297,
+      "sha256": "f68a5f38c30f0b59c3b5dc3e2c9ce6e79f2fdac964697cf8d9e2ce053eb0e31c"
+    },
+    {
+      "file": "START_HERE.txt",
+      "bytes": 2857,
+      "sha256": "a3fb11742693e2d626a7c839577b659b58d0e20b8ff3851442e8345f61704658"
+    }
+  ]
+}

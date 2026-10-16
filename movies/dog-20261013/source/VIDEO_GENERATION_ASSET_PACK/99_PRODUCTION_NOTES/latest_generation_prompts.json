@@ -1,0 +1,106 @@
+{
+  "mode": "built-in image_gen",
+  "tartFaceCorrection": "Precise wardrobe-only edit. IMAGE 1 is the absolute authoritative Tart FACE AND PHYSIQUE and the actual edit target. IMAGE 2 is ONLY the brown leather guide harness reference. Preserve image 1 EXACTLY wherever possible: same exact face, narrower eye size and spacing, muzzle shape, nose size, head shape, floppy ears, neck length, slim natural torso and leg proportions, paw sizes, cream fur, all three poses, camera, background, layout. DO NOT make him rounder, bulkier, shorter, younger, bigger-eyed or more puppy-like. Change ONLY orange vest into the brown leather guide harness from image 2 in each of the three views, with silver metal handle and warm brown leather grip. Remove all orange fabric and logos/text. Fit harness naturally to existing body without changing silhouette or pose. Retain image 1 layout: full seated front left with full head; full seated back middle with full head; standing SIDE BODY with head absent right exactly as source. No oval, no extra panels, no text. Brown leather chest/belly straps, silver buckles/rivets, correct raised handle attached at sides. Preserve original source character identity and physique precisely, do not use prior generated dog designs. Landscape 16:9.",
+  "prompts": [
+    {
+      "name": "折疊白手杖",
+      "prompt": "Use case product-mockup. Production prop reference sheet for a warm softly stylized 3D Hong Kong animated film. ONE folding long white mobility cane shown in two states: fully extended laid diagonally on left and folded into a compact bundle on right. Exactly the same cane: white segmented shaft, red lower section, black comfortable straight grip with wrist loop, rounded white rolling tip. Folded configuration physically coherent with segments parallel joined by elastic cord, easy to store. Neutral warm-white seamless background, soft shadows, smooth animated materials, clear detailed joints. No people, dogs, text, logos, labels, extra props or decorative border. Landscape 16:9. This is a light mobility cane, not a weight-bearing walking stick."
+    },
+    {
+      "name": "蛋撻_成年_休息_項圈與牽繩",
+      "prompt": "Edit target Tart character sheet: preserve this EXACT cream Labrador face, physique, slender proportions, paws, ears, fur, all poses and front/back/headless-side-body layout. OFF-DUTY variant: remove entire brown guide harness and metal handle from ALL THREE views, expose natural cream chest/back. Add simple dark brown leather collar with small silver buckle and lead ring consistently to each neck. No orange vest, no heart patches, no text. Add a matching dark brown leather leash as a separate neatly coiled prop on ground at lower right without covering dog; silver swivel clip and simple hand loop, no extra harness. All body anatomy should stay identical to reference. Warm white background, soft 3D animation."
+    },
+    {
+      "name": "阿華田_項圈與牽繩",
+      "prompt": "Use case stylized-concept. Isolated production prop sheet of ONE matching collar and lead set for Tine, a chestnut Labrador in warm 3D animated film. Burnt-orange woven flat collar with small silver buckle and D-ring; matching burnt-orange flat lead with silver swivel snap and sewn hand loop. Show collar in natural oval, lead laid in loose open S curve alongside, full length all visible and no overlaps. Softly rendered fabric weave, rounded edges, neutral warm-white background and soft shadow, elegant simple animation style. No dog, no humans, no logos/text. This collar fits underneath orange bandana. Landscape 16:9."
+    },
+    {
+      "name": "阿華田_成年_領巾項圈牽繩",
+      "prompt": "Edit target original Tine character sheet. Preserve EXACT face/physique, chestnut fur, cream heart patch on same rump side, orange bandana with white/red round badge and rear knot, poses and all three-view layout. Add matching burnt-orange flat collar around neck UNDER bandana; silver D-ring must peek clearly from side/rear, bandana does not serve as collar. In front seated and right side-body views show a burnt-orange leash connected by silver swivel clip to this collar D-ring, NOT to bandana. Lead hangs in a loose slack curve to studio floor, with sewn loop visible away from paws. In rear view collar and attachment visible below neck knot. Same collar/lead style across three views. No harness on Tine. Do not change markings or geometry. Original full seated front/back and standing side body without head format. No titles or text; neutral warm-white background, soft 3D rendering."
+    },
+    {
+      "name": "蛋撻_成年_導盲鞍項圈牽繩",
+      "prompt": "Precise equipment addition to this Tart sheet, preserve everything else especially EXACT face, physique, poses, cream fur and brown guide harness. Add a thin dark brown leather COLLAR at neck ABOVE and separate from harness, with silver D-ring and simple buckle. Add matching dark brown leather leash with silver swivel clip ATTACHED TO COLLAR ring, hanging loose down side to studio floor and ending in hand loop. Show clear collar and attachment in front, back and side-body views consistently. Do not replace harness or attach lead to metal guiding handle. Preserve full seated front/back and head-omitted standing side-body layout. No orange vest or text. Soft white studio background. Collar must match off-duty plain dark brown collar."
+    },
+    {
+      "name": "陳伯_舊相片_阿黃",
+      "prompt": "Create one story prop: Uncle Chan old keepsake photograph, lying flat filling frame, off-white worn paper border. Use attached elderly Uncle Chan reference ONLY to derive his younger facial identity, do not reproduce sheet or elderly face. Photograph depicts the same Hong Kong Chinese man at about 25 with black hair, recognizable ears and facial shape, crouching by his humble old Sham Shui Po home doorway beside a tan short-haired mixed-breed village dog named Ah Wong with upright ears. He wears simple pale cotton shirt and dark trousers, gentle reserved smile. Old plaster, wooden doorway and narrow Hong Kong lane atmosphere, circa mid-1970s. Warm faded sepia photograph aesthetic but subjects retain soft 3D animated movie design, not actual humans. Slight age wear, intact readable composition. Only young man and dog, no wife or other people. No text, no labels, no hands holding photo, landscape 16:9. This must work as a close-up physical photo prop in animated film."
+    },
+    {
+      "name": "林先生_卡套",
+      "prompt": "Use case stylized-concept. Clean isolated production reference of one tactile brown leather ID CARD SLEEVE for blind Hong Kong man. Pocket-sized rectangular leather sleeve with open top, visible stitching, raised single horizontal tactile ridge near lower edge, subtle thumb notch, no logo. Two views of same sleeve: front with plain blank white card partly emerging and back. Card itself has NO text or illustrations (graphics are composited separately). Soft rounded 3D animated movie rendering on warm white background, soft shadow, realistic enough to show leather and seam construction, no hands or people. Landscape."
+    },
+    {
+      "name": "阿晴_手機_藍色保護殼",
+      "prompt": "One isolated prop reference: a blue-cased modern smartphone for Ah Ching in warm stylized 3D animated movie. Front view perfectly straight-on portrait phone, screen blank uniform pale grey for compositing later; back view alongside with simple two camera lenses and blue matte protective case. Same exact object, no brand or text, no readable interface. Soft rounded corners, understated blue case matching casual sage/cream outfit character, realistic proportions but softly rendered animation style, warm white seamless background, subtle shadows. Landscape canvas."
+    },
+    {
+      "name": "陳伯_舊相片_阿黃_風格修正",
+      "prompt": "Edit target IMAGE 1 old photograph. Primary correction: the tan village dog must use the SAME soft stylized 3D family-animation character design language as the Labrador in IMAGE 2 (style ONLY). Keep dog a distinct tan short-haired village mixed breed with upright triangular ears and slimmer build, NOT a Labrador, NOT cream Tart. Give it softly rounded expressive eyes, appealing sculpted muzzle, plush softly rendered fur, rounded paws and natural friendly expression; eliminate photoreal animal detail. Match stylization between man and dog. Preserve the photo composition, crouching man identity, old doorway/lane, faded sepia coloration and worn off-white paper border. Also make man clearly younger adult: smooth youthful cheeks and forehead, dark hair, retain recognizable face and ears. No new people, no text, no clothing on dog. The finished artifact remains one old printed photo from this animated world, with consistent animation style."
+    },
+    {
+      "name": "幼犬歷史照片_蛋撻與阿華田",
+      "prompt": "Create a single full-frame puppy archive photograph within this warm 3D animated world. Use images 1 and 2 as exact Baby Tart and Baby Tine identity refs, image 3 as kennel environment. On Australian kennel grass, cream Baby Tart sits still in foreground looking attentively forward, round face and warm beige ears, no heart patch, no equipment. Chestnut Baby Tine leans close against another playful puppy nearby, pale cream heart patch on right rump consistent with reference, no bandana/equipment. A couple other puppies play in background with slight motion while Tart stays composed. Soft morning sun, lush grass, wooden kennel doorway visible behind. Same plush softly stylized fur and rounded faces as puppy sheets. No humans, no text, no paper border or phone frame. This archive image must support dialogue that Tart sits looking ahead while other dogs move, and Tine likes staying close to other dogs. Landscape 16:9."
+    },
+    {
+      "name": "阿華田_水碗",
+      "prompt": "Isolated production prop reference of one portable dog water bowl, muted teal collapsible silicone body with dark grey rim and nonslip base, shown expanded with shallow clear water; a smaller second view of SAME bowl folded flat. Warm softly stylized 3D animated family-film look, clean rounded forms, gentle material texture, soft warm-white studio background and shadow. No people, animals, text, labels, logos or other objects. Entire object visible, landscape sheet, not photoreal."
+    },
+    {
+      "name": "阿晴_水瓶",
+      "prompt": "Isolated production prop reference of one reusable cream-colored water bottle with muted teal screw cap and small carry loop, shown upright with cap closed and second small view cap removed, no brands. Warm softly stylized 3D animated family-film look, clean rounded forms, gentle material texture, soft warm-white studio background and shadow. No people, animals, text, labels, logos or other objects. Entire object visible, landscape sheet, not photoreal."
+    },
+    {
+      "name": "幼犬_金屬碗",
+      "prompt": "Isolated production prop reference of one small empty stainless steel puppy feeding bowl, brushed silver with rolled rim, no rubber base so it can tip and ring when knocked; show upright and tipped-on-side views of identical bowl. Warm softly stylized 3D animated family-film look, clean rounded forms, gentle material texture, soft warm-white studio background and shadow. No people, animals, text, labels, logos or other objects. Entire object visible, landscape sheet, not photoreal."
+    },
+    {
+      "name": "幼犬_舊皮球",
+      "prompt": "Isolated production prop reference of one old brown leather play ball small enough for Labrador puppies to chase, stitched curved panels, softly scuffed worn surface and slight irregularity, no rubber spikes, not a football, show one three-quarter view. Warm softly stylized 3D animated family-film look, clean rounded forms, gentle material texture, soft warm-white studio background and shadow. No people, animals, text, labels, logos or other objects. Entire object visible, landscape sheet, not photoreal."
+    },
+    {
+      "name": "陳伯_報紙",
+      "prompt": "Isolated production prop reference of one fictional Hong Kong newspaper, cream-grey newsprint, clear large Traditional Chinese masthead exactly 社區日報, small non-legible column rules and simple black-and-white local city photo; show same newspaper open and neatly folded in half, no date needed. Warm softly stylized 3D animated family-film look, rounded forms, gentle material texture, soft warm-white studio background and shadow. No people, animals, brands, labels or other objects. Entire object visible, landscape sheet."
+    },
+    {
+      "name": "陳伯_袋子",
+      "prompt": "Isolated production prop reference of one modest well-used dark navy fabric tote bag with two short handles and small zip pocket, sturdy rectangular soft shape, subtle wear, standing upright, second side view of same bag. Warm softly stylized 3D animated family-film look, rounded forms, gentle material texture, soft warm-white studio background and shadow. No people, animals, brands, labels or other objects. Entire object visible, landscape sheet."
+    },
+    {
+      "name": "林先生_鎖匙",
+      "prompt": "Isolated production prop reference of one small metal keyring with two silver house keys and one small brown leather tactile fob, laid flat neatly, single three-quarter view. Warm softly stylized 3D animated family-film look, rounded forms, gently simplified material texture, soft warm-white studio background and shadow. No people, animals, text, brands, labels or other objects. Entire object visible, landscape sheet."
+    },
+    {
+      "name": "林先生家_水煲",
+      "prompt": "Isolated production prop reference of one ordinary compact cream electric kettle with dark teal handle and small visible on/off switch at base, short pouring spout and round detachable powered base, single three-quarter view. Warm softly stylized 3D animated family-film look, rounded forms, gently simplified material texture, soft warm-white studio background and shadow. No people, animals, text, brands, labels or other objects. Entire object visible, landscape sheet."
+    },
+    {
+      "name": "林先生家_杯",
+      "prompt": "Isolated production prop reference of one simple cream ceramic mug with large easy-to-find dark teal loop handle, on a plain round cork coaster, three-quarter view showing the handle clearly. Warm softly stylized 3D animated family-film look, rounded forms, gently simplified material texture, soft warm-white studio background and shadow. No people, animals, brands, labels or other objects. Entire object visible, landscape sheet."
+    },
+    {
+      "name": "林先生家_收音機",
+      "prompt": "Isolated production prop reference of one compact tabletop radio with warm wood case, dark grey fabric speaker grille, large tactile volume knob on right and simple tuning dial, short telescopic antenna, no brand or readable text. Warm softly stylized 3D animated family-film look, rounded forms, gently simplified material texture, soft warm-white studio background and shadow. No people, animals, brands, labels or other objects. Entire object visible, landscape sheet."
+    },
+    {
+      "name": "鄰居_購物車",
+      "prompt": "Isolated production prop reference of one personal two-wheeled shopping trolley, muted burgundy plaid fabric shopping bag on slim silver metal frame, black curved pull handle and two dark wheels, front three-quarter and small side view of same trolley; not a supermarket cart. Warm softly stylized 3D animated family-film look, rounded forms, gently simplified material texture, soft warm-white studio background and shadow. No people, animals, brands, readable labels or other objects. Entire object visible, landscape sheet."
+    },
+    {
+      "name": "住宅門外_貨物箱",
+      "prompt": "Isolated production prop reference of one medium rectangular closed corrugated brown cardboard delivery box with plain tan packing tape across top, tiny blank white shipping label, lightly dented corner, three-quarter view. Warm softly stylized 3D animated family-film look, rounded forms, gently simplified material texture, soft warm-white studio background and shadow. No people, animals, brands, readable labels or other objects. Entire object visible, landscape sheet."
+    },
+    {
+      "name": "茶餐廳_早餐餐具與多士",
+      "prompt": "Isolated production prop reference of one Hong Kong cha chaan teng breakfast place setting: plain ivory ceramic plate with two triangular buttered toast pieces and scrambled eggs, ivory cup of milk tea on saucer, stainless fork and spoon beside; separate small broken toast morsel in foreground for the scripted dropped-toast action; no brands. Warm softly stylized 3D animated family-film look, rounded forms, gently simplified material texture, soft warm-white studio background and shadow. No people, animals, brands, readable labels or other objects. Entire object visible, landscape sheet."
+    },
+    {
+      "name": "天星碼頭_行李",
+      "prompt": "Isolated production prop reference of one medium teal hard-shell rolling suitcase with four small wheels, black telescoping handle extended, simple cream blank luggage tag, one main three-quarter view and smaller rear view of exact same suitcase. Warm softly stylized 3D animated family-film look, rounded forms, gently simplified material texture, soft warm-white studio background and shadow. No people, animals, brands, readable labels or other objects. Entire object visible, landscape sheet."
+    },
+    {
+      "name": "場12_海旁_雙犬休息牽繩連戲",
+      "prompt": "Create one clear scene continuity reference, not a multi-panel sheet. Use refs: 1 Mr Lam face/outfit/dark glasses, 2 Ah Ching face/outfit, 3 off-duty cream Tart identity and brown collar, 4 chestnut Tine identity/orange bandana/collar, 5 night harbour bench environment. Scene12 ending: Mr Lam seated on LEFT end of long bench, Ah Ching seated on RIGHT. Both adult dogs lie close together on pavement immediately in front, cream Tart LEFT near Mr Lam, chestnut Tine RIGHT near Ah Ching. Tart has NO HARNESS on body, only dark brown collar; Tine wears burnt-orange collar plus orange bandana. Exactly TWO LEASHES: clearly trace one dark brown leash from Tart collar clip in loose U arc to Mr Lam LEFT hand, and one orange leash from Tine collar clip in loose U arc to Ah Ching RIGHT hand. Leashes slack, separate, not tangled, NOT tied to bench, no floating or disconnected ends. Mr Lam RIGHT hand rests gently on Tart back; Ah Ching other hand rests on lap. Brown leather guide harness with silver handle folded flat lies on bench beside Mr Lam. No canes visible because folded backup is stored in his jacket pocket. Wide 16:9, softly stylized 3D animation, warm lamplight, all hands/lead paths visible. Preserve people identities and dog body proportions. No text."
+    }
+  ]
+}

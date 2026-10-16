@@ -1,0 +1,222 @@
+{
+  "mode": "built-in image_gen",
+  "jobs": [
+    {
+      "name": "場04_巴士_外觀",
+      "prompt": "Use case: stylized-concept. Production vehicle reference for the animated film Somewhere Between Us. Match the attached existing scene's soft detailed 3D animation rendering, gently rounded credible forms, tactile materials, warm bounced light and restrained saturation, not photoreal and not toy miniatures. Clean warm ivory studio background with soft contact shadows. Landscape high resolution, organized three-view sheet of ONE identical design: large side view above, front three-quarter and rear three-quarter below, full vehicle uncropped. No labels, no diagram arrows, no people, no cartoon eyes, no branding or text except stated. This is a new isolated vehicle reference; use attached scene only for visual style. Vehicle: modern Hong Kong three-axle right-hand-drive double-decker bus, warm golden yellow body, charcoal two-tier window bands, small muted red accent at roof front matching the yellow bus already in reference street. Two passenger doors on vehicle left. Blank dark destination panels and unlettered plate rectangles. Consistent glazing, wheels, doors and body across all views.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/Desktop/THE BEST DOGGIE VIDEO/VIDEO_GENERATION_ASSET_PACK/02_LOCATIONS/場07_香港街道_行人通道_日.png"
+      ]
+    },
+    {
+      "name": "場07_客貨車_外觀",
+      "prompt": "Use case: stylized-concept. Production vehicle reference for the animated film Somewhere Between Us. Match the attached existing scene's soft detailed 3D animation rendering, gently rounded credible forms, tactile materials, warm bounced light and restrained saturation, not photoreal and not toy miniatures. Clean warm ivory studio background with soft contact shadows. Landscape high resolution, organized three-view sheet of ONE identical design: large side view above, front three-quarter and rear three-quarter below, full vehicle uncropped. No labels, no diagram arrows, no people, no cartoon eyes, no branding or text except stated. This is a new isolated vehicle reference; use attached scene only for visual style. Vehicle: ordinary Hong Kong compact right-hand-drive light commercial passenger/cargo van, soft silver-grey body, short sloping bonnet, black lower bumper and mirrors, one sliding side door, rear split doors, subtle tinted side windows behind front cabin, four black wheels. White front plate and yellow rear plate with no letters. A modest credible working vehicle, not a giant truck. Identical across views.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/Desktop/THE BEST DOGGIE VIDEO/VIDEO_GENERATION_ASSET_PACK/02_LOCATIONS/場07_香港街道_行人通道_日.png"
+      ]
+    },
+    {
+      "name": "場07_前方車輛_外觀",
+      "prompt": "Use case: stylized-concept. Production vehicle reference for the animated film Somewhere Between Us. Match the attached existing scene's soft detailed 3D animation rendering, gently rounded credible forms, tactile materials, warm bounced light and restrained saturation, not photoreal and not toy miniatures. Clean warm ivory studio background with soft contact shadows. Landscape high resolution, organized three-view sheet of ONE identical design: large side view above, front three-quarter and rear three-quarter below, full vehicle uncropped. No labels, no diagram arrows, no people, no cartoon eyes, no branding or text except stated. This is a new isolated vehicle reference; use attached scene only for visual style. Vehicle: ordinary compact five-door Hong Kong right-hand-drive hatchback, desaturated dark teal blue, rounded headlights, black tyres, modest silver wheel rims, white front and yellow rear unlettered plate rectangles. No taxi sign, no logos. This car queues ahead of a silver van in the crossing scene. Same modest scale and fixed design across views.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/Desktop/THE BEST DOGGIE VIDEO/VIDEO_GENERATION_ASSET_PACK/02_LOCATIONS/場07_香港街道_行人通道_日.png"
+      ]
+    },
+    {
+      "name": "場06_港鐵列車_車門與車窗",
+      "prompt": "Use case: stylized-concept. New MTR metro vehicle production reference for this soft detailed 3D animated Hong Kong film. Attached street is STYLE ONLY; do NOT reproduce its tram. Landscape three-panel reference on warm ivory studio ground. TOP: complete side of one silver stainless-steel Hong Kong metro carriage with five evenly spaced double sliding passenger door pairs, red door surrounds, dark rectangular windows between, dark undercarriage. BOTTOM LEFT: three-quarter view of the same train's leading car: silver rounded body, black windshield, red lower nose accent, blank destination screen, connected silver cars receding. BOTTOM RIGHT: large close view of the same double passenger door and adjacent window, closed, clear matching red surrounds. No people, no scenery, no text or logos. Rounded believable engineering forms, textured brushed metal, soft warm bounced light, same high quality stylized 3D material language as reference, not photoreal, no anthropomorphic face.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/Desktop/THE BEST DOGGIE VIDEO/VIDEO_GENERATION_ASSET_PACK/02_LOCATIONS/場07_香港街道_行人通道_日.png"
+      ]
+    },
+    {
+      "name": "天星小輪_船身外觀",
+      "prompt": "Use case: stylized-concept. Create a consistent exterior model reference sheet of the EXACT green-and-cream stylized Star Ferry seen in the attached harbour reference. Preserve its two-deck proportions, green lower hull/cabin, cream upper cabin, two rows of rectangular windows, black-topped cream central funnel with simple green star, short masts and rounded double-ended profile. Landscape organized three-view sheet: large complete side view above, bow three-quarter and opposite-end three-quarter below. Warm ivory studio backdrop with gentle waterline shadow, no scenery, no labels, no text, no people. All views same vessel same windows/materials. Match attached soft detailed 3D animated rendering, gently rounded forms, tactile painted surfaces and golden bounced light. Vessel is a stylized production design consistent with the existing film, not a photoreal museum diagram. Show complete uncut hull to waterline, deck entrances at ends.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/Desktop/THE BEST DOGGIE VIDEO/VIDEO_GENERATION_ASSET_PACK/02_LOCATIONS/場01_香港維多利亞港_清晨.png"
+      ]
+    },
+    {
+      "name": "場04_巴士_茶餐廳遮擋與離開",
+      "prompt": "Use case: stylized-concept. A production scene reference for the same soft detailed 3D animated film. Match the references' gently rounded forms, tactile surfaces and soft cinematic bounced light. No people, dogs, text labels, arrows, watermarks or logos. Landscape high-resolution composition. Preserve referenced vehicle design exactly. Two equal wide panels stacked vertically, identical locked camera from INSIDE a modest Hong Kong cha chaan teng looking through its broad street-facing window, warm morning light, green vinyl booth corner and cream tabletop at lower left. Reference 1 fixes the yellow double-decker; reference 2 fixes street style. TOP: bus stopped in the curb lane beyond the pavement, full tall side across window occludes the far street view, clear walkway between cafe and bus where Ching/Tine will walk. BOTTOM: exact same cafe/window/pavement camera with SAME bus almost out of frame departing screen-right, revealing opposite shopfront. No passengers, no dogs; clean plates for compositing. Cafe foreground and window proportions identical in both panels. Bus front points screen-right in both. Door side faces cafe, do not mirror arbitrary text.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-70bd7414-47d4-48fa-ab7b-efe3409ba198.png",
+        "/Users/everythingisgonnabeaok/Desktop/THE BEST DOGGIE VIDEO/VIDEO_GENERATION_ASSET_PACK/02_LOCATIONS/場07_香港街道_行人通道_日.png"
+      ]
+    },
+    {
+      "name": "場07_客貨車與前車_阻擋及駛離",
+      "prompt": "Use case: stylized-concept. A production scene reference for the same soft detailed 3D animated film. Match the references' gently rounded forms, tactile surfaces and soft cinematic bounced light. No people, dogs, text labels, arrows, watermarks or logos. Landscape high-resolution composition. Preserve referenced vehicle design exactly. Two equal wide panels stacked vertically, identical locked camera across a Hong Kong signalized pedestrian crossing from curb height. Reference 1 silver van and reference 2 dark teal hatchback are canonical vehicles; reference 3 is location/style. Adapt that street into a clear simplified side-street junction, yellow crossing stripes leading from foreground curb to opposite sidewalk, warm afternoon. TOP: silver van points screen-right with body stopped across and physically blocking crossing stripes; dark teal hatchback immediately ahead to its right queues so van cannot move forward. Car is beyond the crossing. No collision. BOTTOM: same road/camera/curbs/buildings, hatchback further right and van has followed fully beyond crossing, leaving all crossing stripes clear. Keep van/car ordering and screen-right direction. Visible signal pole same place but dark unlit faces for controlled animation, do not generate misleading signal changes. No other traffic near crossing, no people. Full clarity of cause and obstruction, credible wheel-road contact.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-38f84acc-df1e-461d-94e4-6b12ca6c57bc.png",
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-d4e4229a-20d3-4659-9a34-578053273fee.png",
+        "/Users/everythingisgonnabeaok/Desktop/THE BEST DOGGIE VIDEO/VIDEO_GENERATION_ASSET_PACK/02_LOCATIONS/場07_香港街道_行人通道_日.png"
+      ]
+    },
+    {
+      "name": "場06_港鐵列車_車廂內",
+      "prompt": "Use case: stylized-concept. A production scene reference for the same soft detailed 3D animated film. Match the references' gently rounded forms, tactile surfaces and soft cinematic bounced light. No people, dogs, text labels, arrows, watermarks or logos. Landscape high-resolution composition. Preserve referenced vehicle design exactly. One wide interior view inside the SAME silver/red MTR carriage in reference, eye-level camera diagonally down aisle with nearest left-side double sliding door and adjacent large window clearly visible. Stainless longitudinal bench seats, pale warm grey walls, charcoal anti-slip floor, brushed steel grab poles, pale turquoise hanging grips, warm neutral ceiling strips. Maintain exterior reference window/door widths; red door surrounds are visible through glazing, interior door panels brushed metal. Door is closed. Clear generous standing area beside nearest doorway for a handler with Labrador-size guide dog to be composited later. Not a tram or bus. No advertisements, no route text, no people. Soft detailed animated rendering, not photoreal.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-4fce8b20-3e73-496b-9391-7583ab481dbb.png",
+        "/Users/everythingisgonnabeaok/Desktop/THE BEST DOGGIE VIDEO/VIDEO_GENERATION_ASSET_PACK/02_LOCATIONS/場07_香港街道_行人通道_日.png"
+      ]
+    },
+    {
+      "name": "天星小輪_船艙座位與窗",
+      "prompt": "Use case: stylized-concept. A production scene reference for the same soft detailed 3D animated film. Match the references' gently rounded forms, tactile surfaces and soft cinematic bounced light. No people, dogs, text labels, arrows, watermarks or logos. Landscape high-resolution composition. Preserve referenced vehicle design exactly. One wide cabin interior of the EXACT stylized green/cream two-deck Star Ferry in reference 1; reference 2 gives warm animated harbour light. LOWER DECK interior, eye-level three-quarter view of varnished brown wooden reversible benches, worn grey-brown timber deck, green steel lower window frames and cream upper walls, rectangular windows matching exterior lower-deck spacing, practical warm ceiling lights. Large closest bench and clear floor beside its end for Ah Ching's seated dog to be composited later without blocking aisle. Windows show softly blurred Victoria Harbour in dusk gold and blue. View toward end vestibule/exit so boarding cabin relationship is usable. No people, no dog, no signs. Believable maritime interior with same gently rounded cinematic animation treatment.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-c017ace4-e954-44bc-99c6-af8430c06722.png",
+        "/Users/everythingisgonnabeaok/Desktop/THE BEST DOGGIE VIDEO/VIDEO_GENERATION_ASSET_PACK/02_LOCATIONS/場01_香港維多利亞港_清晨.png"
+      ]
+    },
+    {
+      "name": "場07_客貨車與前車_阻擋及駛離_修正",
+      "prompt": "Use case: precise-object-edit. Correct ROAD GEOMETRY AND TRAFFIC DIRECTION in this exact two-panel vehicle staging sheet. Keep the soft detailed 3D animation style, silver van design, dark teal hatchback design, warm Hong Kong buildings/trees/daylight, two-panel stacked layout. The old sheet is WRONG: cars drive sideways across an avenue that recedes into distance. REBUILD THE BACKGROUND ROAD: one straight two-lane road runs HORIZONTALLY left-right across each panel. Foreground sidewalk and curb run horizontally at bottom; opposite sidewalk runs horizontally across middle distance. Continuous shopfronts and trees beyond opposite pavement, NO avenue receding into central background. View slightly elevated from near pavement across the road. Correct left-hand traffic: vehicles in NEAR lane face and travel SCREEN-LEFT. Near-side silver van has its FRONT ON LEFT. Dark teal hatchback is ahead to LEFT of van in SAME lane. Far lane empty. A horizontal dashed centreline separates lanes. Pedestrian crossing centered, extends from near foreground lowered curb to opposite lowered curb across both lanes. Yellow rectangular zebra bands have long axes parallel to left-right road traffic, bands repeat in depth across road, connecting the two curb ramps. TOP PANEL: van stopped astride crossing in near lane, blocking pedestrian route; car just ahead left holds it up. BOTTOM PANEL: same fixed camera/background/road/markings, both vehicles advanced left, van rear fully beyond left edge of crossing so entire pedestrian crossing is clear. Car still ahead left (may partly exit frame). Keep vehicle wheels aligned with their lane. No pedestrians, no arrows, no readable signage, signal faces unlit. Crucially no sideways cars across a receding avenue and no crossing terminating in road. You may substantially rebuild road/pavement to achieve coherent geography.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-9231169e-8a02-4322-9a1d-f7d125e80856.png"
+      ]
+    },
+    {
+      "name": "場06_港鐵月台_升降機與車門",
+      "prompt": "Use case: stylized-concept. Create a two-panel production geography sheet for an MTR near-miss, same softly detailed 3D animated materials as referenced train. Reference 1 fixes train exterior, reference 2 interior. TOP wide panel: camera inside train beside window looks across a broad 5m station platform through transparent closed platform screen doors to a single steel lift in the opposite platform wall. Lift doors OPEN, empty lift. Clearly visible tactile strip and safe wide walking floor between lift and glass barrier. BOTTOM wide panel: reverse view from just outside the same lift looking across same empty platform toward the same silver train with red double doors now CLOSED, behind aligned closed transparent platform screen doors. Train front/departure direction to LEFT. Warm grey floor, pale sage tiled walls, grey steel lift, light warm ceiling. This is a stylized fictional Hong Kong station geography, not an exact named real station. Consistent layout/camera axis, train parallel to platform, no tracks between lift and platform, no lift on tracks, no people/dogs, no text/logos/arrows. Wide landscape.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-4fce8b20-3e73-496b-9391-7583ab481dbb.png",
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-21efe368-6306-4145-a888-dd562523efe7.png"
+      ]
+    },
+    {
+      "name": "天星小輪_登船口與跳板",
+      "prompt": "Use case: stylized-concept. Create a two-view production reference for boarding the exact green-and-cream ferry in reference 1, with lower cabin details from reference 2. Match soft cinematic 3D animated film style. TOP wide panel: from covered pier lower-level waiting area, look toward an open end-side entrance to the docked ferry; broad metal gangplank with continuous handrails spans small water gap to open LOWER DECK vestibule. Visible logical route through entrance into green-and-cream cabin with brown wooden benches. Pier beige concrete, green steel beams, rubber fenders, tied mooring rope, simple open gate. Dusk warm/cool light. BOTTOM wide panel: closer low three-quarter view of SAME gangplank hinge, anti-slip metal surface and ferry threshold, same lower-deck height and continuous safe railing. Ferry body windows and doorway same design in both views, no ramp to upper windows, no floating ramp, no people/dogs/text. Landscape sheet.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-c017ace4-e954-44bc-99c6-af8430c06722.png",
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-a7165a2a-a899-4284-9bd4-6f7b49b562cf.png"
+      ]
+    },
+    {
+      "name": "天星小輪_傍晚航行",
+      "prompt": "Use case: stylized-concept. Single wide cinematic scene of the identical green lower hull/cream upper cabin two-deck Star Ferry in reference 1 moving slowly across Victoria Harbour at dusk. Preserve funnel green star, window rows, proportions, trim. Match soft detailed 3D animation style and skyline atmosphere of reference 2, but dusk not sunrise: apricot fading to blue sky, warm cabin windows, gentle wake. Show full boat in side three-quarter mid-distance, foreground water and broad airy background skyline, no foreground people or dogs, no text. This is an exterior transition plate for the outward crossing, not a duplicate reference sheet. Same vessel design.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-c017ace4-e954-44bc-99c6-af8430c06722.png",
+        "/Users/everythingisgonnabeaok/Desktop/THE BEST DOGGIE VIDEO/VIDEO_GENERATION_ASSET_PACK/02_LOCATIONS/場01_香港維多利亞港_清晨.png"
+      ]
+    },
+    {
+      "name": "天星小輪_夜間航行",
+      "prompt": "Use case: stylized-concept. Single wide cinematic night exterior of same Star Ferry as reference 1, green lower hull, cream upper cabin, black-topped green-star funnel, same two rows of rectangular windows. Preserve precise boat identity. Soft detailed 3D animated rendering matching reference 2's harbour forms, not photoreal. Deep blue night sky, warm cabin lights, city windows gently glowing, gold reflections and small wake. Vessel distant mid-ground for ending and return-journey transition, complete side silhouette clearly visible, moving quietly across frame. No neon overload, no fireworks, no moon required, no people/dogs/text. Landscape 16:9.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-c017ace4-e954-44bc-99c6-af8430c06722.png",
+        "/Users/everythingisgonnabeaok/Desktop/THE BEST DOGGIE VIDEO/VIDEO_GENERATION_ASSET_PACK/02_LOCATIONS/場01_香港維多利亞港_清晨.png"
+      ]
+    },
+    {
+      "name": "場04_巴士_茶餐廳遮擋與離開_修正",
+      "prompt": "Use case: precise-object-edit. Correct ONLY the bus travel direction in the attached two-panel cafe-window staging sheet, retaining exact cafe foreground/window/camera, street background, lighting, yellow double-decker design, two-panel format. Hong Kong left-hand traffic: the near curb lane bus must face and travel SCREEN-LEFT so its LEFT PASSENGER DOOR SIDE faces this cafe. TOP: same bus stopped across window, front now on LEFT, rear on RIGHT, left-side front and middle passenger doors visible, three axles. BOTTOM: same bus has travelled LEFT almost out of frame, only its rear quarter remains at LEFT edge. Opposite shops revealed. Keep all street/cafe features fixed rather than mirroring the whole image. Empty walkway between cafe and curb for later character compositing. No people/dogs/text. Maintain same soft detailed 3D animation style. Bus door/window design follows second reference canonical vehicle.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-4605d1d5-223b-4cb5-94f6-1581619dc7cc.png",
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-70bd7414-47d4-48fa-ab7b-efe3409ba198.png"
+      ]
+    },
+    {
+      "name": "天星小輪_船艙_返程夜景",
+      "prompt": "Use case: lighting-weather. Change ONLY time of day and outside view in the attached ferry cabin plate to NIGHT for the return crossing. Preserve exact camera, cabin geometry, green/cream frames, wooden benches, floorboards, railing, doorway, all objects. Outside windows deep blue harbour with softly distant city lights, no sun/no orange sunset. Warm ceiling lights remain on, warm reflected pools on floor; cool night window fill. Same soft detailed 3D animated style. No passengers/dogs/text. Single landscape frame, not a sheet.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-a7165a2a-a899-4284-9bd4-6f7b49b562cf.png"
+      ]
+    },
+    {
+      "name": "天星小輪_船艙_清晨",
+      "prompt": "Use case: lighting-weather. Change ONLY time of day in the attached ferry cabin plate to early MORNING for the opening scene. Preserve exact camera, cabin geometry, green/cream frames, varnished wooden benches, floorboards, railing, doorway, all objects. Pale blue morning sky outside, soft peach light touching harbour skyline, gentle clean daylight fill, subtly warm practical lamps, no deep orange sunset. Same soft detailed 3D animation style, no people/dogs/text. Single landscape frame.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-a7165a2a-a899-4284-9bd4-6f7b49b562cf.png"
+      ]
+    },
+    {
+      "name": "場07_行人通道_修正交通底圖",
+      "prompt": "Use case: precise-object-edit. Derive ONE SINGLE WIDE CLEAN LOCATION FRAME from the BOTTOM PANEL of this corrected two-panel crossing sheet. Use exactly bottom panel camera, background buildings, trees, pavements, curb ramps, tactile tiles, road width, yellow crossing stripe geometry and horizontal dashed lane divider. Remove van and car completely and naturally restore road behind them. Do NOT include top panel or any divider. No new objects. It is a road running left-right with a pedestrian crossing connecting foreground sidewalk to opposite sidewalk. Preserve correctly aligned horizontal traffic roadway and foreground-to-background pedestrian route. Keep far crossing exit clear of railings, all stripes continuous across both traffic lanes. No vehicles, people, text, arrows. Same soft 3D animation style and afternoon light. Widen naturally only if needed for landscape ratio, never rotate street or crossing.",
+      "refs": [
+        "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-3955b62a-4a68-4454-b258-f9ca016b341e.png"
+      ]
+    }
+  ],
+  "outputs": [
+    {
+      "name": "場04_巴士_外觀",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-70bd7414-47d4-48fa-ab7b-efe3409ba198.png"
+    },
+    {
+      "name": "場07_前方車輛_外觀",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-d4e4229a-20d3-4659-9a34-578053273fee.png"
+    },
+    {
+      "name": "場07_客貨車_外觀",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-38f84acc-df1e-461d-94e4-6b12ca6c57bc.png"
+    },
+    {
+      "name": "天星小輪_船身外觀",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-c017ace4-e954-44bc-99c6-af8430c06722.png"
+    },
+    {
+      "name": "場06_港鐵列車_車門與車窗",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-4fce8b20-3e73-496b-9391-7583ab481dbb.png"
+    },
+    {
+      "name": "場07_客貨車與前車_阻擋及駛離",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-9231169e-8a02-4322-9a1d-f7d125e80856.png"
+    },
+    {
+      "name": "場04_巴士_茶餐廳遮擋與離開",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-4605d1d5-223b-4cb5-94f6-1581619dc7cc.png"
+    },
+    {
+      "name": "場06_港鐵列車_車廂內",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-21efe368-6306-4145-a888-dd562523efe7.png"
+    },
+    {
+      "name": "天星小輪_船艙座位與窗",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-a7165a2a-a899-4284-9bd4-6f7b49b562cf.png"
+    },
+    {
+      "name": "場07_客貨車與前車_阻擋及駛離_修正",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-3955b62a-4a68-4454-b258-f9ca016b341e.png"
+    },
+    {
+      "name": "場04_巴士_茶餐廳遮擋與離開_修正",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-5735dc62-1b72-4f44-9ed1-a0538d983c39.png"
+    },
+    {
+      "name": "天星小輪_船艙_返程夜景",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-0477c512-5f17-4924-82b7-9945158f5ac0.png"
+    },
+    {
+      "name": "天星小輪_船艙_清晨",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-5e02a39b-49d5-478e-8d66-cfdc6588108f.png"
+    },
+    {
+      "name": "場06_港鐵月台_升降機與車門",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-427a5db4-f95e-41eb-9907-e1f58156a1c7.png"
+    },
+    {
+      "name": "天星小輪_登船口與跳板",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-cc2e1a83-45a5-4b6f-bc8c-5e6bf2248c96.png"
+    },
+    {
+      "name": "天星小輪_傍晚航行",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-5aec558b-bdb0-400e-99b8-8107bde6e3bc.png"
+    },
+    {
+      "name": "天星小輪_夜間航行",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-367f00b7-9d3a-4c70-b1dc-3c4f34fed544.png"
+    },
+    {
+      "name": "場07_行人通道_修正交通底圖",
+      "path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-809c4d97-34e0-496b-9c38-ea86cf1a43d5.png"
+    }
+  ],
+  "photo": {
+    "initial_prompt": "Use case: precise-object-edit. Edit only the DOG'S eyebrows and eyes in the attached old photograph. Remove both dark human-like eyebrow strokes and all eyebrow-shaped raised tufts above the dog's eyes completely; replace their area with natural continuous tan forehead fur. Make the dog's eyes moderately narrower, almond-shaped, with slightly upward slanting outer corners rather than large round circles, retaining a friendly relaxed happy expression and warm dark brown pupils. Keep exact dog's breed, ears, muzzle, tan/cream coat, size, sitting pose and smiling open mouth/tongue unchanged. Keep the man entirely unchanged including HIS eyebrows and eyes. Keep old doorway, composition, sepia palette, soft detailed 3D animation style, aged photo paper border and all creases unchanged. No other modifications.",
+    "final_prompt": "Use case: precise-object-edit. User correction to this exact photograph: the DOG needs MUCH NARROWER SLIT-SHAPED EYES. Change ONLY the dog's two eye openings, reducing vertical opening to about one quarter of current height. Long narrow gently upturned slits, nearly closed in a warm happy squint, with only a tiny dark glint visible. Not round, not wide almond eyes. Both upper/lower lids form fine smiling slanted lines. NO EYEBROWS, no dark marks or tufts above the eyes, uninterrupted tan forehead fur. Do not change dog's mouth, ears, muzzle, body, colour, head angle. Keep the man completely identical, his eyes/eyebrows unaffected. Preserve sepia, aged paper, all creases, backdrop, framing and same soft 3D animated style exactly.",
+    "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-08d9f672-69bc-47b3-b88c-b4b81de97220.png",
+    "intermediate_path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-e6733332-3a89-47ea-901b-b28338ab5ecb.png",
+    "final_path": "/Users/everythingisgonnabeaok/.codex/generated_images/01a1342a-0ddb-7ce1-9e57-10961c760ab3/exec-23720a2a-8384-462f-81cf-03f152f3aff0.png"
+  }
+}

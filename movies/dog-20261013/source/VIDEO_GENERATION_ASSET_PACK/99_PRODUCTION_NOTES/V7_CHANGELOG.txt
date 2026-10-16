@@ -1,0 +1,8 @@
+13 October 2026
+- Added 15 vehicle reference PNGs covering all five missing vehicle types.
+- Rebuilt the incorrect two-panel crossing traffic geometry and supplied a matching clean plate.
+- Corrected bus near-lane direction and passenger-door orientation.
+- Replaced old-photo dog eyes with narrow smiling slits; removed brows. Original preserved outside pack.
+- Script v7: scene 09 round trip and dusk-to-night montage close ferry continuity gap; new vehicle/route appendix p17. Other story pages retained.
+- Updated filenames/scene map/current audit/checksums. Prior script v6 retained outside current pack.
+- Generated via built-in image_gen; full prompts and source/output paths in vehicle_and_photo_prompts_v7.json.

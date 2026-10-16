@@ -1,0 +1,15 @@
+{
+  "source_project": "dog-20261014",
+  "source_chapter": "s16_c06",
+  "source_take": "take_01",
+  "source_path": "C:\\Users\\Admin 3\\Downloads\\codex-movie\\movies\\dog-20261014\\chapters\\s16_c06\\takes\\take_01.mp4",
+  "source_sha256": "8c714e6287b40e8defcd4e99764a82820697b288b700d5b404788dcc0c6a1fce",
+  "source_interval_seconds": [
+    4.9,
+    16.9
+  ],
+  "destination_duration_seconds": 12,
+  "path": "source/finalized_audio/s16_c06_original_performance_12s.wav",
+  "sha256": "fc996a908cf4f8aa41ead958d3e3a5fd9bbfe212e1dc9aa6e6499d5805d177d6",
+  "scope": "Finalized existing original character performance reused only in local edit. No audio reference is uploaded. New picture remains native 1080p."
+}

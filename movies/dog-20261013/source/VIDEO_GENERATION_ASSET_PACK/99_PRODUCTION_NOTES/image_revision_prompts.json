@@ -1,0 +1,13 @@
+{
+  "mode": "built-in image_gen",
+  "prompts": [
+    {
+      "name": "tart_tine_layout_v2",
+      "prompt": "Edit target Image 1 Tart cream Labrador character sheet. Image 2 Tine is LAYOUT reference ONLY. Reformat Tart to match Tine sheet EXACTLY: LEFT full seated FRONT dog with entire head ears paws visible; MIDDLE full seated BACK dog with entire back of head ears and tail visible; RIGHT standing SIDE PROFILE BODY ONLY with head omitted at neck exactly as Tine layout reference, showing torso harness four legs tail. NO OVAL portrait, NO cropped heads in left/middle views, NO text or labels. Same warm-white seamless studio background and soft floor shadow as Tine. Preserve Tart cream fur warm beige ears black nose rounded face, no heart marking anywhere, no bandana. Keep brown leather guide harness with silver metal raised handle and warm brown grip from Image 1 in all views, coherent chest and belly straps, no orange training vest. Match scale and spacing of Image 2, landscape 16:9. Do not transfer Tine brown fur or heart patch."
+    },
+    {
+      "name": "night_harbour_style_v2",
+      "prompt": "Edit target IMAGE 1 night Victoria Harbour bench environment. IMAGE 2 daytime Victoria Harbour is the authoritative STYLE reference. Restyle entire image 1 into EXACTLY image 2 soft stylized 3D animated aesthetic: simplified sculpted skyline shapes, rounded softened architecture, broad clean color blocks, soft luminous materials, gentle painterly clouds, stylized rippling water, restrained detail, warm family-animation environment, NOT photorealistic. Preserve image 1 bench composition and geometry, empty space for dogs on pavement in front, left lamppost/tree, rail behind bench, water and Hong Kong Island skyline beyond, distant green-white ferry. Retain NIGHT setting: deep blue indigo sky with soft violet clouds, softly glowing amber windows and lamplight, blue and gold simplified water reflections. Remove photographic texture, fine gritty paving, hyper-detailed window grids, tiny signs and neon clutter. Match rendering softness and simplified scale of daytime image 2, but no daylight/sun. Bench wood warm honey-colored, smooth softly rendered paving. No people/dogs/text. Landscape 16:9, one scene."
+    }
+  ]
+}

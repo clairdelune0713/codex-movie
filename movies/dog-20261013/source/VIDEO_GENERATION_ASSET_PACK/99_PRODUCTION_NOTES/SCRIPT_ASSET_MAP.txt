@@ -1,0 +1,192 @@
+SCRIPT v7 TO AVAILABLE IMAGE REFERENCES
+Tart = 蛋撻; Tine = 阿華田. Scene associations, not proof of completed shots.
+
+01_CHARACTERS/DOGS/蛋撻_幼犬_Baby_Tart.png
+  Scenes: 1,11 | available_reference
+  Scene association; does not imply completed shot coverage.
+01_CHARACTERS/DOGS/蛋撻_成年_休息_項圈與牽繩.png
+  Scenes: 2,9,10,11,12 | available_reference
+  Scene association; does not imply completed shot coverage.
+01_CHARACTERS/DOGS/蛋撻_成年_導盲鞍項圈牽繩.png
+  Scenes: 2,4,6,7,9,10,11,12 | available_reference
+  Scene association; does not imply completed shot coverage.
+01_CHARACTERS/DOGS/阿華田_幼犬_Baby_Tine.png
+  Scenes: 1,11 | available_reference
+  Scene association; does not imply completed shot coverage.
+01_CHARACTERS/DOGS/阿華田_成年_橙色領巾項圈牽繩.png
+  Scenes: 3,4,5,6,8,9,10,11,12 | available_reference
+  Scene association; does not imply completed shot coverage.
+01_CHARACTERS/HUMANS/林先生_深色眼鏡.png
+  Scenes: 2,4,6,7,9,10,11,12 | available_reference
+  Scene association; does not imply completed shot coverage.
+01_CHARACTERS/HUMANS/美姐.png
+  Scenes: 3,5,6,8 | available_reference
+  Scene association; does not imply completed shot coverage.
+01_CHARACTERS/HUMANS/阿晴.png
+  Scenes: 3,4,5,6,8,9,10,11,12 | available_reference
+  Scene association; does not imply completed shot coverage.
+01_CHARACTERS/HUMANS/陳伯.png
+  Scenes: 3,5,6,8 | available_reference
+  Scene association; does not imply completed shot coverage.
+02_LOCATIONS/場01_11_澳洲Victoria_犬舍草地.png
+  Scenes: 1,11 | available_reference
+  Scene association; does not imply completed shot coverage.
+02_LOCATIONS/場01_澳洲Victoria_草地_清晨.png
+  Scenes: 1,11 | available_reference
+  Scene association; does not imply completed shot coverage.
+02_LOCATIONS/場01_香港維多利亞港_清晨.png
+  Scenes: 1 | available_reference
+  Scene association; does not imply completed shot coverage.
+02_LOCATIONS/場03_05_06_08_社區中心_活動室.png
+  Scenes: 3,5,6,8 | available_reference
+  Scene association; does not imply completed shot coverage.
+02_LOCATIONS/場07_香港街道_行人通道_日.png
+  Scenes: 7 | available_reference
+  v7 corrected traffic geometry; clean plate matches new van/car staging.
+02_LOCATIONS/場10_11_12_尖沙咀海旁_長椅_夜.png
+  Scenes: 9,10,11,12 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/住宅門外_貨物箱.png
+  Scenes: 2 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/天星碼頭_行李.png
+  Scenes: 9 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/幼犬_舊皮球.png
+  Scenes: 1,11 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/幼犬_金屬碗.png
+  Scenes: 1,11 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/幼犬歷史照片_蛋撻與阿華田.png
+  Scenes: 12 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/晶片認證卡與App/App_01_感應卡片.png
+  Scenes: 11 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/晶片認證卡與App/App_02_蛋撻檔案.png
+  Scenes: 11 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/晶片認證卡與App/App_03_蛋撻來源.png
+  Scenes: 11 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/晶片認證卡與App/App_04_阿華田檔案.png
+  Scenes: 11 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/晶片認證卡與App/App_05_共同來源.png
+  Scenes: 11 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/晶片認證卡與App/App_06_幼犬歷史照片.png
+  Scenes: 12 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/晶片認證卡與App/蛋撻_晶片認證卡.png
+  Scenes: 2,11,12 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/林先生_卡套.png
+  Scenes: 2,11,12 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/林先生_折疊白手杖.png
+  Scenes: 2,4,6,7,9,10,11,12 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/林先生_鎖匙.png
+  Scenes: 2 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/林先生家_收音機.png
+  Scenes: 2 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/林先生家_杯.png
+  Scenes: 2 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/林先生家_水煲.png
+  Scenes: 2 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/茶餐廳_早餐餐具與多士.png
+  Scenes: 4 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/蛋撻_棕色皮革導盲鞍_佩戴與卸下.png
+  Scenes: 2,4,6,7,9,10,11,12 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/鄰居_購物車.png
+  Scenes: 2 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/阿晴_手機_藍色保護殼.png
+  Scenes: 9,11,12 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/阿晴_水瓶.png
+  Scenes: 5 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/阿華田_橙色三角領巾.png
+  Scenes: 3,4,5,6,8,9,10,11,12 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/阿華田_水碗.png
+  Scenes: 5 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/阿華田_項圈與牽繩.png
+  Scenes: 3,4,5,6,8,9,10,11,12 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/陳伯_報紙.png
+  Scenes: 3,5,6,8 | available_reference
+  Scene association; does not imply completed shot coverage.
+03_PROPS/陳伯_舊相片_阿黃.png
+  Scenes: 8 | available_reference
+  Latest user correction: no dog eyebrows, narrow slit-shaped smiling eyes; young man unchanged.
+03_PROPS/陳伯_袋子.png
+  Scenes: 6,8 | available_reference
+  Scene association; does not imply completed shot coverage.
+04_STAGING_REFERENCES/場12_海旁_雙犬休息牽繩連戲.png
+  Scenes: 9,10,11,12 | staging_only
+  Scene association; does not imply completed shot coverage.
+05_VEHICLES/場04_巴士_外觀.png
+  Scenes: 4 | available_reference
+  v7 vehicle reference; multi-view/action sheets are not literal final video frames.
+05_VEHICLES/場04_巴士_茶餐廳遮擋與離開.png
+  Scenes: 4 | available_reference
+  v7 vehicle reference; multi-view/action sheets are not literal final video frames.
+05_VEHICLES/場06_港鐵列車_車廂內.png
+  Scenes: 6 | available_reference
+  v7 vehicle reference; multi-view/action sheets are not literal final video frames.
+05_VEHICLES/場06_港鐵列車_車門與車窗.png
+  Scenes: 6 | available_reference
+  v7 vehicle reference; multi-view/action sheets are not literal final video frames.
+05_VEHICLES/場06_港鐵月台_升降機與車門.png
+  Scenes: 6 | available_reference
+  v7 vehicle reference; multi-view/action sheets are not literal final video frames.
+05_VEHICLES/場07_前方車輛_外觀.png
+  Scenes: 7 | available_reference
+  v7 vehicle reference; multi-view/action sheets are not literal final video frames.
+05_VEHICLES/場07_客貨車_外觀.png
+  Scenes: 7 | available_reference
+  v7 vehicle reference; multi-view/action sheets are not literal final video frames.
+05_VEHICLES/場07_客貨車與前車_阻擋及駛離.png
+  Scenes: 7 | available_reference
+  v7 vehicle reference; multi-view/action sheets are not literal final video frames.
+05_VEHICLES/天星小輪_傍晚航行.png
+  Scenes: 9 | available_reference
+  v7 vehicle reference; multi-view/action sheets are not literal final video frames.
+05_VEHICLES/天星小輪_夜間航行.png
+  Scenes: 9,12 | available_reference
+  v7 vehicle reference; multi-view/action sheets are not literal final video frames.
+05_VEHICLES/天星小輪_登船口與跳板.png
+  Scenes: 1,9,12 | available_reference
+  v7 vehicle reference; multi-view/action sheets are not literal final video frames.
+05_VEHICLES/天星小輪_船艙_清晨.png
+  Scenes: 1 | available_reference
+  v7 vehicle reference; multi-view/action sheets are not literal final video frames.
+05_VEHICLES/天星小輪_船艙_返程夜景.png
+  Scenes: 9 | available_reference
+  v7 vehicle reference; multi-view/action sheets are not literal final video frames.
+05_VEHICLES/天星小輪_船艙座位與窗.png
+  Scenes: 9 | available_reference
+  v7 vehicle reference; multi-view/action sheets are not literal final video frames.
+05_VEHICLES/天星小輪_船身外觀.png
+  Scenes: 1,9,12 | available_reference
+  v7 vehicle reference; multi-view/action sheets are not literal final video frames.
+90_REFERENCE_ONLY_NEEDS_REVIEW/舊晶片卡與手機_資料錯誤_勿用.png
+  Scenes: none | reference_only_do_not_use
+  Scene association; does not imply completed shot coverage.
+90_REFERENCE_ONLY_NEEDS_REVIEW/舊橡膠球_不符劇本_勿用.png
+  Scenes: none | reference_only_do_not_use
+  Scene association; does not imply completed shot coverage.
+90_REFERENCE_ONLY_NEEDS_REVIEW/電車車廂_非劇本場景.png
+  Scenes: none | reference_only_do_not_use
+  Scene association; does not imply completed shot coverage.

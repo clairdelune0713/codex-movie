@@ -1,0 +1,281 @@
+01 | EXT. PUPPY PLAY AREA, VICTORIA, AUSTRALIA - MORNING
+  01_CHARACTERS/Growing_Tart_and_Tine.png
+  01_CHARACTERS/Tart_蛋撻_Puppy.png
+  01_CHARACTERS/Tine_阿華田_Puppy.png
+  01_CHARACTERS/Training_Handlers_and_Volunteer.png
+  02_LOCATIONS/S01_Victoria_Puppy_Yard_Morning.png
+  03_PROPS/Canonical_Puppy_Photograph.png
+  03_PROPS/Puppy_Bench_and_Transport_Crates.png
+  03_PROPS/S01_Puppies_Shallow_Water_Bowl.png
+  03_PROPS/Two_Ended_Squeaky_Toy_Worn_and_New.png
+  02_LOCATIONS/S01_Victoria_Bench_Rain_Shelter.png
+  02_LOCATIONS/S01_Covered_Departure_Yard.png
+  04_VEHICLES/S01_Puppy_Transport_Vehicles.png
+
+02 | INT./EXT. TRAINING SETTINGS - PASSAGE OF TIME
+  01_CHARACTERS/Ah_Ming_阿明_Dark_Glasses.png
+  01_CHARACTERS/Growing_Tart_and_Tine.png
+  01_CHARACTERS/May_阿May.png
+  01_CHARACTERS/Tart_Adult_Working_Harness_No_Leash.png
+  01_CHARACTERS/Tine_阿華田_Adult_Bandanna_Collar_Lead.png
+  01_CHARACTERS/Training_Handlers_and_Volunteer.png
+  02_LOCATIONS/S02_Guide_Training_Path.png
+  02_LOCATIONS/S02_Hong_Kong_Practice_and_Introductions.png
+  03_PROPS/Canonical_Puppy_Photograph.png
+  03_PROPS/Tart_Brown_Leather_Guide_Harness_Worn_and_Removed.png
+  03_PROPS/Tine_Orange_Bandanna_with_Emblem.png
+  03_PROPS/Tine_Orange_Collar_and_Lead.png
+  03_PROPS/Tine_Rest_Mat_and_May_Bag.png
+
+03 | INT. AH MING'S FLAT / EXT. CENTRAL - MONDAY MORNING
+  01_CHARACTERS/Ah_Ming_阿明_Dark_Glasses.png
+  01_CHARACTERS/Street_and_Ferry_Supporting_Cast.png
+  01_CHARACTERS/Tart_Adult_Working_Harness_No_Leash.png
+  01_CHARACTERS/Tart_Home_Collar_Separate_Lead.png
+  02_LOCATIONS/S03_Residential_Lift_Lobby.png
+  02_LOCATIONS/S03_S04_Central_Lan_Kee_Cha_Chaan_Teng.png
+  02_LOCATIONS/S03_S07_Ah_Ming_Flat.png
+  03_PROPS/Ah_Ming_Folding_White_Cane.png
+  03_PROPS/Ah_Ming_Recording_Equipment.png
+  03_PROPS/Home_Play_Furnishings.png
+  03_PROPS/S03_Ah_Ming_Cup.png
+  03_PROPS/S03_Ah_Ming_Radio.png
+  03_PROPS/S03_Neighbour_Shopping_Trolley.png
+  03_PROPS/S03_S07_Ah_Ming_Keys.png
+  03_PROPS/Street_Obstructions_and_Cafe_Takeaway.png
+  03_PROPS/Tart_Brown_Leather_Guide_Harness_Worn_and_Removed.png
+  04_VEHICLES/S03_Central_Tram_With_Driver.png
+
+04 | EXT./INT. HONG KONG - MONDAY, TWO LIVES
+  01_CHARACTERS/Ah_Ming_阿明_Dark_Glasses.png
+  01_CHARACTERS/Auntie_Lan_Cafe_Worker.png
+  01_CHARACTERS/Centre_Colleague_and_Members.png
+  01_CHARACTERS/Lok_and_Mother.png
+  01_CHARACTERS/May_阿May.png
+  01_CHARACTERS/Street_and_Ferry_Supporting_Cast.png
+  01_CHARACTERS/Tart_Adult_Working_Harness_No_Leash.png
+  01_CHARACTERS/Tine_阿華田_Adult_Bandanna_Collar_Lead.png
+  01_CHARACTERS/Uncle_Chan_陳伯.png
+  02_LOCATIONS/S03_S04_Central_Lan_Kee_Cha_Chaan_Teng.png
+  02_LOCATIONS/S04_Centre_Room_Morning.png
+  02_LOCATIONS/S04_Station_Lift.png
+  03_PROPS/Centre_Furnishings.png
+  03_PROPS/Newspaper_Readable.png
+  03_PROPS/S04_Lan_Kee_Breakfast_Toast_and_Tableware.png
+  03_PROPS/S04_S13_S15_Passenger_Suitcase.png
+  03_PROPS/Street_Obstructions_and_Cafe_Takeaway.png
+  03_PROPS/Tart_Brown_Leather_Guide_Harness_Worn_and_Removed.png
+  03_PROPS/Tine_Orange_Bandanna_with_Emblem.png
+  03_PROPS/Tine_Orange_Collar_and_Lead.png
+  03_PROPS/Tine_Rest_Mat_and_May_Bag.png
+  04_VEHICLES/S04_Prearranged_Pet_Friendly_Car.png
+
+05 | EXT. SIGNALLED CROSSING, CENTRAL - MONDAY, LATE MORNING
+  01_CHARACTERS/Ah_Ming_阿明_Dark_Glasses.png
+  01_CHARACTERS/Street_and_Ferry_Supporting_Cast.png
+  01_CHARACTERS/Tart_Adult_Working_Harness_No_Leash.png
+  02_LOCATIONS/S05_Central_Signalled_Crossing.png
+  03_PROPS/Street_Obstructions_and_Cafe_Takeaway.png
+  03_PROPS/Tart_Brown_Leather_Guide_Harness_Worn_and_Removed.png
+  04_VEHICLES/S05_Van_and_Queued_Car_With_Drivers.png
+  05_STAGING/S05_Crossing_Hold_and_Clear.png
+
+06 | INT. ELDERLY NEIGHBOURHOOD CENTRE, TSIM SHA TSUI - MONDAY AFTERNOON
+  01_CHARACTERS/Bo_Centre_Worker.png
+  01_CHARACTERS/Centre_Colleague_and_Members.png
+  01_CHARACTERS/May_阿May.png
+  01_CHARACTERS/Tine_阿華田_Adult_Bandanna_Collar_Lead.png
+  01_CHARACTERS/Uncle_Chan_陳伯.png
+  03_PROPS/Centre_Furnishings.png
+  03_PROPS/Centre_Listening_and_Outing_Papers.png
+  03_PROPS/May_Water_Bottle.png
+  03_PROPS/Newspaper_Readable.png
+  03_PROPS/Street_Obstructions_and_Cafe_Takeaway.png
+  03_PROPS/Tine_Bowl_With_Carrying_Clip.png
+  03_PROPS/Tine_Orange_Bandanna_with_Emblem.png
+  03_PROPS/Tine_Orange_Collar_and_Lead.png
+  03_PROPS/Tine_Rest_Mat_and_May_Bag.png
+  03_PROPS/Uncle_Chan_Bag.png
+  02_LOCATIONS/S06_S08_S09_S10_Centre_Room_Afternoon.png
+
+07 | INT. AH MING'S FLAT - MONDAY EVENING
+  01_CHARACTERS/Ah_Ming_阿明_Dark_Glasses.png
+  01_CHARACTERS/Tart_Home_Collar_Separate_Lead.png
+  02_LOCATIONS/S03_S07_Ah_Ming_Flat.png
+  03_PROPS/Ah_Ming_Recording_Equipment.png
+  03_PROPS/Home_Play_Furnishings.png
+  03_PROPS/S03_S07_Ah_Ming_Keys.png
+  03_PROPS/Tart_Brown_Leather_Guide_Harness_Worn_and_Removed.png
+  03_PROPS/Two_Ended_Squeaky_Toy_Worn_and_New.png
+
+08 | EXT. TSIM SHA TSUI STATION STREET EXIT / INT. CENTRE - THURSDAY AFTERNOON
+  01_CHARACTERS/Ah_Ming_阿明_Dark_Glasses.png
+  01_CHARACTERS/May_阿May.png
+  01_CHARACTERS/Tart_Adult_Working_Harness_No_Leash.png
+  01_CHARACTERS/Tine_阿華田_Adult_Bandanna_Collar_Lead.png
+  01_CHARACTERS/Uncle_Chan_陳伯.png
+  02_LOCATIONS/S08_Tsim_Sha_Tsui_Public_Station_Exit.png
+  03_PROPS/Centre_Furnishings.png
+  03_PROPS/Newspaper_Readable.png
+  03_PROPS/Street_Obstructions_and_Cafe_Takeaway.png
+  03_PROPS/Tart_Brown_Leather_Guide_Harness_Worn_and_Removed.png
+  03_PROPS/Tine_Orange_Bandanna_with_Emblem.png
+  03_PROPS/Tine_Orange_Collar_and_Lead.png
+  03_PROPS/Tine_Rest_Mat_and_May_Bag.png
+  03_PROPS/Uncle_Chan_Bag.png
+  02_LOCATIONS/S06_S08_S09_S10_Centre_Room_Afternoon.png
+
+09 | INT. ELDERLY NEIGHBOURHOOD CENTRE - THURSDAY, CONTINUOUS
+  01_CHARACTERS/Bo_Centre_Worker.png
+  01_CHARACTERS/Lok_and_Mother.png
+  01_CHARACTERS/May_阿May.png
+  01_CHARACTERS/Tine_阿華田_Adult_Bandanna_Collar_Lead.png
+  01_CHARACTERS/Uncle_Chan_陳伯.png
+  03_PROPS/Canonical_Puppy_Photograph.png
+  03_PROPS/Centre_Furnishings.png
+  03_PROPS/Centre_Listening_and_Outing_Papers.png
+  03_PROPS/Tine_Bowl_With_Carrying_Clip.png
+  03_PROPS/Tine_Orange_Bandanna_with_Emblem.png
+  03_PROPS/Tine_Orange_Collar_and_Lead.png
+  03_PROPS/Tine_Rest_Mat_and_May_Bag.png
+  03_PROPS/Two_Ended_Squeaky_Toy_Worn_and_New.png
+  03_PROPS/Uncle_Chan_Personal_Effects.png
+  03_PROPS/Uncle_Chan_Wife_and_Ah_Wong_Photo.png
+  02_LOCATIONS/S06_S08_S09_S10_Centre_Room_Afternoon.png
+
+10 | INT. ELDERLY NEIGHBOURHOOD CENTRE - FRIDAY AFTERNOON
+  01_CHARACTERS/Ah_Ming_阿明_Dark_Glasses.png
+  01_CHARACTERS/Bo_Centre_Worker.png
+  01_CHARACTERS/Lok_and_Mother.png
+  01_CHARACTERS/Tart_Adult_Working_Harness_No_Leash.png
+  01_CHARACTERS/Uncle_Chan_陳伯.png
+  03_PROPS/Ah_Ming_Recording_Equipment.png
+  03_PROPS/Centre_Furnishings.png
+  03_PROPS/Centre_Listening_and_Outing_Papers.png
+  03_PROPS/Tart_Brown_Leather_Guide_Harness_Worn_and_Removed.png
+  04_VEHICLES/S03_Central_Tram_With_Driver.png
+  02_LOCATIONS/S06_S08_S09_S10_Centre_Room_Afternoon.png
+
+11 | INT. UNCLE CHAN'S FLAT / EXT. CENTRE - FRIDAY EVENING / SATURDAY AFTERNOON
+  01_CHARACTERS/Bo_Centre_Worker.png
+  01_CHARACTERS/May_阿May.png
+  01_CHARACTERS/Tine_阿華田_Adult_Bandanna_Collar_Lead.png
+  01_CHARACTERS/Uncle_Chan_陳伯.png
+  02_LOCATIONS/S11_S12_Centre_Entrance_and_Walking_Route.png
+  02_LOCATIONS/S11_Uncle_Chan_Flat.png
+  03_PROPS/Centre_Listening_and_Outing_Papers.png
+  03_PROPS/S11_Uncle_Chan_Kettle.png
+  03_PROPS/Street_Obstructions_and_Cafe_Takeaway.png
+  03_PROPS/Tine_Orange_Bandanna_with_Emblem.png
+  03_PROPS/Tine_Orange_Collar_and_Lead.png
+  03_PROPS/Tine_Rest_Mat_and_May_Bag.png
+  03_PROPS/Uncle_Chan_Bag.png
+  03_PROPS/Uncle_Chan_Personal_Effects.png
+  03_PROPS/Uncle_Chan_Wife_and_Ah_Wong_Photo.png
+
+12 | EXT. CENTRE / INT. STAR FERRY / EXT. HARBOUR APPROACH - SATURDAY AFTERNOON
+  01_CHARACTERS/Ah_Ming_阿明_Dark_Glasses.png
+  01_CHARACTERS/Bo_Centre_Worker.png
+  01_CHARACTERS/Centre_Colleague_and_Members.png
+  01_CHARACTERS/Lok_and_Mother.png
+  01_CHARACTERS/May_阿May.png
+  01_CHARACTERS/Street_and_Ferry_Supporting_Cast.png
+  01_CHARACTERS/Tart_Adult_Working_Harness_No_Leash.png
+  01_CHARACTERS/Tine_阿華田_Adult_Bandanna_Collar_Lead.png
+  01_CHARACTERS/Uncle_Chan_陳伯.png
+  02_LOCATIONS/S11_S12_Centre_Entrance_and_Walking_Route.png
+  03_PROPS/Ah_Ming_Recording_Equipment.png
+  03_PROPS/Centre_Listening_and_Outing_Papers.png
+  03_PROPS/May_Water_Bottle.png
+  03_PROPS/Street_Obstructions_and_Cafe_Takeaway.png
+  03_PROPS/Tart_Brown_Leather_Guide_Harness_Worn_and_Removed.png
+  03_PROPS/Tine_Bowl_With_Carrying_Clip.png
+  03_PROPS/Tine_Orange_Bandanna_with_Emblem.png
+  03_PROPS/Tine_Orange_Collar_and_Lead.png
+  03_PROPS/Tine_Rest_Mat_and_May_Bag.png
+  03_PROPS/Uncle_Chan_Bag.png
+  03_PROPS/Uncle_Chan_Personal_Effects.png
+  04_VEHICLES/S12_Star_Ferry_Exterior_Lights_Off_People.png
+  04_VEHICLES/S12_Star_Ferry_Interior_Afternoon_Passengers.png
+  04_VEHICLES/S12_Star_Ferry_Gangway_Afternoon_People.png
+
+13 | EXT. TSIM SHA TSUI STAR FERRY PUBLIC FORECOURT - CONTINUOUS
+  01_CHARACTERS/Ah_Ming_阿明_Dark_Glasses.png
+  01_CHARACTERS/Bo_Centre_Worker.png
+  01_CHARACTERS/Centre_Colleague_and_Members.png
+  01_CHARACTERS/Lok_and_Mother.png
+  01_CHARACTERS/May_阿May.png
+  01_CHARACTERS/Street_and_Ferry_Supporting_Cast.png
+  01_CHARACTERS/Tart_Adult_Working_Harness_No_Leash.png
+  01_CHARACTERS/Tine_阿華田_Adult_Bandanna_Collar_Lead.png
+  01_CHARACTERS/Uncle_Chan_陳伯.png
+  02_LOCATIONS/S13_S16_Harbour_Geography_Afternoon.png
+  03_PROPS/May_Water_Bottle.png
+  03_PROPS/S04_S13_S15_Passenger_Suitcase.png
+  03_PROPS/Tart_Brown_Leather_Guide_Harness_Worn_and_Removed.png
+  03_PROPS/Tine_Bowl_With_Carrying_Clip.png
+  03_PROPS/Tine_Orange_Bandanna_with_Emblem.png
+  03_PROPS/Tine_Orange_Collar_and_Lead.png
+  03_PROPS/Tine_Rest_Mat_and_May_Bag.png
+  03_PROPS/Uncle_Chan_Bag.png
+  02_LOCATIONS/S13_Public_Ferry_Forecourt_Junction.png
+
+14 | EXT. NEARER PROMENADE SEATING BAY - CONTINUOUS
+  01_CHARACTERS/Bo_Centre_Worker.png
+  01_CHARACTERS/Centre_Colleague_and_Members.png
+  01_CHARACTERS/Lok_and_Mother.png
+  01_CHARACTERS/May_阿May.png
+  01_CHARACTERS/Tine_阿華田_Adult_Bandanna_Collar_Lead.png
+  01_CHARACTERS/Uncle_Chan_陳伯.png
+  02_LOCATIONS/S13_S16_Harbour_Geography_Afternoon.png
+  02_LOCATIONS/S14_S16_Nearer_Seating_Bay.png
+  03_PROPS/May_Water_Bottle.png
+  03_PROPS/Tine_Bowl_With_Carrying_Clip.png
+  03_PROPS/Tine_Orange_Bandanna_with_Emblem.png
+  03_PROPS/Tine_Orange_Collar_and_Lead.png
+  03_PROPS/Tine_Rest_Mat_and_May_Bag.png
+  03_PROPS/Uncle_Chan_Bag.png
+  03_PROPS/Uncle_Chan_Personal_Effects.png
+
+15 | EXT. PROMENADE PATH TO SEATING BAY - CONTINUOUS
+  01_CHARACTERS/Ah_Ming_阿明_Dark_Glasses.png
+  01_CHARACTERS/Bo_Centre_Worker.png
+  01_CHARACTERS/Centre_Colleague_and_Members.png
+  01_CHARACTERS/May_阿May.png
+  01_CHARACTERS/Street_and_Ferry_Supporting_Cast.png
+  01_CHARACTERS/Tart_Adult_Off_Duty_Attached_Lead.png
+  01_CHARACTERS/Tart_Adult_Working_Harness_No_Leash.png
+  01_CHARACTERS/Tine_阿華田_Adult_Bandanna_Collar_Lead.png
+  01_CHARACTERS/Uncle_Chan_陳伯.png
+  02_LOCATIONS/S13_S16_Harbour_Geography_Afternoon.png
+  02_LOCATIONS/S14_S16_Nearer_Seating_Bay.png
+  02_LOCATIONS/S15_Farther_Meeting_Bench.png
+  03_PROPS/Ah_Ming_Recording_Equipment.png
+  03_PROPS/S04_S13_S15_Passenger_Suitcase.png
+  03_PROPS/Street_Obstructions_and_Cafe_Takeaway.png
+  03_PROPS/Tart_Brown_Leather_Guide_Harness_Worn_and_Removed.png
+  03_PROPS/Tine_Orange_Bandanna_with_Emblem.png
+  03_PROPS/Tine_Orange_Collar_and_Lead.png
+  03_PROPS/Tine_Rest_Mat_and_May_Bag.png
+  05_STAGING/S15_Harness_Off_Then_Lead_On.png
+
+16 | EXT. PROMENADE SEATING BAY, VICTORIA HARBOUR - CONTINUOUS
+  01_CHARACTERS/Ah_Ming_阿明_Dark_Glasses.png
+  01_CHARACTERS/Bo_Centre_Worker.png
+  01_CHARACTERS/Centre_Colleague_and_Members.png
+  01_CHARACTERS/Lok_and_Mother.png
+  01_CHARACTERS/May_阿May.png
+  01_CHARACTERS/Tart_Adult_Off_Duty_Attached_Lead.png
+  01_CHARACTERS/Tine_阿華田_Adult_Bandanna_Collar_Lead.png
+  01_CHARACTERS/Uncle_Chan_陳伯.png
+  02_LOCATIONS/S13_S16_Harbour_Geography_Afternoon.png
+  02_LOCATIONS/S14_S16_Nearer_Seating_Bay.png
+  03_PROPS/Canonical_Puppy_Photograph.png
+  03_PROPS/May_Water_Bottle.png
+  03_PROPS/Tine_Orange_Bandanna_with_Emblem.png
+  03_PROPS/Tine_Orange_Collar_and_Lead.png
+  03_PROPS/Tine_Rest_Mat_and_May_Bag.png
+  03_PROPS/Two_Ended_Squeaky_Toy_Worn_and_New.png
+  03_PROPS/Uncle_Chan_Bag.png
+  03_PROPS/Uncle_Chan_Personal_Effects.png
+  05_STAGING/S16_Reunion_Tug_and_Final_Rest.png

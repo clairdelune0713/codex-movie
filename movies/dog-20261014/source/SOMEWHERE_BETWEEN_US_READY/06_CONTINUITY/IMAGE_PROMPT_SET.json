@@ -1,0 +1,635 @@
+{
+  "mode": "built-in image_gen",
+  "prompts": [
+    {
+      "delivered_asset": "01_CHARACTERS/Auntie_Lan_Cafe_Worker.png",
+      "generation_record": {
+        "id": "01_CHARACTERS/Auntie_Lan_Cafe_Worker.png",
+        "prompt": "Use case: stylized-concept. New Hong Kong Chinese cafe worker Auntie Lan, woman about sixty, sturdy practical build, cheerful expressive face, short permed dark hair with grey streaks, coral short-sleeve blouse, dark forest-green waist apron over charcoal trousers, practical black shoes. Match supplied reference's exact warm tactile 3D animation style; reference is style only, do not copy that young face. Cream studio character sheet with front full body, rear full body and oval portrait. Natural hands. No text, no food or background cafe.",
+        "refs": [
+          "01_CHARACTERS/HUMANS/阿晴.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-5a41a50d-7b16-47a0-8f3c-e62cfd20b3da.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "01_CHARACTERS/Bo_Centre_Worker.png",
+      "generation_record": {
+        "id": "01_CHARACTERS/Bo_Centre_Worker.png",
+        "prompt": "Use case: stylized-concept. Create new character Bo, a Hong Kong Chinese centre staff member in her late thirties, calm attentive practical demeanour, short straight black bob with side part, warm brown eyes, soft round face distinct from reference May. Teal knit polo, dark charcoal comfortable trousers, grey trainers, simple plain ID lanyard with no readable lettering. Reference is STYLE ONLY, not same person. Match the exact warm detailed tactile 3D animation style and cream studio sheet layout. Three views: front full body including head, rear full body, large oval facial portrait on right. Neutral relaxed hands, no props. Consistent face and clothing in all views. No text.",
+        "refs": [
+          "01_CHARACTERS/HUMANS/阿晴.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-0ed694c0-f190-4154-8a75-06287cb30a10.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "01_CHARACTERS/Centre_Colleague_and_Members.png",
+      "generation_record": {
+        "id": "01_CHARACTERS/Centre_Colleague_and_Members.png",
+        "prompt": "Use case: stylized-concept. Supporting cast sheet in supplied reference's warm tactile 3D animation style. Three distinct full-body Hong Kong Chinese characters, each with smaller rear view adjacent, cream seamless background: centre colleague man age forty, short black hair, slate-blue polo, beige trousers, trainers, plain lanyard; elderly woman age seventy with short grey hair, muted plum cardigan and dark skirt, sensible shoes and shopping bag; elderly man seventy-five with balding grey hair, thin spectacles, muted blue shirt, dark trousers, light jacket over arm. Kind ordinary people, varied faces and builds; do not duplicate reference Uncle Chan. No text.",
+        "refs": [
+          "01_CHARACTERS/HUMANS/陳伯.png",
+          "01_CHARACTERS/HUMANS/阿晴.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-c12769c7-b826-463b-8433-4f3a8e54a1b5.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "01_CHARACTERS/Growing_Tart_and_Tine.png",
+      "generation_record": {
+        "id": "01_CHARACTERS/Growing_Tart_and_Tine.png",
+        "prompt": "Use case: identity-preserve. Create adolescent growth-stage model sheet for the two exact supplied puppy identities, several months older but not fully adult. Preserve Tart pale cream coat, beige ears, no marking; Tine chestnut coat and exact pale heart on anatomical right rump. Slightly longer legs and muzzle than puppy sheets, still youthful. Two rows, Tart top and Tine bottom; each row seated front, seated rear, standing side body head omitted, same original sheet convention. Neutral cream studio light, same tactile 3D fur and eyes. Simple separate plain brown collar on Tart, plain orange collar on Tine; NO harness, no leads, no bandanna. Do not change identities or heart side. No text.",
+        "refs": [
+          "01_CHARACTERS/DOGS/蛋撻_幼犬_Baby_Tart.png",
+          "01_CHARACTERS/DOGS/阿華田_幼犬_Baby_Tine.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-79e49f6a-98bf-47f4-bd79-ebb0dedae65c.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "01_CHARACTERS/Lok_and_Mother.png",
+      "generation_record": {
+        "id": "01_CHARACTERS/Lok_and_Mother.png",
+        "prompt": "Use case: stylized-concept. New paired character production sheet in exact warm 3D animated style of supplied adult reference; use as STYLE ONLY. Lok: Hong Kong Chinese school-age boy about eight, short neat black hair, shy expressive brown eyes, mustard sweatshirt, navy shorts, white socks and blue trainers. His mother: Chinese woman early forties, shoulder-length dark hair, dusty blue blouse, warm grey trousers, practical flats, small crossbody bag, gentle attentive face different from reference. Cream studio backdrop. Two clean rows, one character per row: front full body, rear full body, facial portrait. Keep child proportions childlike and mother adult; anatomically clean hands. No labels, no other people.",
+        "refs": [
+          "01_CHARACTERS/HUMANS/阿晴.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-8e40bfa2-a52c-4971-95d5-ff4052fd0097.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "01_CHARACTERS/Street_and_Ferry_Supporting_Cast.png",
+      "generation_record": {
+        "id": "01_CHARACTERS/Street_and_Ferry_Supporting_Cast_Matched.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. Precise edit reference1 supporting cast sheet. Preserve all seven people, identities, outfits, placement and style. Only reconcile two held props: elderly neighbour's trolley must be the MAROON plaid soft shopping trolley with silver frame from reference2, not blue plaid. Traveller suitcase must match TEAL hard shell from reference3 with horizontal ribs, four wheels, beige luggage tag and black handle. No other edits.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/01_CHARACTERS/Street_and_Ferry_Supporting_Cast.png",
+          "NEW_SCRIPT_ASSETS/03_PROPS/S03_Neighbour_Shopping_Trolley.png",
+          "NEW_SCRIPT_ASSETS/03_PROPS/S04_S13_S15_Passenger_Suitcase.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-cd9f717f-3c8a-462a-a43d-af99b16598c4.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "01_CHARACTERS/Training_Handlers_and_Volunteer.png",
+      "generation_record": {
+        "id": "01_CHARACTERS/Training_Handlers_and_Volunteer_Matched.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. Precise edit of this cast sheet: preserve EXACT people, faces, outfits, poses, arrangement and warm 3D rendering. Change ONLY chair beneath seated silver-haired lavender-clad volunteer from wood/cream chair into blue moulded plastic chair with simple grey tubular legs. Add a plain small cream loose cushion on seat beneath her if visible. Do not change original lead character designs; these are training staff and volunteer.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/01_CHARACTERS/Training_Handlers_and_Volunteer.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-5072ce95-bd71-49ea-ac00-7926374413e9.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "02_LOCATIONS/S01_Victoria_Puppy_Yard_Morning.png",
+      "generation_record": {
+        "id": "02_LOCATIONS/S01_Victoria_Puppy_Yard_Morning.png",
+        "prompt": "Stylized-concept. Wide 16:9 clean environment plate, Australian Victoria puppy yard in soft morning light. Preserve reference1 established rural kennel architecture, pasture, timber fence, eucalyptus and warm animated 3D style. Add exact low slatted weathered bench from reference2 prominently foreground left with open grass around and underneath, shallow metal water bowl right, gate and open shelter door visible behind. No dogs or humans in this clean plate. Bench low enough for puppies to duck under, spacious dry patch underneath. Natural green grass, not manicured urban park. No text.",
+        "refs": [
+          "02_LOCATIONS/場01_11_澳洲Victoria_犬舍草地.png",
+          "NEW_SCRIPT_ASSETS/03_PROPS/Puppy_Bench_and_Transport_Crates.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-aa79ed43-0200-41ed-9838-2e97a15f1f84.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "02_LOCATIONS/S02_Guide_Training_Path.png",
+      "generation_record": {
+        "id": "02_LOCATIONS/S02_Guide_Training_Path.png",
+        "prompt": "Stylized-concept. Wide 16:9 clean environment plate for guide-dog training montage, matching reference's warm tactile cinematic 3D animation. Quiet fenced training campus with low buildings and planted borders, simple paved practice path. Foreground training obstacle: two broad stable rectangular panels leave a gap that admits a dog but not dog plus human; beside them a clearly wider unobstructed route for both bodies. Geometry legible at low camera height, a few plain traffic cones farther back, morning daylight. No dogs, humans, text, cars or maze. Training obstacle must be clearly artificial and safe.",
+        "refs": [
+          "02_LOCATIONS/場01_11_澳洲Victoria_犬舍草地.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-0e3eb389-732c-4531-b52f-5ccaf875a333.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "02_LOCATIONS/S02_Hong_Kong_Practice_and_Introductions.png",
+      "generation_record": {
+        "id": "02_LOCATIONS/S02_Hong_Kong_Practice_and_Introductions.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. Edit reference training room. Preserve warm soft animated 3D style and inviting clear space. Replace BOTH green wooden armchairs with BLUE moulded polypropylene chairs on short tubular metal legs; cream loose cushion rests on left chair. Simple pale wood floor, small training table with treat pouch, aluminium windows at GROUND FLOOR looking at quiet Hong Kong courtyard and pastel building bases. No centre signage or centre-style green chairs. Room accommodates volunteer, handler, dog with ample open approach. No people/dogs in this clean plate. Same room used later for May/Tine and Ah Ming/Tart introductions.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/02_LOCATIONS/S02_Visiting_Dog_Practice_Room.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-7eba8dff-c9b0-46ec-881a-4fb5e92fe96f.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "02_LOCATIONS/S03_Residential_Lift_Lobby.png",
+      "generation_record": {
+        "id": "02_LOCATIONS/S03_Residential_Lift_Lobby.png",
+        "prompt": "Stylized-concept. Wide 16:9 clean background plate in modest Central Hong Kong residential building, warm polished 3D animation matching reference. Small tiled lift lobby, stainless steel lift doors OPEN with level threshold, ample floor clearance; apartment corridor recedes left; warm cream walls, simple tactile call buttons and handrail. No shopping trolley yet, no people, dogs or objects blocking doorway. Visible lift interior sized for person plus guide dog and neighbour, ordinary daytime lighting. No text or logos.",
+        "refs": [
+          "02_LOCATIONS/場03_05_06_08_社區中心_活動室.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-739282cf-646b-4340-8cde-ff98e69c88e9.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "02_LOCATIONS/S03_S04_Central_Lan_Kee_Cha_Chaan_Teng.png",
+      "generation_record": {
+        "id": "02_LOCATIONS/S03_S04_Central_Lan_Kee_Cha_Chaan_Teng.png",
+        "prompt": "Use case: text-localization. Edit this exact two-panel location image. Replace ONLY the large cream lettering on the exterior green awning with the fictional cafe name in correct Traditional Chinese: '蘭記茶餐廳'. Five characters in one evenly spaced centered line, elegant bold cream dimensional sign lettering: 蘭 記 茶 餐 廳. Do not add English lettering. Keep the awning green, the exact exterior and interior composition, all red vinyl booths, chrome tables, tea cups, tram, shopfront, golden daylight, and original warm soft Pixar-like tactile 3D animation style unchanged. This is a precise sign text edit, not a redesign.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/02_LOCATIONS/S03_S04_Central_Pavement_and_Cafe.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-3f913e3b-1064-4dca-9c20-dd0316279ca7.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final",
+        "active_asset": "/Users/everythingisgonnabeaok/Desktop/THE BETTER DOGGIE MOVIE IN THE WORLD/NEW_SCRIPT_ASSETS/02_LOCATIONS/S03_S04_Central_Lan_Kee_Cha_Chaan_Teng.png",
+        "selected": true
+      }
+    },
+    {
+      "delivered_asset": "02_LOCATIONS/S03_S07_Ah_Ming_Flat.png",
+      "generation_record": {
+        "id": "02_LOCATIONS/S03_S07_Ah_Ming_Flat.png",
+        "prompt": "Stylized-concept. Wide 16:9 environment production sheet with two equal panels of the SAME modest tidy Hong Kong apartment, morning on left and evening on right. Match warm cinematic 3D animated room style of reference1, using exact armchair, side table, cushion, hook and key tray from reference2 and radio from reference3. Clear consistent layout: entrance door left with key tray and harness hook nearby; moss-green armchair right, round side table with cup morning/glass evening; radio on low cabinet; clear unobstructed floor between entrance and chair for dog and tug play; small kitchen rear. Evening has soft practical home light and dark windows, morning natural light. No people or dogs, no harness present on hook, no text. Objects remain in identical positions between panels.",
+        "refs": [
+          "02_LOCATIONS/場03_05_06_08_社區中心_活動室.png",
+          "NEW_SCRIPT_ASSETS/03_PROPS/Home_Play_Furnishings.png",
+          "03_PROPS/林先生家_收音機.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-a30dd3fc-502b-48e1-b1d3-ead541d6ba1f.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "02_LOCATIONS/S04_Centre_Room_Morning.png",
+      "generation_record": {
+        "id": "02_LOCATIONS/S04_S06_S08_S09_S10_Centre_Room.png",
+        "prompt": "Stylized-concept. Wide 16:9 clean production environment plate for Tsim Sha Tsui neighbourhood elderly centre. Preserve warm wood, sage-green seats and soft cinematic animation style of reference1. Use furniture from reference2. Show complete room geometry: entrance door left with metal umbrella stand beside it; newspaper rack and water dispenser along back wall; large window right with Uncle Chan's green armchair and another chair nearby; broad clear space between window chair and opposite visitor chair for Tine to wait on mat; activity table pushed rear; SIX stackable chairs in a loose listening circle in middle with a small speaker on a low table, no stage. Clear exit path. Clock above door, daylight. No people or dogs; no meaningless sign lettering.",
+        "refs": [
+          "02_LOCATIONS/場03_05_06_08_社區中心_活動室.png",
+          "NEW_SCRIPT_ASSETS/03_PROPS/Centre_Furnishings.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-5bfd4ceb-dec5-4364-84fe-fb8f51f4e3e0.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "02_LOCATIONS/S04_Station_Lift.png",
+      "generation_record": {
+        "id": "02_LOCATIONS/S04_Station_Lift.png",
+        "prompt": "Stylized-concept. Wide 16:9 clean environment plate of public Hong Kong station concourse lift, exact warm animated 3D cinematic style of reference. Open stainless-steel lift with broad level entrance, clean pale stone concourse floor, tactile paving leading beside doorway, clear space for an exiting passenger with rolling suitcase and an entering handler with dog. Reflective rear panel in cabin, accessible control panel, simple wall sign with elevator pictogram only. No train platform or trains visible, no dogs, no people, no clutter, no text. Neutral indoor daylight with soft overhead illumination.",
+        "refs": [
+          "02_LOCATIONS/場07_香港街道_行人通道_日.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-a011a872-297f-4112-a182-8c40f08d0c09.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "02_LOCATIONS/S08_Tsim_Sha_Tsui_Public_Station_Exit.png",
+      "generation_record": {
+        "id": "02_LOCATIONS/S08_Tsim_Sha_Tsui_Public_Station_Exit.png",
+        "prompt": "Stylized-concept. Wide 16:9 environment production sheet with large elevated establishing view and small dog-height inset of SAME public pavement outside a Hong Kong MTR street exit. Solid opaque grey stone side wall of exit blocks dog-height sightlines; public wood bench with a dry leaf at its foot on far side of that wall. Two pedestrian routes come within several metres but do not cross inside station: exiting travellers join public pavement on near side, visiting-dog route passes bench on far side. Show complete readable geometry, public street buildings and planters, Thursday afternoon light. No people or dogs, no train interiors, no barriers across public pavement, no invented text. Same warm cinematic 3D style as reference.",
+        "refs": [
+          "02_LOCATIONS/場07_香港街道_行人通道_日.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-994d6bf5-c0c0-4901-b615-6ff0efae2c53.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "02_LOCATIONS/S11_S12_Centre_Entrance_and_Walking_Route.png",
+      "generation_record": {
+        "id": "02_LOCATIONS/S11_S12_Centre_Entrance_and_Walking_Route_Matched.png",
+        "prompt": "Precise edit target: change ONLY small wall clock visible inside doorway to exactly1:00, minute hand straight UP hour hand towards1. Preserve entire architecture and all furniture and signage 社區中心, groundfloor corner windows, soft warm Pixar-like3D style, composition, lighting.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/02_LOCATIONS/S11_S12_Centre_Entrance_and_Walking_Route.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-5269b4fb-2ed1-40ce-824f-9725562211d8.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "02_LOCATIONS/S11_Uncle_Chan_Flat.png",
+      "generation_record": {
+        "id": "02_LOCATIONS/S11_Uncle_Chan_Flat_Matched.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. Precise edit reference1 evening flat. Replace ONLY two mismatched props. Kitchen: remove metal stovetop kettle and blue burner flame, place original cream electric kettle with teal handle and base from reference2 on counter away from hob. Sideboard right: replace olive shoulder bag with navy blue canvas tote from reference3, same size position, keep hat, water bottle, wallet and wife photograph. Preserve all furniture, dark wooden chairs, exact room, wife portrait, warm evening illumination and stylized 3D aesthetics. No other changes.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/02_LOCATIONS/S11_Uncle_Chan_Flat.png",
+          "NEW_SCRIPT_ASSETS/03_PROPS/S11_Uncle_Chan_Kettle.png",
+          "NEW_SCRIPT_ASSETS/03_PROPS/Uncle_Chan_Bag.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-f2de3538-66cb-4f0d-89a9-8f8df67848b8.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "03_PROPS/Ah_Ming_Recording_Equipment.png",
+      "generation_record": {
+        "id": "03_PROPS/Ah_Ming_Recording_Equipment_Matched.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. Precise edit of reference1 equipment sheet. Change ONLY folded cane inside navy bag into established folded WHITE cane with red lower segment and black grip matching reference2. Keep radio, recorder, headphones, cylinder speaker, phone call Bo and waveform, exact objects, layout and rendering unchanged. Cane four white sections, secured black strap, red end visible. No other edits.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/03_PROPS/Ah_Ming_Recording_Equipment.png",
+          "NEW_SCRIPT_ASSETS/03_PROPS/Ah_Ming_Folding_White_Cane.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-ee1cb08e-5cd1-4a34-a19d-405aa1ce1e67.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "03_PROPS/Canonical_Puppy_Photograph.png",
+      "generation_record": {
+        "id": "03_PROPS/Canonical_Puppy_Photograph.png",
+        "prompt": "Use case: illustration-story. Create the single canonical archival puppy photograph for an animated film, with an off-white print border and one crisp caption below the photo, exactly: \"Tart and Tine — Victoria, Australia\". Reference1 locks Baby Tart identity; reference2 locks Baby Tine identity including pale heart on anatomical RIGHT rump; reference3 locks soft teal toy with ochre ends. Show ONLY these two puppies resting together under a low weathered timber slatted garden bench in Australian grassy kennel yard after light rain. Tart pale cream on left, his chin resting across Tine's forelegs; chestnut Tine on right, both bodies comfortably side by side, his right rump visible with heart patch. Toy between their paws. Bench leg visible, slats above, dry sheltered grass beneath and wet grass beyond, soft overcast morning light. Same tactile 3D animation style, no collars/harnesses/clothes. Warm quiet intimacy. Not a collage; one photograph with exact caption, no other dogs or people.",
+        "refs": [
+          "01_CHARACTERS/DOGS/蛋撻_幼犬_Baby_Tart.png",
+          "01_CHARACTERS/DOGS/阿華田_幼犬_Baby_Tine.png",
+          "NEW_SCRIPT_ASSETS/03_PROPS/Two_Ended_Squeaky_Toy_Worn_and_New.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-1f8e05a3-d2d4-4710-a944-977e5e57c52f.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "03_PROPS/Centre_Furnishings.png",
+      "generation_record": {
+        "id": "03_PROPS/Centre_Furnishings_Matched.png",
+        "prompt": "Precise edit target: change ONLY clock to match the environment master: honey wood rim, cream dial, small black Arabic numerals1 to12, hands exactly3:00, minute hand UP at12 hour hand RIGHT at3. Preserve other furniture and layout exactly, warm Pixar-like soft tactile 3D.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/03_PROPS/Centre_Furnishings.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-a5db4b19-ff5d-4da1-b9ae-809ed744ca74.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "03_PROPS/Centre_Listening_and_Outing_Papers.png",
+      "generation_record": {
+        "id": "03_PROPS/Centre_Listening_and_Outing_Papers.png",
+        "prompt": "Stylized-concept. Finished production paper-prop kit for Hong Kong elderly centre, cream background, warm tactile 3D style. Three clearly separated items shown front-on large enough to read: a folded cream harbour-outing flyer with simple teal ferry illustration and ONLY exact Traditional Chinese text '海旁散步' then '星期六 下午一點' then '中心集合'; a clipboard attendance sheet with exact heading '出席名單' and one handwritten entry '陳伯', remaining rows blank; a small listening-session notice with exact text '聽聲音' then '星期五 下午三點'. Include plain black pen beside clipboard. No extra filler lettering, no logos, no invented address or date. Show an additional small folded view of the same harbour flyer. Match reference's warm prop rendering.",
+        "refs": [
+          "03_PROPS/林先生家_收音機.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-6c8dcd59-672b-49c4-86bd-4daf9b317819.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "03_PROPS/Home_Play_Furnishings.png",
+      "generation_record": {
+        "id": "03_PROPS/Home_Play_Furnishings_Matched.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. Precise edit reference1 prop sheet. Replace ONLY green wooden armchair with the rounded oatmeal FULLY upholstered armchair shown in reference2 flat. Keep same light cream studio backdrop, glass, wood side table, mustard floor cushion, hook and key tray, warm tactile render. Chair must have no visible wood arms and no green fabric. Match oatmeal soft upholstery and round tub shape exactly.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/03_PROPS/Home_Play_Furnishings.png",
+          "NEW_SCRIPT_ASSETS/02_LOCATIONS/S03_S07_Ah_Ming_Flat.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-8fb60f58-a037-48e1-8377-4c2543917be2.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "03_PROPS/Newspaper_Readable.png",
+      "generation_record": {
+        "id": "03_PROPS/Newspaper_Readable.png",
+        "prompt": "Stylized-concept. Finished newspaper prop sheet for Hong Kong animated short. Show one open broadsheet front and same paper folded. Warm cream newsprint, subtle folds, clean black print, small monochrome drawing of harbour ferry and a park tree. ALL readable text must be only these exact Traditional Chinese phrases: masthead '社區日報'; large headline '海旁散步'; secondary headline '鄰里活動'; smaller line '一起聽聽城市的聲音'. Fill remaining columns with discreet short grey horizontal rules, not fake characters. Keep identical masthead and headline across open and folded views. Neutral cream studio background, warm tactile 3D prop look. No real newspaper branding or dates.",
+        "refs": [],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-0db56c6f-c0b7-4db5-8355-603d9393e7c4.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "03_PROPS/Puppy_Bench_and_Transport_Crates.png",
+      "generation_record": {
+        "id": "03_PROPS/Puppy_Bench_and_Transport_Crates.png",
+        "prompt": "Stylized-concept. Production prop sheet in same warm tactile 3D animated style as references. Reference1 locks exact low weathered slatted timber puppy bench. Show bench full front-three-quarter and side elevation, visibly wide enough for two puppies underneath, no puppies. Two separate ventilated animal transport crates: cream upper and dark charcoal base, metal mesh front doors and side ventilation openings, one door open and one closed, spacious for growing Labrador puppy, simple internal washable mat. Do not include dogs or vehicles. Reference2 for environment material style. Cream backdrop, clear isolated objects, no text, no stickers.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/03_PROPS/Canonical_Puppy_Photograph.png",
+          "02_LOCATIONS/場01_11_澳洲Victoria_犬舍草地.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-b3b96606-549f-4565-9cc5-5b0942a4c843.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "03_PROPS/S04_Lan_Kee_Breakfast_Toast_and_Tableware.png",
+      "generation_record": {
+        "id": "03_PROPS/S04_Lan_Kee_Breakfast_Toast_and_Tableware.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. Precise edit reference1 breakfast sheet. Keep toast, scrambled eggs, toast corner, cutlery and layout unchanged. Replace plain cup/saucer with thick cream ceramic milk-tea cup and saucer bearing two thin green horizontal stripes matching reference2 cafe. Full finished cream-background prop sheet, original warm tactile 3D style.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/03_PROPS/S04_Central_Cafe_Breakfast_Toast_and_Tableware.png",
+          "NEW_SCRIPT_ASSETS/02_LOCATIONS/S03_S04_Central_Lan_Kee_Cha_Chaan_Teng.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-703fc41c-457a-43b3-b79a-caf3d24d81cc.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "03_PROPS/Street_Obstructions_and_Cafe_Takeaway.png",
+      "generation_record": {
+        "id": "03_PROPS/Street_Obstructions_and_Cafe_Takeaway.png",
+        "prompt": "Stylized-concept. Story prop kit, warm tactile 3D animation matching reference suitcase. Clean separate objects on cream background: metal platform delivery trolley loaded securely with three plain cardboard boxes; navy baby stroller with canopy, shown side and three-quarter with clear wheels; plain kraft takeaway bag; cafe takeaway cup with fitted lid; one dry curled brown leaf; small biscuit with separate crumb; small triangular toast corner. No people, no brands, no text. Keep all assets complete with space around silhouettes, no overlaps.",
+        "refs": [
+          "03_PROPS/天星碼頭_行李.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-5e448de7-4e40-4e18-a1d2-200029eecdf4.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "03_PROPS/Tine_Bowl_With_Carrying_Clip.png",
+      "generation_record": {
+        "id": "03_PROPS/Tine_Bowl_With_Carrying_Clip.png",
+        "prompt": "Use case: precise-object-edit. Preserve exact teal collapsible silicone water bowl with charcoal rim in supplied image. Add a small integrated reinforced rim eyelet with a silver spring-gate carabiner, visibly functional and connected. Show expanded water-filled bowl and collapsed empty bowl side by side, both same eyelet/clip design. Add third smaller view of collapsed bowl hooked by that clip onto a tan canvas bag strap. Neutral cream seamless backdrop, tactile 3D animated prop style matching image. No text or people. Clip must visibly pass through bowl eyelet and bag strap loop in carry view.",
+        "refs": [
+          "03_PROPS/阿華田_水碗.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-a18381b5-fd90-4002-bc3c-69905d874e1a.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "03_PROPS/Tine_Rest_Mat_and_May_Bag.png",
+      "generation_record": {
+        "id": "03_PROPS/Tine_Rest_Mat_and_May_Bag_Matched.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. Precise edit reference1 bag/mat sheet: replace ONLY green bottle inside open tan canvas bag with cream bottle and teal lid/loop matching reference2. Preserve tan bag, shoulder strap, sage roll-up mat, teal clipped collapsible bowl, composition, soft fabric and all other objects unchanged. No extra bottle variants.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/03_PROPS/Tine_Rest_Mat_and_May_Bag.png",
+          "NEW_SCRIPT_ASSETS/03_PROPS/May_Water_Bottle.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-b6d87178-4d28-4958-952e-aa11d220690d.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "03_PROPS/Two_Ended_Squeaky_Toy_Worn_and_New.png",
+      "generation_record": {
+        "id": "03_PROPS/Two_Ended_Squeaky_Toy_Worn_and_New.png",
+        "prompt": "Use case: stylized-concept. Production prop sheet for warm tactile 3D animated short, matching the supplied reference's soft studio lighting and material detail ONLY; do NOT copy its ball. Create ONE canonical soft two-ended squeaky tug toy, muted teal fabric with warm ochre rounded ends, simple short dumbbell shape, gently compressible stitched plush, no strings or loose parts. Sheet shows three clear isolated views: worn puppy-era version, identical shape fresh adult replacement, and side view showing thickness. Same design in each view, suitable for two Labrador mouths holding opposite ends. Cream seamless backdrop and subtle contact shadows. No dogs, no humans, no labels or text. It must look soft, not rubber, not a ball, not hard bone.",
+        "refs": [
+          "03_PROPS/幼犬_舊皮球.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-e850f072-c036-4438-94e9-e0a5752029cc.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "03_PROPS/Uncle_Chan_Personal_Effects.png",
+      "generation_record": {
+        "id": "03_PROPS/Uncle_Chan_Personal_Effects.png",
+        "prompt": "Stylized-concept. Production personal-effects prop sheet on cream studio background. Items neatly separated: worn tan cloth sunhat with soft brim, shown upright and held-shape flattened; dark brown bifold wallet open with the supplied exact family photograph in clear sleeve and folded shut; small pocket tissue packet plus one loose tissue; plain reusable drinking-water bottle; small wooden frame containing a portrait of the SAME wife from reference family photo, her floral blouse and short dark hair consistent. Exact warm tactile 3D style. No new character redesign, no text. Preserve reference family photo content with husband, wife and yellow dog.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/03_PROPS/Uncle_Chan_Wife_and_Ah_Wong_Photo.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-c4759f2c-2d61-4e3b-86ee-2936632d4da8.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "03_PROPS/Uncle_Chan_Wife_and_Ah_Wong_Photo.png",
+      "generation_record": {
+        "id": "03_PROPS/Uncle_Chan_Wife_and_Ah_Wong_Photo.png",
+        "prompt": "Use case: precise-object-edit. Edit the supplied old photograph. Keep the existing young Uncle Chan's face, clothes, pose and the yellow village dog Ah Wong unchanged. Add his Chinese wife, a woman of similar adult age, kneeling beside them at their doorway, gentle smile, chin-length dark hair, simple muted floral blouse and trousers, one hand resting on her knee. Widen the composition naturally enough for three subjects. Preserve warm sepia aged print, bent worn corner, old Hong Kong doorway, soft 3D animation style. The dog keeps its narrow slit-shaped smiling eyes and NO eyebrows. No new dog, no text. Exactly husband, wife and dog together.",
+        "refs": [
+          "03_PROPS/陳伯_舊相片_阿黃.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-e7e87e86-09e5-47ba-b803-f33865bfcab2.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "02_LOCATIONS/S01_Victoria_Bench_Rain_Shelter.png",
+      "generation_record": {
+        "id": "02_LOCATIONS/S01_Victoria_Bench_Rain_Shelter.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. EDIT original Australian puppy yard reference into close low puppy-eye-level view under SAME low weathered timber bench during gentle daylight rain. Same open pasture/fence/kennel shelter behind. Bench legs frame broad dry grassy patch under slats where two puppies can curl up, drops fall through gaps and bead on timber, rain beyond bench. No puppies or toy in this clean background, no deep puddles under bench. Warm muted daylight, soft tactile wood and grass, stylized animated movie not moody realism. Single wide environment plate.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/02_LOCATIONS/S01_Victoria_Puppy_Yard_Morning.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-5002d995-5d94-4a95-a45d-9103578c5017.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "02_LOCATIONS/S01_Covered_Departure_Yard.png",
+      "generation_record": {
+        "id": "02_LOCATIONS/S01_Covered_Departure_Yard.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. Create wide finished background of the SAME Australian kennel site as reference, months later gentle overcast rain. Covered timber and corrugated-roof loading yard with two clear separate loading bays, wet concrete outside shelter, timber fence and open pasture/eucalyptus beyond gate. Enough covered space for two crates and handlers. A route leads from kennel door to the bays and through open driveway gate. No vehicles/people/dogs/crates yet in this clean reusable location. Keep original warm soft rounded tactile 3D film style, no dramatic darkness. Correspondence to referenced same site is important.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/02_LOCATIONS/S01_Victoria_Puppy_Yard_Morning.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-204b8461-f935-448a-a214-af8e39d14425.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "04_VEHICLES/S01_Puppy_Transport_Vehicles.png",
+      "generation_record": {
+        "id": "04_VEHICLES/S01_Puppy_Transport_Vehicles.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. Finished scene01 Australia kennel transport vehicle sheet. Two DIFFERENT small rounded vans: ivory van at top and muted sage van below, each with side/front three-quarter view and rear open loading view. Both right-hand drive, visible adult drivers seated in front cab with seatbelts; kennel carers supervising open rear doors. Cargo area in each vehicle contains ONE secured cream-top dark-base ventilated puppy crate matching reference, with soft bedding and ventilation all around. NO loose puppies, no extra dogs. Neutral cream background with a soft ground shadow. Show straps securing crates to cargo anchors. Each driver has same identity in that van's two views. Warm soft animated 3D stylized design, not realistic photos. No words or branding.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/03_PROPS/Puppy_Bench_and_Transport_Crates.png",
+          "NEW_SCRIPT_ASSETS/01_CHARACTERS/Training_Handlers_and_Volunteer.png",
+          "05_VEHICLES/場07_客貨車_外觀.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-ce7cb389-521d-4fb0-a001-04fa7966f5ea.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "04_VEHICLES/S04_Prearranged_Pet_Friendly_Car.png",
+      "generation_record": {
+        "id": "04_VEHICLES/S04_Prearranged_Pet_Friendly_Car.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. Finished two-view sheet of a fictional unbranded prearranged pet-friendly vehicle in Hong Kong: rounded muted teal compact MPV with cream interior, clean pale cream studio background. Large side three-quarter exterior, smaller interior side-door view. Visible friendly adult woman driver short dark hair light blue blouse seated in RIGHT-HAND drive front position with seat belt. Rear passenger compartment roomy, washable taupe seat cover and open side door for boarding, no dog or May yet. No taxi livery, no advertising, no pet logo, no text; white front yellow rear plate. Same vehicle and driver in both views, rounded tactile animated style matching reference. Ready vehicle master.",
+        "refs": [
+          "05_VEHICLES/場07_前方車輛_外觀.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-e9f6a11e-e1de-47c8-9f6a-07f9b0cab3a1.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "04_VEHICLES/S05_Van_and_Queued_Car_With_Drivers.png",
+      "generation_record": {
+        "id": "04_VEHICLES/S05_Van_and_Queued_Car_With_Drivers.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. Create one clean vehicle sheet, two rows on cream background: TOP original silver van side and front-three-quarter views; BOTTOM original blue hatchback side and front-three-quarter views. Preserve reference vehicle shapes and colour. Every vehicle has a visible adult animated driver seated at wheel wearing seatbelt, right-hand-drive Hong Kong arrangement. Van driver man grey polo, hatchback driver woman muted red blouse. Drivers seen through clear driver-side window and windscreen, anatomically natural. All views consistent. All vehicles oriented pointing RIGHT, correct wheels, white front/yellow rear plates with no text, headlights off daylight. No additional vehicles.",
+        "refs": [
+          "05_VEHICLES/場07_客貨車_外觀.png",
+          "05_VEHICLES/場07_前方車輛_外觀.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-7b505f9b-95db-42f3-a31a-a6ecdfc3b4ae.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "04_VEHICLES/S12_Star_Ferry_Exterior_Lights_Off_People.png",
+      "generation_record": {
+        "id": "04_VEHICLES/S12_Star_Ferry_Exterior_Lights_Off_People.png",
+        "prompt": "Precisely edit this existing finished image only: ALL electrical lamp fixtures aboard ferry and on pier must be OFF, non-emissive dull grey opaque glass, no yellow/white glowing lenses, no light halos. Especially ceiling lamps inside doorways and cabins. Daylight alone illuminates scene. All ferry passenger seating should be warm brown teak slat benches. Preserve composition, characters and passengers and crew, ship design, camera, warm Pixar-like soft 3D style, tactile materials, daylight and everything else.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/04_VEHICLES/S12_Star_Ferry_Exterior_Lights_Off_People.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-260f536c-75c3-48e4-8308-03aa88d3c3fc.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "04_VEHICLES/S12_Star_Ferry_Interior_Afternoon_Passengers.png",
+      "generation_record": {
+        "id": "04_VEHICLES/S12_Star_Ferry_Interior_Afternoon_Passengers.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. EDIT original ferry cabin preserving teak slat benches, green steel uprights, cream riveted ceiling. Bright Saturday afternoon BLUE sky/harbour outside. ALL ceiling lights completely OFF with dark grey unlit lenses. Natural daylight only, no yellow light glow. Add modest seated animated passengers and white-shirt crew rear. Foreground left bench: original Ah Ming from reference2 seated securely, dark glasses, teal jacket, navy closed bag beside him. Tart from reference3 lies tucked at his feet below bench, pale cream coat, brown harness with silver handle and brown grip on; COLLAR HAS NO LEASH attached. Clear centre aisle. Across aisle right, reference4 green-sweater child seated with tan-jacket father, talking from respectful distance, nobody touching working dog. No Tine/May, no orange dog. Wide single finished cabin plate, identities and style locked.",
+        "refs": [
+          "05_VEHICLES/天星小輪_船艙_清晨.png",
+          "NEW_SCRIPT_ASSETS/01_CHARACTERS/Ah_Ming_阿明_Dark_Glasses.png",
+          "NEW_SCRIPT_ASSETS/01_CHARACTERS/Tart_Adult_Working_Harness_No_Leash.png",
+          "NEW_SCRIPT_ASSETS/01_CHARACTERS/Street_and_Ferry_Supporting_Cast.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-e22f60ea-9cd9-4c14-9998-1800d63f61b4.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "04_VEHICLES/S12_Star_Ferry_Gangway_Afternoon_People.png",
+      "generation_record": {
+        "id": "04_VEHICLES/S12_Star_Ferry_Gangway_Afternoon_People.png",
+        "prompt": "Precisely edit this existing finished image only: ALL electrical lamp fixtures aboard ferry and on pier must be OFF, non-emissive dull grey opaque glass, no yellow/white glowing lenses, no light halos. Especially ceiling lamps inside doorways and cabins. Daylight alone illuminates scene. All ferry passenger seating should be warm brown teak slat benches. Preserve composition, characters and passengers and crew, ship design, camera, warm Pixar-like soft 3D style, tactile materials, daylight and everything else.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/04_VEHICLES/S12_Star_Ferry_Gangway_Afternoon_People.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-4fa9598a-93b5-4070-bbe5-2d5dccc6dc67.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "05_STAGING/S05_Crossing_Hold_and_Clear.png",
+      "generation_record": {
+        "id": "05_STAGING/S05_Crossing_Hold_and_Clear.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. Finished TWO-PANEL staging reference sheet for scene05, same crossing and same characters in both wide panels. Reference1 location, reference2 exact Ah Ming, reference3 exact working Tart, reference4 occupied vehicles. TOP: both Tart and Ah Ming remain fully on foreground pavement, feet and all four paws behind kerb; dog holds still, Ah Ming's hand on silver harness handle, NO collar leash. Silver van already blocks yellow crossing horizontally, queued behind blue car, drivers visible. Pedestrian signal green but blocked path, dog refusing to step forward. BOTTOM later fresh green phase: vehicles have cleared crossing entirely; Ah Ming and Tart now walking together along clear yellow stripes toward opposite pavement at steady pace, Ah Ming holds harness handle, dog left of man. No headphones. Lock face, darkglasses, tealjacket and dog's pale cream coat/harness. Clearly depict safe waiting then clear crossing, no accident. Minimal labels 'WAIT' and 'CROSS' only. Warm soft original animation.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/02_LOCATIONS/S05_Central_Signalled_Crossing.png",
+          "NEW_SCRIPT_ASSETS/01_CHARACTERS/Ah_Ming_阿明_Dark_Glasses.png",
+          "NEW_SCRIPT_ASSETS/01_CHARACTERS/Tart_Adult_Working_Harness_No_Leash.png",
+          "NEW_SCRIPT_ASSETS/04_VEHICLES/S05_Van_and_Queued_Car_With_Drivers.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-17bee8ab-47d5-4146-b3fd-a0c0c318809d.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "05_STAGING/S15_Harness_Off_Then_Lead_On.png",
+      "generation_record": {
+        "id": "05_STAGING/S15_Harness_Off_Then_Lead_On.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. Finished THREE-PANEL sequential staging reference. Same original Ah Ming and Tart in SAME position by stone-based honey wood bench of reference1, sunny harbour bay. Ah Ming seated securely throughout. LEFT panel: Tart standing close at his knees, brown collar, WORKING HARNESS ON and absolutely NO leash on collar. Ah Ming begins undoing body strap. MIDDLE panel: harness COMPLETELY REMOVED, lies on bench beside Ah Ming with handle folded; Tart wears ONLY brown collar with empty metal D-ring; Ah Ming calmly touches dog's shoulder. RIGHT panel: harness still off on bench, Ah Ming clips silver leash clasp onto collar D-ring; loose BROWN lead runs visibly from collar to Ah Ming's hand which holds loop. Dog calm close by, no harness on body. Do not show lead while harness is worn. Keep exact original adult pale cream dog proportions, Ah Ming face dark glasses teal jacket. No other dogs or people, no extra arms. Three small labels '1 HARNESS ON', '2 HARNESS OFF', '3 LEAD ON'. Precise finished warm Pixar-like 3D reference.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/02_LOCATIONS/S14_S16_Nearer_Seating_Bay.png",
+          "NEW_SCRIPT_ASSETS/01_CHARACTERS/Ah_Ming_阿明_Dark_Glasses.png",
+          "NEW_SCRIPT_ASSETS/01_CHARACTERS/Tart_Adult_Working_Harness_No_Leash.png",
+          "NEW_SCRIPT_ASSETS/01_CHARACTERS/Tart_Adult_Off_Duty_Attached_Lead.png",
+          "NEW_SCRIPT_ASSETS/03_PROPS/Tart_Brown_Leather_Guide_Harness_Worn_and_Removed.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-260eaca4-7957-4493-87be-b603fa875ec3.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "05_STAGING/S16_Reunion_Tug_and_Final_Rest.png",
+      "generation_record": {
+        "id": "05_STAGING/S16_Reunion_Tug_and_Final_Rest.png",
+        "prompt": "Edit reference1 precisely, preserve both panels, exact characters, all leads, setting and style. BOTTOM PANEL: pale cream Tart's chin must rest directly ON TOP OF CHESTNUT TINE'S EXTENDED FRONT FORELEGS close to the ground, NOT on Tine's head or neck. Tine head upright slightly over his own paws so Tart chin can be seen crossing the forelegs. Both dogs relaxed. Remove the incorrect orange harness with emblem from bench beside May. Replace with the plain brown leather silver-handled GUIDE HARNESS from reference2 folded safely beside AH MING on his bench side. No emblems on guide harness. Put that same folded harness beside Ah Ming in TOP panel too. Do not change clothing, dog collars and bandanna, slack held separate leads, toy or cameras. Critical only Tart chin on Tine forelegs and correct removed harness.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/05_STAGING/S16_Reunion_Tug_and_Final_Rest.png",
+          "NEW_SCRIPT_ASSETS/03_PROPS/Tart_Brown_Leather_Guide_Harness_Worn_and_Removed.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-28358c10-6478-473a-afcb-22a91948444c.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "04_VEHICLES/S03_Central_Tram_With_Driver.png",
+      "generation_record": {
+        "id": "04_VEHICLES/S03_Central_Tram_With_Driver.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. Finished Hong Kong double-decker tram vehicle sheet, side and front three-quarter views, iconic slim rounded cream-and-forest-green body with wood windows and paired overhead wire collectors, visible adult uniformed driver in lower front cab and several seated passengers on both decks. No ads, no logos or invented route text, simple unnumbered destination panel. Wheels aligned on short embedded rails on pale neutral floor. Neutral pale cream background. Daylight, headlights off. Match the small cream/green tram seen in reference cafe exterior and original warm Pixar-like tactile animated-film look.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/02_LOCATIONS/S03_S04_Central_Lan_Kee_Cha_Chaan_Teng.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-f4540993-dc11-4fb0-bc0d-e914e49464cf.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "02_LOCATIONS/S13_Public_Ferry_Forecourt_Junction.png",
+      "generation_record": {
+        "id": "02_LOCATIONS/S13_Public_Ferry_Forecourt_Junction.png",
+        "prompt": "Use case: stylized-concept. Finished asset for Somewhere Between Us. Preserve original warm Pixar-like 3D animated-film style, soft rounded shapes, tactile materials, appealing proportions. No photorealism. No captions unless requested. Create wide ground-level establishing plate of Tsim Sha Tsui PUBLIC ferry terminal exit and forecourt matching harbour master reference. Terminal building at LEFT edge with clear public exit opening, coming toward camera/centre; a SECOND public pedestrian route approaches from inland FOREGROUND LEFT and intersects terminal exit flow in open forecourt. Beyond junction main level promenade continues EAST to image RIGHT along water. Nearer planter-screened seating bay turns a few metres inland in foreground right, original farther curved meeting bench visible much farther right beyond it. Clearly separate ferry terminal interior from public pavement; no ticket gates crossing public path. Harbour and soft Hong Kong Island skyline in background, modest cream/green terminal, clocktower on Kowloon side. Same honey stone paving, rounded cream planters, warm soft tactile Pixar-like 3D style, bright afternoon blue sky. NO people or dogs; clean background for adding two separate groups. No arrows/diagram/text. All lamps OFF.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/02_LOCATIONS/S13_S16_Harbour_Geography_Afternoon.png",
+          "NEW_SCRIPT_ASSETS/02_LOCATIONS/S14_S16_Nearer_Seating_Bay.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-6d476b99-8a05-4260-adfc-f33b0ccc7977.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    },
+    {
+      "delivered_asset": "02_LOCATIONS/S06_S08_S09_S10_Centre_Room_Afternoon.png",
+      "generation_record": {
+        "id": "02_LOCATIONS/S06_S08_S09_S10_Centre_Room_Afternoon.png",
+        "prompt": "Precise edit target: change ONLY wall clock hands to exactly 3:00 (long minute hand straight UP at12, short hour hand RIGHT at3). Preserve all other image pixels composition and warm soft Pixar-like style, furniture, ground-floor street window view, sign text. No new signs.",
+        "refs": [
+          "NEW_SCRIPT_ASSETS/02_LOCATIONS/S04_S06_S08_S09_S10_Centre_Room.png"
+        ],
+        "source": "/Users/everythingisgonnabeaok/.codex/generated_images/01a139b4-8057-7863-be2d-56af620e499a/exec-3e3f54d2-ee83-42d1-93af-6a0f20577ca7.png",
+        "mode": "built-in image_gen",
+        "review": "selected_final"
+      }
+    }
+  ]
+}

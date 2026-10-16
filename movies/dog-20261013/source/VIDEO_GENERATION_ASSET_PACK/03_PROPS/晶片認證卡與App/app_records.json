@@ -1,0 +1,15 @@
+{
+  "Tart": {
+    "name": "蛋撻",
+    "handler": "林先生",
+    "id": "VIC-001"
+  },
+  "Tine": {
+    "name": "阿華田",
+    "handler": "阿晴",
+    "id": "VIC-002"
+  },
+  "kennel": "維多利亞草原犬舍",
+  "kennel_en": "Victoria Meadow Kennels",
+  "note": "Fictional story records; contactless record card, not scanning an implanted chip. Not an official certificate."
+}
