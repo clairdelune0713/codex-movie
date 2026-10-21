@@ -1,0 +1,9 @@
+{
+  "id": "puppy-tine",
+  "prompt": "Use case: stylized-concept. Asset type: film production character reference sheet, wide horizontal 16:9. Warm rounded 3D animated feature style inspired by Up: soft global illumination, tactile fur/materials, saturated gentle colors, expressive eyes, original character design. Neutral seamless warm-gray studio background, coherent soft key/fill/rim light. No text, labels, logos, watermark, or existing Pixar/Disney characters. Input image is an adult identity reference only. Create the puppy version of exactly this fox-red Labrador Tine: tiny round fluffy fox-red body, oversized paws, floppy ears, expressive dark eyebrows, endearing energetic expression. Preserve the reference's small white heart-shaped marking on the lower back/flank beside the tail in the same anatomical position and shape. No bandana, collar, badge, leash or toy; this is before training. Animal turnaround sheet with exactly three views side by side: complete front, complete back showing the heart, complete side. Natural four-legged puppy anatomy, consistent color and mark across views.",
+  "ref": [
+    "C:\\Users\\Admin 3\\Downloads\\codex-movie\\movies\\doge-20261016\\source\\image-ref\\adult-tine.png"
+  ],
+  "source_revision": 0,
+  "output_hint": "Generated images are saved to C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7 as C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7\\exec-7efd4c00-068a-4a5b-8693-17406f002c66.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

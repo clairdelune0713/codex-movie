@@ -1,0 +1,11 @@
+{
+  "id": "sir-squeaks-head",
+  "prompt": "Use case: precise-object-edit. Derive a separated prop-state reference from the supplied WHOLE blue plush platypus Sir Squeaks. One object on a neutral light warm-gray studio backdrop, horizontal 16:9, detailed three-quarter hero view, original warm rounded 3D animation matching this exact reference. Only the FRONT HALF, from bill through head and the front third of body with its TWO FRONT PAWS, left behind after a single tear around the MIDDLE of the toy's torso. Keep the exact orange bill, stitched smile, dark bead eyes, light-blue velour fabric, rounded head volume and deep-blue front paws. Expose a small clean irregular torn seam with a few cream fabric stuffing fibers at its rear, no blood or gore. No rear body, hind paws, tail, detached extra pieces or second object. This half should reconnect with the complementary half into precisely the supplied whole toy. No writing, labels, watermark or other characters.",
+  "reference_paths": [
+    "assets/asset_sir-squeaks-whole/generated_c01.png"
+  ],
+  "source_revision": 1,
+  "dependency_fingerprint": "6bb1dc2e64f4bdcc443f955c0f74d2556d7d8f84b5d16d9eb120ce4511df050f",
+  "created_at": "2026-10-16T08:29:08.190Z",
+  "output_hint": "Generated images are saved to C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7 as C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7\\exec-0a6b3991-af17-4a19-9d96-0d29c82be7e8.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

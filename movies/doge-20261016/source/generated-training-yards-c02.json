@@ -1,0 +1,9 @@
+{
+  "id": "training-yards",
+  "prompt": "Use case: precise-object-edit. Edit this exact empty service-dog training-yards environment plate. Change ONLY the nearest yellow-and-black SPEED BUMP in the BLUE LEFT yard into a clearly visible rectangular open MOCK TRAINING HOLE in the asphalt at exactly that position, small enough for a guide dog to stop at its edge. Dark shallow depression with clean curb lip; keep the yellow diamond warning sign immediately beside it. This open hole is essential to the script's intelligent-disobedience training scene. Keep EVERYTHING ELSE unchanged: single central dividing brick wall, left blue yard/right yellow yard, camera angle, two identical practice streets, right-yard speed bump, cones, buildings, sky, colors, illumination and warm rounded animated-feature materials. Empty set, no people/dogs, no words or letters. Horizontal 16:9.",
+  "source_revision": 1,
+  "dependency_fingerprint": "a5b417ff0d0f61cb82aafc60b255f90724f5f176c69378ff39cd1156ddfee9d9",
+  "created_at": "2026-10-16T08:32:10.630Z",
+  "output_hint": "Generated images are saved to C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7 as C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7\\exec-67318d81-76f7-4b7d-9179-a47ba84e2c60.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "reason": "Show the mock open hole required by source scene 12"
+}

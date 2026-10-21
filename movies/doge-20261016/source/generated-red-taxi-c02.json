@@ -1,0 +1,11 @@
+{
+  "id": "red-taxi",
+  "prompt": "Use case: precise-object-edit. Asset type: movie main-prop reference. Edit the supplied image, preserve warm rounded original 3D cartoon feature-film rendering and neutral light studio backdrop, horizontal 16:9. Change ONLY the roof light: add the exact uppercase word \"TAXI\" in clearly readable bold BLACK block letters centered on the front-facing cream/white illuminated roof sign. Exact spelling T-A-X-I, one word, four letters. Keep the roof-light shape and scale; orient the lettering correctly to the front face of the sign so it reads in this camera angle. Preserve the ENTIRE red Hong Kong sedan, silver roof, steering wheel placement, wheels, windows, grille, headlights, proportions, studio background, camera, color and lighting exactly. Do not add writing anywhere else, logos, occupants, decorations or watermark.",
+  "source_revision": 4,
+  "dependency_fingerprint": "9c0c1e6a8fadd73aa99737bb61926d32708e1e56c4b6a164554ee08303a3c4d9",
+  "reference_paths": [
+    "assets/asset_red-taxi/generated_c01.png"
+  ],
+  "created_at": "2026-10-16T09:02:50.446Z",
+  "output_hint": "Generated images are saved to C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7 as C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7\\exec-e680d9be-cf2c-4b0e-ad32-72194a8c9027.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

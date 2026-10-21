@@ -1,0 +1,8 @@
+{
+  "id": "granny-chan",
+  "prompt": "Use case: stylized-concept. Film production reference for an ORIGINAL animated film. Horizontal 16:9. Warm rounded cinematic 3D animated feature look inspired by Up (2009), soft warm global illumination, gently saturated colors, tactile materials, painterly distant skies. No existing Pixar/Disney characters, recognizable replicas, franchise props, logos, watermark, labels or captions. Asset type: human CHARACTER sheet. Three side-by-side panels on clean seamless neutral warm-gray studio background: LEFT front wardrobe neck-to-shoes WITHOUT HEAD; MIDDLE back wardrobe neck-to-shoes WITHOUT HEAD; RIGHT the only HEAD and detailed face portrait. Consistent identity, wardrobe and lighting, no borders or text. Smallest of three elderly Hong Kong women, yellow cardigan, neat silver bun, cream blouse, dark trousers, sensible shoes, wooden walking stick. Diminutive sweet shrewd face. Distinct original identity.",
+  "source_revision": 1,
+  "dependency_fingerprint": "37906b6b92381a1661fe6168db2adaab47f16a9abb6342df3225e88eeef8aeba",
+  "created_at": "2026-10-16T08:21:20.227Z",
+  "output_hint": "Generated images are saved to C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7 as C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7\\exec-4a79efd9-6c94-4bd4-bc33-1908334ab748.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

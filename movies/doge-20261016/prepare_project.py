@@ -1,0 +1,58 @@
+from pathlib import Path
+from PIL import Image
+import json,re,shutil,hashlib,datetime,subprocess
+ROOT=Path(__file__).resolve().parent
+SKILL=Path('C:/Users/Admin 3/.codex/skills/movi2')
+def save(p,v): p.write_text(json.dumps(v,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+def now(): return datetime.datetime.now(datetime.timezone.utc).isoformat()
+def main():
+ p=json.loads((ROOT/'project.json').read_text(encoding='utf-8'))
+ assert p['revision']==0,'This initialization proposal is only for revision zero'
+ raw=(ROOT/'source/doge-script.md').read_text(encoding='utf-8')
+ clean=(ROOT/'source/screenplay-readable.md').read_text(encoding='utf-8')
+ refs=[('Tart-working','Tart in guide harness','adult-tart-harness.png'),('Tart-leash','Tart on brown leash','adult-tart-leash.png'),('Tart-off-duty','Tart collar only','adult-tart.png'),('Tine','Adult Tine','adult-tine.png'),('Kiki','Kiki','animal-companion-worker.png'),('Auntie-Bo','Auntie Bo','barista.png'),('Mr-Leung','Mr. Leung','blind-guy.png'),('Mr-Ko','Mr. Ko','lonely-old-man.png'),('puppy-tart','Puppy Tart','puppy-tart.png'),('puppy-tine','Puppy Tine','puppy-tine.png')]
+ manifest=json.loads((ROOT/'source/source-manifest.json').read_text())
+ assets=[]
+ for tag,name,f in refs:
+  src=ROOT.parent.parent/'doge-material/image-ref'/f; dst=ROOT/'source/image-ref'/f
+  if not dst.exists():
+   shutil.copy2(src,dst); h=hashlib.sha256(src.read_bytes()).hexdigest(); assert h==hashlib.sha256(dst.read_bytes()).hexdigest()
+   manifest.append({'source':str(src),'copy':dst.relative_to(ROOT).as_posix(),'sha256':h})
+  a={'id':'asset_'+tag,'tag':'@'+tag,'name':name,'category':'character','description':'Use supplied image unchanged for identity, proportions, colors and wardrobe. '+name,'source':'supplied','media_type':'Image','reference_paths':[dst.relative_to(ROOT).as_posix()],'candidates':[{'id':'supplied_c01','path':dst.relative_to(ROOT).as_posix(),'created_at':now(),'provenance':'User supplied reference, bytes preserved','dimensions':list(Image.open(dst).size)}],'selected_candidate_id':'supplied_c01'}
+  if tag=='Mr-Leung': a['description']+=' Completely blind; black sunglasses always on. Responds to sound, smell, touch or memory; left hand holds guide-harness handle. Never follows a visual cue.'
+  if tag=='Tine' or tag=='puppy-tine': a['description']+=' Preserve heart marking in its exact anatomical position from this reference; never mirror or move it. Adult toy tail-half is a separate prop.'
+  assets.append(a)
+ save(ROOT/'source/source-manifest.json',manifest)
+ initial=json.loads((ROOT/'source/initial-image-jobs.json').read_text())
+ for j in initial:
+  meta=json.loads((ROOT/f"source/generated-{j['id']}-c01.json").read_text())
+  original=Path(re.search(r' as (C:.*?\.png) by default',meta['output_hint']).group(1))
+  dest=ROOT/'assets'/('asset_'+j['id'])/'generated_c01.png'; dest.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(original,dest)
+  c={'id':'generated_c01','path':dest.relative_to(ROOT).as_posix(),'prompt':j['prompt'],'source_revision':0,'created_at':now(),'dimensions':list(Image.open(dest).size),'tool':'built-in image_gen'}
+  if j['id'] in ('puppy-tart','puppy-tine'):
+   a=next(a for a in assets if a['tag']=='@'+j['id']); c['selection_note']='Retained unselected; user explicitly chose their supplied puppy image.';a['candidates'].append(c)
+  else: assets.append({'id':'asset_'+j['id'],'tag':'@'+j['id'],'name':j['id'].title(),'category':'character','description':j['prompt'],'source':'generated','media_type':'Image','reference_paths':[],'candidates':[c],'selected_candidate_id':'generated_c01'})
+ specs=json.loads((ROOT/'source/additional-asset-specs.json').read_text())
+ specs += [{'id':id,'name':name,'category':'prop','description':desc,'source':'generated','reference_asset':'sir-squeaks-whole'} for id,name,desc in [('sir-squeaks-head','Sir Squeaks head half','The front head-half of the same blue plush platypus with orange duck bill, stitched smile and bead eyes; torn fabric seam at rear, no flat tail. High SQUEAK sound. Belongs to Tart.'),('sir-squeaks-tail','Sir Squeaks tail half','The rear tail-half of the same blue plush platypus, broad flat blue quilted tail and soft blue rear body; torn fabric seam at front, NO face, eyes or orange bill. Low HONK sound. Belongs to Tine.')]]
+ save(ROOT/'source/all-generation-specs.json',specs)
+ for j in specs: assets.append({'id':'asset_'+j['id'],'tag':'@'+j['id'],'name':j['name'],'category':j['category'],'description':j['description'],'source':'generated','media_type':'Image','reference_paths':[],'candidates':[],'selected_candidate_id':None,'generation_spec':j})
+ p.update({'source_text':raw,'source_path':'source/doge-script.md','input_mode':'script','language':'English','high_level_idea':'Two Labrador brothers raised in Victoria, Australia become guide and community companion dogs in Hong Kong, grow through funny adventures and near-misses, and reunite at Victoria Harbour through their divided squeaky toy.','detailed_script':clean,'duration_mode':'fixed','total_duration_target':1045,'aspect_ratio':'16:9','stage':'asset_atelier','script_changes':['No story rewrites or duration trimming. User clarified around 17 minutes and requested following the supplied 17:25 screenplay.','Source is doge-material/doge-script.md (the requested script.md filename is absent). The original is archived byte for byte.','Preserve supplied puppy images selected by the user, superseding generated puppy candidates.','Preserve Tine heart marking from supplied reference rather than relocating it to match ambiguous prose.','Model execution only: captions/maps/title and split screens are added in edit; animals never speak; wide ensemble shots stage at most three featured subjects per action.'],'style':{'medium':'Warm rounded cinematic 3D animation inspired by Pixar Up (2009), original cast only','palette':'Saturated gentle colors, cream and fox-red dogs, warm Victoria gold, Hong Kong teal and sunset pink','lighting':'Soft warm global illumination, painterly skies, expressive faces, tactile plush fur, cinematic depth of field','constraints':['Funny, energetic, adventurous, cute, action and fast pacing','All motion at normal speed; no slow motion, speed ramps or stretch-to-fill','No Pixar or Disney characters, franchise costumes, logos or recognizable replicas','Only humans speak English; animals use natural sounds and body language; no animal word lip sync','Mr. Leung is completely blind, sunglasses always on, left-hand harness handle, sensory responses only','Original music with playful waltz and SQUEE-HONK two-note motif; no copied film recording']} ,'asset_list':assets,'master_prompt_raw':'ASSET PLANNING ONLY. Preserve supplied 51-scene screenplay and all original shot times. Final asset-grounded Seedance prompts are deferred until explicit asset review approval.','continuity_bible':{'screen_direction':'Tart left to right; Tine right to left in their parallel Hong Kong journeys; meet in middle at reunion. Ranch chase follows explicit source left-to-right staging.','blindness':'Mr. Leung never sees, looks at, visually tracks, makes eye contact or notices colors visually. He hears crossing beeps, feels harness changes, finds objects by touch, recognizes smells. Sunglasses never removed.','harness':'Working harness only at script-specified times; left hand grips handle. Scene 39.4 remove the ENTIRE harness, retain collar. Scenes 40-48 collar only; 49 brown leash.','tine':'Orange bandana starts 13.3, tail-half stored in knot. Orange leash with Kiki; fish on ear from 30.2, tomato from 31.3 through end of 33; both absent from 34 onward. Heart placement locked to supplied reference.','toy':'Whole before 5.6 rip. Head to Tart, tail to Tine. 44 Tart briefly squeezes Tine tail-half then returns it. Tart head-half remains at home until 49.2.','geography':'Hong Kong left-side traffic. Cafe front door left and side door right. Cart descends side street into level crossing. Harbour railing always separates land and water. Mr. Leung stays seated during dog dash and rescue.','performance':'No more than three featured characters per shot action; others soft background or separate inserts. Clear spatial anchors. Dogs remain quadrupeds except brief source gags.','continuity_inputs':'Honor source same-set chaining: inspect successful selected last frame; use first-frame input when supported with necessary identity grounding, otherwise narrow end-state reference with approved environment. Never propagate an uninspected defective take.','edit':'Split-screen branches composited. Use normal-speed excerpts of selected scenes 1-7 for 43.2 memory flashes. Captions, maps and final source title added locally; no generated text. No storyboard inputs.'}})
+ scene_matches=list(re.finditer(r'^### SCENE (\d+) — (.+)$',clean,re.M)); chapters=[]; total=0; shot_total=0
+ for i,m in enumerate(scene_matches):
+  n=int(m.group(1));body=clean[m.start():scene_matches[i+1].start() if i+1<len(scene_matches) else clean.index('## 6. Music')]; title=m.group(2).strip();duration=int(re.search(r'· \*\*(\d+)s\*\*',body).group(1)); sm=list(re.finditer(r'\*\*'+str(n)+r'\.(\d+)\*\* · (\d+)–(\d+)s · (.+)',body)); shots=[]
+  for j,q in enumerate(sm):
+   text=body[q.end():sm[j+1].start() if j+1<len(sm) else len(body)].strip(); text=re.split(r'\n---',text)[0].strip()
+   shots.append({'source_shot_id':f'{n}.{q.group(1)}','start':int(q.group(2)),'end':int(q.group(3)),'action':q.group(4).strip()+'\n'+text,'status':'source_rough_breakdown'})
+  assert shots[0]['start']==0 and shots[-1]['end']==duration,(n,duration,shots)
+  assert all(a['end']==b['start'] for a,b in zip(shots,shots[1:])),n
+  ch={'id':f'chapter_{n:02}','chapter_index':n,'title':title,'duration':duration,'absolute_start':total,'absolute_end':total+duration,'high_level_idea':p['high_level_idea'],'scene_summary':title+' — '+re.search(r'\*Cast: (.+?)\*',body).group(1),'source_scene':n,'source_scene_text':body,'prompt':'','initial_prompt':'','prompt_status':'awaiting_asset_approval','pacing_reason':f'Keep source scene {n} exactly: {len(shots)} source shot beats over {duration}s; no slow motion.','tagged_assets':[],'linked_asset_ids':[],'delinked_asset_ids':[],'shots':shots,'materials':[],'storyboards':[],'selected_storyboard_id':None,'takes':[],'active_take_id':None,'screenshots':[]}
+  chapters.append(ch);total+=duration;shot_total+=len(shots)
+ assert len(chapters)==51 and total==1045,(len(chapters),total)
+ p['chapters']=chapters;save(ROOT/'exports/initial-proposal.json',p)
+ audit={'source_scenes':len(chapters),'source_shots':shot_total,'total_seconds':total,'runtime':'17:25','preserved_scene_lengths':[x['duration'] for x in chapters],'source_copies_sha256_verified':True,'selected_supplied_images':10,'image_asset_count':len(assets),'new_images_pending':len(specs),'video_submissions':0,'stage':'asset atelier, no finalized generation prompts'};save(ROOT/'exports/script-planning-audit.json',audit)
+ rows=['# doge-20261016 — screenplay plan','','Follow the original screenplay: **51 scenes, 17:25**, English, 16:9, normal speed.','','| Scene | Film time | Seconds | Title |','|---|---|---:|---|']
+ fmt=lambda s:f'{s//60:02}:{s%60:02}'
+ for x in chapters: rows.append(f"| {x['source_scene']} | {fmt(x['absolute_start'])}–{fmt(x['absolute_end'])} | {x['duration']} | {x['title']} |")
+ rows+=['','Full source: source/doge-script.md. Readable working copy: source/screenplay-readable.md.','Final prompts remain pending the required image asset review.']
+ (ROOT/'exports/scene-plan.md').write_text('\n'.join(rows)+'\n',encoding='utf-8');print(json.dumps(audit,indent=2))
+if __name__=='__main__':main()

@@ -1,0 +1,11 @@
+{
+  "id": "sir-squeaks-tail",
+  "prompt": "Use case: precise-object-edit. Derive a separated prop-state reference from the supplied WHOLE blue plush platypus Sir Squeaks. One object on a neutral light warm-gray studio backdrop, horizontal 16:9, detailed three-quarter hero view, original warm rounded 3D animation matching this exact reference. Only the REAR HALF: a small light-blue plush hindbody with TWO HIND PAWS and the exact large DARK-BLUE FLAT QUILTED TAIL, left after a single tear around the MIDDLE of the toy's torso. Keep same blue colors, velour texture, proportions, quilted diamond stitching and tail shape. The front end has a clean irregular torn fabric seam with a few cream stuffing fibers, no blood or gore. NO face, head, eyes, orange bill, front paws, front body, detached extra pieces or second object. This half should reconnect with the complementary half into precisely the supplied whole toy. No writing, labels, watermark or other characters.",
+  "reference_paths": [
+    "assets/asset_sir-squeaks-whole/generated_c01.png"
+  ],
+  "source_revision": 1,
+  "dependency_fingerprint": "a6d4d977135a3cb7d5a28aabec4ca4f4c8f51a2079312f1956bb28f52c560329",
+  "created_at": "2026-10-16T08:29:36.852Z",
+  "output_hint": "Generated images are saved to C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7 as C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7\\exec-b254e710-e3b8-43f1-be7d-8beabb88dd1e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

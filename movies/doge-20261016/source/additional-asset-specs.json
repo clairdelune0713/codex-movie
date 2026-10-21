@@ -1,0 +1,247 @@
+[
+  {
+    "id": "gertrude",
+    "name": "Gertrude",
+    "description": "A huge white farm goose with an orange beak, orange webbed feet, furious sharply angled eyebrows, comically offended expression. Full front, rear and side animal turnaround views.",
+    "category": "character",
+    "animal": true,
+    "source": "generated"
+  },
+  {
+    "id": "jade",
+    "name": "Jade",
+    "description": "A tiny olive-green Japanese white-eye songbird with a bright clean white ring around EACH eye, pale creamy belly, small narrow dark beak, delicate feet. Three views: front perched, rear perched, side perched. One consistent bird identity, neutral tiny branch support only.",
+    "category": "character",
+    "animal": true,
+    "source": "generated"
+  },
+  {
+    "id": "granny-wong",
+    "name": "Granny Wong",
+    "description": "Tiny elderly Hong Kong woman, pink cardigan, round glasses, short neat silver bob, floral cream blouse, dark skirt/trousers and sensible shoes, round joyful face. Distinct original identity.",
+    "category": "character",
+    "animal": false,
+    "source": "generated"
+  },
+  {
+    "id": "granny-lee",
+    "name": "Granny Lee",
+    "description": "Tiny elderly Hong Kong woman, purple cardigan, large round gray perm, lavender blouse, dark trousers, sensible shoes, round endearing face and broad mischievous grin. Distinct original identity.",
+    "category": "character",
+    "animal": false,
+    "source": "generated"
+  },
+  {
+    "id": "granny-chan",
+    "name": "Granny Chan",
+    "description": "Smallest of three elderly Hong Kong women, yellow cardigan, neat silver bun, cream blouse, dark trousers, sensible shoes, wooden walking stick. Diminutive sweet shrewd face. Distinct original identity.",
+    "category": "character",
+    "animal": false,
+    "source": "generated"
+  },
+  {
+    "id": "kookaburra",
+    "name": "Kookaburra",
+    "description": "An Australian laughing kookaburra, plump cream-and-brown kingfisher, dark eye stripe, large stout dark beak, brown wings, cream chest and head. Front, rear and side full animal views on a short neutral perch.",
+    "category": "character",
+    "animal": true,
+    "source": "generated"
+  },
+  {
+    "id": "black-kite",
+    "name": "Black Kite",
+    "description": "A Hong Kong black kite raptor, dark brown feathered body, lighter brown head, yellow cere and feet, hooked dark beak, distinctive shallow-forked tail. Three animal reference views, perched front, perched rear with folded wings, side with wings slightly spread. Animal predator, no humanoid clothing.",
+    "category": "character",
+    "animal": true,
+    "source": "generated"
+  },
+  {
+    "id": "sunny-hill-ranch",
+    "name": "Sunny Hill Ranch",
+    "description": "Golden rolling Victoria hills and eucalyptus trees, red-roofed white weatherboard farmhouse and long timber veranda screen-left, small windmill behind it, white picket fence with gate, red-dust driveway leading from foreground toward screen-right, cabbage patch, hay bales, laundry line, muddy slope toward shallow pig wallow and empty sheep paddock. Broad simple readable farmyard and clear chase paths. Morning blue sky. No sheep or animals in this clean plate.",
+    "category": "environment",
+    "source": "generated"
+  },
+  {
+    "id": "ranch-veranda",
+    "name": "Farmhouse veranda",
+    "description": "The same white weatherboard Australian farmhouse with red roof. Empty wide timber veranda, white veranda posts, screen-left doorway, timber railing to screen-right, golden hills and eucalyptus behind the right railing. Dry sunlit warm afternoon. Open central floor for two puppies and Mags, ordinary tin washtub tucked near left wall, no plush toy or character equipment.",
+    "category": "environment",
+    "source": "generated"
+  },
+  {
+    "id": "hay-loft",
+    "name": "Ranch hay loft",
+    "description": "Intimate empty hay loft in a timber Australian barn at night, soft rounded hay piles flanking a broad central floor, ladder hatch foreground-left, large open barn door centered in back framing a starry southern sky and Southern Cross. Warm low lantern illumination from a hook screen-left and cool moonlight from doorway. No characters, lantern-holding hands or toys.",
+    "category": "environment",
+    "source": "generated"
+  },
+  {
+    "id": "training-yards",
+    "name": "Adjacent training yards",
+    "description": "Two neighboring empty dog-training practice streets in Hong Kong, equal simple rectilinear yards separated by ONE tall central brick wall. Left yard blue perimeter walls; right yard yellow perimeter walls. Each has a curb, sparse orange cones, a broad safe mock road hazard with yellow blank warning sign. Small low training building in rear, mountains and towers faint beyond. Oblique elevated wide view makes opposite sides of same wall legible. Daylight. No dogs or trainers.",
+    "category": "environment",
+    "source": "generated"
+  },
+  {
+    "id": "training-hallway",
+    "name": "Training centre hallway",
+    "description": "Empty simple clean Hong Kong service-dog school interior corridor, cream floor and pale yellow walls, row of plain doors, daylight through rear glass doors toward yellow-walled training yard; single low bench screen-right, broad clear floor. No people, dogs, clipboard, writing or logo.",
+    "category": "environment",
+    "source": "generated"
+  },
+  {
+    "id": "leung-flat",
+    "name": "Mr. Leung's flat",
+    "description": "Small tidy Hong Kong high-rise flat, soft teal and warm cream palette, window at screen-right showing clustered towers, vintage radio on rear-left shelf, simple bed and nightstand on left, round dog bed near window, small coffee table center with clear pathways. Morning light from right, tactile uncluttered domestic warmth. No people, dogs, hero toy, keys or floating items.",
+    "category": "environment",
+    "source": "generated"
+  },
+  {
+    "id": "sheung-wan-street",
+    "name": "Sheung Wan street",
+    "description": "Empty old Hong Kong street with weathered pastel midrise shop buildings, blank hanging signs, broad continuous pavement left to right, tram tracks on roadway midground, tiled storefronts, small fish-market section with buckets at screen-right. Layered but uncluttered spatial composition and clear safe curb. Warm morning. No people, animals, vehicles or readable signage.",
+    "category": "environment",
+    "source": "generated"
+  },
+  {
+    "id": "bo-cafe",
+    "name": "Bo's Corner Café",
+    "description": "Empty tiny Hong Kong corner café interior on a steep street, green-and-cream floor and wall tiles, glowing glass pastry counter rear-center with golden custard tarts as ordinary dressing, waving lucky-cat figurine on counter, stools, FRONT DOOR unmistakably screen-LEFT and SIDE DOOR screen-RIGHT with right side window. Both entrances visible in one establishing angle with clear floor between. Warm late morning café light. No people, live cat, dogs or hero toy; blank signs.",
+    "category": "environment",
+    "source": "generated"
+  },
+  {
+    "id": "steep-street",
+    "name": "Steep street and crossing",
+    "description": "Empty very steep Hong Kong side street descends from top-left background into level main road across foreground; small fruit stall at TOP with crates of oranges, green-and-cream corner café near bottom-left, zebra crossing across level road at BOTTOM and pedestrian signal on nearest safe curb. Wide three-quarter establishing angle showing all three anchors in one clear T-shaped geography; no implausible overlapping roads. Hong Kong left-side traffic layout. Morning. No characters, vehicles or runaway cart.",
+    "category": "environment",
+    "source": "generated"
+  },
+  {
+    "id": "radio-booth",
+    "name": "Radio booth",
+    "description": "Empty compact Hong Kong radio studio, soft acoustic wall panels, sturdy broadcast desk with one large microphone on boom, headphones resting on desk, accessible console with simple large tactile controls, chair behind desk and open underdesk floor for guide dog. Small blank red illuminated rectangular on-air sign on rear wall, no lettering. Warm practical studio lighting.",
+    "category": "environment",
+    "source": "generated"
+  },
+  {
+    "id": "elder-centre",
+    "name": "Sunshine Elder Centre",
+    "description": "Empty bright Hong Kong community hall at ground level: broad entrance rear-left with sun symbol but NO lettering, mahjong tables to left, karaoke TV on back wall and clear tai chi floor center. Big low openable window on screen-right, one lonely armchair beneath right window with small side table and wide sill reserved for cage and photo. Folding chairs along wall; plants; daylight, right corner a little cooler. No humans, animals, birdcage, photograph, newspaper fortress or tally counter.",
+    "category": "environment",
+    "source": "generated"
+  },
+  {
+    "id": "market-street",
+    "name": "Market street",
+    "description": "Empty narrow Hong Kong market lane, striped cloth awnings, dried-fish baskets and produce stalls as set dressing, clear walkable foreground path from right to left, rear glimpse of tram street behind stalls and visible staircase at far left leading to roof access. Warm afternoon. No people, dogs, birds, tram or other vehicles.",
+    "category": "environment",
+    "source": "generated"
+  },
+  {
+    "id": "rooftops",
+    "name": "Market rooftops",
+    "description": "Two neighboring flat Hong Kong roofs separated by a SMALL CLEAR gap, low protective parapets. Broad foreground roof with access stair doorway screen-right, water tank rear-right, laundry line with colorful sheets running toward neighboring roof left; left landing has potted tomatoes and broad stable planter. Hong Kong towers in distant background. Wide clean staged geometry, sunny afternoon suitable for relighting to sunset. No people, animals, falling props or hero objects.",
+    "category": "environment",
+    "source": "generated"
+  },
+  {
+    "id": "victoria-harbour",
+    "name": "Victoria Harbour promenade",
+    "description": "Empty wide Tsim Sha Tsui promenade, Hong Kong, looking along waterside path: old Clock Tower toward left distance, continuous simple waist-high metal waterfront railing receding from foreground-right toward distant center, benches on LAND side of rail including one foreground-left bench, unobstructed broad walking route left-right, harbour water beyond right rail and Hong Kong Island skyline across water. Soft golden-hour pink sky. Stable simple geometry for later blue-hour/night relighting. No people, animals, balloons, ferries or vehicles.",
+    "category": "environment",
+    "source": "generated"
+  },
+  {
+    "id": "mtr-interior",
+    "name": "MTR train interior",
+    "description": "Empty modern Hong Kong subway train interior, clean stainless grab rails, blue seats, large clear windows looking across one adjacent parallel track and another empty train. Easy simple single aisle, normal daylight station illumination, no advertising text, logos, people or animals.",
+    "category": "environment",
+    "source": "generated"
+  },
+  {
+    "id": "kiki-flat",
+    "name": "Kiki's flat",
+    "description": "Empty small cozy Hong Kong apartment bedroom at night, terracotta and sage palette, orange dog bed directly below large window, simple low bookcase, folded blanket, cream wall; skyline lights outside window, gentle warm reading lamp on bedside shelf. Clear floor and cozy modest home. No person, dog, toy or text.",
+    "category": "environment",
+    "source": "generated"
+  },
+  {
+    "id": "sir-squeaks-whole",
+    "name": "Sir Squeaks whole",
+    "description": "A single small blue plush platypus toy with orange flat duck bill, stitched friendly smile, small bead eyes, little blue webbed paws, broad flat quilted blue tail. Soft worn velour, visible central seam where it will rip into front and back halves. Three-quarter hero view, fully intact, no tears, no duplicates.",
+    "category": "prop",
+    "source": "generated"
+  },
+  {
+    "id": "smile-counter",
+    "name": "Smile Counter",
+    "description": "One small silver mechanical hand tally clicker, chrome rounded shell, single thumb lever, finger ring, small four-digit black-and-white number window showing 0099. Legible simple mechanical construction and warm soft reflections, three-quarter view. No brand.",
+    "category": "prop",
+    "source": "generated"
+  },
+  {
+    "id": "jade-cage",
+    "name": "Jade's cage",
+    "description": "One small round bamboo songbird cage, pale honey bamboo rods, domed top with carry hook, simple circular wood base, tiny hinged rectangular latch door clearly visible on front, one thin perch. Door closed in hero reference; precise visible latch construction for later opening. Empty cage, no bird.",
+    "category": "prop",
+    "source": "generated"
+  },
+  {
+    "id": "mei-photo",
+    "name": "Mei's framed photograph",
+    "description": "One modest aged wooden picture frame with slightly faded warm 1970s photograph of a smiling ORIGINAL young Hong Kong couple: slim young Mr. Ko with prominent ears and short dark hair, and his smiling wife Mei in a 1970s floral dress holding a small round bamboo birdcage. Nostalgic gentle portrait, clearly a photograph printed behind glass, not live people. Neutral light backdrop outside the frame; no text or engraving.",
+    "category": "prop",
+    "source": "generated"
+  },
+  {
+    "id": "balloon-bundle",
+    "name": "Balloon bundle",
+    "description": "One huge dense cloud of many small colorful helium party balloons, bright red blue yellow green orange violet rounded latex shapes. Thin clearly organized strings converge into one small hand-sized tied bundle, loose long tails hanging down. Enough balloons to imply fantastical animated lift, no house, animals, person, bandana or leash. High-detail three-quarter isolated hero view with every balloon inside frame.",
+    "category": "prop",
+    "source": "generated"
+  },
+  {
+    "id": "transport-van",
+    "name": "Ranch transport van",
+    "description": "One friendly rounded white small animal-transport panel van, simple blue paw-print symbol on side, no words or brands, dark rear glass, two rear-opening doors with one open showing a secured pet travel crate and space for one puppy. Three-quarter rear-side hero view, mechanically legible four wheels, no humans or animals.",
+    "category": "prop",
+    "source": "generated"
+  },
+  {
+    "id": "red-taxi",
+    "name": "Red Hong Kong taxi",
+    "description": "One red Hong Kong-style taxi sedan with silver roof, small rectangular roof light without writing, right-hand-drive wheel visible, black tires, clean realistic simplified four-wheel construction in rounded animated style. Three-quarter hero view, no driver, people, text, brands or number plate characters.",
+    "category": "prop",
+    "source": "generated"
+  },
+  {
+    "id": "green-tram",
+    "name": "Green double-decker tram",
+    "description": "One classic narrow Hong Kong green double-decker tram, cream roof and window frames, two distinct rows of windows, simple straight trolley pole, dark wheels, no destination letters or advertising. Long side three-quarter hero view makes silhouette instantly clear; empty vehicle, no people or animals.",
+    "category": "prop",
+    "source": "generated"
+  },
+  {
+    "id": "orange-cart",
+    "name": "Orange cart",
+    "description": "One simple wooden two-wheeled handcart stacked with a modest pyramid of fresh oranges, wooden slat sides, visible handles, axle and two stable wheels, one loose orange near cart. Readable construction to animate downhill later. Rounded warm 3D animated hero view, no seller, people or animals.",
+    "category": "prop",
+    "source": "generated"
+  },
+  {
+    "id": "explorer-kit",
+    "name": "Puppy explorer kit",
+    "description": "Two separate puppy-sized explorer props resting side by side with clear space: a worn rusty tin bucket with rolled rim and small carrying handle, and oversized old brown leather aviator goggles with two clear round lenses and one intact strap. Both fit a Labrador puppy. Neutral studio hero object sheet, no dog, human, mannequin, text or extra props.",
+    "category": "prop",
+    "source": "generated"
+  },
+  {
+    "id": "cat-backpack",
+    "name": "Boss's cat backpack",
+    "description": "One simple unbranded teal and tan pet carrier backpack with a single clear round bubble window on front, mesh side ventilation, two cloth shoulder straps, zipper. Empty inside, enough room for a large plump orange tabby. Three-quarter hero view, no cat, people, logo or text.",
+    "category": "prop",
+    "source": "generated"
+  }
+]

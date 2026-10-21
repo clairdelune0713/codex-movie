@@ -1,0 +1,30 @@
+[
+  {
+    "id": "mei-photo",
+    "description": "Modest aged wooden framed warm 1970s snapshot of young Mr. Ko and his wife Mei holding a round bamboo birdcage. Both faces use matching rounded 3D cartoon caricature proportions, expressive slightly enlarged eyes, simplified smooth facial planes, and gently stylized skin; Mei is as cartoon-like as Mr. Ko. Retain her floral dress, warm smile, composition and nostalgic photograph treatment.",
+    "prompt": "Use case: precise-object-edit. Asset type: movie main-prop reference. Edit the supplied image, preserve warm rounded original 3D cartoon feature-film rendering and neutral light studio backdrop, horizontal 16:9. Change ONLY MEI, the woman on the right inside the framed picture, to the same degree of CARTOON STYLIZATION as the man beside her. Her face must have the same rounded sculpted forms, slightly oversized expressive eyes, simplified nose and cheeks, softly caricatured proportions and smooth animation-style skin shading. Clearly a stylized original 3D cartoon woman: remove photoreal portrait skin, photographic pores and realistic face anatomy. Preserve her identity cues: young Hong Kong woman, dark curly shoulder-length hair, happy warm smile, 1970s floral dress. Keep her approximate head size and pose; match the man's existing cartoon rendering without changing HIM. Keep the man exactly unchanged, keep frame, faded snapshot texture, cage, hands, dress pattern, background, lighting, camera and composition unchanged. The photograph is of two original cartoon people. No Disney/Pixar character likenesses, labels, writing or watermark.",
+    "candidate_id": "generated_c02",
+    "input_path": "assets/asset_mei-photo/generated_c01.png"
+  },
+  {
+    "id": "balloon-bundle",
+    "description": "A modest vendor bunch of eight ordinary oval helium party balloons, loosely arranged at varying heights with visible gaps, muted coral, teal, golden yellow and lavender colors, simple thin strings tied together. Small everyday party bunch, no enormous spherical rainbow cloud or Up-style balloon mass.",
+    "prompt": "Use case: precise-object-edit. Asset type: movie main-prop reference. Edit the supplied image, preserve warm rounded original 3D cartoon feature-film rendering and neutral light studio backdrop, horizontal 16:9. Replace the immense packed balloon cloud with a REASONABLE SMALL VENDOR BUNCH of EIGHT ordinary latex party balloons TOTAL. Each is a standard hand-sized elongated oval/teardrop party balloon with a visible tied neck. Use two muted coral, two soft teal, two warm golden-yellow and two lavender balloons. Loosely fan the eight balloons at varying heights with visible air gaps and their simple long strings gathered in one small knot below. Show every balloon fully in frame, an ordinary small street-vendor party bunch. Preserve simple studio background and gentle stylized 3D materials. Modest scale, restrained color palette, satin latex, no giant round multicolor cloud, no hundreds of miniature balloons, no packed spherical mass, no house, no Pixar/Disney motif, no extra objects, text or watermark.",
+    "candidate_id": "generated_c02",
+    "input_path": "assets/asset_balloon-bundle/generated_c01.png"
+  },
+  {
+    "id": "sir-squeaks-tail",
+    "description": "Only Sir Squeaks' compact blue plush rear hindquarters and dark-blue quilted flat tail, with exactly TWO REAR LEGS TOTAL, one left and one right attached by the tail end; no forelegs or forepaws. Torn front seam with small cream stuffing fibers; no head, face, bill or front torso. Low HONK sound; belongs to Tine.",
+    "prompt": "Use case: precise-object-edit. Asset type: movie main-prop reference. Edit the supplied image, preserve warm rounded original 3D cartoon feature-film rendering and neutral light studio backdrop, horizontal 16:9. Correct the anatomy of the TAIL HALF of this plush platypus. The current image has extra feet near the torn edge. REMOVE THE TWO FRONT LEGS AND FRONT FEET ENTIRELY. Leave ONLY the compact rear hindquarters, its TWO REAR LEGS and TWO REAR WEBBED FEET TOTAL (one left rear foot and one right rear foot), plus the flat quilted tail. Both remaining legs attach beneath the REAR body near the TAIL BASE; the TORN FRONT EDGE has NO legs and NO feet beneath it. Shorten the stump to the rear half so the split is unambiguous. Count the visible feet: exactly TWO, not four. Preserve the exact light-blue velour, deep-blue rear feet, dark-blue quilted tail, diamond stitching, soft rounded form and the small cream fibers at torn edge. No face, head, eyes, bill, front torso, detached feet, duplicated appendages, new props, text or watermark. Same three-quarter hero reference view and studio illumination.",
+    "candidate_id": "generated_c02",
+    "input_path": "assets/asset_sir-squeaks-tail/generated_c01.png"
+  },
+  {
+    "id": "red-taxi",
+    "description": "Red Hong Kong-style taxi sedan with silver roof and a small rectangular cream roof light bearing the clear black uppercase word TAXI. Right-hand-drive, four wheels, black tires, rounded animated construction, no driver or other branding/text.",
+    "prompt": "Use case: precise-object-edit. Asset type: movie main-prop reference. Edit the supplied image, preserve warm rounded original 3D cartoon feature-film rendering and neutral light studio backdrop, horizontal 16:9. Change ONLY the roof light: add the exact uppercase word \"TAXI\" in clearly readable bold BLACK block letters centered on the front-facing cream/white illuminated roof sign. Exact spelling T-A-X-I, one word, four letters. Keep the roof-light shape and scale; orient the lettering correctly to the front face of the sign so it reads in this camera angle. Preserve the ENTIRE red Hong Kong sedan, silver roof, steering wheel placement, wheels, windows, grille, headlights, proportions, studio background, camera, color and lighting exactly. Do not add writing anywhere else, logos, occupants, decorations or watermark.",
+    "candidate_id": "generated_c02",
+    "input_path": "assets/asset_red-taxi/generated_c01.png"
+  }
+]

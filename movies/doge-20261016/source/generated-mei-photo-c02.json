@@ -1,0 +1,11 @@
+{
+  "id": "mei-photo",
+  "prompt": "Use case: precise-object-edit. Asset type: movie main-prop reference. Edit the supplied image, preserve warm rounded original 3D cartoon feature-film rendering and neutral light studio backdrop, horizontal 16:9. Change ONLY MEI, the woman on the right inside the framed picture, to the same degree of CARTOON STYLIZATION as the man beside her. Her face must have the same rounded sculpted forms, slightly oversized expressive eyes, simplified nose and cheeks, softly caricatured proportions and smooth animation-style skin shading. Clearly a stylized original 3D cartoon woman: remove photoreal portrait skin, photographic pores and realistic face anatomy. Preserve her identity cues: young Hong Kong woman, dark curly shoulder-length hair, happy warm smile, 1970s floral dress. Keep her approximate head size and pose; match the man's existing cartoon rendering without changing HIM. Keep the man exactly unchanged, keep frame, faded snapshot texture, cage, hands, dress pattern, background, lighting, camera and composition unchanged. The photograph is of two original cartoon people. No Disney/Pixar character likenesses, labels, writing or watermark.",
+  "source_revision": 4,
+  "dependency_fingerprint": "3ff3664d7d0d60aafcf1a85f772785fd2aba3d1970d5d5372a8879567e17461b",
+  "reference_paths": [
+    "assets/asset_mei-photo/generated_c01.png"
+  ],
+  "created_at": "2026-10-16T09:02:50.447Z",
+  "output_hint": "Generated images are saved to C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7 as C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7\\exec-b950376f-00d7-4a81-8042-483f7de050fe.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

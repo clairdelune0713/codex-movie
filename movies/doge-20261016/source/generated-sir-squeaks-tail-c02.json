@@ -1,0 +1,11 @@
+{
+  "id": "sir-squeaks-tail",
+  "prompt": "Use case: precise-object-edit. Asset type: movie main-prop reference. Edit the supplied image, preserve warm rounded original 3D cartoon feature-film rendering and neutral light studio backdrop, horizontal 16:9. Correct the anatomy of the TAIL HALF of this plush platypus. The current image has extra feet near the torn edge. REMOVE THE TWO FRONT LEGS AND FRONT FEET ENTIRELY. Leave ONLY the compact rear hindquarters, its TWO REAR LEGS and TWO REAR WEBBED FEET TOTAL (one left rear foot and one right rear foot), plus the flat quilted tail. Both remaining legs attach beneath the REAR body near the TAIL BASE; the TORN FRONT EDGE has NO legs and NO feet beneath it. Shorten the stump to the rear half so the split is unambiguous. Count the visible feet: exactly TWO, not four. Preserve the exact light-blue velour, deep-blue rear feet, dark-blue quilted tail, diamond stitching, soft rounded form and the small cream fibers at torn edge. No face, head, eyes, bill, front torso, detached feet, duplicated appendages, new props, text or watermark. Same three-quarter hero reference view and studio illumination.",
+  "source_revision": 4,
+  "dependency_fingerprint": "7d19b87253c1c05bf6eab523e66adfa5f3c9dedcc5be2fde75b6ed3c30a90f85",
+  "reference_paths": [
+    "assets/asset_sir-squeaks-tail/generated_c01.png"
+  ],
+  "created_at": "2026-10-16T09:02:50.440Z",
+  "output_hint": "Generated images are saved to C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7 as C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7\\exec-5af4c800-3b2c-44d1-aff9-6c7675ce127a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

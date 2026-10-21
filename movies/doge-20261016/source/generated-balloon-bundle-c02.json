@@ -1,0 +1,11 @@
+{
+  "id": "balloon-bundle",
+  "prompt": "Use case: precise-object-edit. Asset type: movie main-prop reference. Edit the supplied image, preserve warm rounded original 3D cartoon feature-film rendering and neutral light studio backdrop, horizontal 16:9. Replace the immense packed balloon cloud with a REASONABLE SMALL VENDOR BUNCH of EIGHT ordinary latex party balloons TOTAL. Each is a standard hand-sized elongated oval/teardrop party balloon with a visible tied neck. Use two muted coral, two soft teal, two warm golden-yellow and two lavender balloons. Loosely fan the eight balloons at varying heights with visible air gaps and their simple long strings gathered in one small knot below. Show every balloon fully in frame, an ordinary small street-vendor party bunch. Preserve simple studio background and gentle stylized 3D materials. Modest scale, restrained color palette, satin latex, no giant round multicolor cloud, no hundreds of miniature balloons, no packed spherical mass, no house, no Pixar/Disney motif, no extra objects, text or watermark.",
+  "source_revision": 4,
+  "dependency_fingerprint": "3eaf661ba26c4a753cd926f93b4d08d574287b206a2444b41830f65e1af40ec4",
+  "reference_paths": [
+    "assets/asset_balloon-bundle/generated_c01.png"
+  ],
+  "created_at": "2026-10-16T09:02:50.434Z",
+  "output_hint": "Generated images are saved to C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7 as C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7\\exec-68b8ed15-93ae-4e90-9305-387bf9673ac6.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

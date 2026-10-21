@@ -1,0 +1,57 @@
+[
+  {
+    "path": "doge-script.md",
+    "sha256": "dfee686026820eacaa25469f7938dc7aa19c57c0b5dbd52575d43042327d0a50",
+    "bytes": 94993
+  },
+  {
+    "path": "image-ref/adult-tart-harness.png",
+    "sha256": "512ecb64eb8c462469400b78e3b24895282b3fa6a4f9b7cb6b634e108d7086fd",
+    "bytes": 1906051
+  },
+  {
+    "path": "image-ref/adult-tart-leash.png",
+    "sha256": "bacef91b3f5f82ac162fb024d2cdc29675c612b0f047735f93615c6e3c7749e4",
+    "bytes": 1804599
+  },
+  {
+    "path": "image-ref/adult-tart.png",
+    "sha256": "4e2a511d483438adf270e30ece04f50430a4c3cdec0974fa7301dd72f014e8eb",
+    "bytes": 1875753
+  },
+  {
+    "path": "image-ref/adult-tine.png",
+    "sha256": "1800247d35dd971f9a3afbd350ccb93b90304c829c35e0cc458544e044a4ffb1",
+    "bytes": 1968988
+  },
+  {
+    "path": "image-ref/animal-companion-worker.png",
+    "sha256": "104f16008d08d36db00de5d76e5f60b5256c99255a8d94e2f9882d01af96be55",
+    "bytes": 1943178
+  },
+  {
+    "path": "image-ref/barista.png",
+    "sha256": "60872ccbd1897dda74da2e2cdfa050057e357ee22447ec26d7dbd1d034363b59",
+    "bytes": 1981609
+  },
+  {
+    "path": "image-ref/blind-guy.png",
+    "sha256": "f6656d39b967e4c6675feaada3f57df7ab9d55b939109b5960ed2de6deea3600",
+    "bytes": 1917517
+  },
+  {
+    "path": "image-ref/lonely-old-man.png",
+    "sha256": "33733a9a60b0df3523c00cbdf4f9d2d13877037e0bbb17249759724fd9050383",
+    "bytes": 2167299
+  },
+  {
+    "path": "image-ref/puppy-tart.png",
+    "sha256": "8118c84af6f281870af993379ce056b8898ac3ce5de85aa1ff0b4e8246164506",
+    "bytes": 126170
+  },
+  {
+    "path": "image-ref/puppy-tine.png",
+    "sha256": "33422d3fb0cee09898774297c2eae1ea6eac402b7389fcbab6d401bb1b92eacb",
+    "bytes": 131959
+  }
+]

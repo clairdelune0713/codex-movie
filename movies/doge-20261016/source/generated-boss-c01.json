@@ -1,0 +1,7 @@
+{
+  "id": "boss",
+  "prompt": "Use case: stylized-concept. Asset type: film production character reference sheet, wide horizontal 16:9. Warm rounded 3D animated feature style inspired by Up: soft global illumination, tactile fur/materials, saturated gentle colors, expressive eyes, original character design. Neutral seamless warm-gray studio background, coherent soft key/fill/rim light. No text, labels, logos, watermark, or existing Pixar/Disney characters. Boss, an original enormous round orange tabby Hong Kong shop cat, plush striped orange fur, cream muzzle and belly, sleepy half-closed greenish eyes, unmistakable small notch in HIS LEFT ear, smug but secretly soft expression. Animal turnaround sheet with exactly three complete views side by side: front seated, back seated showing stripes and fluffy tail, side seated with head visible. Anatomically consistent four-legged cat, not bipedal; no costume or props.",
+  "ref": [],
+  "source_revision": 0,
+  "output_hint": "Generated images are saved to C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7 as C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7\\exec-147b4a4a-9735-483d-8dff-14ba0d973530.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

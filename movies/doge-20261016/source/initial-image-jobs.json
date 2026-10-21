@@ -1,0 +1,24 @@
+[
+  {
+    "id": "puppy-tart",
+    "prompt": "Use case: stylized-concept. Asset type: film production character reference sheet, wide horizontal 16:9. Warm rounded 3D animated feature style inspired by Up: soft global illumination, tactile fur/materials, saturated gentle colors, expressive eyes, original character design. Neutral seamless warm-gray studio background, coherent soft key/fill/rim light. No text, labels, logos, watermark, or existing Pixar/Disney characters. Input image is an adult identity reference only. Create the puppy version of exactly this cream Labrador Tart: tiny round cream body, oversized paws, floppy ears, round dark-brown eyes, dark-brown nose; slightly squared steady stance, gently anxious and earnest expression. No harness, collar, leash, goggles or other equipment. Animal turnaround sheet with exactly three views side by side: complete front, complete back, complete side with face in profile. Natural four-legged puppy anatomy; same fur and nose colors in all views.",
+    "ref": [
+      "C:\\Users\\Admin 3\\Downloads\\codex-movie\\movies\\doge-20261016\\source\\image-ref\\adult-tart.png"
+    ]
+  },
+  {
+    "id": "puppy-tine",
+    "prompt": "Use case: stylized-concept. Asset type: film production character reference sheet, wide horizontal 16:9. Warm rounded 3D animated feature style inspired by Up: soft global illumination, tactile fur/materials, saturated gentle colors, expressive eyes, original character design. Neutral seamless warm-gray studio background, coherent soft key/fill/rim light. No text, labels, logos, watermark, or existing Pixar/Disney characters. Input image is an adult identity reference only. Create the puppy version of exactly this fox-red Labrador Tine: tiny round fluffy fox-red body, oversized paws, floppy ears, expressive dark eyebrows, endearing energetic expression. Preserve the reference's small white heart-shaped marking on the lower back/flank beside the tail in the same anatomical position and shape. No bandana, collar, badge, leash or toy; this is before training. Animal turnaround sheet with exactly three views side by side: complete front, complete back showing the heart, complete side. Natural four-legged puppy anatomy, consistent color and mark across views.",
+    "ref": [
+      "C:\\Users\\Admin 3\\Downloads\\codex-movie\\movies\\doge-20261016\\source\\image-ref\\adult-tine.png"
+    ]
+  },
+  {
+    "id": "mags",
+    "prompt": "Use case: stylized-concept. Asset type: film production character reference sheet, wide horizontal 16:9. Warm rounded 3D animated feature style inspired by Up: soft global illumination, tactile fur/materials, saturated gentle colors, expressive eyes, original character design. Neutral seamless warm-gray studio background, coherent soft key/fill/rim light. No text, labels, logos, watermark, or existing Pixar/Disney characters. Mags, original tall lanky Australian woman rancher in her 60s, long silver braid, warm practical weathered face, wide-brimmed straw hat, red plaid flannel shirt, denim overalls, green rubber boots. Friendly crooked grin, elongated angular silhouette. Exactly three side-by-side panels without borders: left front wardrobe from neck to boots WITHOUT HEAD; middle back wardrobe from neck to boots WITHOUT HEAD; right the only head/face, detailed portrait with the straw hat and silver braid. Same identity and wardrobe throughout. No cane, balloons, explorer badges or resemblance to existing animated characters."
+  },
+  {
+    "id": "boss",
+    "prompt": "Use case: stylized-concept. Asset type: film production character reference sheet, wide horizontal 16:9. Warm rounded 3D animated feature style inspired by Up: soft global illumination, tactile fur/materials, saturated gentle colors, expressive eyes, original character design. Neutral seamless warm-gray studio background, coherent soft key/fill/rim light. No text, labels, logos, watermark, or existing Pixar/Disney characters. Boss, an original enormous round orange tabby Hong Kong shop cat, plush striped orange fur, cream muzzle and belly, sleepy half-closed greenish eyes, unmistakable small notch in HIS LEFT ear, smug but secretly soft expression. Animal turnaround sheet with exactly three complete views side by side: front seated, back seated showing stripes and fluffy tail, side seated with head visible. Anatomically consistent four-legged cat, not bipedal; no costume or props."
+  }
+]

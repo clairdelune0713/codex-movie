@@ -1,0 +1,9 @@
+{
+  "id": "orange-cart",
+  "prompt": "Use case: stylized-concept. Film production reference for an ORIGINAL animated film. Horizontal 16:9. Warm rounded cinematic 3D animated feature look inspired by Up (2009), soft warm global illumination, gently saturated colors, tactile materials, painterly distant skies. No existing Pixar/Disney characters, recognizable replicas, franchise props, logos, watermark, labels or captions. Asset type: MAIN PROP hero reference, isolated high-detail object on seamless neutral light warm-gray studio backdrop, soft key/fill/rim lighting, all required geometry fully visible. One simple wooden two-wheeled handcart stacked with a modest pyramid of fresh oranges, wooden slat sides, visible handles, axle and two stable wheels, one loose orange near cart. Readable construction to animate downhill later. Rounded warm 3D animated hero view, no seller, people or animals.",
+  "reference_paths": [],
+  "source_revision": 1,
+  "dependency_fingerprint": "218a1d0ed1a4fdc5c045e248b805ea5f6980e38c11850671d9cd4469cf876a85",
+  "created_at": "2026-10-16T08:30:07.258Z",
+  "output_hint": "Generated images are saved to C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7 as C:\\Users\\Admin 3\\.codex\\generated_images\\01a143be-69e0-7f53-bb28-76dadfa0b0e7\\exec-daf019b4-a11e-4ab6-96a9-b3297dd7b9b2.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}
