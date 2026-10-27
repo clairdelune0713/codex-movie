@@ -1,0 +1,11 @@
+use [$movi2](<C:\Users\Admin 3\.codex\skills\movi2\SKILL.md>) to generate a 30s 16:9 video. it should be a single generation of 30s, instead of merging multiple ones.
+project name: xmas-01 (do not reference other projects)
+existing character assets are in xmas-material/ (no need to generate any other characters)
+the high level idea is:
+
+ccbug-xmas , kooloo-xmas and louis-xmas are shopping in hong kong mall for preparing a Christmas party.
+make it a adventurous journey and fun.
+
+style: Minions 3D cartoon animation [do not include any existing ip in the video]
+note:  kooloo-xmas is half the height of the louis-xmas and the ccbug-xmas is 1/3 size of kooloo-xmas
+make the clip fun, fast-pacing, hilarious,
